@@ -12,6 +12,9 @@ A curated list of awesome dev jobs in the sustainability sector.
 
 ---
 
+*speculative* = speculative applications accepted
+*remote* = has at least one remote job offering
+
 ## Renewable Energies
 
 ### Germany
