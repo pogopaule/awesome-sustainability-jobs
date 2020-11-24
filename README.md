@@ -6,9 +6,12 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [Renewable Energies](#renewable-energies)
 - [Circular Economy](#circular-economy)
 - [Electric Mobility](#electric-mobility)
+- [Sustainable Mobility](#sustainable-mobility)
 - [Energy Efficiency](#energy-efficiency)
 - [Sharing Economy](#sharing-economy)
 - [Sustainable Consumption](#sustainable-consumption)
+- [Misc.](#misc)
+- [Job Portals](#job-portals)
 - [Open Source Projects](#open-source-projects)
 
 ---
@@ -34,6 +37,16 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [Solarschmiede](https://www.solarschmiede.de) - [Jobs](https://www.solarschmiede.de/de/karriere/) - Planungssoftware für PV-Anlagen
 - [SOLARWATT](https://www.solarwatt.de/) - [Jobs](https://www.solarwatt.de/ueber-uns/karriere#engineering) - *spec.* - Hersteller von PV-Eigenheimlösungen
 - [Lumenaza](https://www.lumenaza.de/) - [Jobs](https://www.lumenaza.de/de/jobs/) - *spec.* - Software-as-a-Service-Plattform für grüne Energieunternehmen
+- [Energiedienst](https://www.energiedienst.de/) - [Jobs](https://www.energiedienst.de/karriere/offene-stellen/) - Anbieter von Ökostrom aus Wasserkraft
+- [mobisol](http://www.plugintheworld.com/) - [Jobs](https://plugintheworld.com/careers/) - Smart Solar Home Systems
+- [Power Plus Communications](https://www.ppc-ag.de) - [Jobs](https://www.ppc-ag.de/karriere/) - *spec.* - Smart Metering Lösungen
+- [Digsilent](https://www.digsilent.de/de/home.html) - [Jobs](https://www.digsilent.de/de/stellenangebote.html) - *spec.* - Simulation und Netzintegration von erneuerbaren Energien
+- [smartblue AG](http://www.smartblue.de) - [Jobs](https://www.smartblue.de/jobs/) - Monitoring von PV-Anlagen
+- [SENEC GmbH](https://www.senec.com) - [Jobs](https://senec-jobs.personio.de/) - Stromspeicher­systeme und Energielösungen
+- [KACO new energy GmbH](https://kaco-newenergy.com) - [Jobs](https://kaco-newenergy.com/de/karriere/stellenangebote/) - Wechselrichter für Photovoltaik und Batteriespeicher
+- [greenergetic](https://www.greenergetic.de) - [Jobs](https://www.greenergetic.de/unternehmen/werde-ein-teil-von-greenergetic) - Abwicklung, Betreuung und Verkaufsförderung von Solaranlagen
+- [E3/DC](https://www.e3dc.com/) - [Jobs](https://www.e3dc.com/unternehmen/karriere/) - *spec.* - Hersteller von Wallboxen
+- [Optimax Energy GmbH](https://www.optimax-energy.de) - [Jobs](https://www.optimax-energy.de/index.php/karriere) - *spec.* - Dienste rund um den Handel erneuerbarer Energien
 
 ## Circular Economy
 
@@ -46,8 +59,17 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [eeMobility](https://www.ee-mobility.com) - [Jobs](https://ee-mobility.com/karriere/) - *spec.* - Ladelösungen für elektrifizierte Dienstwagen
 - [The Mobility House](https://www.mobilityhouse.com) - [Jobs](https://www.mobilityhouse.com/de_de/karriere) - Produkte und Services rund um Ladestationen
 - [ubitricity](https://www.ubitricity.com) - [Jobs](https://www.ubitricity.com/jobs/) - *spec.* - Lade- und Abrechnungslösungen
-- [PlugSurfing](https://www.plugsurfing.com) - [Jobs](https://www.plugsurfing.com/career) - *speculative* - Ladestationen finden und nutzen
+- [PlugSurfing](https://www.plugsurfing.com) - [Jobs](https://www.plugsurfing.com/career) - *spec.* - Ladestationen finden und nutzen
 - [has-to-be](https://has-to-be.com) - [Jobs](https://has-to-be.com/de/karriere/) - *spec.* - Plattform für E-Mobilität
+- [fleetster](https://www.fleetster.de) - [Jobs](https://www.fleetster.de/fleetster-team) - *spec.* - Software für Flottenmanagement, CarSharing und Vermietung
+- [Kumpan electric - e-bility GmbH](https://www.kumpan-electric.com/) - [Jobs](https://www.kumpan-electric.com/karriere/) - Hersteller von E-Rollern
+
+## Sustainable Mobility
+
+### Germany
+
+- [raumobil GmbH](https://www.raumobil.com) - [Jobs](https://www.raumobil.com/jobs) - smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen
+- [Jobrad](https://www.jobrad.org) - [Jobs](https://www.jobrad.org/ueber-uns/karriere.html) - *spec.* - Diensträder
 
 ## Energy Efficiency
 
@@ -77,5 +99,24 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [momox](https://www.momox.de/) - [Jobs](https://momox-jobs.dvinci.de/de/jobs) - *spec.* - Recommerce-Anbieter für gebrauchte Bücher, CDs, DVDs und Spiele
 - [Grüne Erde](https://www.grueneerde.com) - [Jobs](https://karriere.grueneerde.com/jobs/) - *spec.* - Online Shop von Grüne Erde
 - [fairmondo](https://www.fairmondo.de) - [Jobs](https://www.fairmondo.de/jobs) - *remote* - faire Alternative zu den Marktriesen im Online-Handel
+
+
+## Misc.
+
+### Germany
+
+- [ifu](https://www.ifu.com/) - [Jobs](https://www.ifu.com/karriere/) - *spec.* - Software & Beratung für Nachhaltigkeit
+- [Wikimedia](https://www.wikimedia.de/) - [Jobs](https://wikimedia-deutschland.career.softgarden.de/) - Freies Wissen
+- [ShareTheMeal](https://sharethemeal.org/de) - [Jobs](https://angel.co/company/sharethemeal-1/jobs) - ShareTheMeal ist eine Initiative des WFP der Vereinten Nationen - die größte gemeinnützige Organisation im Kampf gegen den Hunger
+- [ClimatePartner](https://www.climatepartner.com/de) - [Jobs](https://www.climatepartner.com/de/karriere) - *spec.* - ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen.
+- [iPoint](https://www.ipoint-systems.com/de/) - [Jobs](https://www.ipoint-systems.com/de/careers/) - *spec.* - Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit
+
+## Job Portals
+
+### Germany
+
+- [eejobs.de](https://www.eejobs.de/) - Jobbörse für erneuerbare Energien
+- [GoodJobs](https://goodjobs.eu/de) - Jobbörse für nachhaltige Jobs mit Sinn
+- [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/) -CSR, NGO und Umwelt Jobs
 
 ## Open Source Projects
