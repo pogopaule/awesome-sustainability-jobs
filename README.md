@@ -47,6 +47,10 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [greenergetic](https://www.greenergetic.de) - [Jobs](https://www.greenergetic.de/unternehmen/werde-ein-teil-von-greenergetic) - Abwicklung, Betreuung und Verkaufsförderung von Solaranlagen
 - [E3/DC](https://www.e3dc.com/) - [Jobs](https://www.e3dc.com/unternehmen/karriere/) - *spec.* - Hersteller von Wallboxen
 - [Optimax Energy GmbH](https://www.optimax-energy.de) - [Jobs](https://www.optimax-energy.de/index.php/karriere) - *spec.* - Dienste rund um den Handel erneuerbarer Energien
+- [DZ-4](https://www.dz-4.de/) - [Jobs](https://dz4-jobs.personio.de/) - Anbieter für Solaranlagen zur Miete
+- [LichtBlick](https://www.lichtblick.de) - [Jobs](https://www.lichtblick.de/karriere/jobs/) - Ökostromanbieter
+- [ZOLAR](https://www.zolar.de/) - [Jobs](https://www.zolar.de/karriere/office-jobs) - Online Planung von PV-Anlagen
+- [enersol](https://www.enersol.eu/jobs/) - [Jobs](https://www.enersol.eu/jobs/) - plant, vertreibt und installiert schlüsselfertige PV/Batterie Anlagen
 
 ## Circular Economy
 
@@ -77,6 +81,8 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 - [tado°](https://www.tado.com/) - [Jobs](https://www.tado.com/de-de/arbeiten-bei-tado) - *spec.* - Lösungen und Services im Bereich Klimasteuerung zuhause
 - [Energieheld](https://www.energieheld.de/) - [Jobs](https://www.energieheld.de/ueber-uns/karriere/jobs) - *spec.* - Portal zu energetischen Gebäudesanierungen
+- [Passivhaus Institut](https://passiv.de/) - [Jobs](https://passiv.de/de/01_passivhausinstitut/05_stellenangebote/05_stellenangebote.htm) - Energieeffizienz in Gebäuden
+- [Stiftung Energieeffizienz](https://stiftung-energieeffizienz.org/) - [Jobs](https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1ghijkmtulnopqrs5&jtz=12&s=java&id=88697&anz=html) - Entwicklung einer sustainable data platform
 
 ## Sharing Economy
 
@@ -99,6 +105,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [momox](https://www.momox.de/) - [Jobs](https://momox-jobs.dvinci.de/de/jobs) - *spec.* - Recommerce-Anbieter für gebrauchte Bücher, CDs, DVDs und Spiele
 - [Grüne Erde](https://www.grueneerde.com) - [Jobs](https://karriere.grueneerde.com/jobs/) - *spec.* - Online Shop von Grüne Erde
 - [fairmondo](https://www.fairmondo.de) - [Jobs](https://www.fairmondo.de/jobs) - *remote* - faire Alternative zu den Marktriesen im Online-Handel
+- [Waschbär](https://www.waschbaer.de) - [Jobs](https://www.waschbaer.de/shop/ueber-uns/karriere/stellenangebote) - *spec.* - Online Shop für umweltgerechte und sozialverträgliche Produkte
 
 
 ## Misc.
@@ -110,6 +117,9 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [ShareTheMeal](https://sharethemeal.org/de) - [Jobs](https://angel.co/company/sharethemeal-1/jobs) - ShareTheMeal ist eine Initiative des WFP der Vereinten Nationen - die größte gemeinnützige Organisation im Kampf gegen den Hunger
 - [ClimatePartner](https://www.climatepartner.com/de) - [Jobs](https://www.climatepartner.com/de/karriere) - *spec.* - ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen.
 - [iPoint](https://www.ipoint-systems.com/de/) - [Jobs](https://www.ipoint-systems.com/de/careers/) - *spec.* - Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit
+- [betterplace](https://www.betterplace.org/de) - [Jobs](https://www.betterplace.org/c/stellen) - Spendenplattform
+- [Tomorrow](https://www.tomorrow.one) - [Jobs](https://www.tomorrow.one/de-de/jobs) - CO2-neutrales Bankkonto
+- [WAVES](https://waves.lu) - [Jobs](https://waves.lu/de/karriere/) - Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen
 
 ## Job Portals
 
@@ -117,6 +127,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 - [eejobs.de](https://www.eejobs.de/) - Jobbörse für erneuerbare Energien
 - [GoodJobs](https://goodjobs.eu/de) - Jobbörse für nachhaltige Jobs mit Sinn
-- [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/) -CSR, NGO und Umwelt Jobs
+- [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/) - CSR, NGO und Umwelt Jobs
+- [Impactify](https://impactify.de/) - Impactify durchforstet das Netz nach Jobs aus den Bereichen Nachhaltigkeit, CSR, Umwelt
 
 ## Open Source Projects
