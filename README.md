@@ -10,7 +10,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [Energy Efficiency](#energy-efficiency)
 - [Sharing Economy](#sharing-economy)
 - [Sustainable Consumption](#sustainable-consumption)
-- [Misc.](#misc.)
+- [Misc.](#misc)
 - [Jobportals](#jobportals)
 
 ---
