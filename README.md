@@ -11,6 +11,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [Sharing Economy](#sharing-economy)
 - [Sustainable Consumption](#sustainable-consumption)
 - [Misc.](#misc)
+- [Carbon Analysis, Capture and Offsetting](#carbon-analysis, capture and offsetting)
 - [Jobportals](#jobportals)
 
 ---
@@ -117,10 +118,16 @@ A curated list of awesome dev jobs in the sustainability sector.\
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  | Germany
 | [iPoint](https://www.ipoint-systems.com/de/) | [jobs](https://www.ipoint-systems.com/de/careers/) | Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit | ✅ |  | Germany
 | [betterplace](https://www.betterplace.org/de) | [jobs](https://www.betterplace.org/c/stellen) | Spendenplattform |  |  | Germany
+| [InFarm](https://www.infarm.com) | [jobs](https://www.infarm.com/en/join-us) | Indoor Farming |  |  | Germany
+
+## Carbon Analysis, Capture and Offsetting
+
+| company | jobs | description | spec. | remote | country |
+| - | - | - | - | - | - |
 | [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | CO2-neutrales Bankkonto |  |  | Germany
 | [WAVES](https://waves.lu) | [jobs](https://waves.lu/de/karriere/) | Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen |  |  | Germany
 | [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ | Germany
-| [InFarm](https://www.infarm.com) | [jobs](https://www.infarm.com/en/join-us) | Indoor Farming |  |  | Germany
+| [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) | quantitative and qualitative data on offset projects |  | ✅ | UK
 
 
 ## Jobportals
@@ -131,3 +138,4 @@ A curated list of awesome dev jobs in the sustainability sector.\
 | [GoodJobs](https://goodjobs.eu/de) | Jobbörse für nachhaltige Jobs mit Sinn | Germany |
 | [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/) | CSR, NGO und Umwelt Jobs | Germany |
 | [Impactify](https://impactify.de/) | Impactify durchforstet das Netz nach Jobs aus den Bereichen Nachhaltigkeit, CSR, Umwelt | Germany |
+| [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#) | Jobs site for the environmentally and socially conscious | UK |

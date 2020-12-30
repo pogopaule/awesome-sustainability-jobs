@@ -485,7 +485,7 @@ jobs:
     description: CO2-neutrales Bankkonto
     remote: false
     speculative: false
-    field: Misc.
+    field: Carbon Analysis, Capture and Offsetting
     country: Germany
   - name: WAVES
     website: https://waves.lu
@@ -493,7 +493,7 @@ jobs:
     description: Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen
     remote: false
     speculative: false
-    field: Misc.
+    field: Carbon Analysis, Capture and Offsetting
     country: Germany
   - name: ecosia
     website: https://www.ecosia.org/
@@ -501,7 +501,7 @@ jobs:
     description: Eine Suchmaschine, die Bäume pflanzt
     remote: true
     speculative: false
-    field: Misc.
+    field: Carbon Analysis, Capture and Offsetting
     country: Germany
   - name: InFarm
     website: https://www.infarm.com
@@ -511,6 +511,14 @@ jobs:
     speculative: false
     field: Misc.
     country: Germany
+  - name: Sylvera
+    website: https://www.sylvera.io
+    jobs: https://apply.workable.com/sylvera/
+    description: quantitative and qualitative data on offset projects
+    remote: true
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    country: UK
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
@@ -528,3 +536,7 @@ jobportals:
     website: https://impactify.de/
     description: Impactify durchforstet das Netz nach Jobs aus den Bereichen Nachhaltigkeit, CSR, Umwelt
     country: Germany
+  - name: For Purpose Jobs
+    website: https://forpurposejobs.com/job-industry/developer-jobs/#
+    description: Jobs site for the environmentally and socially conscious
+    country: UK
