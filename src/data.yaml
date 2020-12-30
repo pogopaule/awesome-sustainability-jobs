@@ -1,0 +1,514 @@
+jobs:
+  - name: OXYGEN TECHNOLOGIES
+    website: https://www.oxygen-technologies.de/
+    jobs: https://www.oxygen-technologies.de/ueber-uns/jobs/
+    description: OXYGEN TECHNOLOGIES stellt Energieversorgern, Stadtwerken und Messstellenbetreibern IT-Lösungen bereit und treibt damit die Digitalisierung der Energiewirtschaft voran.
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+  - name: Greenpeace Energy eG
+    website: https://www.greenpeace-energy.de
+    jobs: https://www.greenpeace-energy.de/ueber-uns/karriere.html
+    description: Anbieter für Ökostom und Ökogas
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: BELECTRIC
+    website: https://belectric.com/de/
+    jobs: https://belectric.com/de/karriere/
+    description: Entwicklung und im Bau von Freiflächen-Solarkraftwerken und Energiespeichersystemen
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: Next Kraftwerke
+    website: https://www.next-kraftwerke.de/
+    jobs: https://www.next-kraftwerke.de/jobs
+    description: Next Kraftwerke betreibt eines der größten Virtuellen Kraftwerke Europas
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+  - name: energy & meteo systems
+    website: https://www.energymeteo.de
+    jobs: https://www.energymeteo.de/ueber_uns/jobs.php
+    description: Leistungsprognosen und Virtuelle Kraftwerke
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+  - name: DrehPunkt
+    website: https://drehpunkt.de
+    jobs: https://drehpunkt.de/jobs/
+    description: Software für erneuerbare Energien
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: meteocontrol
+    website: https://www.meteocontrol.com
+    jobs: https://www.meteocontrol.com/karriere/stellenangebote/
+    description: Überwachungssysteme für Solaranlagen
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: sma
+    website: https://www.sma.de/
+    jobs: https://www.sma.jobs/go/Stellenangebote/3798401/
+    description: Wechselrichter, Photovoltaik- & Solartechnik
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: sonnen
+    website: https://sonnen.de/
+    jobs: https://jobs.sonnen.de/
+    description: Batteriespeicher
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+  - name: FENECON
+    website: https://fenecon.de
+    jobs: https://www1.fenecon.de/karriere/
+    description: Stromspeichersysteme
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: IngSoft
+    website: https://energiemanagement.ingsoft.de/
+    jobs: https://energiemanagement.ingsoft.de/de/karriere.html
+    description: Software für Energiemanagment
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+  - name: Solarschmiede
+    website: https://www.solarschmiede.de
+    jobs: https://www.solarschmiede.de/de/karriere/
+    description: Planungssoftware für PV-Anlagen
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: SOLARWATT
+    website: https://www.solarwatt.de/
+    jobs: https://www.solarwatt.de/ueber-uns/karriere#engineering
+    description: Hersteller von PV-Eigenheimlösungen
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+  - name: Lumenaza
+    website: https://www.lumenaza.de/
+    jobs: https://www.lumenaza.de/de/jobs/
+    description: Software-as-a-Service-Plattform für grüne Energieunternehmen
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+  - name: Energiedienst
+    website: https://www.energiedienst.de/
+    jobs: https://www.energiedienst.de/karriere/offene-stellen/
+    description: Anbieter von Ökostrom aus Wasserkraft
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: mobisol
+    website: http://www.plugintheworld.com/
+    jobs: https://plugintheworld.com/careers/
+    description: Smart Solar Home Systems
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: Power Plus Communications
+    website: https://www.ppc-ag.de
+    jobs: https://www.ppc-ag.de/karriere/
+    description: Smart Metering Lösungen
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+  - name: Digsilent
+    website: https://www.digsilent.de/de/home.html
+    jobs: https://www.digsilent.de/de/stellenangebote.html
+    description: Simulation und Netzintegration von erneuerbaren Energien
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+  - name: smartblue AG
+    website: http://www.smartblue.de
+    jobs: https://www.smartblue.de/jobs/
+    description: Monitoring von PV-Anlagen
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: SENEC
+    website: https://www.senec.com
+    jobs: https://senec-jobs.personio.de/
+    description: Stromspeicher­systeme und Energielösungen
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: KACO new energy
+    website: https://kaco-newenergy.com
+    jobs: https://kaco-newenergy.com/de/karriere/stellenangebote/
+    description: Wechselrichter für Photovoltaik und Batteriespeicher
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: greenergetic
+    website: https://www.greenergetic.de
+    jobs: https://www.greenergetic.de/unternehmen/werde-ein-teil-von-greenergetic
+    description: Abwicklung, Betreuung und Verkaufsförderung von Solaranlagen
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: E3/DC
+    website: https://www.e3dc.com/
+    jobs: https://www.e3dc.com/unternehmen/karriere/
+    description: Hersteller von Wallboxen
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+  - name: Optimax Energy
+    website: https://www.optimax-energy.de
+    jobs: https://www.optimax-energy.de/index.php/karriere
+    description: Dienste rund um den Handel erneuerbarer Energien
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+  - name: DZ-4
+    website: https://www.dz-4.de/
+    jobs: https://dz4-jobs.personio.de/
+    description: Anbieter für Solaranlagen zur Miete
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: LichtBlick
+    website: https://www.lichtblick.de
+    jobs: https://www.lichtblick.de/karriere/jobs/
+    description: Ökostromanbieter
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: ZOLAR
+    website: https://www.zolar.de/
+    jobs: https://www.zolar.de/karriere/office-jobs
+    description: Online Planung von PV-Anlagen
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: enersol
+    website: https://www.enersol.eu/jobs/
+    jobs: https://www.enersol.eu/jobs/
+    description: plant, vertreibt und installiert schlüsselfertige PV/Batterie Anlagen
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+  - name: Vytal
+    website: https://www.vytal.org/
+    jobs: https://www.vytal.org/jobs
+    description: Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food
+    remote: false
+    speculative: true
+    field: Circular Economy
+    country: Germany
+  - name: eeMobility
+    website: https://www.ee-mobility.com
+    jobs: https://ee-mobility.com/karriere/
+    description: Ladelösungen für elektrifizierte Dienstwagen
+    remote: false
+    speculative: true
+    field: Electric Mobility
+    country: Germany
+  - name: The Mobility House
+    website: https://www.mobilityhouse.com
+    jobs: https://www.mobilityhouse.com/de_de/karriere
+    description: Produkte und Services rund um Ladestationen
+    remote: false
+    speculative: false
+    field: Electric Mobility
+    country: Germany
+  - name: ubitricity
+    website: https://www.ubitricity.com
+    jobs: https://www.ubitricity.com/jobs/
+    description: Lade- und Abrechnungslösungen
+    remote: false
+    speculative: true
+    field: Electric Mobility
+    country: Germany
+  - name: PlugSurfing
+    website: https://www.plugsurfing.com
+    jobs: https://www.plugsurfing.com/career
+    description: Ladestationen finden und nutzen
+    remote: false
+    speculative: true
+    field: Electric Mobility
+    country: Germany
+  - name: has-to-be
+    website: https://has-to-be.com
+    jobs: https://has-to-be.com/de/karriere/
+    description: Plattform für E-Mobilität
+    remote: false
+    speculative: true
+    field: Electric Mobility
+    country: Germany
+  - name: fleetster
+    website: https://www.fleetster.de
+    jobs: https://www.fleetster.de/fleetster-team
+    description: Software für Flottenmanagement, CarSharing und Vermietung
+    remote: false
+    speculative: true
+    field: Electric Mobility
+    country: Germany
+  - name: Kumpan electric
+    website: https://www.kumpan-electric.com/
+    jobs: https://www.kumpan-electric.com/karriere/
+    description: Hersteller von E-Rollern
+    remote: false
+    speculative: false
+    field: Electric Mobility
+    country: Germany
+  - name: raumobil
+    website: https://www.raumobil.com
+    jobs: https://www.raumobil.com/jobs
+    description: smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen
+    remote: false
+    speculative: false
+    field: Sustainable Mobility
+    country: Germany
+  - name: Jobrad
+    website: https://www.jobrad.org
+    jobs: https://www.jobrad.org/ueber-uns/karriere.html
+    description: Diensträder
+    remote: false
+    speculative: true
+    field: Sustainable Mobility
+    country: Germany
+  - name: tado°
+    website: https://www.tado.com/
+    jobs: https://www.tado.com/de-de/arbeiten-bei-tado
+    description: Lösungen und Services im Bereich Klimasteuerung zuhause
+    remote: false
+    speculative: true
+    field: Energy Efficiency
+    country: Germany
+  - name: Energieheld
+    website: https://www.energieheld.de/
+    jobs: https://www.energieheld.de/ueber-uns/karriere/jobs
+    description: Portal zu energetischen Gebäudesanierungen
+    remote: false
+    speculative: true
+    field: Energy Efficiency
+    country: Germany
+  - name: Passivhaus Institut
+    website: https://passiv.de/
+    jobs: https://passiv.de/de/01_passivhausinstitut/05_stellenangebote/05_stellenangebote.htm
+    description: Energieeffizienz in Gebäuden
+    remote: false
+    speculative: false
+    field: Energy Efficiency
+    country: Germany
+  - name: Stiftung Energieeffizienz
+    website: https://stiftung-energieeffizienz.org/
+    jobs: https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1ghijkmtulnopqrs5&jtz=12&s=java&id=88697&anz=html
+    description: Entwicklung einer sustainable data platform
+    remote: false
+    speculative: false
+    field: Energy Efficiency
+    country: Germany
+  - name: Wunder Mobility
+    website: https://www.wundermobility.com/
+    jobs: https://www.wundermobility.com/careers/jobs
+    description: Technology to launch and scale shared mobility services
+    remote: false
+    speculative: true
+    field: Sharing Economy
+    country: Germany
+  - name: nextbike
+    website: https://www.nextbike.de
+    jobs: https://www.nextbike.net/jobs/
+    description: Bike sharing
+    remote: false
+    speculative: false
+    field: Sharing Economy
+    country: Germany
+  - name: car2go
+    website: https://www.share-now.com/de/de/
+    jobs: https://boards.greenhouse.io/joinsharenow
+    description: Carsharing-Anbieter von BMW und Daimler
+    remote: false
+    speculative: false
+    field: Sharing Economy
+    country: Germany
+  - name: Free2Move
+    website: https://www.free2move.com
+    jobs: https://www.free2move.com/de-DE/job-offers
+    description: Carsharing und Free-Floating Fahrzeuge
+    remote: false
+    speculative: false
+    field: Sharing Economy
+    country: Germany
+  - name: INVERS
+    website: https://invers.com
+    jobs: https://invers.com/de/karriere/
+    description: Anbieter für Carsharing Software
+    remote: false
+    speculative: true
+    field: Sharing Economy
+    country: Germany
+  - name: Cambio Carsharing
+    website: https://www.cambio-carsharing.de/
+    jobs: https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS
+    description: Anbieter für Carsharing Software
+    remote: false
+    speculative: false
+    field: Sharing Economy
+    country: Germany
+  - name: emmy
+    website: https://emmy-sharing.de/
+    jobs: https://emmy-sharing.de/stellenangebote/
+    description: Elektro-Roller Sharing
+    remote: false
+    speculative: true
+    field: Sharing Economy
+    country: Germany
+  - name: Avocado Store
+    website: https://www.avocadostore.de/
+    jobs: https://www.avocadostore.de/jobs
+    description: Online Marktplatz für nachhaltige Produkte
+    remote: false
+    speculative: false
+    field: Sustainable Consumption
+    country: Germany
+  - name: momox
+    website: https://www.momox.de/
+    jobs: https://momox-jobs.dvinci.de/de/jobs
+    description: Recommerce-Anbieter für gebrauchte Bücher, CDs, DVDs und Spiele
+    remote: false
+    speculative: true
+    field: Sustainable Consumption
+    country: Germany
+  - name: Grüne Erde
+    website: https://www.grueneerde.com
+    jobs: https://karriere.grueneerde.com/jobs/
+    description: Online Shop von Grüne Erde
+    remote: false
+    speculative: true
+    field: Sustainable Consumption
+    country: Germany
+  - name: fairmondo
+    website: https://www.fairmondo.de
+    jobs: https://www.fairmondo.de/jobs
+    description: faire Alternative zu den Marktriesen im Online-Handel
+    remote: true
+    speculative: false
+    field: Sustainable Consumption
+    country: Germany
+  - name: Waschbär
+    website: https://www.waschbaer.de
+    jobs: https://www.waschbaer.de/shop/ueber-uns/karriere/stellenangebote
+    description: Online Shop für umweltgerechte und sozialverträgliche Produkte
+    remote: false
+    speculative: true
+    field: Sustainable Consumption
+    country: Germany
+  - name: ifu
+    website: https://www.ifu.com/
+    jobs: https://www.ifu.com/karriere/
+    description: Software & Beratung für Nachhaltigkeit
+    remote: false
+    speculative: true
+    field: Misc.
+    country: Germany
+  - name: Wikimedia
+    website: https://www.wikimedia.de/
+    jobs: https://wikimedia-deutschland.career.softgarden.de/
+    description: Freies Wissen
+    remote: false
+    speculative: false
+    field: Misc.
+    country: Germany
+  - name: ShareTheMeal
+    website: https://sharethemeal.org/de
+    jobs: https://angel.co/company/sharethemeal-1/jobs
+    description: ShareTheMeal ist eine Initiative des WFP der Vereinten Nationen - die größte gemeinnützige Organisation im Kampf gegen den Hunger
+    remote: false
+    speculative: false
+    field: Misc.
+    country: Germany
+  - name: ClimatePartner
+    website: https://www.climatepartner.com/de
+    jobs: https://www.climatepartner.com/de/karriere
+    description: ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen.
+    remote: false
+    speculative: true
+    field: Misc.
+    country: Germany
+  - name: iPoint
+    website: https://www.ipoint-systems.com/de/
+    jobs: https://www.ipoint-systems.com/de/careers/
+    description: Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit
+    remote: false
+    speculative: true
+    field: Misc.
+    country: Germany
+  - name: betterplace
+    website: https://www.betterplace.org/de
+    jobs: https://www.betterplace.org/c/stellen
+    description: Spendenplattform
+    remote: false
+    speculative: false
+    field: Misc.
+    country: Germany
+  - name: Tomorrow
+    website: https://www.tomorrow.one
+    jobs: https://www.tomorrow.one/de-de/jobs
+    description: CO2-neutrales Bankkonto
+    remote: false
+    speculative: false
+    field: Misc.
+    country: Germany
+  - name: WAVES
+    website: https://waves.lu
+    jobs: https://waves.lu/de/karriere/
+    description: Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen
+    remote: false
+    speculative: false
+    field: Misc.
+    country: Germany
+jobportals:
+  - name: eejobs.de
+    website: https://www.eejobs.de/
+    description: Jobbörse für erneuerbare Energien
+    country: Germany
+  - name: GoodJobs
+    website: https://goodjobs.eu/de
+    description: Jobbörse für nachhaltige Jobs mit Sinn
+    country: Germany
+  - name: NachhaltigeJobs.de
+    website: https://www.nachhaltigejobs.de/
+    description: CSR, NGO und Umwelt Jobs
+    country: Germany
+  - name: Impactify
+    website: https://impactify.de/
+    description: Impactify durchforstet das Netz nach Jobs aus den Bereichen Nachhaltigkeit, CSR, Umwelt
+    country: Germany
