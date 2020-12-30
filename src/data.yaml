@@ -495,6 +495,22 @@ jobs:
     speculative: false
     field: Misc.
     country: Germany
+  - name: ecosia
+    website: https://www.ecosia.org/
+    jobs: https://jobs.lever.co/ecosia
+    description: Eine Suchmaschine, die Bäume pflanzt
+    remote: true
+    speculative: false
+    field: Misc.
+    country: Germany
+  - name: InFarm
+    website: https://www.infarm.com
+    jobs: https://www.infarm.com/en/join-us
+    description: Indoor Farming
+    remote: false
+    speculative: false
+    field: Misc.
+    country: Germany
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/

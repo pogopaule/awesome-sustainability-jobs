@@ -119,6 +119,8 @@ A curated list of awesome dev jobs in the sustainability sector.\
 | [betterplace](https://www.betterplace.org/de) | [jobs](https://www.betterplace.org/c/stellen) | Spendenplattform |  |  | Germany
 | [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | CO2-neutrales Bankkonto |  |  | Germany
 | [WAVES](https://waves.lu) | [jobs](https://waves.lu/de/karriere/) | Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen |  |  | Germany
+| [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ | Germany
+| [InFarm](https://www.infarm.com) | [jobs](https://www.infarm.com/en/join-us) | Indoor Farming |  |  | Germany
 
 
 ## Jobportals
