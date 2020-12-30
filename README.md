@@ -11,7 +11,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [Sharing Economy](#sharing-economy)
 - [Sustainable Consumption](#sustainable-consumption)
 - [Misc.](#misc)
-- [Carbon Analysis, Capture and Offsetting](#carbon-analysis, capture and offsetting)
+- [Carbon Analysis, Capture and Offsetting](#carbon-analysis-capture-and-offsetting)
 - [Jobportals](#jobportals)
 
 ---
