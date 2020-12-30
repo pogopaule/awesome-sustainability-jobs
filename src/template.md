@@ -16,18 +16,28 @@ A curated list of awesome dev jobs in the sustainability sector.\
 {{#each jobs}}
 ## {{@key}}
 
-| company | jobs | description | spec. | remote | country |
-| - | - | - | - | - | - |
 {{#each this}}
-| [{{{name}}}]({{{website}}}) | [jobs]({{{jobs}}}) | {{{description}}} | {{#if speculative}}✅{{/if}} | {{#if remote}}✅{{/if}} | {{{country}}}
+### {{@key}}
+
+| company | jobs | description | spec. | remote |
+| - | - | - | - | - |
+{{#each this}}
+| [{{{name}}}]({{{website}}}) | [jobs]({{{jobs}}}) | {{{description}}} | {{#if speculative}}✅{{/if}} | {{#if remote}}✅{{/if}} |
+{{/each}}
+
 {{/each}}
 
 {{/each}}
 
 ## Jobportals
 
-| portal | description | country |
-| - | - | - |
 {{#each jobportals}}
-| [{{{name}}}]({{{website}}}) | {{{description}}} | {{{country}}} |
+### {{@key}}
+
+| portal | description |
+| - | - |
+{{#each this}}
+| [{{{name}}}]({{{website}}}) | {{{description}}} |
+{{/each}}
+
 {{/each}}

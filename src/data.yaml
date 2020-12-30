@@ -154,7 +154,7 @@ jobs:
   - name: SENEC
     website: https://www.senec.com
     jobs: https://senec-jobs.personio.de/
-    description: Stromspeicher­systeme und Energielösungen
+    description: Stromspeichersysteme und Energielösungen
     remote: false
     speculative: false
     field: Renewable Energies

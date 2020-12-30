@@ -1,8 +1,15 @@
 const hbs = require('handlebars')
 const fs = require('fs')
 const yaml = require('js-yaml')
-const _ = require('underscore')
+const _ = require('lodash')
 
+function nest(seq, keys) {
+    if (!keys.length) {
+      return seq
+    }
+    let [ first, ...rest ] = keys
+    return _.mapValues(_.groupBy(seq, first), value => nest(value, rest))
+};
 
 hbs.registerHelper('tocLink', (string) => string.toLowerCase().replace(/ /g, '-').replace(/[^a-zA-Z-]/g, ''))
 
@@ -11,9 +18,10 @@ const templateScript = hbs.compile(fs.readFileSync('template.md', 'utf8'))
 
 const dataJson = yaml.safeLoad(data)
 
-const jobsByField = _.groupBy(dataJson.jobs, 'field')
+const nestedJobs = nest(dataJson.jobs, ['field', 'country'])
+const nestedJobportals = nest(dataJson.jobportals, ['country'])
 
 
-const result = templateScript({jobs: jobsByField, jobportals: dataJson.jobportals})
+const result = templateScript({jobs: nestedJobs, jobportals: nestedJobportals})
 
 fs.writeFileSync('../README.md', result)
