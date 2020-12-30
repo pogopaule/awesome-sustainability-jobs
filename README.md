@@ -16,14 +16,14 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 ---
 
-*spec.* = speculative applications accepted\
-*remote* = has at least one remote job offering
+sp. = speculative applications accepted\
+re. = has at least one remote job offering
 
 ## Renewable Energies
 
 ### Germany
 
-| company | jobs | description | spec. | remote |
+| company | jobs | description | sp. | re. |
 | - | - | - | - | - |
 | [OXYGEN TECHNOLOGIES](https://www.oxygen-technologies.de/) | [jobs](https://www.oxygen-technologies.de/ueber-uns/jobs/) | OXYGEN TECHNOLOGIES stellt Energieversorgern, Stadtwerken und Messstellenbetreibern IT-Lösungen bereit und treibt damit die Digitalisierung der Energiewirtschaft voran. | ✅ |  |
 | [Greenpeace Energy eG](https://www.greenpeace-energy.de) | [jobs](https://www.greenpeace-energy.de/ueber-uns/karriere.html) | Anbieter für Ökostom und Ökogas |  |  |
@@ -59,7 +59,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 ### Germany
 
-| company | jobs | description | spec. | remote |
+| company | jobs | description | sp. | re. |
 | - | - | - | - | - |
 | [Vytal](https://www.vytal.org/) | [jobs](https://www.vytal.org/jobs) | Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food | ✅ |  |
 
@@ -68,7 +68,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 ### Germany
 
-| company | jobs | description | spec. | remote |
+| company | jobs | description | sp. | re. |
 | - | - | - | - | - |
 | [eeMobility](https://www.ee-mobility.com) | [jobs](https://ee-mobility.com/karriere/) | Ladelösungen für elektrifizierte Dienstwagen | ✅ |  |
 | [The Mobility House](https://www.mobilityhouse.com) | [jobs](https://www.mobilityhouse.com/de_de/karriere) | Produkte und Services rund um Ladestationen |  |  |
@@ -83,7 +83,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 ### Germany
 
-| company | jobs | description | spec. | remote |
+| company | jobs | description | sp. | re. |
 | - | - | - | - | - |
 | [raumobil](https://www.raumobil.com) | [jobs](https://www.raumobil.com/jobs) | smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen |  |  |
 | [Jobrad](https://www.jobrad.org) | [jobs](https://www.jobrad.org/ueber-uns/karriere.html) | Diensträder | ✅ |  |
@@ -93,7 +93,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 ### Germany
 
-| company | jobs | description | spec. | remote |
+| company | jobs | description | sp. | re. |
 | - | - | - | - | - |
 | [tado°](https://www.tado.com/) | [jobs](https://www.tado.com/de-de/arbeiten-bei-tado) | Lösungen und Services im Bereich Klimasteuerung zuhause | ✅ |  |
 | [Energieheld](https://www.energieheld.de/) | [jobs](https://www.energieheld.de/ueber-uns/karriere/jobs) | Portal zu energetischen Gebäudesanierungen | ✅ |  |
@@ -105,7 +105,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 ### Germany
 
-| company | jobs | description | spec. | remote |
+| company | jobs | description | sp. | re. |
 | - | - | - | - | - |
 | [Wunder Mobility](https://www.wundermobility.com/) | [jobs](https://www.wundermobility.com/careers/jobs) | Technology to launch and scale shared mobility services | ✅ |  |
 | [nextbike](https://www.nextbike.de) | [jobs](https://www.nextbike.net/jobs/) | Bike sharing |  |  |
@@ -120,7 +120,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 ### Germany
 
-| company | jobs | description | spec. | remote |
+| company | jobs | description | sp. | re. |
 | - | - | - | - | - |
 | [Avocado Store](https://www.avocadostore.de/) | [jobs](https://www.avocadostore.de/jobs) | Online Marktplatz für nachhaltige Produkte |  |  |
 | [momox](https://www.momox.de/) | [jobs](https://momox-jobs.dvinci.de/de/jobs) | Recommerce-Anbieter für gebrauchte Bücher, CDs, DVDs und Spiele | ✅ |  |
@@ -133,7 +133,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 ### Germany
 
-| company | jobs | description | spec. | remote |
+| company | jobs | description | sp. | re. |
 | - | - | - | - | - |
 | [ifu](https://www.ifu.com/) | [jobs](https://www.ifu.com/karriere/) | Software & Beratung für Nachhaltigkeit | ✅ |  |
 | [Wikimedia](https://www.wikimedia.de/) | [jobs](https://wikimedia-deutschland.career.softgarden.de/) | Freies Wissen |  |  |
@@ -148,7 +148,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 ### Germany
 
-| company | jobs | description | spec. | remote |
+| company | jobs | description | sp. | re. |
 | - | - | - | - | - |
 | [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | CO2-neutrales Bankkonto |  |  |
 | [WAVES](https://waves.lu) | [jobs](https://waves.lu/de/karriere/) | Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen |  |  |
@@ -156,7 +156,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 ### UK
 
-| company | jobs | description | spec. | remote |
+| company | jobs | description | sp. | re. |
 | - | - | - | - | - |
 | [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) | quantitative and qualitative data on offset projects |  | ✅ |
 

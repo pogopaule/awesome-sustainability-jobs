@@ -10,8 +10,8 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 ---
 
-*spec.* = speculative applications accepted\
-*remote* = has at least one remote job offering
+sp. = speculative applications accepted\
+re. = has at least one remote job offering
 
 {{#each jobs}}
 ## {{@key}}
@@ -19,7 +19,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 {{#each this}}
 ### {{@key}}
 
-| company | jobs | description | spec. | remote |
+| company | jobs | description | sp. | re. |
 | - | - | - | - | - |
 {{#each this}}
 | [{{{name}}}]({{{website}}}) | [jobs]({{{jobs}}}) | {{{description}}} | {{#if speculative}}✅{{/if}} | {{#if remote}}✅{{/if}} |
