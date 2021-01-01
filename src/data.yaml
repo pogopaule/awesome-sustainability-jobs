@@ -560,3 +560,7 @@ jobportals:
     website: https://www.greenrecruitmentcompany.com/
     description: Recruitment company based in London
     country: Worldwide
+  - name: Climatebase
+    website: https://climate.careers
+    description: Jobs at organizations working to solve climate change
+    country: Worldwide

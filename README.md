@@ -187,4 +187,5 @@ re. = has at least one remote job offering
 | portal | description |
 | - | - |
 | [Green Recruitment](https://www.greenrecruitmentcompany.com/) | Recruitment company based in London |
+| [Climatebase](https://climate.careers) | Jobs at organizations working to solve climate change |
 
