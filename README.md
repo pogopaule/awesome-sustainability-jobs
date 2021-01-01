@@ -142,6 +142,7 @@ re. = has at least one remote job offering
 | [iPoint](https://www.ipoint-systems.com/de/) | [jobs](https://www.ipoint-systems.com/de/careers/) | Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit | ✅ |  |
 | [betterplace](https://www.betterplace.org/de) | [jobs](https://www.betterplace.org/c/stellen) | Spendenplattform |  |  |
 | [InFarm](https://www.infarm.com) | [jobs](https://www.infarm.com/en/join-us) | Indoor Farming |  |  |
+| [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | Crowdfunding | ✅ |  |
 
 
 ## Carbon Analysis, Capture and Offsetting
@@ -172,10 +173,18 @@ re. = has at least one remote job offering
 | [GoodJobs](https://goodjobs.eu/de) | Jobbörse für nachhaltige Jobs mit Sinn |
 | [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/) | CSR, NGO und Umwelt Jobs |
 | [Impactify](https://impactify.de/) | Impactify durchforstet das Netz nach Jobs aus den Bereichen Nachhaltigkeit, CSR, Umwelt |
+| [tbd.community](https://www.tbd.community/de/jobs) | Jobs mit Sinn |
+| [greenjobs](https://www.greenjobs.de/index.html) | Jobbörse für Umweltfachkräfte |
 
 ### UK
 
 | portal | description |
 | - | - |
 | [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#) | Jobs site for the environmentally and socially conscious |
+
+### Worldwide
+
+| portal | description |
+| - | - |
+| [Green Recruitment](https://www.greenrecruitmentcompany.com/) | Recruitment company based in London |
 
