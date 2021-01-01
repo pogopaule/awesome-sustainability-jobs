@@ -1,13 +1,15 @@
 # Contribution Guidelines
 
-TLDR: Open a pull request. Make sure to company does not only do greenwashing.
+## What can I contribute?
+
+1. Fix a broken link
+2. Add one or more links to companies or job portals
+3. Suggest structural changes
 
 ## How can I contribute?
 
-1. Fix a broken link
-2. Add one or more links
-3. Suggest structural changes
-
-## Pull Request
-
-WIP
+1. Change or add content.
+    - Make sure to not add companies that do greenwashing.
+    - [data.yaml](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/src/data.yaml) is the place where you change **content**.
+    - [template.md](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/src/template.md) is the place where you change **structure**.
+2. Open a pull request.
