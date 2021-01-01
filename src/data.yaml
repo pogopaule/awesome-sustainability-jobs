@@ -519,6 +519,14 @@ jobs:
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
     country: UK
+  - name: Startnext
+    website: https://www.startnext.com
+    jobs: https://www.startnext.com/info/jobs.html
+    description: Crowdfunding
+    remote: false
+    speculative: true
+    field: Misc.
+    country: Germany
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
@@ -540,3 +548,15 @@ jobportals:
     website: https://forpurposejobs.com/job-industry/developer-jobs/#
     description: Jobs site for the environmentally and socially conscious
     country: UK
+  - name: tbd.community
+    website: https://www.tbd.community/de/jobs
+    description: Jobs mit Sinn
+    country: Germany
+  - name: greenjobs
+    website: https://www.greenjobs.de/index.html
+    description: Jobbörse für Umweltfachkräfte
+    country: Germany
+  - name: Green Recruitment
+    website: https://www.greenrecruitmentcompany.com/
+    description: Recruitment company based in London
+    country: Worldwide
