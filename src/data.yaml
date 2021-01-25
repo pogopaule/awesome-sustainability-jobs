@@ -527,6 +527,30 @@ jobs:
     speculative: true
     field: Misc.
     country: Germany
+  - name: Octopus Energy
+    website: https://octopus.energy
+    jobs: https://octopus.energy/careers/
+    description: UK-based retail electricity and gas supplier specialising in sustainable energy
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: UK
+  - name: OVO Energy
+    website: https://www.ovoenergy.com/
+    jobs: https://careers.ovo.com/opportunities
+    description: UK-based green electricity supplier
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: UK
+  - name: Clim8 Invest
+    website: https://clim8invest.com/
+    jobs: https://clim8invest.com/work-at-clim8/
+    description: Investments into clean energy and green, sustainable companies
+    remote: false
+    speculative: false
+    field: Misc.
+    country: UK
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/

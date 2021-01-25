@@ -54,6 +54,13 @@ re. = has at least one remote job offering
 | [ZOLAR](https://www.zolar.de/) | [jobs](https://www.zolar.de/karriere/office-jobs) | Online Planung von PV-Anlagen |  |  |
 | [enersol](https://www.enersol.eu/jobs/) | [jobs](https://www.enersol.eu/jobs/) | plant, vertreibt und installiert schlüsselfertige PV/Batterie Anlagen |  |  |
 
+### UK
+
+| company | jobs | description | sp. | re. |
+| - | - | - | - | - |
+| [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
+| [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) | UK-based green electricity supplier |  |  |
+
 
 ## Circular Economy
 
@@ -143,6 +150,12 @@ re. = has at least one remote job offering
 | [betterplace](https://www.betterplace.org/de) | [jobs](https://www.betterplace.org/c/stellen) | Spendenplattform |  |  |
 | [InFarm](https://www.infarm.com) | [jobs](https://www.infarm.com/en/join-us) | Indoor Farming |  |  |
 | [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | Crowdfunding | ✅ |  |
+
+### UK
+
+| company | jobs | description | sp. | re. |
+| - | - | - | - | - |
+| [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) | Investments into clean energy and green, sustainable companies |  |  |
 
 
 ## Carbon Analysis, Capture and Offsetting
