@@ -1,5 +1,6 @@
 jobs:
   - name: OXYGEN TECHNOLOGIES
+    review: https://www.kununu.com/de/oxygen-technologies1
     website: https://www.oxygen-technologies.de/
     jobs: https://www.oxygen-technologies.de/ueber-uns/jobs/
     description: OXYGEN TECHNOLOGIES stellt Energieversorgern, Stadtwerken und Messstellenbetreibern IT-Lösungen bereit und treibt damit die Digitalisierung der Energiewirtschaft voran.
@@ -8,6 +9,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: Greenpeace Energy eG
+    review: https://www.kununu.com/de/greenpeace-energy-eg2
     website: https://www.greenpeace-energy.de
     jobs: https://www.greenpeace-energy.de/ueber-uns/karriere.html
     description: Anbieter für Ökostom und Ökogas
@@ -16,6 +18,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: BELECTRIC
+    review: https://www.kununu.com/de/belectric1
     website: https://belectric.com/de/
     jobs: https://belectric.com/de/karriere/
     description: Entwicklung und im Bau von Freiflächen-Solarkraftwerken und Energiespeichersystemen
@@ -24,6 +27,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: Next Kraftwerke
+    review: https://www.kununu.com/de/next-kraftwerke1
     website: https://www.next-kraftwerke.de/
     jobs: https://www.next-kraftwerke.de/jobs
     description: Next Kraftwerke betreibt eines der größten Virtuellen Kraftwerke Europas
@@ -32,6 +36,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: energy & meteo systems
+    review: https://www.kununu.com/de/energy-meteo-systems
     website: https://www.energymeteo.de
     jobs: https://www.energymeteo.de/ueber_uns/jobs.php
     description: Leistungsprognosen und Virtuelle Kraftwerke
@@ -40,6 +45,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: DrehPunkt
+    review: https://www.kununu.com/de/drehpunkt2
     website: https://drehpunkt.de
     jobs: https://drehpunkt.de/jobs/
     description: Software für erneuerbare Energien
@@ -48,6 +54,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: meteocontrol
+    review: https://www.kununu.com/de/meteocontrol1
     website: https://www.meteocontrol.com
     jobs: https://www.meteocontrol.com/karriere/stellenangebote/
     description: Überwachungssysteme für Solaranlagen
@@ -56,6 +63,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: sma
+    review: https://www.kununu.com/de/sma-solar-technology
     website: https://www.sma.de/
     jobs: https://www.sma.jobs/go/Stellenangebote/3798401/
     description: Wechselrichter, Photovoltaik- & Solartechnik
@@ -64,6 +72,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: sonnen
+    review: https://www.kununu.com/de/sonnen-gmbh
     website: https://sonnen.de/
     jobs: https://jobs.sonnen.de/
     description: Batteriespeicher
@@ -72,6 +81,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: FENECON
+    review: https://www.kununu.com/de/fenecon
     website: https://fenecon.de
     jobs: https://www1.fenecon.de/karriere/
     description: Stromspeichersysteme
@@ -80,6 +90,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: IngSoft
+    review: https://www.kununu.com/de/ingsoft1
     website: https://energiemanagement.ingsoft.de/
     jobs: https://energiemanagement.ingsoft.de/de/karriere.html
     description: Software für Energiemanagment
@@ -88,6 +99,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: Solarschmiede
+    review: https://www.kununu.com/de/solarschmiede
     website: https://www.solarschmiede.de
     jobs: https://www.solarschmiede.de/de/karriere/
     description: Planungssoftware für PV-Anlagen
@@ -96,6 +108,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: SOLARWATT
+    review: https://www.kununu.com/de/solarwatt
     website: https://www.solarwatt.de/
     jobs: https://www.solarwatt.de/ueber-uns/karriere#engineering
     description: Hersteller von PV-Eigenheimlösungen
@@ -104,6 +117,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: Lumenaza
+    review: https://www.kununu.com/de/lumenaza
     website: https://www.lumenaza.de/
     jobs: https://www.lumenaza.de/de/jobs/
     description: Software-as-a-Service-Plattform für grüne Energieunternehmen
@@ -112,6 +126,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: Energiedienst
+    review: https://www.kununu.com/de/energiedienst-gruppe
     website: https://www.energiedienst.de/
     jobs: https://www.energiedienst.de/karriere/offene-stellen/
     description: Anbieter von Ökostrom aus Wasserkraft
@@ -120,6 +135,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: mobisol
+    review: https://www.kununu.com/de/mobisol
     website: http://www.plugintheworld.com/
     jobs: https://plugintheworld.com/careers/
     description: Smart Solar Home Systems
@@ -128,6 +144,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: Power Plus Communications
+    review: https://www.kununu.com/de/power-plus-communications3
     website: https://www.ppc-ag.de
     jobs: https://www.ppc-ag.de/karriere/
     description: Smart Metering Lösungen
@@ -136,6 +153,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: Digsilent
+    review: https://www.kununu.com/de/digsilent
     website: https://www.digsilent.de/de/home.html
     jobs: https://www.digsilent.de/de/stellenangebote.html
     description: Simulation und Netzintegration von erneuerbaren Energien
@@ -144,6 +162,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: smartblue AG
+    review:
     website: http://www.smartblue.de
     jobs: https://www.smartblue.de/jobs/
     description: Monitoring von PV-Anlagen
@@ -152,6 +171,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: SENEC
+    review: https://www.kununu.com/de/senec1
     website: https://www.senec.com
     jobs: https://senec-jobs.personio.de/
     description: Stromspeichersysteme und Energielösungen
@@ -160,6 +180,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: KACO new energy
+    review: https://www.kununu.com/de/kaco-new-energy4
     website: https://kaco-newenergy.com
     jobs: https://kaco-newenergy.com/de/karriere/stellenangebote/
     description: Wechselrichter für Photovoltaik und Batteriespeicher
@@ -168,6 +189,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: greenergetic
+    review: https://www.kununu.com/de/kaco-new-energy4
     website: https://www.greenergetic.de
     jobs: https://www.greenergetic.de/unternehmen/werde-ein-teil-von-greenergetic
     description: Abwicklung, Betreuung und Verkaufsförderung von Solaranlagen
@@ -176,6 +198,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: E3/DC
+    review: https://www.kununu.com/de/e3dc2
     website: https://www.e3dc.com/
     jobs: https://www.e3dc.com/unternehmen/karriere/
     description: Hersteller von Wallboxen
@@ -184,6 +207,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: Optimax Energy
+    review: https://www.kununu.com/de/optimax-energy1
     website: https://www.optimax-energy.de
     jobs: https://www.optimax-energy.de/index.php/karriere
     description: Dienste rund um den Handel erneuerbarer Energien
@@ -192,6 +216,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: DZ-4
+    review: https://www.kununu.com/de/dz-41
     website: https://www.dz-4.de/
     jobs: https://dz4-jobs.personio.de/
     description: Anbieter für Solaranlagen zur Miete
@@ -200,6 +225,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: LichtBlick
+    review: https://www.kununu.com/de/lichtblick
     website: https://www.lichtblick.de
     jobs: https://www.lichtblick.de/karriere/jobs/
     description: Ökostromanbieter
@@ -208,6 +234,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: ZOLAR
+    review: https://www.kununu.com/de/zolar3
     website: https://www.zolar.de/
     jobs: https://www.zolar.de/karriere/office-jobs
     description: Online Planung von PV-Anlagen
@@ -216,6 +243,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: enersol
+    review:
     website: https://www.enersol.eu/jobs/
     jobs: https://www.enersol.eu/jobs/
     description: plant, vertreibt und installiert schlüsselfertige PV/Batterie Anlagen
@@ -224,6 +252,7 @@ jobs:
     field: Renewable Energies
     country: Germany
   - name: Vytal
+    review:
     website: https://www.vytal.org/
     jobs: https://www.vytal.org/jobs
     description: Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food
@@ -232,6 +261,7 @@ jobs:
     field: Circular Economy
     country: Germany
   - name: eeMobility
+    review: https://www.kununu.com/de/eemobility
     website: https://www.ee-mobility.com
     jobs: https://ee-mobility.com/karriere/
     description: Ladelösungen für elektrifizierte Dienstwagen
@@ -240,6 +270,7 @@ jobs:
     field: Electric Mobility
     country: Germany
   - name: The Mobility House
+    review: https://www.kununu.com/de/the-mobility-house1
     website: https://www.mobilityhouse.com
     jobs: https://www.mobilityhouse.com/de_de/karriere
     description: Produkte und Services rund um Ladestationen
@@ -248,6 +279,7 @@ jobs:
     field: Electric Mobility
     country: Germany
   - name: ubitricity
+    review: https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh
     website: https://www.ubitricity.com
     jobs: https://www.ubitricity.com/jobs/
     description: Lade- und Abrechnungslösungen
@@ -256,6 +288,7 @@ jobs:
     field: Electric Mobility
     country: Germany
   - name: PlugSurfing
+    review:
     website: https://www.plugsurfing.com
     jobs: https://www.plugsurfing.com/career
     description: Ladestationen finden und nutzen
@@ -264,6 +297,7 @@ jobs:
     field: Electric Mobility
     country: Germany
   - name: has-to-be
+    review:
     website: https://has-to-be.com
     jobs: https://has-to-be.com/de/karriere/
     description: Plattform für E-Mobilität
@@ -272,6 +306,7 @@ jobs:
     field: Electric Mobility
     country: Germany
   - name: fleetster
+    review: https://www.kununu.com/de/fleetster-next-generation-mobility-munich
     website: https://www.fleetster.de
     jobs: https://www.fleetster.de/fleetster-team
     description: Software für Flottenmanagement, CarSharing und Vermietung
@@ -280,6 +315,7 @@ jobs:
     field: Electric Mobility
     country: Germany
   - name: Kumpan electric
+    review:
     website: https://www.kumpan-electric.com/
     jobs: https://www.kumpan-electric.com/karriere/
     description: Hersteller von E-Rollern
@@ -288,6 +324,7 @@ jobs:
     field: Electric Mobility
     country: Germany
   - name: raumobil
+    review: https://www.kununu.com/de/raumobil
     website: https://www.raumobil.com
     jobs: https://www.raumobil.com/jobs
     description: smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen
@@ -296,6 +333,7 @@ jobs:
     field: Sustainable Mobility
     country: Germany
   - name: Jobrad
+    review: https://www.kununu.com/de/jobrad
     website: https://www.jobrad.org
     jobs: https://www.jobrad.org/ueber-uns/karriere.html
     description: Diensträder
@@ -304,6 +342,7 @@ jobs:
     field: Sustainable Mobility
     country: Germany
   - name: tado°
+    review: https://www.kununu.com/de/tado5
     website: https://www.tado.com/
     jobs: https://www.tado.com/de-de/arbeiten-bei-tado
     description: Lösungen und Services im Bereich Klimasteuerung zuhause
@@ -312,7 +351,8 @@ jobs:
     field: Energy Efficiency
     country: Germany
   - name: Energieheld
-    website: https://www.energieheld.de/
+    review: https://www.kununu.com/de/search#/?q=Energieheld&country=COUNTRY_DE
+    website:
     jobs: https://www.energieheld.de/ueber-uns/karriere/jobs
     description: Portal zu energetischen Gebäudesanierungen
     remote: false
@@ -320,6 +360,7 @@ jobs:
     field: Energy Efficiency
     country: Germany
   - name: Passivhaus Institut
+    review: https://www.kununu.com/de/passivhaus-institut
     website: https://passiv.de/
     jobs: https://passiv.de/de/01_passivhausinstitut/05_stellenangebote/05_stellenangebote.htm
     description: Energieeffizienz in Gebäuden
@@ -328,6 +369,7 @@ jobs:
     field: Energy Efficiency
     country: Germany
   - name: Stiftung Energieeffizienz
+    review:
     website: https://stiftung-energieeffizienz.org/
     jobs: https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1ghijkmtulnopqrs5&jtz=12&s=java&id=88697&anz=html
     description: Entwicklung einer sustainable data platform
@@ -336,6 +378,7 @@ jobs:
     field: Energy Efficiency
     country: Germany
   - name: Wunder Mobility
+    review: https://www.kununu.com/de/wunder-mobility
     website: https://www.wundermobility.com/
     jobs: https://www.wundermobility.com/careers/jobs
     description: Technology to launch and scale shared mobility services
@@ -344,6 +387,7 @@ jobs:
     field: Sharing Economy
     country: Germany
   - name: nextbike
+    review: https://www.kununu.com/de/nextbike1
     website: https://www.nextbike.de
     jobs: https://www.nextbike.net/jobs/
     description: Bike sharing
@@ -352,6 +396,7 @@ jobs:
     field: Sharing Economy
     country: Germany
   - name: car2go
+    review: https://www.kununu.com/de/car2go
     website: https://www.share-now.com/de/de/
     jobs: https://boards.greenhouse.io/joinsharenow
     description: Carsharing-Anbieter von BMW und Daimler
@@ -360,6 +405,7 @@ jobs:
     field: Sharing Economy
     country: Germany
   - name: Free2Move
+    review: https://www.kununu.com/de/free2move
     website: https://www.free2move.com
     jobs: https://www.free2move.com/de-DE/job-offers
     description: Carsharing und Free-Floating Fahrzeuge
@@ -368,6 +414,7 @@ jobs:
     field: Sharing Economy
     country: Germany
   - name: INVERS
+    review: https://www.kununu.com/de/inversgmbh
     website: https://invers.com
     jobs: https://invers.com/de/karriere/
     description: Anbieter für Carsharing Software
@@ -376,6 +423,7 @@ jobs:
     field: Sharing Economy
     country: Germany
   - name: Cambio Carsharing
+    review: https://www.kununu.com/de/cambio-stadtteilauto-carsharing1
     website: https://www.cambio-carsharing.de/
     jobs: https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS
     description: Anbieter für Carsharing Software
@@ -384,6 +432,7 @@ jobs:
     field: Sharing Economy
     country: Germany
   - name: emmy
+    review: https://www.kununu.com/de/emmy-sharing1
     website: https://emmy-sharing.de/
     jobs: https://emmy-sharing.de/stellenangebote/
     description: Elektro-Roller Sharing
@@ -392,6 +441,7 @@ jobs:
     field: Sharing Economy
     country: Germany
   - name: Avocado Store
+    review: https://www.kununu.com/de/avocado-store
     website: https://www.avocadostore.de/
     jobs: https://www.avocadostore.de/jobs
     description: Online Marktplatz für nachhaltige Produkte
@@ -400,6 +450,7 @@ jobs:
     field: Sustainable Consumption
     country: Germany
   - name: momox
+    review: https://www.kununu.com/de/momox
     website: https://www.momox.de/
     jobs: https://momox-jobs.dvinci.de/de/jobs
     description: Recommerce-Anbieter für gebrauchte Bücher, CDs, DVDs und Spiele
@@ -408,14 +459,16 @@ jobs:
     field: Sustainable Consumption
     country: Germany
   - name: Grüne Erde
+    review: https://www.kununu.com/at/gruene-erde
     website: https://www.grueneerde.com
     jobs: https://karriere.grueneerde.com/jobs/
     description: Online Shop von Grüne Erde
     remote: false
     speculative: true
     field: Sustainable Consumption
-    country: Germany
+    country: Austria
   - name: fairmondo
+    review:
     website: https://www.fairmondo.de
     jobs: https://www.fairmondo.de/jobs
     description: faire Alternative zu den Marktriesen im Online-Handel
@@ -424,6 +477,7 @@ jobs:
     field: Sustainable Consumption
     country: Germany
   - name: Waschbär
+    review: https://www.kununu.com/de/waschbaer-umweltversand-triaz
     website: https://www.waschbaer.de
     jobs: https://www.waschbaer.de/shop/ueber-uns/karriere/stellenangebote
     description: Online Shop für umweltgerechte und sozialverträgliche Produkte
@@ -432,6 +486,7 @@ jobs:
     field: Sustainable Consumption
     country: Germany
   - name: ifu
+    review: https://www.kununu.com/de/ifu-hamburg1
     website: https://www.ifu.com/
     jobs: https://www.ifu.com/karriere/
     description: Software & Beratung für Nachhaltigkeit
@@ -440,6 +495,7 @@ jobs:
     field: Misc.
     country: Germany
   - name: Wikimedia
+    review: https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v
     website: https://www.wikimedia.de/
     jobs: https://wikimedia-deutschland.career.softgarden.de/
     description: Freies Wissen
@@ -448,6 +504,7 @@ jobs:
     field: Misc.
     country: Germany
   - name: ShareTheMeal
+    review:
     website: https://sharethemeal.org/de
     jobs: https://angel.co/company/sharethemeal-1/jobs
     description: ShareTheMeal ist eine Initiative des WFP der Vereinten Nationen - die größte gemeinnützige Organisation im Kampf gegen den Hunger
@@ -456,6 +513,7 @@ jobs:
     field: Misc.
     country: Germany
   - name: ClimatePartner
+    review: https://www.kununu.com/de/climatepartner
     website: https://www.climatepartner.com/de
     jobs: https://www.climatepartner.com/de/karriere
     description: ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen.
@@ -464,6 +522,7 @@ jobs:
     field: Misc.
     country: Germany
   - name: iPoint
+    review: https://www.kununu.com/de/ipoint-systems1
     website: https://www.ipoint-systems.com/de/
     jobs: https://www.ipoint-systems.com/de/careers/
     description: Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit
@@ -472,6 +531,7 @@ jobs:
     field: Misc.
     country: Germany
   - name: betterplace
+    review: https://www.kununu.com/de/ipoint-systems1
     website: https://www.betterplace.org/de
     jobs: https://www.betterplace.org/c/stellen
     description: Spendenplattform
@@ -480,6 +540,7 @@ jobs:
     field: Misc.
     country: Germany
   - name: Tomorrow
+    review: https://www.kununu.com/de/tomorrow2
     website: https://www.tomorrow.one
     jobs: https://www.tomorrow.one/de-de/jobs
     description: CO2-neutrales Bankkonto
@@ -488,14 +549,16 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     country: Germany
   - name: WAVES
+    review:
     website: https://waves.lu
     jobs: https://waves.lu/de/karriere/
     description: Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen
     remote: false
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
-    country: Germany
+    country: Luxembourg
   - name: ecosia
+    review: https://www.kununu.com/de/ecosia
     website: https://www.ecosia.org/
     jobs: https://jobs.lever.co/ecosia
     description: Eine Suchmaschine, die Bäume pflanzt
@@ -504,6 +567,7 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     country: Germany
   - name: InFarm
+    review: https://www.kununu.com/de/infarm
     website: https://www.infarm.com
     jobs: https://www.infarm.com/en/join-us
     description: Indoor Farming
@@ -512,6 +576,7 @@ jobs:
     field: Misc.
     country: Germany
   - name: Sylvera
+    review:
     website: https://www.sylvera.io
     jobs: https://apply.workable.com/sylvera/
     description: quantitative and qualitative data on offset projects
@@ -520,6 +585,7 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     country: UK
   - name: Startnext
+    review: https://www.kununu.com/de/startnext-crowdfunding
     website: https://www.startnext.com
     jobs: https://www.startnext.com/info/jobs.html
     description: Crowdfunding
@@ -528,6 +594,7 @@ jobs:
     field: Misc.
     country: Germany
   - name: Octopus Energy
+    review:
     website: https://octopus.energy
     jobs: https://octopus.energy/careers/
     description: UK-based retail electricity and gas supplier specialising in sustainable energy
@@ -536,6 +603,7 @@ jobs:
     field: Renewable Energies
     country: UK
   - name: OVO Energy
+    review:
     website: https://www.ovoenergy.com/
     jobs: https://careers.ovo.com/opportunities
     description: UK-based green electricity supplier
@@ -544,6 +612,7 @@ jobs:
     field: Renewable Energies
     country: UK
   - name: Clim8 Invest
+    review:
     website: https://clim8invest.com/
     jobs: https://clim8invest.com/work-at-clim8/
     description: Investments into clean energy and green, sustainable companies

@@ -19,10 +19,10 @@ re. = has at least one remote job offering
 {{#each this}}
 ### {{@key}}
 
-| company | jobs | description | sp. | re. |
-| - | - | - | - | - |
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
 {{#each this}}
-| [{{{name}}}]({{{website}}}) | [jobs]({{{jobs}}}) | {{{description}}} | {{#if speculative}}✅{{/if}} | {{#if remote}}✅{{/if}} |
+| [{{{name}}}]({{{website}}}) | [jobs]({{{jobs}}}) | {{#if review}}[rating]({{{review}}}){{/if}} | {{{description}}} | {{#if speculative}}✅{{/if}} | {{#if remote}}✅{{/if}} |
 {{/each}}
 
 {{/each}}
