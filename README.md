@@ -3,21 +3,114 @@
 A curated list of awesome dev jobs in the sustainability sector.\
 [Contributions](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/CONTRIBUTING.md) are highly appreciated. Especially for jobs outside of Germany.
 
-- [Renewable Energies](#renewable-energies)
+- [Carbon Analysis, Capture and Offsetting](#carbon-analysis-capture-and-offsetting)
 - [Circular Economy](#circular-economy)
 - [Electric Mobility](#electric-mobility)
-- [Sustainable Mobility](#sustainable-mobility)
 - [Energy Efficiency](#energy-efficiency)
+- [Misc.](#misc)
+- [Renewable Energies](#renewable-energies)
 - [Sharing Economy](#sharing-economy)
 - [Sustainable Consumption](#sustainable-consumption)
-- [Misc.](#misc)
-- [Carbon Analysis, Capture and Offsetting](#carbon-analysis-capture-and-offsetting)
+- [Sustainable Mobility](#sustainable-mobility)
 - [Jobportals](#jobportals)
 
 ---
 
 sp. = speculative applications accepted\
 re. = has at least one remote job offering
+
+## Carbon Analysis, Capture and Offsetting
+
+### Germany
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | [rating](https://www.kununu.com/de/tomorrow2) | CO2-neutrales Bankkonto |  |  |
+| [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | [rating](https://www.kununu.com/de/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ |
+
+
+### Luxembourg
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [WAVES](https://waves.lu) | [jobs](https://waves.lu/de/karriere/) |  | Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen |  |  |
+
+
+### UK
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) |  | quantitative and qualitative data on offset projects |  | ✅ |
+
+
+
+
+## Circular Economy
+
+### Germany
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Vytal](https://www.vytal.org/) | [jobs](https://www.vytal.org/jobs) |  | Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food | ✅ |  |
+
+
+
+
+## Electric Mobility
+
+### Germany
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [eeMobility](https://www.ee-mobility.com) | [jobs](https://ee-mobility.com/karriere/) | [rating](https://www.kununu.com/de/eemobility) | Ladelösungen für elektrifizierte Dienstwagen | ✅ |  |
+| [The Mobility House](https://www.mobilityhouse.com) | [jobs](https://www.mobilityhouse.com/de_de/karriere) | [rating](https://www.kununu.com/de/the-mobility-house1) | Produkte und Services rund um Ladestationen |  |  |
+| [ubitricity](https://www.ubitricity.com) | [jobs](https://www.ubitricity.com/jobs/) | [rating](https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh) | Lade- und Abrechnungslösungen | ✅ |  |
+| [PlugSurfing](https://www.plugsurfing.com) | [jobs](https://www.plugsurfing.com/career) |  | Ladestationen finden und nutzen | ✅ |  |
+| [has-to-be](https://has-to-be.com) | [jobs](https://has-to-be.com/de/karriere/) |  | Plattform für E-Mobilität | ✅ |  |
+| [fleetster](https://www.fleetster.de) | [jobs](https://www.fleetster.de/fleetster-team) | [rating](https://www.kununu.com/de/fleetster-next-generation-mobility-munich) | Software für Flottenmanagement, CarSharing und Vermietung | ✅ |  |
+| [Kumpan electric](https://www.kumpan-electric.com/) | [jobs](https://www.kumpan-electric.com/karriere/) |  | Hersteller von E-Rollern |  |  |
+
+
+
+
+## Energy Efficiency
+
+### Germany
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [tado°](https://www.tado.com/) | [jobs](https://www.tado.com/de-de/arbeiten-bei-tado) | [rating](https://www.kununu.com/de/tado5) | Lösungen und Services im Bereich Klimasteuerung zuhause | ✅ |  |
+| [Energieheld](None) | [jobs](https://www.energieheld.de/ueber-uns/karriere/jobs) | [rating](https://www.kununu.com/de/search#/?q=Energieheld&country=COUNTRY_DE) | Portal zu energetischen Gebäudesanierungen | ✅ |  |
+| [Passivhaus Institut](https://passiv.de/) | [jobs](https://passiv.de/de/01_passivhausinstitut/05_stellenangebote/05_stellenangebote.htm) | [rating](https://www.kununu.com/de/passivhaus-institut) | Energieeffizienz in Gebäuden |  |  |
+| [Stiftung Energieeffizienz](https://stiftung-energieeffizienz.org/) | [jobs](https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1ghijkmtulnopqrs5&jtz=12&s=java&id=88697&anz=html) |  | Entwicklung einer sustainable data platform |  |  |
+
+
+
+
+## Misc.
+
+### Germany
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [ifu](https://www.ifu.com/) | [jobs](https://www.ifu.com/karriere/) | [rating](https://www.kununu.com/de/ifu-hamburg1) | Software & Beratung für Nachhaltigkeit | ✅ |  |
+| [Wikimedia](https://www.wikimedia.de/) | [jobs](https://wikimedia-deutschland.career.softgarden.de/) | [rating](https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v) | Freies Wissen |  |  |
+| [ShareTheMeal](https://sharethemeal.org/de) | [jobs](https://angel.co/company/sharethemeal-1/jobs) |  | ShareTheMeal ist eine Initiative des WFP der Vereinten Nationen - die größte gemeinnützige Organisation im Kampf gegen den Hunger |  |  |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [rating](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [iPoint](https://www.ipoint-systems.com/de/) | [jobs](https://www.ipoint-systems.com/de/careers/) | [rating](https://www.kununu.com/de/ipoint-systems1) | Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit | ✅ |  |
+| [betterplace](https://www.betterplace.org/de) | [jobs](https://www.betterplace.org/c/stellen) | [rating](https://www.kununu.com/de/ipoint-systems1) | Spendenplattform |  |  |
+| [InFarm](https://www.infarm.com) | [jobs](https://www.infarm.com/en/join-us) | [rating](https://www.kununu.com/de/infarm) | Indoor Farming |  |  |
+| [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | [rating](https://www.kununu.com/de/startnext-crowdfunding) | Crowdfunding | ✅ |  |
+
+
+### UK
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) |  | Investments into clean energy and green, sustainable companies |  |  |
+
+
+
 
 ## Renewable Energies
 
@@ -54,6 +147,7 @@ re. = has at least one remote job offering
 | [ZOLAR](https://www.zolar.de/) | [jobs](https://www.zolar.de/karriere/office-jobs) | [rating](https://www.kununu.com/de/zolar3) | Online Planung von PV-Anlagen |  |  |
 | [enersol](https://www.enersol.eu/jobs/) | [jobs](https://www.enersol.eu/jobs/) |  | plant, vertreibt und installiert schlüsselfertige PV/Batterie Anlagen |  |  |
 
+
 ### UK
 
 | company | jobs | rating | description | sp. | re. |
@@ -62,50 +156,6 @@ re. = has at least one remote job offering
 | [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) |  | UK-based green electricity supplier |  |  |
 
 
-## Circular Economy
-
-### Germany
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [Vytal](https://www.vytal.org/) | [jobs](https://www.vytal.org/jobs) |  | Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food | ✅ |  |
-
-
-## Electric Mobility
-
-### Germany
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [eeMobility](https://www.ee-mobility.com) | [jobs](https://ee-mobility.com/karriere/) | [rating](https://www.kununu.com/de/eemobility) | Ladelösungen für elektrifizierte Dienstwagen | ✅ |  |
-| [The Mobility House](https://www.mobilityhouse.com) | [jobs](https://www.mobilityhouse.com/de_de/karriere) | [rating](https://www.kununu.com/de/the-mobility-house1) | Produkte und Services rund um Ladestationen |  |  |
-| [ubitricity](https://www.ubitricity.com) | [jobs](https://www.ubitricity.com/jobs/) | [rating](https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh) | Lade- und Abrechnungslösungen | ✅ |  |
-| [PlugSurfing](https://www.plugsurfing.com) | [jobs](https://www.plugsurfing.com/career) |  | Ladestationen finden und nutzen | ✅ |  |
-| [has-to-be](https://has-to-be.com) | [jobs](https://has-to-be.com/de/karriere/) |  | Plattform für E-Mobilität | ✅ |  |
-| [fleetster](https://www.fleetster.de) | [jobs](https://www.fleetster.de/fleetster-team) | [rating](https://www.kununu.com/de/fleetster-next-generation-mobility-munich) | Software für Flottenmanagement, CarSharing und Vermietung | ✅ |  |
-| [Kumpan electric](https://www.kumpan-electric.com/) | [jobs](https://www.kumpan-electric.com/karriere/) |  | Hersteller von E-Rollern |  |  |
-
-
-## Sustainable Mobility
-
-### Germany
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [raumobil](https://www.raumobil.com) | [jobs](https://www.raumobil.com/jobs) | [rating](https://www.kununu.com/de/raumobil) | smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen |  |  |
-| [Jobrad](https://www.jobrad.org) | [jobs](https://www.jobrad.org/ueber-uns/karriere.html) | [rating](https://www.kununu.com/de/jobrad) | Diensträder | ✅ |  |
-
-
-## Energy Efficiency
-
-### Germany
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [tado°](https://www.tado.com/) | [jobs](https://www.tado.com/de-de/arbeiten-bei-tado) | [rating](https://www.kununu.com/de/tado5) | Lösungen und Services im Bereich Klimasteuerung zuhause | ✅ |  |
-| [Energieheld]() | [jobs](https://www.energieheld.de/ueber-uns/karriere/jobs) | [rating](https://www.kununu.com/de/search#/?q=Energieheld&country=COUNTRY_DE) | Portal zu energetischen Gebäudesanierungen | ✅ |  |
-| [Passivhaus Institut](https://passiv.de/) | [jobs](https://passiv.de/de/01_passivhausinstitut/05_stellenangebote/05_stellenangebote.htm) | [rating](https://www.kununu.com/de/passivhaus-institut) | Energieeffizienz in Gebäuden |  |  |
-| [Stiftung Energieeffizienz](https://stiftung-energieeffizienz.org/) | [jobs](https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1ghijkmtulnopqrs5&jtz=12&s=java&id=88697&anz=html) |  | Entwicklung einer sustainable data platform |  |  |
 
 
 ## Sharing Economy
@@ -123,7 +173,16 @@ re. = has at least one remote job offering
 | [emmy](https://emmy-sharing.de/) | [jobs](https://emmy-sharing.de/stellenangebote/) | [rating](https://www.kununu.com/de/emmy-sharing1) | Elektro-Roller Sharing | ✅ |  |
 
 
+
+
 ## Sustainable Consumption
+
+### Austria
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Grüne Erde](https://www.grueneerde.com) | [jobs](https://karriere.grueneerde.com/jobs/) | [rating](https://www.kununu.com/at/gruene-erde) | Online Shop von Grüne Erde | ✅ |  |
+
 
 ### Germany
 
@@ -134,55 +193,20 @@ re. = has at least one remote job offering
 | [fairmondo](https://www.fairmondo.de) | [jobs](https://www.fairmondo.de/jobs) |  | faire Alternative zu den Marktriesen im Online-Handel |  | ✅ |
 | [Waschbär](https://www.waschbaer.de) | [jobs](https://www.waschbaer.de/shop/ueber-uns/karriere/stellenangebote) | [rating](https://www.kununu.com/de/waschbaer-umweltversand-triaz) | Online Shop für umweltgerechte und sozialverträgliche Produkte | ✅ |  |
 
-### Austria
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [Grüne Erde](https://www.grueneerde.com) | [jobs](https://karriere.grueneerde.com/jobs/) | [rating](https://www.kununu.com/at/gruene-erde) | Online Shop von Grüne Erde | ✅ |  |
 
 
-## Misc.
+
+## Sustainable Mobility
 
 ### Germany
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
-| [ifu](https://www.ifu.com/) | [jobs](https://www.ifu.com/karriere/) | [rating](https://www.kununu.com/de/ifu-hamburg1) | Software & Beratung für Nachhaltigkeit | ✅ |  |
-| [Wikimedia](https://www.wikimedia.de/) | [jobs](https://wikimedia-deutschland.career.softgarden.de/) | [rating](https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v) | Freies Wissen |  |  |
-| [ShareTheMeal](https://sharethemeal.org/de) | [jobs](https://angel.co/company/sharethemeal-1/jobs) |  | ShareTheMeal ist eine Initiative des WFP der Vereinten Nationen - die größte gemeinnützige Organisation im Kampf gegen den Hunger |  |  |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [rating](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
-| [iPoint](https://www.ipoint-systems.com/de/) | [jobs](https://www.ipoint-systems.com/de/careers/) | [rating](https://www.kununu.com/de/ipoint-systems1) | Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit | ✅ |  |
-| [betterplace](https://www.betterplace.org/de) | [jobs](https://www.betterplace.org/c/stellen) | [rating](https://www.kununu.com/de/ipoint-systems1) | Spendenplattform |  |  |
-| [InFarm](https://www.infarm.com) | [jobs](https://www.infarm.com/en/join-us) | [rating](https://www.kununu.com/de/infarm) | Indoor Farming |  |  |
-| [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | [rating](https://www.kununu.com/de/startnext-crowdfunding) | Crowdfunding | ✅ |  |
-
-### UK
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) |  | Investments into clean energy and green, sustainable companies |  |  |
+| [raumobil](https://www.raumobil.com) | [jobs](https://www.raumobil.com/jobs) | [rating](https://www.kununu.com/de/raumobil) | smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen |  |  |
+| [Jobrad](https://www.jobrad.org) | [jobs](https://www.jobrad.org/ueber-uns/karriere.html) | [rating](https://www.kununu.com/de/jobrad) | Diensträder | ✅ |  |
 
 
-## Carbon Analysis, Capture and Offsetting
 
-### Germany
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | [rating](https://www.kununu.com/de/tomorrow2) | CO2-neutrales Bankkonto |  |  |
-| [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | [rating](https://www.kununu.com/de/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ |
-
-### Luxembourg
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [WAVES](https://waves.lu) | [jobs](https://waves.lu/de/karriere/) |  | Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen |  |  |
-
-### UK
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) |  | quantitative and qualitative data on offset projects |  | ✅ |
 
 
 
@@ -199,11 +223,13 @@ re. = has at least one remote job offering
 | [tbd.community](https://www.tbd.community/de/jobs) | Jobs mit Sinn |
 | [greenjobs](https://www.greenjobs.de/index.html) | Jobbörse für Umweltfachkräfte |
 
+
 ### UK
 
 | portal | description |
 | - | - |
 | [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#) | Jobs site for the environmentally and socially conscious |
+
 
 ### Worldwide
 
@@ -211,4 +237,5 @@ re. = has at least one remote job offering
 | - | - |
 | [Green Recruitment](https://www.greenrecruitmentcompany.com/) | Recruitment company based in London |
 | [Climatebase](https://climate.careers) | Jobs at organizations working to solve climate change |
+
 

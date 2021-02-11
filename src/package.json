@@ -1,9 +1,0 @@
-{
-  "name": "awesome-sustainability-job",
-  "main": "index.js",
-  "dependencies": {
-    "handlebars": "^4.7.6",
-    "js-yaml": "^3.14.1",
-    "lodash": "^4.17.20"
-  }
-}

@@ -3,9 +3,9 @@
 A curated list of awesome dev jobs in the sustainability sector.\
 [Contributions](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/CONTRIBUTING.md) are highly appreciated. Especially for jobs outside of Germany.
 
-{{#each jobs}}
-- [{{@key}}](#{{tocLink @key}})
-{{/each}}
+{% for field in jobs.keys() -%}
+- [{{field}}]({{tocLink(field)}})
+{% endfor -%}
 - [Jobportals](#jobportals)
 
 ---
@@ -13,31 +13,31 @@ A curated list of awesome dev jobs in the sustainability sector.\
 sp. = speculative applications accepted\
 re. = has at least one remote job offering
 
-{{#each jobs}}
-## {{@key}}
+{% for field, jobsByCountry in jobs.items() -%}
+## {{field}}
 
-{{#each this}}
-### {{@key}}
+{% for country, jobs in jobsByCountry.items() -%}
+### {{country}}
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
-{{#each this}}
-| [{{{name}}}]({{{website}}}) | [jobs]({{{jobs}}}) | {{#if review}}[rating]({{{review}}}){{/if}} | {{{description}}} | {{#if speculative}}✅{{/if}} | {{#if remote}}✅{{/if}} |
-{{/each}}
+{% for job in jobs -%}
+| [{{job.name}}]({{job.website}}) | [jobs]({{job.jobs}}) | {% if job.review %}[rating]({{job.review}}){% endif %} | {{job.description}} | {% if job.speculative %}✅{% endif %} | {% if job.remote %}✅{% endif %} |
+{% endfor %}
 
-{{/each}}
+{% endfor %}
 
-{{/each}}
+{% endfor %}
 
 ## Jobportals
 
-{{#each jobportals}}
-### {{@key}}
+{% for country, jobportals in jobportals.items() -%}
+### {{country}}
 
 | portal | description |
 | - | - |
-{{#each this}}
-| [{{{name}}}]({{{website}}}) | {{{description}}} |
-{{/each}}
+{% for jobportal in jobportals -%}
+| [{{jobportal.name}}]({{jobportal.website}}) | {{jobportal.description}} |
+{% endfor %}
 
-{{/each}}
+{% endfor %}
