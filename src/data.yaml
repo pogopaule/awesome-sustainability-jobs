@@ -8,6 +8,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    rating: 4.9
   - name: Greenpeace Energy eG
     review: https://www.kununu.com/de/greenpeace-energy-eg2
     website: https://www.greenpeace-energy.de
@@ -17,6 +18,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 3.6
   - name: BELECTRIC
     review: https://www.kununu.com/de/belectric1
     website: https://belectric.com/de/
@@ -26,6 +28,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 3.0
   - name: Next Kraftwerke
     review: https://www.kununu.com/de/next-kraftwerke1
     website: https://www.next-kraftwerke.de/
@@ -35,6 +38,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    rating: 4.4
   - name: energy & meteo systems
     review: https://www.kununu.com/de/energy-meteo-systems
     website: https://www.energymeteo.de
@@ -44,6 +48,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    rating: 3.8
   - name: DrehPunkt
     review: https://www.kununu.com/de/drehpunkt2
     website: https://drehpunkt.de
@@ -53,6 +58,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 4.5
   - name: meteocontrol
     review: https://www.kununu.com/de/meteocontrol1
     website: https://www.meteocontrol.com
@@ -62,6 +68,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 3.9
   - name: sma
     review: https://www.kununu.com/de/sma-solar-technology
     website: https://www.sma.de/
@@ -71,6 +78,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 3.8
   - name: sonnen
     review: https://www.kununu.com/de/sonnen-gmbh
     website: https://sonnen.de/
@@ -80,6 +88,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    rating: 3.4
   - name: FENECON
     review: https://www.kununu.com/de/fenecon
     website: https://fenecon.de
@@ -89,6 +98,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 4.5
   - name: IngSoft
     review: https://www.kununu.com/de/ingsoft1
     website: https://energiemanagement.ingsoft.de/
@@ -98,6 +108,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    rating: 4.4
   - name: Solarschmiede
     review: https://www.kununu.com/de/solarschmiede
     website: https://www.solarschmiede.de
@@ -107,6 +118,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 4.5
   - name: SOLARWATT
     review: https://www.kununu.com/de/solarwatt
     website: https://www.solarwatt.de/
@@ -116,6 +128,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    rating: 3.6
   - name: Lumenaza
     review: https://www.kununu.com/de/lumenaza
     website: https://www.lumenaza.de/
@@ -125,6 +138,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    rating: 4.5
   - name: Energiedienst
     review: https://www.kununu.com/de/energiedienst-gruppe
     website: https://www.energiedienst.de/
@@ -134,6 +148,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 4.0
   - name: mobisol
     review: https://www.kununu.com/de/mobisol
     website: http://www.plugintheworld.com/
@@ -143,6 +158,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 3.2
   - name: Power Plus Communications
     review: https://www.kununu.com/de/power-plus-communications3
     website: https://www.ppc-ag.de
@@ -152,6 +168,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    rating: 4.0
   - name: Digsilent
     review: https://www.kununu.com/de/digsilent
     website: https://www.digsilent.de/de/home.html
@@ -161,6 +178,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    rating: 4.6
   - name: smartblue AG
     review:
     website: http://www.smartblue.de
@@ -170,6 +188,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating:
   - name: SENEC
     review: https://www.kununu.com/de/senec1
     website: https://www.senec.com
@@ -179,6 +198,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 3.4
   - name: KACO new energy
     review: https://www.kununu.com/de/kaco-new-energy4
     website: https://kaco-newenergy.com
@@ -188,6 +208,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 3.0
   - name: greenergetic
     review: https://www.kununu.com/de/kaco-new-energy4
     website: https://www.greenergetic.de
@@ -197,6 +218,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 3.0
   - name: E3/DC
     review: https://www.kununu.com/de/e3dc2
     website: https://www.e3dc.com/
@@ -206,6 +228,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    rating: 3.4
   - name: Optimax Energy
     review: https://www.kununu.com/de/optimax-energy1
     website: https://www.optimax-energy.de
@@ -215,6 +238,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    rating: 4.6
   - name: DZ-4
     review: https://www.kununu.com/de/dz-41
     website: https://www.dz-4.de/
@@ -224,6 +248,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 4.3
   - name: LichtBlick
     review: https://www.kununu.com/de/lichtblick
     website: https://www.lichtblick.de
@@ -233,6 +258,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 3.7
   - name: ZOLAR
     review: https://www.kununu.com/de/zolar3
     website: https://www.zolar.de/
@@ -242,6 +268,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating: 4.2
   - name: enersol
     review:
     website: https://www.enersol.eu/jobs/
@@ -251,6 +278,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    rating:
   - name: Vytal
     review:
     website: https://www.vytal.org/
@@ -260,6 +288,7 @@ jobs:
     speculative: true
     field: Circular Economy
     country: Germany
+    rating:
   - name: eeMobility
     review: https://www.kununu.com/de/eemobility
     website: https://www.ee-mobility.com
@@ -269,6 +298,7 @@ jobs:
     speculative: true
     field: Electric Mobility
     country: Germany
+    rating: 3.9
   - name: The Mobility House
     review: https://www.kununu.com/de/the-mobility-house1
     website: https://www.mobilityhouse.com
@@ -278,6 +308,7 @@ jobs:
     speculative: false
     field: Electric Mobility
     country: Germany
+    rating: 4.4
   - name: ubitricity
     review: https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh
     website: https://www.ubitricity.com
@@ -287,6 +318,7 @@ jobs:
     speculative: true
     field: Electric Mobility
     country: Germany
+    rating: 3.5
   - name: PlugSurfing
     review:
     website: https://www.plugsurfing.com
@@ -296,6 +328,7 @@ jobs:
     speculative: true
     field: Electric Mobility
     country: Germany
+    rating:
   - name: has-to-be
     review:
     website: https://has-to-be.com
@@ -305,6 +338,7 @@ jobs:
     speculative: true
     field: Electric Mobility
     country: Germany
+    rating:
   - name: fleetster
     review: https://www.kununu.com/de/fleetster-next-generation-mobility-munich
     website: https://www.fleetster.de
@@ -314,6 +348,7 @@ jobs:
     speculative: true
     field: Electric Mobility
     country: Germany
+    rating: 3.9
   - name: Kumpan electric
     review:
     website: https://www.kumpan-electric.com/
@@ -323,6 +358,7 @@ jobs:
     speculative: false
     field: Electric Mobility
     country: Germany
+    rating:
   - name: raumobil
     review: https://www.kununu.com/de/raumobil
     website: https://www.raumobil.com
@@ -332,6 +368,7 @@ jobs:
     speculative: false
     field: Sustainable Mobility
     country: Germany
+    rating: 4.7
   - name: Jobrad
     review: https://www.kununu.com/de/jobrad
     website: https://www.jobrad.org
@@ -341,6 +378,7 @@ jobs:
     speculative: true
     field: Sustainable Mobility
     country: Germany
+    rating: 4.2
   - name: tado°
     review: https://www.kununu.com/de/tado5
     website: https://www.tado.com/
@@ -350,15 +388,17 @@ jobs:
     speculative: true
     field: Energy Efficiency
     country: Germany
+    rating: 4.0
   - name: Energieheld
-    review: https://www.kununu.com/de/search#/?q=Energieheld&country=COUNTRY_DE
-    website:
+    review:
+    website: https://www.energieheld.de/
     jobs: https://www.energieheld.de/ueber-uns/karriere/jobs
     description: Portal zu energetischen Gebäudesanierungen
     remote: false
     speculative: true
     field: Energy Efficiency
     country: Germany
+    rating:
   - name: Passivhaus Institut
     review: https://www.kununu.com/de/passivhaus-institut
     website: https://passiv.de/
@@ -368,6 +408,7 @@ jobs:
     speculative: false
     field: Energy Efficiency
     country: Germany
+    rating: 2.3
   - name: Stiftung Energieeffizienz
     review:
     website: https://stiftung-energieeffizienz.org/
@@ -377,6 +418,7 @@ jobs:
     speculative: false
     field: Energy Efficiency
     country: Germany
+    rating:
   - name: Wunder Mobility
     review: https://www.kununu.com/de/wunder-mobility
     website: https://www.wundermobility.com/
@@ -386,6 +428,7 @@ jobs:
     speculative: true
     field: Sharing Economy
     country: Germany
+    rating: 3.7
   - name: nextbike
     review: https://www.kununu.com/de/nextbike1
     website: https://www.nextbike.de
@@ -395,6 +438,7 @@ jobs:
     speculative: false
     field: Sharing Economy
     country: Germany
+    rating: 3.2
   - name: car2go
     review: https://www.kununu.com/de/car2go
     website: https://www.share-now.com/de/de/
@@ -404,6 +448,7 @@ jobs:
     speculative: false
     field: Sharing Economy
     country: Germany
+    rating: 3.1
   - name: Free2Move
     review: https://www.kununu.com/de/free2move
     website: https://www.free2move.com
@@ -413,6 +458,7 @@ jobs:
     speculative: false
     field: Sharing Economy
     country: Germany
+    rating: 4.8
   - name: INVERS
     review: https://www.kununu.com/de/inversgmbh
     website: https://invers.com
@@ -422,6 +468,7 @@ jobs:
     speculative: true
     field: Sharing Economy
     country: Germany
+    rating: 4.4
   - name: Cambio Carsharing
     review: https://www.kununu.com/de/cambio-stadtteilauto-carsharing1
     website: https://www.cambio-carsharing.de/
@@ -431,6 +478,7 @@ jobs:
     speculative: false
     field: Sharing Economy
     country: Germany
+    rating: 4.1
   - name: emmy
     review: https://www.kununu.com/de/emmy-sharing1
     website: https://emmy-sharing.de/
@@ -440,6 +488,7 @@ jobs:
     speculative: true
     field: Sharing Economy
     country: Germany
+    rating: 3.8
   - name: Avocado Store
     review: https://www.kununu.com/de/avocado-store
     website: https://www.avocadostore.de/
@@ -449,6 +498,7 @@ jobs:
     speculative: false
     field: Sustainable Consumption
     country: Germany
+    rating: 3.0
   - name: momox
     review: https://www.kununu.com/de/momox
     website: https://www.momox.de/
@@ -458,6 +508,7 @@ jobs:
     speculative: true
     field: Sustainable Consumption
     country: Germany
+    rating: 3.6
   - name: Grüne Erde
     review: https://www.kununu.com/at/gruene-erde
     website: https://www.grueneerde.com
@@ -467,6 +518,7 @@ jobs:
     speculative: true
     field: Sustainable Consumption
     country: Austria
+    rating: 3.8
   - name: fairmondo
     review:
     website: https://www.fairmondo.de
@@ -476,6 +528,7 @@ jobs:
     speculative: false
     field: Sustainable Consumption
     country: Germany
+    rating:
   - name: Waschbär
     review: https://www.kununu.com/de/waschbaer-umweltversand-triaz
     website: https://www.waschbaer.de
@@ -485,6 +538,7 @@ jobs:
     speculative: true
     field: Sustainable Consumption
     country: Germany
+    rating: 2.8
   - name: ifu
     review: https://www.kununu.com/de/ifu-hamburg1
     website: https://www.ifu.com/
@@ -494,6 +548,7 @@ jobs:
     speculative: true
     field: Misc.
     country: Germany
+    rating: 4.5
   - name: Wikimedia
     review: https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v
     website: https://www.wikimedia.de/
@@ -503,6 +558,7 @@ jobs:
     speculative: false
     field: Misc.
     country: Germany
+    rating: 3.4
   - name: ShareTheMeal
     review:
     website: https://sharethemeal.org/de
@@ -512,6 +568,7 @@ jobs:
     speculative: false
     field: Misc.
     country: Germany
+    rating:
   - name: ClimatePartner
     review: https://www.kununu.com/de/climatepartner
     website: https://www.climatepartner.com/de
@@ -521,6 +578,7 @@ jobs:
     speculative: true
     field: Misc.
     country: Germany
+    rating: 4.4
   - name: iPoint
     review: https://www.kununu.com/de/ipoint-systems1
     website: https://www.ipoint-systems.com/de/
@@ -530,6 +588,7 @@ jobs:
     speculative: true
     field: Misc.
     country: Germany
+    rating: 3.6
   - name: betterplace
     review: https://www.kununu.com/de/ipoint-systems1
     website: https://www.betterplace.org/de
@@ -539,6 +598,7 @@ jobs:
     speculative: false
     field: Misc.
     country: Germany
+    rating: 3.6
   - name: Tomorrow
     review: https://www.kununu.com/de/tomorrow2
     website: https://www.tomorrow.one
@@ -548,6 +608,7 @@ jobs:
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
     country: Germany
+    rating: 4.6
   - name: WAVES
     review:
     website: https://waves.lu
@@ -557,6 +618,7 @@ jobs:
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
     country: Luxembourg
+    rating:
   - name: ecosia
     review: https://www.kununu.com/de/ecosia
     website: https://www.ecosia.org/
@@ -566,6 +628,7 @@ jobs:
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
     country: Germany
+    rating: 3.4
   - name: InFarm
     review: https://www.kununu.com/de/infarm
     website: https://www.infarm.com
@@ -575,6 +638,7 @@ jobs:
     speculative: false
     field: Misc.
     country: Germany
+    rating: 3.1
   - name: Sylvera
     review:
     website: https://www.sylvera.io
@@ -584,6 +648,7 @@ jobs:
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
     country: UK
+    rating:
   - name: Startnext
     review: https://www.kununu.com/de/startnext-crowdfunding
     website: https://www.startnext.com
@@ -593,6 +658,7 @@ jobs:
     speculative: true
     field: Misc.
     country: Germany
+    rating: 4.5
   - name: Octopus Energy
     review:
     website: https://octopus.energy
@@ -602,6 +668,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: UK
+    rating:
   - name: OVO Energy
     review:
     website: https://www.ovoenergy.com/
@@ -611,6 +678,7 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: UK
+    rating:
   - name: Clim8 Invest
     review:
     website: https://clim8invest.com/
@@ -620,6 +688,7 @@ jobs:
     speculative: false
     field: Misc.
     country: UK
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
