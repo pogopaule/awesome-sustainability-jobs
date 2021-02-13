@@ -689,6 +689,36 @@ jobs:
     field: Misc.
     country: UK
     rating:
+  - name: Ampeers Energy
+    review: https://www.kununu.com/de/ampeers-energy
+    website: https://ampeersenergy.de/
+    jobs: https://ampeersenergy.de/karriere/
+    description: Dezentrale Energie
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+    rating: 4.9
+  - name: EINHUNDERT Energie
+    review: https://www.kununu.com/de/einhundert-energie
+    website: https://einhundert-energie.de/
+    jobs: https://einhundert-energie.de/stellenangebote/
+    description: Mieterstrom
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+    rating: 4.5
+  - name: Seven2one
+    review: https://www.kununu.com/de/seven2one-informationssysteme1
+    website: https://www.seven2one.de/
+    jobs: https://www.seven2one.de/seven2one/karriere/
+    description: Anbieter individueller Softwarelösungen für die neue, dezentrale und digitalisierte Energiewelt
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+    rating: 4.5
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
