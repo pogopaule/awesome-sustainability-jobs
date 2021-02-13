@@ -1,45 +1,44 @@
-import yaml
-import itertools
-from jinja2 import Template
 import re
+from itertools import groupby
+import yaml
+from jinja2 import Template
+
 
 def nest(seq, keys):
     if not keys:
         return seq
 
-    first, *rest = keys
+    first_key, *rest_keys = keys
 
-    keyfunc = lambda x: x[first]
-    grouped = itertools.groupby(sorted(seq, key=keyfunc), key=keyfunc)
+    keyfunc = lambda x: x[first_key]
+    grouped = groupby(sorted(seq, key=keyfunc), key=keyfunc)
     result = {}
-    for k, v in grouped:
-        result[k] = nest(list(v), rest)
+    for key, value in grouped:
+        result[key] = nest(list(value), rest_keys)
 
     return result
 
-def tocLink(link):
-    return "#" + re.sub(r"[^a-zA-Z-]", '', link.lower().replace(' ', '-'))
+
+def toc_link(link):
+    return "#" + re.sub(r"[^a-zA-Z-]", "", link.lower().replace(" ", "-"))
 
 
-
-with open("data.yaml", 'r') as stream:
+with open("data.yaml", "r") as stream:
     try:
-        data = yaml.safe_load(stream)
+        DATA = yaml.safe_load(stream)
 
-        nestedJobs = nest(data['jobs'], ['field', 'country'])
-        fields = nestedJobs.keys()
-        nestedJobportals = nest(data['jobportals'], ['country'])
+        NESTED_JOBS = nest(DATA["jobs"], ["field", "country"])
+        FIELDS = NESTED_JOBS.keys()
+        NESTED_JOBPORTALS = nest(DATA["jobportals"], ["country"])
 
-        template = Template(open('template.md').read())
+        TEMPLATE = Template(open("template.md").read())
 
-        readme = template.render(jobs=nestedJobs, jobportals=nestedJobportals, tocLink=tocLink)
+        README = TEMPLATE.render(
+            jobs=NESTED_JOBS, jobportals=NESTED_JOBPORTALS, toc_link=toc_link
+        )
 
         with open("../README.md", "w") as readme_file:
-            readme_file.write(readme)
+            readme_file.write(README)
 
     except yaml.YAMLError as error:
         print(error)
-
-
-
-

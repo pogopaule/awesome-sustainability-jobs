@@ -4,7 +4,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 [Contributions](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/CONTRIBUTING.md) are highly appreciated. Especially for jobs outside of Germany.
 
 {% for field in jobs.keys() -%}
-- [{{field}}]({{tocLink(field)}})
+- [{{field}}]({{toc_link(field)}})
 {% endfor -%}
 - [Jobportals](#jobportals)
 
