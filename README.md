@@ -27,6 +27,8 @@ re. = has at least one remote job offering
 | - | - | - | - | - | - |
 | [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | [4.6/5](https://www.kununu.com/de/tomorrow2) | CO2-neutrales Bankkonto |  |  |
 | [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | [3.4/5](https://www.kununu.com/de/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ |
+| [Klima](https://klima.com/) | [jobs](https://klima.com/about/#jobs) |  | Carbon Offset App |  |  |
+| [Planetly](https://www.planetly.org/) | [jobs](https://planetly.jobs.personio.de/) | [3.9/5](https://www.kununu.com/de/planetly1/bewerbung) | Carbon Offsetting für Unternehmen | ✅ |  |
 
 
 ### Luxembourg
@@ -52,6 +54,7 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [Vytal](https://www.vytal.org/) | [jobs](https://www.vytal.org/jobs) |  | Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food | ✅ |  |
+| [Teqcycle](https://www.teqcycle.com) | [jobs](https://www.teqcycle.com/de/jobs/) | [4.0/5](https://www.kununu.com/de/teqcycle-solutions) | Rücknahme gebrauchter, mobiler Endgeräte |  |  |
 
 
 

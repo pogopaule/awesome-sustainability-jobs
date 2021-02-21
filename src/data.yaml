@@ -719,6 +719,36 @@ jobs:
     field: Renewable Energies
     country: Germany
     rating: 4.5
+  - name: Teqcycle
+    review: https://www.kununu.com/de/teqcycle-solutions
+    website: https://www.teqcycle.com
+    jobs: https://www.teqcycle.com/de/jobs/
+    description: Rücknahme gebrauchter, mobiler Endgeräte
+    remote: false
+    speculative: false
+    field: Circular Economy
+    country: Germany
+    rating: 4.0
+  - name: Klima
+    review:
+    website: https://klima.com/
+    jobs: https://klima.com/about/#jobs
+    description: Carbon Offset App
+    remote: false
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    country: Germany
+    rating:
+  - name: Planetly
+    review: https://www.kununu.com/de/planetly1/bewerbung
+    website: https://www.planetly.org/
+    jobs: https://planetly.jobs.personio.de/
+    description: Carbon Offsetting für Unternehmen
+    remote: false
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    country: Germany
+    rating: 3.9
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
