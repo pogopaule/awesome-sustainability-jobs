@@ -749,6 +749,26 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     country: Germany
     rating: 3.9
+  - name: enersis
+    review: https://www.kununu.com/de/enersis-europe
+    website: https://www.enersis.ch/
+    jobs: https://www.enersis.ch/karriere/
+    description: Digitale Plattformen zur Planung und Simulation der Energiewende
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Germany
+    rating: 4.3
+  - name: enersis
+    review: https://www.kununu.com/de/enersis-europe
+    website: https://www.enersis.ch/
+    jobs: https://www.enersis.ch/karriere/
+    description: Digitale Plattformen zur Planung und Simulation der Energiewende
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: Switzerland
+    rating: 4.3
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
