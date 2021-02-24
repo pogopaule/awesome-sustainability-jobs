@@ -38,7 +38,7 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
-    rating: 4.4
+    rating: 4.3
   - name: energy & meteo systems
     review: https://www.kununu.com/de/energy-meteo-systems
     website: https://www.energymeteo.de
@@ -308,7 +308,7 @@ jobs:
     speculative: false
     field: Electric Mobility
     country: Germany
-    rating: 4.4
+    rating: 4.5
   - name: ubitricity
     review: https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh
     website: https://www.ubitricity.com
@@ -428,7 +428,7 @@ jobs:
     speculative: true
     field: Sharing Economy
     country: Germany
-    rating: 3.7
+    rating: 3.8
   - name: nextbike
     review: https://www.kununu.com/de/nextbike1
     website: https://www.nextbike.de
@@ -538,7 +538,7 @@ jobs:
     speculative: true
     field: Sustainable Consumption
     country: Germany
-    rating: 2.8
+    rating: 3.0
   - name: ifu
     review: https://www.kununu.com/de/ifu-hamburg1
     website: https://www.ifu.com/
@@ -608,7 +608,7 @@ jobs:
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
     country: Germany
-    rating: 4.6
+    rating: 4.5
   - name: WAVES
     review:
     website: https://waves.lu
