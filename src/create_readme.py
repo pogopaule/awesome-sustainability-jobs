@@ -27,7 +27,7 @@ with open("data.yaml", "r") as stream:
     try:
         DATA = yaml.safe_load(stream)
 
-        NESTED_JOBS = nest(DATA["jobs"], ["field", "country"])
+        NESTED_JOBS = nest(DATA["jobs"], ["country", "field"])
         FIELDS = NESTED_JOBS.keys()
         NESTED_JOBPORTALS = nest(DATA["jobportals"], ["country"])
 

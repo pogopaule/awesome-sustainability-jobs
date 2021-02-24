@@ -3,15 +3,11 @@
 A curated list of awesome dev jobs in the sustainability sector.\
 [Contributions](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/CONTRIBUTING.md) are highly appreciated. Especially for jobs outside of Germany.
 
-- [Carbon Analysis, Capture and Offsetting](#carbon-analysis-capture-and-offsetting)
-- [Circular Economy](#circular-economy)
-- [Electric Mobility](#electric-mobility)
-- [Energy Efficiency](#energy-efficiency)
-- [Misc.](#misc)
-- [Renewable Energies](#renewable-energies)
-- [Sharing Economy](#sharing-economy)
-- [Sustainable Consumption](#sustainable-consumption)
-- [Sustainable Mobility](#sustainable-mobility)
+- [Austria](#austria)
+- [Germany](#germany)
+- [Luxembourg](#luxembourg)
+- [Switzerland](#switzerland)
+- [UK](#uk)
 - [Jobportals](#jobportals)
 
 ---
@@ -19,9 +15,20 @@ A curated list of awesome dev jobs in the sustainability sector.\
 sp. = speculative applications accepted\
 re. = has at least one remote job offering
 
-## Carbon Analysis, Capture and Offsetting
+## Austria
 
-### Germany
+### Sustainable Consumption
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Grüne Erde](https://www.grueneerde.com) | [jobs](https://karriere.grueneerde.com/jobs/) | [3.8/5](https://www.kununu.com/at/gruene-erde) | Online Shop von Grüne Erde | ✅ |  |
+
+
+
+
+## Germany
+
+### Carbon Analysis, Capture and Offsetting
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -31,25 +38,7 @@ re. = has at least one remote job offering
 | [Planetly](https://www.planetly.org/) | [jobs](https://planetly.jobs.personio.de/) | [3.9/5](https://www.kununu.com/de/planetly1/bewerbung) | Carbon Offsetting für Unternehmen | ✅ |  |
 
 
-### Luxembourg
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [WAVES](https://waves.lu) | [jobs](https://waves.lu/de/karriere/) |  | Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen |  |  |
-
-
-### UK
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) |  | quantitative and qualitative data on offset projects |  | ✅ |
-
-
-
-
-## Circular Economy
-
-### Germany
+### Circular Economy
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -57,11 +46,7 @@ re. = has at least one remote job offering
 | [Teqcycle](https://www.teqcycle.com) | [jobs](https://www.teqcycle.com/de/jobs/) | [4.0/5](https://www.kununu.com/de/teqcycle-solutions) | Rücknahme gebrauchter, mobiler Endgeräte |  |  |
 
 
-
-
-## Electric Mobility
-
-### Germany
+### Electric Mobility
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -74,11 +59,7 @@ re. = has at least one remote job offering
 | [Kumpan electric](https://www.kumpan-electric.com/) | [jobs](https://www.kumpan-electric.com/karriere/) |  | Hersteller von E-Rollern |  |  |
 
 
-
-
-## Energy Efficiency
-
-### Germany
+### Energy Efficiency
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -88,11 +69,7 @@ re. = has at least one remote job offering
 | [Stiftung Energieeffizienz](https://stiftung-energieeffizienz.org/) | [jobs](https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1ghijkmtulnopqrs5&jtz=12&s=java&id=88697&anz=html) |  | Entwicklung einer sustainable data platform |  |  |
 
 
-
-
-## Misc.
-
-### Germany
+### Misc.
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -106,18 +83,7 @@ re. = has at least one remote job offering
 | [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | [4.5/5](https://www.kununu.com/de/startnext-crowdfunding) | Crowdfunding | ✅ |  |
 
 
-### UK
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) |  | Investments into clean energy and green, sustainable companies |  |  |
-
-
-
-
-## Renewable Energies
-
-### Germany
+### Renewable Energies
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -152,21 +118,10 @@ re. = has at least one remote job offering
 | [Ampeers Energy](https://ampeersenergy.de/) | [jobs](https://ampeersenergy.de/karriere/) | [4.9/5](https://www.kununu.com/de/ampeers-energy) | Dezentrale Energie |  |  |
 | [EINHUNDERT Energie](https://einhundert-energie.de/) | [jobs](https://einhundert-energie.de/stellenangebote/) | [4.5/5](https://www.kununu.com/de/einhundert-energie) | Mieterstrom |  |  |
 | [Seven2one](https://www.seven2one.de/) | [jobs](https://www.seven2one.de/seven2one/karriere/) | [4.5/5](https://www.kununu.com/de/seven2one-informationssysteme1) | Anbieter individueller Softwarelösungen für die neue, dezentrale und digitalisierte Energiewelt | ✅ |  |
+| [enersis](https://www.enersis.ch/) | [jobs](https://www.enersis.ch/karriere/) | [4.3/5](https://www.kununu.com/de/enersis-europe) | Digitale Plattformen zur Planung und Simulation der Energiewende |  |  |
 
 
-### UK
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) |  | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
-| [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) |  | UK-based green electricity supplier |  |  |
-
-
-
-
-## Sharing Economy
-
-### Germany
+### Sharing Economy
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -179,18 +134,7 @@ re. = has at least one remote job offering
 | [emmy](https://emmy-sharing.de/) | [jobs](https://emmy-sharing.de/stellenangebote/) | [3.8/5](https://www.kununu.com/de/emmy-sharing1) | Elektro-Roller Sharing | ✅ |  |
 
 
-
-
-## Sustainable Consumption
-
-### Austria
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [Grüne Erde](https://www.grueneerde.com) | [jobs](https://karriere.grueneerde.com/jobs/) | [3.8/5](https://www.kununu.com/at/gruene-erde) | Online Shop von Grüne Erde | ✅ |  |
-
-
-### Germany
+### Sustainable Consumption
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -200,16 +144,60 @@ re. = has at least one remote job offering
 | [Waschbär](https://www.waschbaer.de) | [jobs](https://www.waschbaer.de/shop/ueber-uns/karriere/stellenangebote) | [2.8/5](https://www.kununu.com/de/waschbaer-umweltversand-triaz) | Online Shop für umweltgerechte und sozialverträgliche Produkte | ✅ |  |
 
 
-
-
-## Sustainable Mobility
-
-### Germany
+### Sustainable Mobility
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [raumobil](https://www.raumobil.com) | [jobs](https://www.raumobil.com/jobs) | [4.7/5](https://www.kununu.com/de/raumobil) | smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen |  |  |
 | [Jobrad](https://www.jobrad.org) | [jobs](https://www.jobrad.org/ueber-uns/karriere.html) | [4.2/5](https://www.kununu.com/de/jobrad) | Diensträder | ✅ |  |
+
+
+
+
+## Luxembourg
+
+### Carbon Analysis, Capture and Offsetting
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [WAVES](https://waves.lu) | [jobs](https://waves.lu/de/karriere/) |  | Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen |  |  |
+
+
+
+
+## Switzerland
+
+### Renewable Energies
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [enersis](https://www.enersis.ch/) | [jobs](https://www.enersis.ch/karriere/) | [4.3/5](https://www.kununu.com/de/enersis-europe) | Digitale Plattformen zur Planung und Simulation der Energiewende |  |  |
+
+
+
+
+## UK
+
+### Carbon Analysis, Capture and Offsetting
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) |  | quantitative and qualitative data on offset projects |  | ✅ |
+
+
+### Misc.
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) |  | Investments into clean energy and green, sustainable companies |  |  |
+
+
+### Renewable Energies
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) |  | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
+| [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) |  | UK-based green electricity supplier |  |  |
 
 
 
