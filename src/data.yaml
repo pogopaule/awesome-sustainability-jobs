@@ -769,6 +769,56 @@ jobs:
     field: Renewable Energies
     country: Switzerland
     rating: 4.3
+  - name: Tomorrow
+    review:
+    website: https://www.tmrow.com/
+    jobs: https://www.tmrow.com/jobs/
+    description: Tech to empower people and organisations to understand and reduce their carbon footprint
+    remote: false
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    country: Denmark
+    rating:
+  - name: LivingPackets
+    review:
+    website: https://livingpackets.com
+    jobs: https://livingpackets.com/jobs
+    description: Wiederverwendbare Versandboxen
+    remote: false
+    speculative: false
+    field: Circular Economy
+    country: Germany
+    rating:
+  - name: Klima.Metrix
+    review:
+    website: https://klimametrix.global/
+    jobs: https://klimametrix.join.com/
+    description: Automatisierte CO2 Footprint Kalkulation
+    remote: false
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    country: Germany
+    rating:
+  - name: Enpal
+    review: https://www.kununu.com/de/enpal
+    website: https://www.enpal.de/
+    jobs: https://www.enpal.de/jobs
+    description: Solaranlagen mieten
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+    rating: 3.7
+  - name: node.energy
+    review:
+    website: https://www.node.energy/
+    jobs: https://www.node.energy/karriere
+    description: Automatisierung von Management und Planung von klimafreundlichen Energielösungen
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
