@@ -819,6 +819,16 @@ jobs:
     field: Renewable Energies
     country: Germany
     rating:
+  - name: enyway
+    review: https://www.kununu.com/de/enyway1
+    website: https://www.enyway.com/de
+    jobs: https://enyway.softgarden.io/de/vacancies
+    description: Regionaler Ökostrom und CO2-Kompensation mit Rendite
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+    rating: 4.6
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
