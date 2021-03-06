@@ -7,8 +7,10 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [Denmark](#denmark)
 - [Germany](#germany)
 - [Luxembourg](#luxembourg)
+- [Netherlands](#netherlands)
 - [Switzerland](#switzerland)
 - [UK](#uk)
+- [USA](#usa)
 - [Jobportals](#jobportals)
 
 ---
@@ -182,6 +184,17 @@ re. = has at least one remote job offering
 
 
 
+## Netherlands
+
+### Circular Economy
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Circularise](https://www.circularise.com/) | [jobs](https://www.circularise.com/careers-circularise) |  | Supply Chain Transparency for a Circular Economy |  |  |
+
+
+
+
 ## Switzerland
 
 ### Renewable Energies
@@ -215,6 +228,17 @@ re. = has at least one remote job offering
 | - | - | - | - | - | - |
 | [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) |  | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
 | [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) |  | UK-based green electricity supplier |  |  |
+
+
+
+
+## USA
+
+### Renewable Energies
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Aurora Solar](https://www.aurorasolar.com/) | [jobs](https://www.aurorasolar.com/careers/) |  | Software for Solar Design and Sales |  |  |
 
 
 

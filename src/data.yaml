@@ -829,6 +829,26 @@ jobs:
     field: Renewable Energies
     country: Germany
     rating: 4.6
+  - name: Circularise
+    review:
+    website: https://www.circularise.com/
+    jobs: https://www.circularise.com/careers-circularise
+    description: Supply Chain Transparency for a Circular Economy
+    remote: false
+    speculative: false
+    field: Circular Economy
+    country: Netherlands
+    rating:
+  - name: Aurora Solar
+    review:
+    website: https://www.aurorasolar.com/
+    jobs: https://www.aurorasolar.com/careers/
+    description: Software for Solar Design and Sales
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: USA
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
