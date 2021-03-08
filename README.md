@@ -8,6 +8,7 @@ A curated list of awesome dev jobs in the sustainability sector.\
 - [Germany](#germany)
 - [Luxembourg](#luxembourg)
 - [Netherlands](#netherlands)
+- [Romania](#romania)
 - [Switzerland](#switzerland)
 - [UK](#uk)
 - [USA](#usa)
@@ -51,6 +52,7 @@ re. = has at least one remote job offering
 | [Klima](https://klima.com/) | [jobs](https://klima.com/about/#jobs) |  | Carbon Offset App |  |  |
 | [Planetly](https://www.planetly.org/) | [jobs](https://planetly.jobs.personio.de/) | [3.9/5](https://www.kununu.com/de/planetly1/bewerbung) | Carbon Offsetting für Unternehmen | ✅ |  |
 | [Klima.Metrix](https://klimametrix.global/) | [jobs](https://klimametrix.join.com/) |  | Automatisierte CO2 Footprint Kalkulation |  |  |
+| [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
 
 
 ### Circular Economy
@@ -138,6 +140,7 @@ re. = has at least one remote job offering
 | [Enpal](https://www.enpal.de/) | [jobs](https://www.enpal.de/jobs) | [3.7/5](https://www.kununu.com/de/enpal) | Solaranlagen mieten | ✅ |  |
 | [node.energy](https://www.node.energy/) | [jobs](https://www.node.energy/karriere) |  | Automatisierung von Management und Planung von klimafreundlichen Energielösungen | ✅ |  |
 | [enyway](https://www.enyway.com/de) | [jobs](https://enyway.softgarden.io/de/vacancies) | [4.6/5](https://www.kununu.com/de/enyway1) | Regionaler Ökostrom und CO2-Kompensation mit Rendite | ✅ |  |
+| [Octopus Energy](https://www.octopusenergy.de/) | [jobs](https://www.octopusenergy.de/karriere) | [4.8/5](https://www.kununu.com/de/octopus-energy-germany) | Ökostromanbieter, der auf Digitalisierung setzt | ✅ |  |
 
 
 ### Sharing Economy
@@ -195,7 +198,25 @@ re. = has at least one remote job offering
 
 
 
+## Romania
+
+### Misc.
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [winnow](https://www.winnowsolutions.com) | [jobs](https://www.winnowsolutions.com/en/careers) |  | Reduction of food waste in commercial kitchens |  |  |
+
+
+
+
 ## Switzerland
+
+### Carbon Analysis, Capture and Offsetting
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
+
 
 ### Renewable Energies
 
@@ -239,6 +260,7 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [Aurora Solar](https://www.aurorasolar.com/) | [jobs](https://www.aurorasolar.com/careers/) |  | Software for Solar Design and Sales |  |  |
+| [Arcadia](https://www.arcadia.com/) | [jobs](https://welcome.arcadia.com/careers) |  | Tech platform that makes clean energy accessible in the USA |  |  |
 
 
 

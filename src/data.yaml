@@ -849,6 +849,56 @@ jobs:
     field: Renewable Energies
     country: USA
     rating:
+  - name: Arcadia
+    review:
+    website: https://www.arcadia.com/
+    jobs: https://welcome.arcadia.com/careers
+    description: Tech platform that makes clean energy accessible in the USA
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    country: USA
+    rating:
+  - name: Octopus Energy
+    review: https://www.kununu.com/de/octopus-energy-germany
+    website: https://www.octopusenergy.de/
+    jobs: https://www.octopusenergy.de/karriere
+    description: Ökostromanbieter, der auf Digitalisierung setzt
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    country: Germany
+    rating: 4.8
+  - name: myclimate
+    review:
+    website: https://www.myclimate.org
+    jobs: https://www.myclimate.org/information/about-myclimate/jobs/
+    description: Beratung, Bildung und Projekte rund um das Thema Klimaschutz
+    remote: false
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    country: Germany
+    rating:
+  - name: myclimate
+    review:
+    website: https://www.myclimate.org
+    jobs: https://www.myclimate.org/information/about-myclimate/jobs/
+    description: Beratung, Bildung und Projekte rund um das Thema Klimaschutz
+    remote: false
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    country: Switzerland
+    rating:
+  - name: winnow
+    review:
+    website: https://www.winnowsolutions.com
+    jobs: https://www.winnowsolutions.com/en/careers
+    description: Reduction of food waste in commercial kitchens
+    remote: false
+    speculative: false
+    field: Misc.
+    country: Romania
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
