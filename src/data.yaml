@@ -8,6 +8,9 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    geo:
+      lat: 48.0931148
+      long: 7.9574894
     rating: 4.9
   - name: Greenpeace Energy eG
     review: https://www.kununu.com/de/greenpeace-energy-eg2
@@ -18,6 +21,9 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    geo:
+      lat: 48.0931148
+      long: 7.9574894
     rating: 3.6
   - name: BELECTRIC
     review: https://www.kununu.com/de/belectric1
@@ -28,6 +34,9 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    geo:
+      lat: 49.91404
+      long: 10.2377113
     rating: 3.0
   - name: Next Kraftwerke
     review: https://www.kununu.com/de/next-kraftwerke1
@@ -38,6 +47,9 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    geo:
+      lat: 48.0931148
+      long: 7.9574894
     rating: 4.3
   - name: energy & meteo systems
     review: https://www.kununu.com/de/energy-meteo-systems
@@ -48,6 +60,9 @@ jobs:
     speculative: true
     field: Renewable Energies
     country: Germany
+    geo:
+      lat: 53.1302601
+      long: 8.153105
     rating: 3.8
   - name: DrehPunkt
     review: https://www.kununu.com/de/drehpunkt2
@@ -58,6 +73,9 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    geo:
+      lat: 48.0931148
+      long: 7.9574894
     rating: 4.5
   - name: meteocontrol
     review: https://www.kununu.com/de/meteocontrol1
@@ -68,6 +86,9 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    geo:
+      lat: 48.3670875
+      long: 10.8661464
     rating: 3.9
   - name: sma
     review: https://www.kununu.com/de/sma-solar-technology
@@ -78,6 +99,9 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: Germany
+    geo:
+      lat: 51.3151566
+      long: 9.536631
     rating: 3.8
   - name: sonnen
     review: https://www.kununu.com/de/sonnen-gmbh
@@ -898,6 +922,33 @@ jobs:
     speculative: false
     field: Misc.
     country: Romania
+    geo:
+    rating:
+  - name: MOQO
+    review: https://www.kununu.com/de/digital-mobility-solutions2
+    website: https://moqo.de/
+    jobs: https://moqo.de/jobs
+    description: Software für Shared Mobility Projekte
+    remote: false
+    speculative: true
+    field: Sharing Economy
+    country: Germany
+    geo:
+      lat: 50.7704743
+      long: 6.0714455
+    rating: 4.4
+  - name: Too Good To Go
+    review:
+    website: https://toogoodtogo.org/en
+    jobs: https://toogoodtogo.org/en/careers
+    description: Anti food waste app
+    remote: false
+    speculative: false
+    field: Misc.
+    country: Denmark
+    geo:
+      lat: 55.7129716,
+      long: 12.5675979
     rating:
 jobportals:
   - name: eejobs.de
