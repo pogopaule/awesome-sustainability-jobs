@@ -3,6 +3,8 @@
 A curated list of awesome dev jobs in the sustainability sector.\
 [Contributions](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/CONTRIBUTING.md) are highly appreciated. Especially for jobs outside of Germany.
 
+Looking for open source projects instead? [Go here](https://github.com/protontypes/open-sustainable-technology)
+
 - [Austria](#austria)
 - [Denmark](#denmark)
 - [Germany](#germany)
