@@ -953,37 +953,37 @@ jobs:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
-    description: Jobbörse für erneuerbare Energien
     country: Germany
   - name: GoodJobs
     website: https://goodjobs.eu/de
-    description: Jobbörse für nachhaltige Jobs mit Sinn
     country: Germany
   - name: NachhaltigeJobs.de
     website: https://www.nachhaltigejobs.de/
-    description: CSR, NGO und Umwelt Jobs
     country: Germany
   - name: Impactify
     website: https://impactify.de/
-    description: Impactify durchforstet das Netz nach Jobs aus den Bereichen Nachhaltigkeit, CSR, Umwelt
     country: Germany
   - name: For Purpose Jobs
     website: https://forpurposejobs.com/job-industry/developer-jobs/#
-    description: Jobs site for the environmentally and socially conscious
     country: UK
   - name: tbd.community
     website: https://www.tbd.community/de/jobs
-    description: Jobs mit Sinn
     country: Germany
   - name: greenjobs
     website: https://www.greenjobs.de/index.html
-    description: Jobbörse für Umweltfachkräfte
     country: Germany
   - name: Green Recruitment
     website: https://www.greenrecruitmentcompany.com/
-    description: Recruitment company based in London
     country: Worldwide
   - name: Climatebase
     website: https://climate.careers
-    description: Jobs at organizations working to solve climate change
     country: Worldwide
+  - name: Greenjobs
+    website: https://greenjobs.nl/
+    country: Netherlands
+  - name: Tech Jobs for Good
+    website: https://techjobsforgood.com/
+    country: USA
+  - name: Nachhaltige-Jobs.ch
+    website: https://nachhaltige-jobs.ch/
+    country: Switzerland

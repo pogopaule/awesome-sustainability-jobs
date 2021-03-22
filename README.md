@@ -281,28 +281,37 @@ re. = has at least one remote job offering
 
 ### Germany
 
-| portal | description |
-| - | - |
-| [eejobs.de](https://www.eejobs.de/) | Jobbörse für erneuerbare Energien |
-| [GoodJobs](https://goodjobs.eu/de) | Jobbörse für nachhaltige Jobs mit Sinn |
-| [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/) | CSR, NGO und Umwelt Jobs |
-| [Impactify](https://impactify.de/) | Impactify durchforstet das Netz nach Jobs aus den Bereichen Nachhaltigkeit, CSR, Umwelt |
-| [tbd.community](https://www.tbd.community/de/jobs) | Jobs mit Sinn |
-| [greenjobs](https://www.greenjobs.de/index.html) | Jobbörse für Umweltfachkräfte |
+* [eejobs.de](https://www.eejobs.de/)
+* [GoodJobs](https://goodjobs.eu/de)
+* [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/)
+* [Impactify](https://impactify.de/)
+* [tbd.community](https://www.tbd.community/de/jobs)
+* [greenjobs](https://www.greenjobs.de/index.html)
+
+
+### Netherlands
+
+* [Greenjobs](https://greenjobs.nl/)
+
+
+### Switzerland
+
+* [Nachhaltige-Jobs.ch](https://nachhaltige-jobs.ch/)
 
 
 ### UK
 
-| portal | description |
-| - | - |
-| [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#) | Jobs site for the environmentally and socially conscious |
+* [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#)
+
+
+### USA
+
+* [Tech Jobs for Good](https://techjobsforgood.com/)
 
 
 ### Worldwide
 
-| portal | description |
-| - | - |
-| [Green Recruitment](https://www.greenrecruitmentcompany.com/) | Recruitment company based in London |
-| [Climatebase](https://climate.careers) | Jobs at organizations working to solve climate change |
+* [Green Recruitment](https://www.greenrecruitmentcompany.com/)
+* [Climatebase](https://climate.careers)
 
 

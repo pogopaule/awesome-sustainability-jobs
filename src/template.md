@@ -36,10 +36,8 @@ re. = has at least one remote job offering
 {% for country, jobportals in jobportals.items() -%}
 ### {{country}}
 
-| portal | description |
-| - | - |
 {% for jobportal in jobportals -%}
-| [{{jobportal.name}}]({{jobportal.website}}) | {{jobportal.description}} |
+* [{{jobportal.name}}]({{jobportal.website}})
 {% endfor %}
 
 {% endfor %}
