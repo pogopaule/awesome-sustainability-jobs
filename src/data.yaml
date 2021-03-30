@@ -22,8 +22,8 @@ jobs:
     field: Renewable Energies
     country: Germany
     geo:
-      lat: 48.0931148
-      long: 7.9574894
+      lat: 53.541784
+      long: 9.9992905
     rating: 3.6
   - name: BELECTRIC
     review: https://www.kununu.com/de/belectric1
@@ -48,8 +48,8 @@ jobs:
     field: Renewable Energies
     country: Germany
     geo:
-      lat: 48.0931148
-      long: 7.9574894
+      lat: 49.7194276
+      long: 6.8603394
     rating: 4.3
   - name: energy & meteo systems
     review: https://www.kununu.com/de/energy-meteo-systems
@@ -74,8 +74,8 @@ jobs:
     field: Renewable Energies
     country: Germany
     geo:
-      lat: 48.0931148
-      long: 7.9574894
+      lat: 54.1721746
+      long: 12.0766473
     rating: 4.5
   - name: meteocontrol
     review: https://www.kununu.com/de/meteocontrol1
@@ -872,6 +872,9 @@ jobs:
     speculative: false
     field: Renewable Energies
     country: USA
+    geo:
+      lat: 37.7795923
+      long: -122.3964395
     rating:
   - name: Arcadia
     review:
@@ -947,7 +950,7 @@ jobs:
     field: Misc.
     country: Denmark
     geo:
-      lat: 55.7129716,
+      lat: 55.7129716
       long: 12.5675979
     rating:
 jobportals:
