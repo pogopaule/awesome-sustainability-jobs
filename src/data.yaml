@@ -1033,6 +1033,33 @@ jobs:
       lat: 55.7129716
       long: 12.5675979
     rating:
+  - name: Spenoki
+    review:
+    website: https://www.spenoki.de/
+    jobs: https://spenoki-career.kenjo.io/
+    description: SaaS-Lösung um Nachhaltigkeit zu analysieren, zu optimieren und zu kommunizieren
+    remote: false
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    country: Germany
+    geo:
+      lat: 47.8776957
+      long: 11.6998051
+    rating:
+  - name: Cooler Future
+    review:
+    website: https://coolerfuture.com/de
+    jobs: https://coolerfuture.com/de/page/careers
+    description: Investments in sustainable portfolio
+    remote: false
+    speculative: true
+    field: Misc.
+    # TODO also Finnland
+    country: Germany
+    geo:
+      lat: 47.8776957
+      long: 11.6998051
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/

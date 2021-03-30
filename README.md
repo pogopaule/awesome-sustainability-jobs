@@ -62,6 +62,7 @@ re. = has at least one remote job offering
 | [Planetly](https://www.planetly.org/) | [jobs](https://planetly.jobs.personio.de/) | [3.9/5](https://www.kununu.com/de/planetly1/bewerbung) | Carbon Offsetting für Unternehmen | ✅ |  |
 | [Klima.Metrix](https://klimametrix.global/) | [jobs](https://klimametrix.join.com/) |  | Automatisierte CO2 Footprint Kalkulation |  |  |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
+| [Spenoki](https://www.spenoki.de/) | [jobs](https://spenoki-career.kenjo.io/) |  | SaaS-Lösung um Nachhaltigkeit zu analysieren, zu optimieren und zu kommunizieren | ✅ |  |
 
 
 ### Circular Economy
@@ -108,6 +109,7 @@ re. = has at least one remote job offering
 | [betterplace](https://www.betterplace.org/de) | [jobs](https://www.betterplace.org/c/stellen) | [3.6/5](https://www.kununu.com/de/ipoint-systems1) | Spendenplattform |  |  |
 | [InFarm](https://www.infarm.com) | [jobs](https://www.infarm.com/en/join-us) | [3.1/5](https://www.kununu.com/de/infarm) | Indoor Farming |  |  |
 | [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | [4.5/5](https://www.kununu.com/de/startnext-crowdfunding) | Crowdfunding | ✅ |  |
+| [Cooler Future](https://coolerfuture.com/de) | [jobs](https://coolerfuture.com/de/page/careers) |  | Investments in sustainable portfolio | ✅ |  |
 
 
 ### Renewable Energies
