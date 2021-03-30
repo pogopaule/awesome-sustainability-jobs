@@ -986,16 +986,6 @@ jobs:
       - country: Germany
         lat:
         long:
-    rating: 4.3
-  - name: enersis
-    review: https://www.kununu.com/de/enersis-europe
-    website: https://www.enersis.ch/
-    jobs: https://www.enersis.ch/karriere/
-    description: Digitale Plattformen zur Planung und Simulation der Energiewende
-    remote: false
-    speculative: false
-    field: Renewable Energies
-    geo:
       - country: Switzerland
         lat:
         long:
@@ -1220,7 +1210,7 @@ jobs:
       - country: Germany
         lat: 47.8776957
         long: 11.6998051
-      - country: Finnland
+      - country: Finland
         lat: 60.1686939
         long: 24.9312832
     rating:

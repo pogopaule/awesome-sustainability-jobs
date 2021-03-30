@@ -7,6 +7,7 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 
 - [Austria](#austria)
 - [Denmark](#denmark)
+- [Finland](#finland)
 - [Germany](#germany)
 - [Luxembourg](#luxembourg)
 - [Netherlands](#netherlands)
@@ -46,6 +47,17 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [Too Good To Go](https://toogoodtogo.org/en) | [jobs](https://toogoodtogo.org/en/careers) |  | Anti food waste app |  |  |
+
+
+
+
+## Finland
+
+### Misc.
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Cooler Future](https://coolerfuture.com/de) | [jobs](https://coolerfuture.com/de/page/careers) |  | Investments in sustainable portfolio | ✅ |  |
 
 
 
