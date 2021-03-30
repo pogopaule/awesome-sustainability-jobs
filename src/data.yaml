@@ -7,10 +7,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
-      lat: 48.0931148
-      long: 7.9574894
+      - country: Germany
+        lat: 48.0931148
+        long: 7.9574894
     rating: 4.9
   - name: Greenpeace Energy eG
     review: https://www.kununu.com/de/greenpeace-energy-eg2
@@ -20,10 +20,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
-      lat: 53.541784
-      long: 9.9992905
+      - country: Germany
+        lat: 53.541784
+        long: 9.9992905
     rating: 3.6
   - name: BELECTRIC
     review: https://www.kununu.com/de/belectric1
@@ -33,10 +33,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
-      lat: 49.91404
-      long: 10.2377113
+      - country: Germany
+        lat: 49.91404
+        long: 10.2377113
     rating: 3.0
   - name: Next Kraftwerke
     review: https://www.kununu.com/de/next-kraftwerke1
@@ -46,10 +46,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
-      lat: 49.7194276
-      long: 6.8603394
+      - country: Germany
+        lat: 49.7194276
+        long: 6.8603394
     rating: 4.3
   - name: energy & meteo systems
     review: https://www.kununu.com/de/energy-meteo-systems
@@ -59,10 +59,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
-      lat: 53.1302601
-      long: 8.153105
+      - country: Germany
+        lat: 53.1302601
+        long: 8.153105
     rating: 3.8
   - name: DrehPunkt
     review: https://www.kununu.com/de/drehpunkt2
@@ -72,10 +72,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
-      lat: 54.1721746
-      long: 12.0766473
+      - country: Germany
+        lat: 54.1721746
+        long: 12.0766473
     rating: 4.5
   - name: meteocontrol
     review: https://www.kununu.com/de/meteocontrol1
@@ -85,10 +85,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
-      lat: 48.3670875
-      long: 10.8661464
+      - country: Germany
+        lat: 48.3670875
+        long: 10.8661464
     rating: 3.9
   - name: sma
     review: https://www.kununu.com/de/sma-solar-technology
@@ -98,10 +98,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
-      lat: 51.3151566
-      long: 9.536631
+      - country: Germany
+        lat: 51.3151566
+        long: 9.536631
     rating: 3.8
   - name: sonnen
     review: https://www.kununu.com/de/sonnen-gmbh
@@ -111,8 +111,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.4
   - name: FENECON
     review: https://www.kununu.com/de/fenecon
@@ -122,8 +124,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.5
   - name: IngSoft
     review: https://www.kununu.com/de/ingsoft1
@@ -133,8 +137,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.4
   - name: Solarschmiede
     review: https://www.kununu.com/de/solarschmiede
@@ -144,8 +150,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.5
   - name: SOLARWATT
     review: https://www.kununu.com/de/solarwatt
@@ -155,8 +163,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.6
   - name: Lumenaza
     review: https://www.kununu.com/de/lumenaza
@@ -166,8 +176,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.5
   - name: Energiedienst
     review: https://www.kununu.com/de/energiedienst-gruppe
@@ -177,8 +189,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.0
   - name: mobisol
     review: https://www.kununu.com/de/mobisol
@@ -188,8 +202,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.2
   - name: Power Plus Communications
     review: https://www.kununu.com/de/power-plus-communications3
@@ -199,8 +215,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.0
   - name: Digsilent
     review: https://www.kununu.com/de/digsilent
@@ -210,8 +228,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.6
   - name: smartblue AG
     review:
@@ -221,8 +241,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: SENEC
     review: https://www.kununu.com/de/senec1
@@ -232,8 +254,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.4
   - name: KACO new energy
     review: https://www.kununu.com/de/kaco-new-energy4
@@ -243,8 +267,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.0
   - name: greenergetic
     review: https://www.kununu.com/de/kaco-new-energy4
@@ -254,8 +280,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.0
   - name: E3/DC
     review: https://www.kununu.com/de/e3dc2
@@ -265,8 +293,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.4
   - name: Optimax Energy
     review: https://www.kununu.com/de/optimax-energy1
@@ -276,8 +306,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.6
   - name: DZ-4
     review: https://www.kununu.com/de/dz-41
@@ -287,8 +319,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.3
   - name: LichtBlick
     review: https://www.kununu.com/de/lichtblick
@@ -298,8 +332,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.7
   - name: ZOLAR
     review: https://www.kununu.com/de/zolar3
@@ -309,8 +345,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.2
   - name: enersol
     review:
@@ -320,8 +358,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: Vytal
     review:
@@ -331,8 +371,10 @@ jobs:
     remote: false
     speculative: true
     field: Circular Economy
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: eeMobility
     review: https://www.kununu.com/de/eemobility
@@ -342,8 +384,10 @@ jobs:
     remote: false
     speculative: true
     field: Electric Mobility
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.9
   - name: The Mobility House
     review: https://www.kununu.com/de/the-mobility-house1
@@ -353,8 +397,10 @@ jobs:
     remote: false
     speculative: false
     field: Electric Mobility
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.5
   - name: ubitricity
     review: https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh
@@ -364,8 +410,10 @@ jobs:
     remote: false
     speculative: true
     field: Electric Mobility
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.5
   - name: PlugSurfing
     review:
@@ -375,8 +423,10 @@ jobs:
     remote: false
     speculative: true
     field: Electric Mobility
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: has-to-be
     review:
@@ -386,8 +436,10 @@ jobs:
     remote: false
     speculative: true
     field: Electric Mobility
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: fleetster
     review: https://www.kununu.com/de/fleetster-next-generation-mobility-munich
@@ -397,8 +449,10 @@ jobs:
     remote: false
     speculative: true
     field: Electric Mobility
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.9
   - name: Kumpan electric
     review:
@@ -408,8 +462,10 @@ jobs:
     remote: false
     speculative: false
     field: Electric Mobility
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: raumobil
     review: https://www.kununu.com/de/raumobil
@@ -419,8 +475,10 @@ jobs:
     remote: false
     speculative: false
     field: Sustainable Mobility
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.7
   - name: Jobrad
     review: https://www.kununu.com/de/jobrad
@@ -430,8 +488,10 @@ jobs:
     remote: false
     speculative: true
     field: Sustainable Mobility
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.2
   - name: tado°
     review: https://www.kununu.com/de/tado5
@@ -441,8 +501,10 @@ jobs:
     remote: false
     speculative: true
     field: Energy Efficiency
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.0
   - name: Energieheld
     review:
@@ -452,8 +514,10 @@ jobs:
     remote: false
     speculative: true
     field: Energy Efficiency
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: Passivhaus Institut
     review: https://www.kununu.com/de/passivhaus-institut
@@ -463,8 +527,10 @@ jobs:
     remote: false
     speculative: false
     field: Energy Efficiency
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 2.3
   - name: Stiftung Energieeffizienz
     review:
@@ -474,8 +540,10 @@ jobs:
     remote: false
     speculative: false
     field: Energy Efficiency
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: Wunder Mobility
     review: https://www.kununu.com/de/wunder-mobility
@@ -485,8 +553,10 @@ jobs:
     remote: false
     speculative: true
     field: Sharing Economy
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.8
   - name: nextbike
     review: https://www.kununu.com/de/nextbike1
@@ -496,8 +566,10 @@ jobs:
     remote: false
     speculative: false
     field: Sharing Economy
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.2
   - name: car2go
     review: https://www.kununu.com/de/car2go
@@ -507,8 +579,10 @@ jobs:
     remote: false
     speculative: false
     field: Sharing Economy
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.1
   - name: Free2Move
     review: https://www.kununu.com/de/free2move
@@ -518,8 +592,10 @@ jobs:
     remote: false
     speculative: false
     field: Sharing Economy
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.8
   - name: INVERS
     review: https://www.kununu.com/de/inversgmbh
@@ -529,8 +605,10 @@ jobs:
     remote: false
     speculative: true
     field: Sharing Economy
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.4
   - name: Cambio Carsharing
     review: https://www.kununu.com/de/cambio-stadtteilauto-carsharing1
@@ -540,8 +618,10 @@ jobs:
     remote: false
     speculative: false
     field: Sharing Economy
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.1
   - name: emmy
     review: https://www.kununu.com/de/emmy-sharing1
@@ -551,8 +631,10 @@ jobs:
     remote: false
     speculative: true
     field: Sharing Economy
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.8
   - name: Avocado Store
     review: https://www.kununu.com/de/avocado-store
@@ -562,8 +644,10 @@ jobs:
     remote: false
     speculative: false
     field: Sustainable Consumption
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.0
   - name: momox
     review: https://www.kununu.com/de/momox
@@ -573,8 +657,10 @@ jobs:
     remote: false
     speculative: true
     field: Sustainable Consumption
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.6
   - name: Grüne Erde
     review: https://www.kununu.com/at/gruene-erde
@@ -584,8 +670,10 @@ jobs:
     remote: false
     speculative: true
     field: Sustainable Consumption
-    country: Austria
     geo:
+      - country: Austria
+        lat:
+        long:
     rating: 3.8
   - name: fairmondo
     review:
@@ -595,8 +683,10 @@ jobs:
     remote: true
     speculative: false
     field: Sustainable Consumption
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: Waschbär
     review: https://www.kununu.com/de/waschbaer-umweltversand-triaz
@@ -606,8 +696,10 @@ jobs:
     remote: false
     speculative: true
     field: Sustainable Consumption
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.0
   - name: ifu
     review: https://www.kununu.com/de/ifu-hamburg1
@@ -617,8 +709,10 @@ jobs:
     remote: false
     speculative: true
     field: Misc.
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.5
   - name: Wikimedia
     review: https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v
@@ -628,8 +722,10 @@ jobs:
     remote: false
     speculative: false
     field: Misc.
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.4
   - name: ShareTheMeal
     review:
@@ -639,8 +735,10 @@ jobs:
     remote: false
     speculative: false
     field: Misc.
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: ClimatePartner
     review: https://www.kununu.com/de/climatepartner
@@ -650,8 +748,10 @@ jobs:
     remote: false
     speculative: true
     field: Misc.
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.4
   - name: iPoint
     review: https://www.kununu.com/de/ipoint-systems1
@@ -661,8 +761,10 @@ jobs:
     remote: false
     speculative: true
     field: Misc.
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.6
   - name: betterplace
     review: https://www.kununu.com/de/ipoint-systems1
@@ -672,8 +774,10 @@ jobs:
     remote: false
     speculative: false
     field: Misc.
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.6
   - name: Tomorrow
     review: https://www.kununu.com/de/tomorrow2
@@ -683,8 +787,10 @@ jobs:
     remote: false
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.5
   - name: WAVES
     review:
@@ -694,8 +800,10 @@ jobs:
     remote: false
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
-    country: Luxembourg
     geo:
+      - country: Luxembourg
+        lat:
+        long:
     rating:
   - name: ecosia
     review: https://www.kununu.com/de/ecosia
@@ -705,8 +813,10 @@ jobs:
     remote: true
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.4
   - name: InFarm
     review: https://www.kununu.com/de/infarm
@@ -716,8 +826,10 @@ jobs:
     remote: false
     speculative: false
     field: Misc.
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.1
   - name: Sylvera
     review:
@@ -727,8 +839,10 @@ jobs:
     remote: true
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
-    country: UK
     geo:
+      - country: UK
+        lat:
+        long:
     rating:
   - name: Startnext
     review: https://www.kununu.com/de/startnext-crowdfunding
@@ -738,8 +852,10 @@ jobs:
     remote: false
     speculative: true
     field: Misc.
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.5
   - name: Octopus Energy
     review:
@@ -749,8 +865,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: UK
     geo:
+      - country: UK
+        lat:
+        long:
     rating:
   - name: OVO Energy
     review:
@@ -760,8 +878,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: UK
     geo:
+      - country: UK
+        lat:
+        long:
     rating:
   - name: Clim8 Invest
     review:
@@ -771,8 +891,10 @@ jobs:
     remote: false
     speculative: false
     field: Misc.
-    country: UK
     geo:
+      - country: UK
+        lat:
+        long:
     rating:
   - name: Ampeers Energy
     review: https://www.kununu.com/de/ampeers-energy
@@ -782,8 +904,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.9
   - name: EINHUNDERT Energie
     review: https://www.kununu.com/de/einhundert-energie
@@ -793,8 +917,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.5
   - name: Seven2one
     review: https://www.kununu.com/de/seven2one-informationssysteme1
@@ -804,8 +930,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.5
   - name: Teqcycle
     review: https://www.kununu.com/de/teqcycle-solutions
@@ -815,8 +943,10 @@ jobs:
     remote: false
     speculative: false
     field: Circular Economy
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.0
   - name: Klima
     review:
@@ -826,8 +956,10 @@ jobs:
     remote: false
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: Planetly
     review: https://www.kununu.com/de/planetly1/bewerbung
@@ -837,8 +969,10 @@ jobs:
     remote: false
     speculative: true
     field: Carbon Analysis, Capture and Offsetting
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.9
   - name: enersis
     review: https://www.kununu.com/de/enersis-europe
@@ -848,8 +982,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.3
   - name: enersis
     review: https://www.kununu.com/de/enersis-europe
@@ -859,8 +995,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: Switzerland
     geo:
+      - country: Switzerland
+        lat:
+        long:
     rating: 4.3
   - name: Tomorrow
     review:
@@ -870,8 +1008,10 @@ jobs:
     remote: false
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
-    country: Denmark
     geo:
+      - country: Denmark
+        lat:
+        long:
     rating:
   - name: LivingPackets
     review:
@@ -881,8 +1021,10 @@ jobs:
     remote: false
     speculative: false
     field: Circular Economy
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: Klima.Metrix
     review:
@@ -892,8 +1034,10 @@ jobs:
     remote: false
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: Enpal
     review: https://www.kununu.com/de/enpal
@@ -903,8 +1047,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 3.7
   - name: node.energy
     review:
@@ -914,8 +1060,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: enyway
     review: https://www.kununu.com/de/enyway1
@@ -925,8 +1073,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.6
   - name: Circularise
     review:
@@ -936,8 +1086,10 @@ jobs:
     remote: false
     speculative: false
     field: Circular Economy
-    country: Netherlands
     geo:
+      - country: Netherlands
+        lat:
+        long:
     rating:
   - name: Aurora Solar
     review:
@@ -947,10 +1099,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: USA
     geo:
-      lat: 37.7795923
-      long: -122.3964395
+      - country: USA
+        lat: 37.7795923
+        long: -122.3964395
     rating:
   - name: Arcadia
     review:
@@ -960,8 +1112,10 @@ jobs:
     remote: false
     speculative: false
     field: Renewable Energies
-    country: USA
     geo:
+      - country: USA
+        lat:
+        long:
     rating:
   - name: Octopus Energy
     review: https://www.kununu.com/de/octopus-energy-germany
@@ -971,8 +1125,10 @@ jobs:
     remote: false
     speculative: true
     field: Renewable Energies
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating: 4.8
   - name: myclimate
     review:
@@ -982,8 +1138,10 @@ jobs:
     remote: false
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
-    country: Germany
     geo:
+      - country: Germany
+        lat:
+        long:
     rating:
   - name: myclimate
     review:
@@ -993,8 +1151,10 @@ jobs:
     remote: false
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
-    country: Switzerland
     geo:
+      - country: Switzerland
+        lat:
+        long:
     rating:
   - name: winnow
     review:
@@ -1004,8 +1164,10 @@ jobs:
     remote: false
     speculative: false
     field: Misc.
-    country: Romania
     geo:
+      - country: Romania
+        lat:
+        long:
     rating:
   - name: MOQO
     review: https://www.kununu.com/de/digital-mobility-solutions2
@@ -1015,10 +1177,10 @@ jobs:
     remote: false
     speculative: true
     field: Sharing Economy
-    country: Germany
     geo:
-      lat: 50.7704743
-      long: 6.0714455
+      - country: Germany
+        lat: 50.7704743
+        long: 6.0714455
     rating: 4.4
   - name: Too Good To Go
     review:
@@ -1028,10 +1190,10 @@ jobs:
     remote: false
     speculative: false
     field: Misc.
-    country: Denmark
     geo:
-      lat: 55.7129716
-      long: 12.5675979
+      - country: Denmark
+        lat: 55.7129716
+        long: 12.5675979
     rating:
   - name: Spenoki
     review:
@@ -1041,10 +1203,10 @@ jobs:
     remote: false
     speculative: true
     field: Carbon Analysis, Capture and Offsetting
-    country: Germany
     geo:
-      lat: 47.8776957
-      long: 11.6998051
+      - country: Germany
+        lat: 47.8776957
+        long: 11.6998051
     rating:
   - name: Cooler Future
     review:
@@ -1054,11 +1216,13 @@ jobs:
     remote: false
     speculative: true
     field: Misc.
-    # TODO also Finnland
-    country: Germany
     geo:
-      lat: 47.8776957
-      long: 11.6998051
+      - country: Germany
+        lat: 47.8776957
+        long: 11.6998051
+      - country: Finnland
+        lat: 60.1686939
+        long: 24.9312832
     rating:
 jobportals:
   - name: eejobs.de
