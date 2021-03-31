@@ -5,12 +5,14 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 Looking for open source projects instead? [Go here](https://github.com/protontypes/open-sustainable-technology)
 
+---
+
 {% for country in jobs.keys() -%}
 - [{{country}}]({{toc_link(country)}})
 {% endfor -%}
 - [Jobportals](#jobportals)
 
----
+[Show companies on a map](https://awesome-sustainability-jobs.netlify.app/)
 
 sp. = speculative applications accepted\
 re. = has at least one remote job offering
