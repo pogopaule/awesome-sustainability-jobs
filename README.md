@@ -20,7 +20,7 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 - [USA](#usa)
 - [Jobportals](#jobportals)
 
-[Show companies on a map](https://awesome-sustainability-jobs.netlify.app/)
+[Show companies on a map](https://awesome-sustainability-jobs.netlify.app/) 🗺️
 
 sp. = speculative applications accepted\
 re. = has at least one remote job offering
