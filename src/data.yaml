@@ -542,8 +542,8 @@ jobs:
     field: Sharing Economy
     geo:
       - country: Germany
-        lat: 48.0931148
-        long: 7.9574894
+        lat: 53.5429001
+        long: 9.9997807
     rating: 3.8
   - name: nextbike
     review: https://www.kununu.com/de/nextbike1
@@ -620,8 +620,8 @@ jobs:
     field: Sharing Economy
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.4678257
+        long: 13.3690123
     rating: 3.8
   - name: Avocado Store
     review: https://www.kununu.com/de/avocado-store
