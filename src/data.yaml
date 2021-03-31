@@ -113,8 +113,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 47.7737772
+        long: 10.4085214
     rating: 3.4
   - name: FENECON
     review: https://www.kununu.com/de/fenecon
@@ -126,8 +126,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.8213802
+        long: 12.9368036
     rating: 4.5
   - name: IngSoft
     review: https://www.kununu.com/de/ingsoft1
@@ -139,8 +139,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 49.4556278
+        long: 11.0713109
     rating: 4.4
   - name: Solarschmiede
     review: https://www.kununu.com/de/solarschmiede
@@ -152,8 +152,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.1254256
+        long: 11.5534164
     rating: 4.5
   - name: SOLARWATT
     review: https://www.kununu.com/de/solarwatt
@@ -165,8 +165,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 51.1269062
+        long: 13.7840532
     rating: 3.6
   - name: Lumenaza
     review: https://www.kununu.com/de/lumenaza
@@ -178,8 +178,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.4897802
+        long: 13.3761333
     rating: 4.5
   - name: Energiedienst
     review: https://www.kununu.com/de/energiedienst-gruppe
@@ -191,8 +191,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 47.5648648
+        long: 7.7819459
     rating: 4.0
   - name: mobisol
     review: https://www.kununu.com/de/mobisol
@@ -204,8 +204,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.5003124
+        long: 13.435008
     rating: 3.2
   - name: Power Plus Communications
     review: https://www.kununu.com/de/power-plus-communications3
@@ -217,8 +217,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 49.4968646
+        long: 8.5035014
     rating: 4.0
   - name: Digsilent
     review: https://www.kununu.com/de/digsilent
@@ -230,8 +230,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.4471088
+        long: 9.0800657
     rating: 4.6
   - name: smartblue AG
     review:
@@ -243,8 +243,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.0950382
+        long: 11.524148
     rating:
   - name: SENEC
     review: https://www.kununu.com/de/senec1
@@ -256,8 +256,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 51.3573118
+        long: 12.3859104
     rating: 3.4
   - name: KACO new energy
     review: https://www.kununu.com/de/kaco-new-energy4
@@ -269,8 +269,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 49.1760533
+        long: 9.2298474
     rating: 3.0
   - name: greenergetic
     review: https://www.kununu.com/de/kaco-new-energy4
@@ -282,8 +282,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.0138821
+        long: 8.5689538
     rating: 3.0
   - name: E3/DC
     review: https://www.kununu.com/de/e3dc2
@@ -295,8 +295,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.2771415
+        long: 8.0503165
     rating: 3.4
   - name: Optimax Energy
     review: https://www.kununu.com/de/optimax-energy1
@@ -308,8 +308,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 51.3416493
+        long: 12.3668768
     rating: 4.6
   - name: DZ-4
     review: https://www.kununu.com/de/dz-41
@@ -321,8 +321,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 53.562875
+        long: 9.9300721
     rating: 4.3
   - name: LichtBlick
     review: https://www.kununu.com/de/lichtblick
@@ -334,8 +334,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 53.5481784
+        long: 9.9653605
     rating: 3.7
   - name: ZOLAR
     review: https://www.kununu.com/de/zolar3
@@ -347,12 +347,12 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.5004741
+        long: 13.4201193
     rating: 4.2
   - name: enersol
     review:
-    website: https://www.enersol.eu/jobs/
+    website: https://www.enersol.eu/
     jobs: https://www.enersol.eu/jobs/
     description: plant, vertreibt und installiert schlüsselfertige PV/Batterie Anlagen
     remote: false
@@ -360,8 +360,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.9279742
+        long: 8.9698766
     rating:
   - name: Vytal
     review:
@@ -373,8 +373,8 @@ jobs:
     field: Circular Economy
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 50.9453595
+        long: 6.9528591
     rating:
   - name: eeMobility
     review: https://www.kununu.com/de/eemobility
@@ -386,8 +386,8 @@ jobs:
     field: Electric Mobility
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.1364497
+        long: 11.5536071
     rating: 3.9
   - name: The Mobility House
     review: https://www.kununu.com/de/the-mobility-house1
@@ -399,8 +399,8 @@ jobs:
     field: Electric Mobility
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.1209608
+        long: 11.601337
     rating: 4.5
   - name: ubitricity
     review: https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh
@@ -412,8 +412,8 @@ jobs:
     field: Electric Mobility
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.4811768
+        long: 13.355855
     rating: 3.5
   - name: PlugSurfing
     review:
@@ -425,8 +425,8 @@ jobs:
     field: Electric Mobility
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.4845442
+        long: 13.437781
     rating:
   - name: has-to-be
     review:
@@ -437,9 +437,9 @@ jobs:
     speculative: true
     field: Electric Mobility
     geo:
-      - country: Germany
-        lat:
-        long:
+      - country: Austria
+        lat: 47.3860794
+        long: 13.4570338
     rating:
   - name: fleetster
     review: https://www.kununu.com/de/fleetster-next-generation-mobility-munich
@@ -451,8 +451,8 @@ jobs:
     field: Electric Mobility
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.0931148
+        long: 7.9574894
     rating: 3.9
   - name: Kumpan electric
     review:
@@ -464,8 +464,8 @@ jobs:
     field: Electric Mobility
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 50.5666607
+        long: 7.2444824
     rating:
   - name: raumobil
     review: https://www.kununu.com/de/raumobil
@@ -477,8 +477,8 @@ jobs:
     field: Sustainable Mobility
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.9989599
+        long: 8.4614533
     rating: 4.7
   - name: Jobrad
     review: https://www.kununu.com/de/jobrad
@@ -490,8 +490,8 @@ jobs:
     field: Sustainable Mobility
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 47.9886008
+        long: 7.835171
     rating: 4.2
   - name: tado°
     review: https://www.kununu.com/de/tado5
@@ -503,8 +503,8 @@ jobs:
     field: Energy Efficiency
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.168601
+        long: 11.5356523
     rating: 4.0
   - name: Energieheld
     review:
@@ -516,8 +516,8 @@ jobs:
     field: Energy Efficiency
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 53.5854962
+        long: 10.0052755
     rating:
   - name: Passivhaus Institut
     review: https://www.kununu.com/de/passivhaus-institut
@@ -529,22 +529,9 @@ jobs:
     field: Energy Efficiency
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 49.8714254
+        long: 8.6419742
     rating: 2.3
-  - name: Stiftung Energieeffizienz
-    review:
-    website: https://stiftung-energieeffizienz.org/
-    jobs: https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1ghijkmtulnopqrs5&jtz=12&s=java&id=88697&anz=html
-    description: Entwicklung einer sustainable data platform
-    remote: false
-    speculative: false
-    field: Energy Efficiency
-    geo:
-      - country: Germany
-        lat:
-        long:
-    rating:
   - name: Wunder Mobility
     review: https://www.kununu.com/de/wunder-mobility
     website: https://www.wundermobility.com/
@@ -555,8 +542,8 @@ jobs:
     field: Sharing Economy
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.0931148
+        long: 7.9574894
     rating: 3.8
   - name: nextbike
     review: https://www.kununu.com/de/nextbike1
@@ -568,8 +555,8 @@ jobs:
     field: Sharing Economy
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 51.3245077
+        long: 12.3362985
     rating: 3.2
   - name: car2go
     review: https://www.kununu.com/de/car2go
@@ -581,22 +568,22 @@ jobs:
     field: Sharing Economy
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.5328716
+        long: 13.398478
     rating: 3.1
   - name: Free2Move
-    review: https://www.kununu.com/de/free2move
+    review:
     website: https://www.free2move.com
-    jobs: https://www.free2move.com/de-DE/job-offers
-    description: Carsharing und Free-Floating Fahrzeuge
+    jobs: https://www.free2move.com/en-GB/job-offers
+    description: Carsharing Software
     remote: false
     speculative: false
     field: Sharing Economy
     geo:
-      - country: Germany
-        lat:
-        long:
-    rating: 4.8
+      - country: France
+        lat: 48.891711
+        long: 2.1731489
+    rating:
   - name: INVERS
     review: https://www.kununu.com/de/inversgmbh
     website: https://invers.com
@@ -607,8 +594,8 @@ jobs:
     field: Sharing Economy
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 50.9098132
+        long: 8.0661254
     rating: 4.4
   - name: Cambio Carsharing
     review: https://www.kununu.com/de/cambio-stadtteilauto-carsharing1
@@ -620,8 +607,8 @@ jobs:
     field: Sharing Economy
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 53.0741371
+        long: 8.8309317
     rating: 4.1
   - name: emmy
     review: https://www.kununu.com/de/emmy-sharing1
