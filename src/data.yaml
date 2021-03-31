@@ -9,8 +9,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat: 48.0931148
-        long: 7.9574894
+        lat: 48.0133279
+        long: 7.840884
     rating: 4.9
   - name: Greenpeace Energy eG
     review: https://www.kununu.com/de/greenpeace-energy-eg2

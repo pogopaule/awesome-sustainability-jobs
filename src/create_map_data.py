@@ -8,7 +8,7 @@ with open("data.yaml", "r") as stream:
 
         companies = data["jobs"]
 
-        with open("../map-data.js", "w") as map_data:
+        with open("../map/map-data.js", "w") as map_data:
             map_data.write("locations = [\n")
 
             for company in companies:
