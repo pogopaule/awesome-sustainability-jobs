@@ -5,9 +5,12 @@ A curated list of awesome dev jobs in the sustainability sector.\
 
 Looking for open source projects instead? [Go here](https://github.com/protontypes/open-sustainable-technology)
 
+---
+
 - [Austria](#austria)
 - [Denmark](#denmark)
 - [Finland](#finland)
+- [France](#france)
 - [Germany](#germany)
 - [Luxembourg](#luxembourg)
 - [Netherlands](#netherlands)
@@ -17,12 +20,19 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 - [USA](#usa)
 - [Jobportals](#jobportals)
 
----
+[Show companies on a map](https://awesome-sustainability-jobs.netlify.app/)
 
 sp. = speculative applications accepted\
 re. = has at least one remote job offering
 
 ## Austria
+
+### Electric Mobility
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [has-to-be](https://has-to-be.com) | [jobs](https://has-to-be.com/de/karriere/) |  | Plattform für E-Mobilität | ✅ |  |
+
 
 ### Sustainable Consumption
 
@@ -62,6 +72,17 @@ re. = has at least one remote job offering
 
 
 
+## France
+
+### Sharing Economy
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Free2Move](https://www.free2move.com) | [jobs](https://www.free2move.com/en-GB/job-offers) |  | Carsharing Software |  |  |
+
+
+
+
 ## Germany
 
 ### Carbon Analysis, Capture and Offsetting
@@ -94,7 +115,6 @@ re. = has at least one remote job offering
 | [The Mobility House](https://www.mobilityhouse.com) | [jobs](https://www.mobilityhouse.com/de_de/karriere) | [4.5/5](https://www.kununu.com/de/the-mobility-house1) | Produkte und Services rund um Ladestationen |  |  |
 | [ubitricity](https://www.ubitricity.com) | [jobs](https://www.ubitricity.com/jobs/) | [3.5/5](https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh) | Lade- und Abrechnungslösungen | ✅ |  |
 | [PlugSurfing](https://www.plugsurfing.com) | [jobs](https://www.plugsurfing.com/career) |  | Ladestationen finden und nutzen | ✅ |  |
-| [has-to-be](https://has-to-be.com) | [jobs](https://has-to-be.com/de/karriere/) |  | Plattform für E-Mobilität | ✅ |  |
 | [fleetster](https://www.fleetster.de) | [jobs](https://www.fleetster.de/fleetster-team) | [3.9/5](https://www.kununu.com/de/fleetster-next-generation-mobility-munich) | Software für Flottenmanagement, CarSharing und Vermietung | ✅ |  |
 | [Kumpan electric](https://www.kumpan-electric.com/) | [jobs](https://www.kumpan-electric.com/karriere/) |  | Hersteller von E-Rollern |  |  |
 
@@ -106,7 +126,6 @@ re. = has at least one remote job offering
 | [tado°](https://www.tado.com/) | [jobs](https://www.tado.com/de-de/arbeiten-bei-tado) | [4.0/5](https://www.kununu.com/de/tado5) | Lösungen und Services im Bereich Klimasteuerung zuhause | ✅ |  |
 | [Energieheld](https://www.energieheld.de/) | [jobs](https://www.energieheld.de/ueber-uns/karriere/jobs) |  | Portal zu energetischen Gebäudesanierungen | ✅ |  |
 | [Passivhaus Institut](https://passiv.de/) | [jobs](https://passiv.de/de/01_passivhausinstitut/05_stellenangebote/05_stellenangebote.htm) | [2.3/5](https://www.kununu.com/de/passivhaus-institut) | Energieeffizienz in Gebäuden |  |  |
-| [Stiftung Energieeffizienz](https://stiftung-energieeffizienz.org/) | [jobs](https://www.eejobs.de/angebote/index.html?z=alle&katz=789b6cdef1ghijkmtulnopqrs5&jtz=12&s=java&id=88697&anz=html) |  | Entwicklung einer sustainable data platform |  |  |
 
 
 ### Misc.
@@ -155,7 +174,7 @@ re. = has at least one remote job offering
 | [DZ-4](https://www.dz-4.de/) | [jobs](https://dz4-jobs.personio.de/) | [4.3/5](https://www.kununu.com/de/dz-41) | Anbieter für Solaranlagen zur Miete |  |  |
 | [LichtBlick](https://www.lichtblick.de) | [jobs](https://www.lichtblick.de/karriere/jobs/) | [3.7/5](https://www.kununu.com/de/lichtblick) | Ökostromanbieter |  |  |
 | [ZOLAR](https://www.zolar.de/) | [jobs](https://www.zolar.de/karriere/office-jobs) | [4.2/5](https://www.kununu.com/de/zolar3) | Online Planung von PV-Anlagen |  |  |
-| [enersol](https://www.enersol.eu/jobs/) | [jobs](https://www.enersol.eu/jobs/) |  | plant, vertreibt und installiert schlüsselfertige PV/Batterie Anlagen |  |  |
+| [enersol](https://www.enersol.eu/) | [jobs](https://www.enersol.eu/jobs/) |  | plant, vertreibt und installiert schlüsselfertige PV/Batterie Anlagen |  |  |
 | [Ampeers Energy](https://ampeersenergy.de/) | [jobs](https://ampeersenergy.de/karriere/) | [4.9/5](https://www.kununu.com/de/ampeers-energy) | Dezentrale Energie |  |  |
 | [EINHUNDERT Energie](https://einhundert-energie.de/) | [jobs](https://einhundert-energie.de/stellenangebote/) | [4.5/5](https://www.kununu.com/de/einhundert-energie) | Mieterstrom |  |  |
 | [Seven2one](https://www.seven2one.de/) | [jobs](https://www.seven2one.de/seven2one/karriere/) | [4.5/5](https://www.kununu.com/de/seven2one-informationssysteme1) | Anbieter individueller Softwarelösungen für die neue, dezentrale und digitalisierte Energiewelt | ✅ |  |
@@ -173,7 +192,6 @@ re. = has at least one remote job offering
 | [Wunder Mobility](https://www.wundermobility.com/) | [jobs](https://www.wundermobility.com/careers/jobs) | [3.8/5](https://www.kununu.com/de/wunder-mobility) | Technology to launch and scale shared mobility services | ✅ |  |
 | [nextbike](https://www.nextbike.de) | [jobs](https://www.nextbike.net/jobs/) | [3.2/5](https://www.kununu.com/de/nextbike1) | Bike sharing |  |  |
 | [car2go](https://www.share-now.com/de/de/) | [jobs](https://boards.greenhouse.io/joinsharenow) | [3.1/5](https://www.kununu.com/de/car2go) | Carsharing-Anbieter von BMW und Daimler |  |  |
-| [Free2Move](https://www.free2move.com) | [jobs](https://www.free2move.com/de-DE/job-offers) | [4.8/5](https://www.kununu.com/de/free2move) | Carsharing und Free-Floating Fahrzeuge |  |  |
 | [INVERS](https://invers.com) | [jobs](https://invers.com/de/karriere/) | [4.4/5](https://www.kununu.com/de/inversgmbh) | Anbieter für Carsharing Software | ✅ |  |
 | [Cambio Carsharing](https://www.cambio-carsharing.de/) | [jobs](https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS) | [4.1/5](https://www.kununu.com/de/cambio-stadtteilauto-carsharing1) | Anbieter für Carsharing Software |  |  |
 | [emmy](https://emmy-sharing.de/) | [jobs](https://emmy-sharing.de/stellenangebote/) | [3.8/5](https://www.kununu.com/de/emmy-sharing1) | Elektro-Roller Sharing | ✅ |  |
