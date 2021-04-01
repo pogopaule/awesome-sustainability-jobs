@@ -633,8 +633,8 @@ jobs:
     field: Sustainable Consumption
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 53.5455335
+        long: 9.9858543
     rating: 3.0
   - name: momox
     review: https://www.kununu.com/de/momox
