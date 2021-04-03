@@ -7,6 +7,14 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 
 ---
 
+## Map
+
+[Show companies on a map](https://awesome-sustainability-jobs.netlify.app/) 🗺️
+
+---
+
+## List
+
 - [Austria](#austria)
 - [Denmark](#denmark)
 - [Finland](#finland)
@@ -23,28 +31,27 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 - [USA](#usa)
 - [Jobportals](#jobportals)
 
-[Show companies on a map](https://awesome-sustainability-jobs.netlify.app/) 🗺️
 
 sp. = speculative applications accepted\
 re. = has at least one remote job offering
 
-## Austria
+### Austria
 
-### Electric Mobility
+#### Electric Mobility
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [has-to-be](https://has-to-be.com) | [jobs](https://has-to-be.com/de/karriere/) |  | Plattform für E-Mobilität | ✅ |  |
 
 
-### Misc.
+#### Misc.
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
 
-### Sustainable Consumption
+#### Sustainable Consumption
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -53,16 +60,16 @@ re. = has at least one remote job offering
 
 
 
-## Denmark
+### Denmark
 
-### Carbon Analysis, Capture and Offsetting
+#### Carbon Analysis, Capture and Offsetting
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [Tomorrow](https://www.tmrow.com/) | [jobs](https://www.tmrow.com/jobs/) |  | Tech to empower people and organisations to understand and reduce their carbon footprint |  |  |
 
 
-### Misc.
+#### Misc.
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -71,9 +78,9 @@ re. = has at least one remote job offering
 
 
 
-## Finland
+### Finland
 
-### Misc.
+#### Misc.
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -82,9 +89,9 @@ re. = has at least one remote job offering
 
 
 
-## France
+### France
 
-### Sharing Economy
+#### Sharing Economy
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -93,9 +100,9 @@ re. = has at least one remote job offering
 
 
 
-## Germany
+### Germany
 
-### Carbon Analysis, Capture and Offsetting
+#### Carbon Analysis, Capture and Offsetting
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -108,7 +115,7 @@ re. = has at least one remote job offering
 | [Spenoki](https://www.spenoki.de/) | [jobs](https://spenoki-career.kenjo.io/) |  | SaaS-Lösung um Nachhaltigkeit zu analysieren, zu optimieren und zu kommunizieren | ✅ |  |
 
 
-### Circular Economy
+#### Circular Economy
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -116,7 +123,7 @@ re. = has at least one remote job offering
 | [Teqcycle](https://www.teqcycle.com) | [jobs](https://www.teqcycle.com/de/jobs/) | [4.0/5](https://www.kununu.com/de/teqcycle-solutions) | Rücknahme gebrauchter, mobiler Endgeräte |  |  |
 
 
-### Electric Mobility
+#### Electric Mobility
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -128,7 +135,7 @@ re. = has at least one remote job offering
 | [Kumpan electric](https://www.kumpan-electric.com/) | [jobs](https://www.kumpan-electric.com/karriere/) |  | Hersteller von E-Rollern |  |  |
 
 
-### Energy Efficiency
+#### Energy Efficiency
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -137,7 +144,7 @@ re. = has at least one remote job offering
 | [Passivhaus Institut](https://passiv.de/) | [jobs](https://passiv.de/de/01_passivhausinstitut/05_stellenangebote/05_stellenangebote.htm) | [2.3/5](https://www.kununu.com/de/passivhaus-institut) | Energieeffizienz in Gebäuden |  |  |
 
 
-### Misc.
+#### Misc.
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -153,7 +160,7 @@ re. = has at least one remote job offering
 | [Carrypicker](https://www.carrypicker.com/) | [jobs](https://www.carrypicker.com/jobs) |  | CO2 Senkung durch Effizenzsteigerung im Transportwesen |  |  |
 
 
-### Renewable Energies
+#### Renewable Energies
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -198,7 +205,7 @@ re. = has at least one remote job offering
 | [Energy2market](https://www.e2m.energy/) | [jobs](https://www.energy2market.io/) | [3.6/5](https://www.kununu.com/de/energy2market1) | Virtuelle Kraftwerke |  |  |
 
 
-### Sharing Economy
+#### Sharing Economy
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -211,7 +218,7 @@ re. = has at least one remote job offering
 | [MOQO](https://moqo.de/) | [jobs](https://moqo.de/jobs) | [4.4/5](https://www.kununu.com/de/digital-mobility-solutions2) | Software für Shared Mobility Projekte | ✅ |  |
 
 
-### Sustainable Consumption
+#### Sustainable Consumption
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -221,7 +228,7 @@ re. = has at least one remote job offering
 | [Waschbär](https://www.waschbaer.de) | [jobs](https://www.waschbaer.de/shop/ueber-uns/karriere/stellenangebote) | [3.0/5](https://www.kununu.com/de/waschbaer-umweltversand-triaz) | Online Shop für umweltgerechte und sozialverträgliche Produkte | ✅ |  |
 
 
-### Sustainable Mobility
+#### Sustainable Mobility
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -231,9 +238,9 @@ re. = has at least one remote job offering
 
 
 
-## Italy
+### Italy
 
-### Misc.
+#### Misc.
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -242,9 +249,9 @@ re. = has at least one remote job offering
 
 
 
-## Luxembourg
+### Luxembourg
 
-### Carbon Analysis, Capture and Offsetting
+#### Carbon Analysis, Capture and Offsetting
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -253,9 +260,9 @@ re. = has at least one remote job offering
 
 
 
-## Netherlands
+### Netherlands
 
-### Circular Economy
+#### Circular Economy
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -264,9 +271,9 @@ re. = has at least one remote job offering
 
 
 
-## Romania
+### Romania
 
-### Misc.
+#### Misc.
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -275,20 +282,9 @@ re. = has at least one remote job offering
 
 
 
-## Spain
+### Spain
 
-### Misc.
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
-
-
-
-
-## Sweden
-
-### Misc.
+#### Misc.
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -297,30 +293,41 @@ re. = has at least one remote job offering
 
 
 
-## Switzerland
+### Sweden
 
-### Carbon Analysis, Capture and Offsetting
+#### Misc.
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+
+
+
+
+### Switzerland
+
+#### Carbon Analysis, Capture and Offsetting
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
 
 
-### Circular Economy
+#### Circular Economy
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [LivingPackets](https://livingpackets.com) | [jobs](https://livingpackets.com/jobs) |  | Wiederverwendbare Versandboxen |  |  |
 
 
-### Misc.
+#### Misc.
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
 
-### Renewable Energies
+#### Renewable Energies
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -329,16 +336,16 @@ re. = has at least one remote job offering
 
 
 
-## UK
+### UK
 
-### Carbon Analysis, Capture and Offsetting
+#### Carbon Analysis, Capture and Offsetting
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) |  | quantitative and qualitative data on offset projects |  | ✅ |
 
 
-### Misc.
+#### Misc.
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -346,7 +353,7 @@ re. = has at least one remote job offering
 | [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) |  | Investments into clean energy and green, sustainable companies |  |  |
 
 
-### Renewable Energies
+#### Renewable Energies
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -356,9 +363,9 @@ re. = has at least one remote job offering
 
 
 
-## USA
+### USA
 
-### Renewable Energies
+#### Renewable Energies
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -371,9 +378,9 @@ re. = has at least one remote job offering
 
 
 
-## Jobportals
+### Jobportals
 
-### Germany
+#### Germany
 
 * [eejobs.de](https://www.eejobs.de/)
 * [GoodJobs](https://goodjobs.eu/de)
@@ -383,27 +390,27 @@ re. = has at least one remote job offering
 * [greenjobs](https://www.greenjobs.de/index.html)
 
 
-### Netherlands
+#### Netherlands
 
 * [Greenjobs](https://greenjobs.nl/)
 
 
-### Switzerland
+#### Switzerland
 
 * [Nachhaltige-Jobs.ch](https://nachhaltige-jobs.ch/)
 
 
-### UK
+#### UK
 
 * [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#)
 
 
-### USA
+#### USA
 
 * [Tech Jobs for Good](https://techjobsforgood.com/)
 
 
-### Worldwide
+#### Worldwide
 
 * [Green Recruitment](https://www.greenrecruitmentcompany.com/)
 * [Climatebase](https://climate.careers)
