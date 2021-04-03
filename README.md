@@ -114,7 +114,6 @@ re. = has at least one remote job offering
 | - | - | - | - | - | - |
 | [Vytal](https://www.vytal.org/) | [jobs](https://www.vytal.org/jobs) |  | Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food | ✅ |  |
 | [Teqcycle](https://www.teqcycle.com) | [jobs](https://www.teqcycle.com/de/jobs/) | [4.0/5](https://www.kununu.com/de/teqcycle-solutions) | Rücknahme gebrauchter, mobiler Endgeräte |  |  |
-| [LivingPackets](https://livingpackets.com) | [jobs](https://livingpackets.com/jobs) |  | Wiederverwendbare Versandboxen |  |  |
 
 
 ### Electric Mobility
@@ -305,6 +304,13 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
+
+
+### Circular Economy
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [LivingPackets](https://livingpackets.com) | [jobs](https://livingpackets.com/jobs) |  | Wiederverwendbare Versandboxen |  |  |
 
 
 ### Misc.
