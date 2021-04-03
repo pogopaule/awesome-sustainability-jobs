@@ -450,8 +450,8 @@ jobs:
     field: Electric Mobility
     geo:
       - country: Germany
-        lat: 48.0931148
-        long: 7.9574894
+        lat: 48.1018223
+        long: 11.5320468
     review: https://www.kununu.com/de/fleetster-next-generation-mobility-munich
     rating: 3.9
   - name: Kumpan electric
