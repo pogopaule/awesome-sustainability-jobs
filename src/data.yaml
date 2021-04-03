@@ -754,8 +754,8 @@ jobs:
         lat: 59.3298307
         long: 18.0645747
       - country: Italy
-        lat: 45.4684268
-        long: 19.160819
+        lat: 45.4643338
+        long: 9.099447
     review: https://www.kununu.com/de/climatepartner
     rating: 4.4
   - name: iPoint
