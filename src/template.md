@@ -7,21 +7,28 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 
 ---
 
+## Map
+
+[Show companies on a map](https://awesome-sustainability-jobs.netlify.app/) 🗺️
+
+---
+
+## List
+
 {% for country in jobs.keys() -%}
 - [{{country}}]({{toc_link(country)}})
 {% endfor -%}
 - [Jobportals](#jobportals)
 
-[Show companies on a map](https://awesome-sustainability-jobs.netlify.app/) 🗺️
 
 sp. = speculative applications accepted\
 re. = has at least one remote job offering
 
 {% for country, jobsByCountry in jobs.items() -%}
-## {{country}}
+### {{country}}
 
 {% for field, jobs in jobsByCountry.items() -%}
-### {{field}}
+#### {{field}}
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
@@ -33,10 +40,10 @@ re. = has at least one remote job offering
 
 {% endfor %}
 
-## Jobportals
+### Jobportals
 
 {% for country, jobportals in jobportals.items() -%}
-### {{country}}
+#### {{country}}
 
 {% for jobportal in jobportals -%}
 * [{{jobportal.name}}]({{jobportal.website}})
