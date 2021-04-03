@@ -19,6 +19,9 @@
       width: 100vw;
       height: 100vh;
     }
+    .leaflet-popup-content div {
+      margin-bottom: 5px;
+    }
   </style>
 </head>
 <body>
@@ -26,7 +29,7 @@
   <div id="map"></div>
 
   <script>
-    var bounds = locations.map(loc => loc.slice(1))
+    var bounds = locations.map(loc => [loc.geo.lat, loc.geo.long])
 
     var map = L.map('map');
 
@@ -39,8 +42,25 @@
       }).addTo(map);
 
     for (var i = 0; i < locations.length; i++) {
-      marker = new L.marker([locations[i][1], locations[i][2]])
-        .bindPopup(locations[i][0])
+      l = locations[i]
+
+      var popup = `<div><a target="_blank" href="${l.website}">${l.name}</a></div>
+             <div><a target="_blank" href="${l.jobs}">Jobs</a></div>
+             <div>Field: ${l.field}</div>
+             <div>Description: ${l.description}</div>`
+      if(l.rating) {
+        popup = popup + `<div>Rating: <a target="_blank" href="${l.review}">${l.rating}</a></div>`
+      }
+      if(l.remote) {
+        popup = popup + `<div>Has remote jobs</div>`
+      }
+      if(l.speculative) {
+        popup = popup + `<div>Accepts speculative job applications</div>`
+      }
+
+
+      L.marker([l.geo.lat, l.geo.long])
+        .bindPopup(popup)
         .addTo(map);
     }
   </script>

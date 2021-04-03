@@ -3,8 +3,7 @@ from itertools import groupby
 import yaml
 from jinja2 import Template
 from functools import reduce
-
-flat_map = lambda f, xs: reduce(lambda a, b: a + b, map(f, xs))
+from utils import flat_map, denormalize
 
 
 def nest(seq, keys):
@@ -24,18 +23,6 @@ def nest(seq, keys):
 
 def toc_link(link):
     return "#" + re.sub(r"[^a-zA-Z-]", "", link.lower().replace(" ", "-"))
-
-
-def denormalize(job):
-    result = []
-    for location in job["geo"]:
-        job_copy = job.copy()
-        del job_copy["geo"]
-        job_copy["country"] = location["country"]
-        job_copy["geo"] = {"lat": location["lat"], "long": location["long"]}
-        result.append(job_copy)
-
-    return result
 
 
 with open("data.yaml", "r") as stream:
