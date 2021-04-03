@@ -11,8 +11,6 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 
 [Show companies on a map](https://awesome-sustainability-jobs.netlify.app/) 🗺️
 
----
-
 ## List
 
 - [Austria](#austria)
