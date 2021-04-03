@@ -1,6 +1,5 @@
 jobs:
   - name: OXYGEN TECHNOLOGIES
-    review: https://www.kununu.com/de/oxygen-technologies1
     website: https://www.oxygen-technologies.de/
     jobs: https://www.oxygen-technologies.de/ueber-uns/jobs/
     description: OXYGEN TECHNOLOGIES stellt Energieversorgern, Stadtwerken und Messstellenbetreibern IT-Lösungen bereit und treibt damit die Digitalisierung der Energiewirtschaft voran.
@@ -11,10 +10,9 @@ jobs:
       - country: Germany
         lat: 48.0133279
         long: 7.840884
+    review: https://www.kununu.com/de/oxygen-technologies1
     rating: 4.9
   - name: Greenpeace Energy eG
-    review: https://www.kununu.com/de/greenpeace-energy-eg2
-    website: https://www.greenpeace-energy.de
     jobs: https://www.greenpeace-energy.de/ueber-uns/karriere.html
     description: Anbieter für Ökostom und Ökogas
     remote: false
@@ -24,9 +22,10 @@ jobs:
       - country: Germany
         lat: 53.541784
         long: 9.9992905
+    review: https://www.kununu.com/de/greenpeace-energy-eg2
+    website: https://www.greenpeace-energy.de
     rating: 3.6
   - name: BELECTRIC
-    review: https://www.kununu.com/de/belectric1
     website: https://belectric.com/de/
     jobs: https://belectric.com/de/karriere/
     description: Entwicklung und im Bau von Freiflächen-Solarkraftwerken und Energiespeichersystemen
@@ -37,9 +36,9 @@ jobs:
       - country: Germany
         lat: 49.91404
         long: 10.2377113
+    review: https://www.kununu.com/de/belectric1
     rating: 3.0
   - name: Next Kraftwerke
-    review: https://www.kununu.com/de/next-kraftwerke1
     website: https://www.next-kraftwerke.de/
     jobs: https://www.next-kraftwerke.de/jobs
     description: Next Kraftwerke betreibt eines der größten Virtuellen Kraftwerke Europas
@@ -50,9 +49,9 @@ jobs:
       - country: Germany
         lat: 49.7194276
         long: 6.8603394
+    review: https://www.kununu.com/de/next-kraftwerke1
     rating: 4.3
   - name: energy & meteo systems
-    review: https://www.kununu.com/de/energy-meteo-systems
     website: https://www.energymeteo.de
     jobs: https://www.energymeteo.de/ueber_uns/jobs.php
     description: Leistungsprognosen und Virtuelle Kraftwerke
@@ -63,9 +62,9 @@ jobs:
       - country: Germany
         lat: 53.1302601
         long: 8.153105
+    review: https://www.kununu.com/de/energy-meteo-systems
     rating: 3.8
   - name: DrehPunkt
-    review: https://www.kununu.com/de/drehpunkt2
     website: https://drehpunkt.de
     jobs: https://drehpunkt.de/jobs/
     description: Software für erneuerbare Energien
@@ -76,9 +75,9 @@ jobs:
       - country: Germany
         lat: 54.1721746
         long: 12.0766473
+    review: https://www.kununu.com/de/drehpunkt2
     rating: 4.5
   - name: meteocontrol
-    review: https://www.kununu.com/de/meteocontrol1
     website: https://www.meteocontrol.com
     jobs: https://www.meteocontrol.com/karriere/stellenangebote/
     description: Überwachungssysteme für Solaranlagen
@@ -89,9 +88,9 @@ jobs:
       - country: Germany
         lat: 48.3670875
         long: 10.8661464
+    review: https://www.kununu.com/de/meteocontrol1
     rating: 3.9
   - name: sma
-    review: https://www.kununu.com/de/sma-solar-technology
     website: https://www.sma.de/
     jobs: https://www.sma.jobs/go/Stellenangebote/3798401/
     description: Wechselrichter, Photovoltaik- & Solartechnik
@@ -102,9 +101,9 @@ jobs:
       - country: Germany
         lat: 51.3151566
         long: 9.536631
+    review: https://www.kununu.com/de/sma-solar-technology
     rating: 3.8
   - name: sonnen
-    review: https://www.kununu.com/de/sonnen-gmbh
     website: https://sonnen.de/
     jobs: https://jobs.sonnen.de/
     description: Batteriespeicher
@@ -115,9 +114,9 @@ jobs:
       - country: Germany
         lat: 47.7737772
         long: 10.4085214
+    review: https://www.kununu.com/de/sonnen-gmbh
     rating: 3.4
   - name: FENECON
-    review: https://www.kununu.com/de/fenecon
     website: https://fenecon.de
     jobs: https://www1.fenecon.de/karriere/
     description: Stromspeichersysteme
@@ -128,9 +127,9 @@ jobs:
       - country: Germany
         lat: 48.8213802
         long: 12.9368036
+    review: https://www.kununu.com/de/fenecon
     rating: 4.5
   - name: IngSoft
-    review: https://www.kununu.com/de/ingsoft1
     website: https://energiemanagement.ingsoft.de/
     jobs: https://energiemanagement.ingsoft.de/de/karriere.html
     description: Software für Energiemanagment
@@ -141,9 +140,9 @@ jobs:
       - country: Germany
         lat: 49.4556278
         long: 11.0713109
+    review: https://www.kununu.com/de/ingsoft1
     rating: 4.4
   - name: Solarschmiede
-    review: https://www.kununu.com/de/solarschmiede
     website: https://www.solarschmiede.de
     jobs: https://www.solarschmiede.de/de/karriere/
     description: Planungssoftware für PV-Anlagen
@@ -154,9 +153,9 @@ jobs:
       - country: Germany
         lat: 48.1254256
         long: 11.5534164
+    review: https://www.kununu.com/de/solarschmiede
     rating: 4.5
   - name: SOLARWATT
-    review: https://www.kununu.com/de/solarwatt
     website: https://www.solarwatt.de/
     jobs: https://www.solarwatt.de/ueber-uns/karriere#engineering
     description: Hersteller von PV-Eigenheimlösungen
@@ -167,9 +166,9 @@ jobs:
       - country: Germany
         lat: 51.1269062
         long: 13.7840532
+    review: https://www.kununu.com/de/solarwatt
     rating: 3.6
   - name: Lumenaza
-    review: https://www.kununu.com/de/lumenaza
     website: https://www.lumenaza.de/
     jobs: https://www.lumenaza.de/de/jobs/
     description: Software-as-a-Service-Plattform für grüne Energieunternehmen
@@ -180,9 +179,9 @@ jobs:
       - country: Germany
         lat: 52.4897802
         long: 13.3761333
+    review: https://www.kununu.com/de/lumenaza
     rating: 4.5
   - name: Energiedienst
-    review: https://www.kununu.com/de/energiedienst-gruppe
     website: https://www.energiedienst.de/
     jobs: https://www.energiedienst.de/karriere/offene-stellen/
     description: Anbieter von Ökostrom aus Wasserkraft
@@ -193,9 +192,9 @@ jobs:
       - country: Germany
         lat: 47.5648648
         long: 7.7819459
+    review: https://www.kununu.com/de/energiedienst-gruppe
     rating: 4.0
   - name: mobisol
-    review: https://www.kununu.com/de/mobisol
     website: http://www.plugintheworld.com/
     jobs: https://plugintheworld.com/careers/
     description: Smart Solar Home Systems
@@ -206,9 +205,9 @@ jobs:
       - country: Germany
         lat: 52.5003124
         long: 13.435008
+    review: https://www.kununu.com/de/mobisol
     rating: 3.2
   - name: Power Plus Communications
-    review: https://www.kununu.com/de/power-plus-communications3
     website: https://www.ppc-ag.de
     jobs: https://www.ppc-ag.de/karriere/
     description: Smart Metering Lösungen
@@ -219,9 +218,9 @@ jobs:
       - country: Germany
         lat: 49.4968646
         long: 8.5035014
+    review: https://www.kununu.com/de/power-plus-communications3
     rating: 4.0
   - name: Digsilent
-    review: https://www.kununu.com/de/digsilent
     website: https://www.digsilent.de/de/home.html
     jobs: https://www.digsilent.de/de/stellenangebote.html
     description: Simulation und Netzintegration von erneuerbaren Energien
@@ -232,9 +231,9 @@ jobs:
       - country: Germany
         lat: 48.4471088
         long: 9.0800657
+    review: https://www.kununu.com/de/digsilent
     rating: 4.6
   - name: smartblue AG
-    review:
     website: http://www.smartblue.de
     jobs: https://www.smartblue.de/jobs/
     description: Monitoring von PV-Anlagen
@@ -245,9 +244,9 @@ jobs:
       - country: Germany
         lat: 48.0950382
         long: 11.524148
+    review:
     rating:
   - name: SENEC
-    review: https://www.kununu.com/de/senec1
     website: https://www.senec.com
     jobs: https://senec-jobs.personio.de/
     description: Stromspeichersysteme und Energielösungen
@@ -258,9 +257,9 @@ jobs:
       - country: Germany
         lat: 51.3573118
         long: 12.3859104
+    review: https://www.kununu.com/de/senec1
     rating: 3.4
   - name: KACO new energy
-    review: https://www.kununu.com/de/kaco-new-energy4
     website: https://kaco-newenergy.com
     jobs: https://kaco-newenergy.com/de/karriere/stellenangebote/
     description: Wechselrichter für Photovoltaik und Batteriespeicher
@@ -271,9 +270,9 @@ jobs:
       - country: Germany
         lat: 49.1760533
         long: 9.2298474
+    review: https://www.kununu.com/de/kaco-new-energy4
     rating: 3.0
   - name: greenergetic
-    review: https://www.kununu.com/de/kaco-new-energy4
     website: https://www.greenergetic.de
     jobs: https://www.greenergetic.de/unternehmen/werde-ein-teil-von-greenergetic
     description: Abwicklung, Betreuung und Verkaufsförderung von Solaranlagen
@@ -284,9 +283,9 @@ jobs:
       - country: Germany
         lat: 52.0138821
         long: 8.5689538
+    review: https://www.kununu.com/de/kaco-new-energy4
     rating: 3.0
   - name: E3/DC
-    review: https://www.kununu.com/de/e3dc2
     website: https://www.e3dc.com/
     jobs: https://www.e3dc.com/unternehmen/karriere/
     description: Hersteller von Wallboxen
@@ -297,9 +296,9 @@ jobs:
       - country: Germany
         lat: 52.2771415
         long: 8.0503165
+    review: https://www.kununu.com/de/e3dc2
     rating: 3.4
   - name: Optimax Energy
-    review: https://www.kununu.com/de/optimax-energy1
     website: https://www.optimax-energy.de
     jobs: https://www.optimax-energy.de/index.php/karriere
     description: Dienste rund um den Handel erneuerbarer Energien
@@ -310,9 +309,9 @@ jobs:
       - country: Germany
         lat: 51.3416493
         long: 12.3668768
+    review: https://www.kununu.com/de/optimax-energy1
     rating: 4.6
   - name: DZ-4
-    review: https://www.kununu.com/de/dz-41
     website: https://www.dz-4.de/
     jobs: https://dz4-jobs.personio.de/
     description: Anbieter für Solaranlagen zur Miete
@@ -323,9 +322,9 @@ jobs:
       - country: Germany
         lat: 53.562875
         long: 9.9300721
+    review: https://www.kununu.com/de/dz-41
     rating: 4.3
   - name: LichtBlick
-    review: https://www.kununu.com/de/lichtblick
     website: https://www.lichtblick.de
     jobs: https://www.lichtblick.de/karriere/jobs/
     description: Ökostromanbieter
@@ -336,9 +335,9 @@ jobs:
       - country: Germany
         lat: 53.5481784
         long: 9.9653605
+    review: https://www.kununu.com/de/lichtblick
     rating: 3.7
   - name: ZOLAR
-    review: https://www.kununu.com/de/zolar3
     website: https://www.zolar.de/
     jobs: https://www.zolar.de/karriere/office-jobs
     description: Online Planung von PV-Anlagen
@@ -349,9 +348,9 @@ jobs:
       - country: Germany
         lat: 52.5004741
         long: 13.4201193
+    review: https://www.kununu.com/de/zolar3
     rating: 4.2
   - name: enersol
-    review:
     website: https://www.enersol.eu/
     jobs: https://www.enersol.eu/jobs/
     description: plant, vertreibt und installiert schlüsselfertige PV/Batterie Anlagen
@@ -362,9 +361,9 @@ jobs:
       - country: Germany
         lat: 48.9279742
         long: 8.9698766
+    review:
     rating:
   - name: Vytal
-    review:
     website: https://www.vytal.org/
     jobs: https://www.vytal.org/jobs
     description: Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food
@@ -375,9 +374,9 @@ jobs:
       - country: Germany
         lat: 50.9453595
         long: 6.9528591
+    review:
     rating:
   - name: eeMobility
-    review: https://www.kununu.com/de/eemobility
     website: https://www.ee-mobility.com
     jobs: https://ee-mobility.com/karriere/
     description: Ladelösungen für elektrifizierte Dienstwagen
@@ -388,9 +387,9 @@ jobs:
       - country: Germany
         lat: 48.1364497
         long: 11.5536071
+    review: https://www.kununu.com/de/eemobility
     rating: 3.9
   - name: The Mobility House
-    review: https://www.kununu.com/de/the-mobility-house1
     website: https://www.mobilityhouse.com
     jobs: https://www.mobilityhouse.com/de_de/karriere
     description: Produkte und Services rund um Ladestationen
@@ -401,9 +400,9 @@ jobs:
       - country: Germany
         lat: 48.1209608
         long: 11.601337
+    review: https://www.kununu.com/de/the-mobility-house1
     rating: 4.5
   - name: ubitricity
-    review: https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh
     website: https://www.ubitricity.com
     jobs: https://www.ubitricity.com/jobs/
     description: Lade- und Abrechnungslösungen
@@ -414,9 +413,9 @@ jobs:
       - country: Germany
         lat: 52.4811768
         long: 13.355855
+    review: https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh
     rating: 3.5
   - name: PlugSurfing
-    review:
     website: https://www.plugsurfing.com
     jobs: https://www.plugsurfing.com/career
     description: Ladestationen finden und nutzen
@@ -427,9 +426,9 @@ jobs:
       - country: Germany
         lat: 52.4845442
         long: 13.437781
+    review:
     rating:
   - name: has-to-be
-    review:
     website: https://has-to-be.com
     jobs: https://has-to-be.com/de/karriere/
     description: Plattform für E-Mobilität
@@ -440,9 +439,9 @@ jobs:
       - country: Austria
         lat: 47.3860794
         long: 13.4570338
+    review:
     rating:
   - name: fleetster
-    review: https://www.kununu.com/de/fleetster-next-generation-mobility-munich
     website: https://www.fleetster.de
     jobs: https://www.fleetster.de/fleetster-team
     description: Software für Flottenmanagement, CarSharing und Vermietung
@@ -453,9 +452,9 @@ jobs:
       - country: Germany
         lat: 48.0931148
         long: 7.9574894
+    review: https://www.kununu.com/de/fleetster-next-generation-mobility-munich
     rating: 3.9
   - name: Kumpan electric
-    review:
     website: https://www.kumpan-electric.com/
     jobs: https://www.kumpan-electric.com/karriere/
     description: Hersteller von E-Rollern
@@ -466,9 +465,9 @@ jobs:
       - country: Germany
         lat: 50.5666607
         long: 7.2444824
+    review:
     rating:
   - name: raumobil
-    review: https://www.kununu.com/de/raumobil
     website: https://www.raumobil.com
     jobs: https://www.raumobil.com/jobs
     description: smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen
@@ -479,9 +478,9 @@ jobs:
       - country: Germany
         lat: 48.9989599
         long: 8.4614533
+    review: https://www.kununu.com/de/raumobil
     rating: 4.7
   - name: Jobrad
-    review: https://www.kununu.com/de/jobrad
     website: https://www.jobrad.org
     jobs: https://www.jobrad.org/ueber-uns/karriere.html
     description: Diensträder
@@ -492,9 +491,9 @@ jobs:
       - country: Germany
         lat: 47.9886008
         long: 7.835171
+    review: https://www.kununu.com/de/jobrad
     rating: 4.2
   - name: tado°
-    review: https://www.kununu.com/de/tado5
     website: https://www.tado.com/
     jobs: https://www.tado.com/de-de/arbeiten-bei-tado
     description: Lösungen und Services im Bereich Klimasteuerung zuhause
@@ -505,9 +504,9 @@ jobs:
       - country: Germany
         lat: 48.168601
         long: 11.5356523
+    review: https://www.kununu.com/de/tado5
     rating: 4.0
   - name: Energieheld
-    review:
     website: https://www.energieheld.de/
     jobs: https://www.energieheld.de/ueber-uns/karriere/jobs
     description: Portal zu energetischen Gebäudesanierungen
@@ -518,9 +517,9 @@ jobs:
       - country: Germany
         lat: 53.5854962
         long: 10.0052755
+    review:
     rating:
   - name: Passivhaus Institut
-    review: https://www.kununu.com/de/passivhaus-institut
     website: https://passiv.de/
     jobs: https://passiv.de/de/01_passivhausinstitut/05_stellenangebote/05_stellenangebote.htm
     description: Energieeffizienz in Gebäuden
@@ -531,9 +530,9 @@ jobs:
       - country: Germany
         lat: 49.8714254
         long: 8.6419742
+    review: https://www.kununu.com/de/passivhaus-institut
     rating: 2.3
   - name: Wunder Mobility
-    review: https://www.kununu.com/de/wunder-mobility
     website: https://www.wundermobility.com/
     jobs: https://www.wundermobility.com/careers/jobs
     description: Technology to launch and scale shared mobility services
@@ -544,9 +543,9 @@ jobs:
       - country: Germany
         lat: 53.5429001
         long: 9.9997807
+    review: https://www.kununu.com/de/wunder-mobility
     rating: 3.8
   - name: nextbike
-    review: https://www.kununu.com/de/nextbike1
     website: https://www.nextbike.de
     jobs: https://www.nextbike.net/jobs/
     description: Bike sharing
@@ -557,9 +556,9 @@ jobs:
       - country: Germany
         lat: 51.3245077
         long: 12.3362985
+    review: https://www.kununu.com/de/nextbike1
     rating: 3.2
   - name: car2go
-    review: https://www.kununu.com/de/car2go
     website: https://www.share-now.com/de/de/
     jobs: https://boards.greenhouse.io/joinsharenow
     description: Carsharing-Anbieter von BMW und Daimler
@@ -570,9 +569,9 @@ jobs:
       - country: Germany
         lat: 52.5328716
         long: 13.398478
+    review: https://www.kununu.com/de/car2go
     rating: 3.1
   - name: Free2Move
-    review:
     website: https://www.free2move.com
     jobs: https://www.free2move.com/en-GB/job-offers
     description: Carsharing Software
@@ -583,9 +582,9 @@ jobs:
       - country: France
         lat: 48.891711
         long: 2.1731489
+    review:
     rating:
   - name: INVERS
-    review: https://www.kununu.com/de/inversgmbh
     website: https://invers.com
     jobs: https://invers.com/de/karriere/
     description: Anbieter für Carsharing Software
@@ -596,9 +595,9 @@ jobs:
       - country: Germany
         lat: 50.9098132
         long: 8.0661254
+    review: https://www.kununu.com/de/inversgmbh
     rating: 4.4
   - name: Cambio Carsharing
-    review: https://www.kununu.com/de/cambio-stadtteilauto-carsharing1
     website: https://www.cambio-carsharing.de/
     jobs: https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS
     description: Anbieter für Carsharing Software
@@ -609,9 +608,9 @@ jobs:
       - country: Germany
         lat: 53.0741371
         long: 8.8309317
+    review: https://www.kununu.com/de/cambio-stadtteilauto-carsharing1
     rating: 4.1
   - name: emmy
-    review: https://www.kununu.com/de/emmy-sharing1
     website: https://emmy-sharing.de/
     jobs: https://emmy-sharing.de/stellenangebote/
     description: Elektro-Roller Sharing
@@ -622,9 +621,9 @@ jobs:
       - country: Germany
         lat: 52.4678257
         long: 13.3690123
+    review: https://www.kununu.com/de/emmy-sharing1
     rating: 3.8
   - name: Avocado Store
-    review: https://www.kununu.com/de/avocado-store
     website: https://www.avocadostore.de/
     jobs: https://www.avocadostore.de/jobs
     description: Online Marktplatz für nachhaltige Produkte
@@ -635,9 +634,9 @@ jobs:
       - country: Germany
         lat: 53.5455335
         long: 9.9858543
+    review: https://www.kununu.com/de/avocado-store
     rating: 3.0
   - name: momox
-    review: https://www.kununu.com/de/momox
     website: https://www.momox.de/
     jobs: https://momox-jobs.dvinci.de/de/jobs
     description: Recommerce-Anbieter für gebrauchte Bücher, CDs, DVDs und Spiele
@@ -648,9 +647,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/momox
     rating: 3.6
   - name: Grüne Erde
-    review: https://www.kununu.com/at/gruene-erde
     website: https://www.grueneerde.com
     jobs: https://karriere.grueneerde.com/jobs/
     description: Online Shop von Grüne Erde
@@ -661,9 +660,9 @@ jobs:
       - country: Austria
         lat:
         long:
+    review: https://www.kununu.com/at/gruene-erde
     rating: 3.8
   - name: fairmondo
-    review:
     website: https://www.fairmondo.de
     jobs: https://www.fairmondo.de/jobs
     description: faire Alternative zu den Marktriesen im Online-Handel
@@ -674,9 +673,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review:
     rating:
   - name: Waschbär
-    review: https://www.kununu.com/de/waschbaer-umweltversand-triaz
     website: https://www.waschbaer.de
     jobs: https://www.waschbaer.de/shop/ueber-uns/karriere/stellenangebote
     description: Online Shop für umweltgerechte und sozialverträgliche Produkte
@@ -687,9 +686,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/waschbaer-umweltversand-triaz
     rating: 3.0
   - name: ifu
-    review: https://www.kununu.com/de/ifu-hamburg1
     website: https://www.ifu.com/
     jobs: https://www.ifu.com/karriere/
     description: Software & Beratung für Nachhaltigkeit
@@ -700,9 +699,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/ifu-hamburg1
     rating: 4.5
   - name: Wikimedia
-    review: https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v
     website: https://www.wikimedia.de/
     jobs: https://wikimedia-deutschland.career.softgarden.de/
     description: Freies Wissen
@@ -713,9 +712,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v
     rating: 3.4
   - name: ShareTheMeal
-    review:
     website: https://sharethemeal.org/de
     jobs: https://angel.co/company/sharethemeal-1/jobs
     description: ShareTheMeal ist eine Initiative des WFP der Vereinten Nationen - die größte gemeinnützige Organisation im Kampf gegen den Hunger
@@ -726,9 +725,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review:
     rating:
   - name: ClimatePartner
-    review: https://www.kununu.com/de/climatepartner
     website: https://www.climatepartner.com/de
     jobs: https://www.climatepartner.com/de/karriere
     description: ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen.
@@ -739,9 +738,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/climatepartner
     rating: 4.4
   - name: iPoint
-    review: https://www.kununu.com/de/ipoint-systems1
     website: https://www.ipoint-systems.com/de/
     jobs: https://www.ipoint-systems.com/de/careers/
     description: Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit
@@ -752,9 +751,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/ipoint-systems1
     rating: 3.6
   - name: betterplace
-    review: https://www.kununu.com/de/ipoint-systems1
     website: https://www.betterplace.org/de
     jobs: https://www.betterplace.org/c/stellen
     description: Spendenplattform
@@ -765,9 +764,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/ipoint-systems1
     rating: 3.6
   - name: Tomorrow
-    review: https://www.kununu.com/de/tomorrow2
     website: https://www.tomorrow.one
     jobs: https://www.tomorrow.one/de-de/jobs
     description: CO2-neutrales Bankkonto
@@ -778,9 +777,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/tomorrow2
     rating: 4.5
   - name: WAVES
-    review:
     website: https://waves.lu
     jobs: https://waves.lu/de/karriere/
     description: Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen
@@ -791,9 +790,9 @@ jobs:
       - country: Luxembourg
         lat:
         long:
+    review:
     rating:
   - name: ecosia
-    review: https://www.kununu.com/de/ecosia
     website: https://www.ecosia.org/
     jobs: https://jobs.lever.co/ecosia
     description: Eine Suchmaschine, die Bäume pflanzt
@@ -804,9 +803,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/ecosia
     rating: 3.4
   - name: InFarm
-    review: https://www.kununu.com/de/infarm
     website: https://www.infarm.com
     jobs: https://www.infarm.com/en/join-us
     description: Indoor Farming
@@ -817,9 +816,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/infarm
     rating: 3.1
   - name: Sylvera
-    review:
     website: https://www.sylvera.io
     jobs: https://apply.workable.com/sylvera/
     description: quantitative and qualitative data on offset projects
@@ -830,9 +829,9 @@ jobs:
       - country: UK
         lat:
         long:
+    review:
     rating:
   - name: Startnext
-    review: https://www.kununu.com/de/startnext-crowdfunding
     website: https://www.startnext.com
     jobs: https://www.startnext.com/info/jobs.html
     description: Crowdfunding
@@ -843,9 +842,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/startnext-crowdfunding
     rating: 4.5
   - name: Octopus Energy
-    review:
     website: https://octopus.energy
     jobs: https://octopus.energy/careers/
     description: UK-based retail electricity and gas supplier specialising in sustainable energy
@@ -856,9 +855,9 @@ jobs:
       - country: UK
         lat:
         long:
+    review:
     rating:
   - name: OVO Energy
-    review:
     website: https://www.ovoenergy.com/
     jobs: https://careers.ovo.com/opportunities
     description: UK-based green electricity supplier
@@ -869,9 +868,9 @@ jobs:
       - country: UK
         lat:
         long:
+    review:
     rating:
   - name: Clim8 Invest
-    review:
     website: https://clim8invest.com/
     jobs: https://clim8invest.com/work-at-clim8/
     description: Investments into clean energy and green, sustainable companies
@@ -882,9 +881,9 @@ jobs:
       - country: UK
         lat:
         long:
+    review:
     rating:
   - name: Ampeers Energy
-    review: https://www.kununu.com/de/ampeers-energy
     website: https://ampeersenergy.de/
     jobs: https://ampeersenergy.de/karriere/
     description: Dezentrale Energie
@@ -895,9 +894,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/ampeers-energy
     rating: 4.9
   - name: EINHUNDERT Energie
-    review: https://www.kununu.com/de/einhundert-energie
     website: https://einhundert-energie.de/
     jobs: https://einhundert-energie.de/stellenangebote/
     description: Mieterstrom
@@ -908,9 +907,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/einhundert-energie
     rating: 4.5
   - name: Seven2one
-    review: https://www.kununu.com/de/seven2one-informationssysteme1
     website: https://www.seven2one.de/
     jobs: https://www.seven2one.de/seven2one/karriere/
     description: Anbieter individueller Softwarelösungen für die neue, dezentrale und digitalisierte Energiewelt
@@ -921,9 +920,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/seven2one-informationssysteme1
     rating: 4.5
   - name: Teqcycle
-    review: https://www.kununu.com/de/teqcycle-solutions
     website: https://www.teqcycle.com
     jobs: https://www.teqcycle.com/de/jobs/
     description: Rücknahme gebrauchter, mobiler Endgeräte
@@ -934,9 +933,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/teqcycle-solutions
     rating: 4.0
   - name: Klima
-    review:
     website: https://klima.com/
     jobs: https://klima.com/about/#jobs
     description: Carbon Offset App
@@ -947,9 +946,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review:
     rating:
   - name: Planetly
-    review: https://www.kununu.com/de/planetly1/bewerbung
     website: https://www.planetly.org/
     jobs: https://planetly.jobs.personio.de/
     description: Carbon Offsetting für Unternehmen
@@ -960,9 +959,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/planetly1/bewerbung
     rating: 3.9
   - name: enersis
-    review: https://www.kununu.com/de/enersis-europe
     website: https://www.enersis.ch/
     jobs: https://www.enersis.ch/karriere/
     description: Digitale Plattformen zur Planung und Simulation der Energiewende
@@ -976,9 +975,9 @@ jobs:
       - country: Switzerland
         lat:
         long:
+    review: https://www.kununu.com/de/enersis-europe
     rating: 4.3
   - name: Tomorrow
-    review:
     website: https://www.tmrow.com/
     jobs: https://www.tmrow.com/jobs/
     description: Tech to empower people and organisations to understand and reduce their carbon footprint
@@ -989,9 +988,9 @@ jobs:
       - country: Denmark
         lat:
         long:
+    review:
     rating:
   - name: LivingPackets
-    review:
     website: https://livingpackets.com
     jobs: https://livingpackets.com/jobs
     description: Wiederverwendbare Versandboxen
@@ -1002,9 +1001,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review:
     rating:
   - name: Klima.Metrix
-    review:
     website: https://klimametrix.global/
     jobs: https://klimametrix.join.com/
     description: Automatisierte CO2 Footprint Kalkulation
@@ -1015,9 +1014,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review:
     rating:
   - name: Enpal
-    review: https://www.kununu.com/de/enpal
     website: https://www.enpal.de/
     jobs: https://www.enpal.de/jobs
     description: Solaranlagen mieten
@@ -1028,9 +1027,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/enpal
     rating: 3.7
   - name: node.energy
-    review:
     website: https://www.node.energy/
     jobs: https://www.node.energy/karriere
     description: Automatisierung von Management und Planung von klimafreundlichen Energielösungen
@@ -1041,9 +1040,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review:
     rating:
   - name: enyway
-    review: https://www.kununu.com/de/enyway1
     website: https://www.enyway.com/de
     jobs: https://enyway.softgarden.io/de/vacancies
     description: Regionaler Ökostrom und CO2-Kompensation mit Rendite
@@ -1054,9 +1053,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/enyway1
     rating: 4.6
   - name: Circularise
-    review:
     website: https://www.circularise.com/
     jobs: https://www.circularise.com/careers-circularise
     description: Supply Chain Transparency for a Circular Economy
@@ -1067,9 +1066,9 @@ jobs:
       - country: Netherlands
         lat:
         long:
+    review:
     rating:
   - name: Aurora Solar
-    review:
     website: https://www.aurorasolar.com/
     jobs: https://www.aurorasolar.com/careers/
     description: Software for Solar Design and Sales
@@ -1080,9 +1079,9 @@ jobs:
       - country: USA
         lat: 37.7795923
         long: -122.3964395
+    review:
     rating:
   - name: Arcadia
-    review:
     website: https://www.arcadia.com/
     jobs: https://welcome.arcadia.com/careers
     description: Tech platform that makes clean energy accessible in the USA
@@ -1093,9 +1092,9 @@ jobs:
       - country: USA
         lat:
         long:
+    review:
     rating:
   - name: Octopus Energy
-    review: https://www.kununu.com/de/octopus-energy-germany
     website: https://www.octopusenergy.de/
     jobs: https://www.octopusenergy.de/karriere
     description: Ökostromanbieter, der auf Digitalisierung setzt
@@ -1106,9 +1105,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review: https://www.kununu.com/de/octopus-energy-germany
     rating: 4.8
   - name: myclimate
-    review:
     website: https://www.myclimate.org
     jobs: https://www.myclimate.org/information/about-myclimate/jobs/
     description: Beratung, Bildung und Projekte rund um das Thema Klimaschutz
@@ -1119,9 +1118,9 @@ jobs:
       - country: Germany
         lat:
         long:
+    review:
     rating:
   - name: myclimate
-    review:
     website: https://www.myclimate.org
     jobs: https://www.myclimate.org/information/about-myclimate/jobs/
     description: Beratung, Bildung und Projekte rund um das Thema Klimaschutz
@@ -1132,9 +1131,9 @@ jobs:
       - country: Switzerland
         lat:
         long:
+    review:
     rating:
   - name: winnow
-    review:
     website: https://www.winnowsolutions.com
     jobs: https://www.winnowsolutions.com/en/careers
     description: Reduction of food waste in commercial kitchens
@@ -1145,9 +1144,9 @@ jobs:
       - country: Romania
         lat:
         long:
+    review:
     rating:
   - name: MOQO
-    review: https://www.kununu.com/de/digital-mobility-solutions2
     website: https://moqo.de/
     jobs: https://moqo.de/jobs
     description: Software für Shared Mobility Projekte
@@ -1158,9 +1157,9 @@ jobs:
       - country: Germany
         lat: 50.7704743
         long: 6.0714455
+    review: https://www.kununu.com/de/digital-mobility-solutions2
     rating: 4.4
   - name: Too Good To Go
-    review:
     website: https://toogoodtogo.org/en
     jobs: https://toogoodtogo.org/en/careers
     description: Anti food waste app
@@ -1171,9 +1170,9 @@ jobs:
       - country: Denmark
         lat: 55.7129716
         long: 12.5675979
+    review:
     rating:
   - name: Spenoki
-    review:
     website: https://www.spenoki.de/
     jobs: https://spenoki-career.kenjo.io/
     description: SaaS-Lösung um Nachhaltigkeit zu analysieren, zu optimieren und zu kommunizieren
@@ -1184,9 +1183,9 @@ jobs:
       - country: Germany
         lat: 47.8776957
         long: 11.6998051
+    review:
     rating:
   - name: Cooler Future
-    review:
     website: https://coolerfuture.com/de
     jobs: https://coolerfuture.com/de/page/careers
     description: Investments in sustainable portfolio
@@ -1200,6 +1199,20 @@ jobs:
       - country: Finland
         lat: 60.1686939
         long: 24.9312832
+    review:
+    rating:
+  - name: Solarmax
+    website: https://solarmax.com/de/
+    jobs: https://solarmax.com/de/jobs/
+    description: Hersteller von Wechelrichtern und Batteriesystemen
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 48.3445307
+        long: 10.316126
+    review:
     rating:
 jobportals:
   - name: eejobs.de
