@@ -10,6 +10,7 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 ## Map
 
 ![preview image of map](map.jpg)
+
 [Show companies on a map](https://awesome-sustainability-jobs.netlify.app/) 🗺️
 
 ## List
