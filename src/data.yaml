@@ -1085,8 +1085,8 @@ jobs:
     field: Circular Economy
     geo:
       - country: Netherlands
-        lat:
-        long:
+        lat: 52.0792229
+        long: 4.3400817
     review:
     rating:
   - name: Aurora Solar
@@ -1124,8 +1124,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.138339
+        long: 11.5649452
     review: https://www.kununu.com/de/octopus-energy-germany
     rating: 4.8
   - name: myclimate
@@ -1136,22 +1136,12 @@ jobs:
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
     geo:
-      - country: Germany
-        lat:
-        long:
-    review:
-    rating:
-  - name: myclimate
-    website: https://www.myclimate.org
-    jobs: https://www.myclimate.org/information/about-myclimate/jobs/
-    description: Beratung, Bildung und Projekte rund um das Thema Klimaschutz
-    remote: false
-    speculative: false
-    field: Carbon Analysis, Capture and Offsetting
-    geo:
       - country: Switzerland
-        lat:
-        long:
+        lat: 47.3880532
+        long: 8.5166506
+      - country: Germany
+        lat: 52.4932059
+        long: 13.4877535
     review:
     rating:
   - name: winnow
@@ -1163,8 +1153,8 @@ jobs:
     field: Misc.
     geo:
       - country: Romania
-        lat:
-        long:
+        lat: 46.7776259
+        long: 23.5579976
     review:
     rating:
   - name: MOQO
