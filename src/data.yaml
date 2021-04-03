@@ -1240,6 +1240,19 @@ jobs:
         long: 9.9813508
     review:
     rating:
+  - name: Energy2market
+    website: https://www.e2m.energy/
+    jobs: https://www.energy2market.io/
+    description: Virtuelle Kraftwerke
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 51.3286985
+        long: 12.325212
+    review: https://www.kununu.com/de/energy2market1
+    rating: 3.6
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
