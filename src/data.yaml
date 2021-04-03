@@ -939,8 +939,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.9958371
+        long: 8.464905
     review: https://www.kununu.com/de/seven2one-informationssysteme1
     rating: 4.5
   - name: Teqcycle
@@ -952,8 +952,8 @@ jobs:
     field: Circular Economy
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.0965142
+        long: 11.5310824
     review: https://www.kununu.com/de/teqcycle-solutions
     rating: 4.0
   - name: Klima
@@ -965,8 +965,8 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.5274486
+        long: 13.4005255
     review:
     rating:
   - name: Planetly
@@ -978,8 +978,8 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.528263
+        long: 13.4040588
     review: https://www.kununu.com/de/planetly1/bewerbung
     rating: 3.9
   - name: enersis
@@ -991,11 +991,11 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.4086889
+        long: 13.1872701
       - country: Switzerland
-        lat:
-        long:
+        lat: 46.9477212
+        long: 7.4410768
     review: https://www.kununu.com/de/enersis-europe
     rating: 4.3
   - name: Tomorrow
@@ -1007,8 +1007,8 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: Denmark
-        lat:
-        long:
+        lat: 55.6614065
+        long: 12.58974
     review:
     rating:
   - name: LivingPackets
@@ -1019,9 +1019,9 @@ jobs:
     speculative: false
     field: Circular Economy
     geo:
-      - country: Germany
-        lat:
-        long:
+      - country: Switzerland
+        lat: 46.5097286
+        long: 6.6426944
     review:
     rating:
   - name: Klima.Metrix
@@ -1033,8 +1033,8 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.5008815
+        long: 13.4119332
     review:
     rating:
   - name: Enpal
@@ -1046,8 +1046,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.5078933
+        long: 13.4656977
     review: https://www.kununu.com/de/enpal
     rating: 3.7
   - name: node.energy
@@ -1059,8 +1059,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 50.0972867
+        long: 8.6625138
     review:
     rating:
   - name: enyway
@@ -1072,8 +1072,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 53.6030082
+        long: 10.0258334
     review: https://www.kununu.com/de/enyway1
     rating: 4.6
   - name: Circularise
