@@ -645,8 +645,8 @@ jobs:
     field: Sustainable Consumption
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.5317665
+        long: 13.7148711
     review: https://www.kununu.com/de/momox
     rating: 3.6
   - name: Grüne Erde
@@ -658,8 +658,8 @@ jobs:
     field: Sustainable Consumption
     geo:
       - country: Austria
-        lat:
-        long:
+        lat: 47.9049192
+        long: 13.9598334
     review: https://www.kununu.com/at/gruene-erde
     rating: 3.8
   - name: fairmondo
@@ -671,8 +671,8 @@ jobs:
     field: Sustainable Consumption
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.4923561
+        long: 13.435002
     review:
     rating:
   - name: Waschbär
@@ -684,8 +684,8 @@ jobs:
     field: Sustainable Consumption
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.0333532
+        long: 7.8487266
     review: https://www.kununu.com/de/waschbaer-umweltversand-triaz
     rating: 3.0
   - name: ifu
@@ -697,8 +697,8 @@ jobs:
     field: Misc.
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 53.5511084
+        long: 9.9349967
     review: https://www.kununu.com/de/ifu-hamburg1
     rating: 4.5
   - name: Wikimedia
@@ -710,8 +710,8 @@ jobs:
     field: Misc.
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.498439
+        long: 13.3796507
     review: https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v
     rating: 3.4
   - name: ShareTheMeal
@@ -736,8 +736,26 @@ jobs:
     field: Misc.
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.1207041
+        long: 11.6015285
+      - country: Austria
+        lat: 48.2422165
+        long: 16.3825107
+      - country: Switzerland
+        lat: 47.3899472
+        long: 8.5162833
+      - country: UK
+        lat: 51.5285582
+        long: -0.2416797
+      - country: Spain
+        lat: 41.3930887
+        long: 2.1432571
+      - country: Sweden
+        lat: 59.3298307
+        long: 18.0645747
+      - country: Italy
+        lat: 45.4684268
+        long: 19.160819
     review: https://www.kununu.com/de/climatepartner
     rating: 4.4
   - name: iPoint
@@ -749,8 +767,8 @@ jobs:
     field: Misc.
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.5165564
+        long: 9.1986624
     review: https://www.kununu.com/de/ipoint-systems1
     rating: 3.6
   - name: betterplace
@@ -762,8 +780,8 @@ jobs:
     field: Misc.
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.498999
+        long: 13.4480681
     review: https://www.kununu.com/de/ipoint-systems1
     rating: 3.6
   - name: Tomorrow
@@ -775,8 +793,8 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 53.5579188
+        long: 9.9738096
     review: https://www.kununu.com/de/tomorrow2
     rating: 4.5
   - name: WAVES
@@ -788,8 +806,8 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: Luxembourg
-        lat:
-        long:
+        lat: 49.6044039
+        long: 6.1357507
     review:
     rating:
   - name: ecosia
@@ -801,8 +819,8 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.5445526
+        long: 13.3707686
     review: https://www.kununu.com/de/ecosia
     rating: 3.4
   - name: InFarm
@@ -814,8 +832,8 @@ jobs:
     field: Misc.
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 52.4569444
+        long: 13.3918352
     review: https://www.kununu.com/de/infarm
     rating: 3.1
   - name: Sylvera
@@ -827,8 +845,8 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: UK
-        lat:
-        long:
+        lat: 51.5283914
+        long: -0.2416799
     review:
     rating:
   - name: Startnext
@@ -840,8 +858,8 @@ jobs:
     field: Misc.
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 51.0543338
+        long: 13.813914
     review: https://www.kununu.com/de/startnext-crowdfunding
     rating: 4.5
   - name: Octopus Energy
@@ -853,8 +871,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: UK
-        lat:
-        long:
+        lat: 51.5157685
+        long: -0.1397249
     review:
     rating:
   - name: OVO Energy
@@ -866,8 +884,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: UK
-        lat:
-        long:
+        lat: 51.4533332
+        long: -2.5866618
     review:
     rating:
   - name: Clim8 Invest
@@ -879,8 +897,8 @@ jobs:
     field: Misc.
     geo:
       - country: UK
-        lat:
-        long:
+        lat: 51.4934478
+        long: -0.2275489
     review:
     rating:
   - name: Ampeers Energy
@@ -892,8 +910,11 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 48.1504462
+        long: 11.539467
+      - country: Germany
+        lat: 50.973424
+        long: 11.539467
     review: https://www.kununu.com/de/ampeers-energy
     rating: 4.9
   - name: EINHUNDERT Energie
@@ -905,8 +926,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat:
-        long:
+        lat: 50.9488451
+        long: 6.9092277
     review: https://www.kununu.com/de/einhundert-energie
     rating: 4.5
   - name: Seven2one
