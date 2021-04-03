@@ -12,9 +12,12 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 - [Finland](#finland)
 - [France](#france)
 - [Germany](#germany)
+- [Italy](#italy)
 - [Luxembourg](#luxembourg)
 - [Netherlands](#netherlands)
 - [Romania](#romania)
+- [Spain](#spain)
+- [Sweden](#sweden)
 - [Switzerland](#switzerland)
 - [UK](#uk)
 - [USA](#usa)
@@ -32,6 +35,13 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [has-to-be](https://has-to-be.com) | [jobs](https://has-to-be.com/de/karriere/) |  | Plattform für E-Mobilität | ✅ |  |
+
+
+### Misc.
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
 
 ### Sustainable Consumption
@@ -177,6 +187,7 @@ re. = has at least one remote job offering
 | [ZOLAR](https://www.zolar.de/) | [jobs](https://www.zolar.de/karriere/office-jobs) | [4.2/5](https://www.kununu.com/de/zolar3) | Online Planung von PV-Anlagen |  |  |
 | [enersol](https://www.enersol.eu/) | [jobs](https://www.enersol.eu/jobs/) |  | plant, vertreibt und installiert schlüsselfertige PV/Batterie Anlagen |  |  |
 | [Ampeers Energy](https://ampeersenergy.de/) | [jobs](https://ampeersenergy.de/karriere/) | [4.9/5](https://www.kununu.com/de/ampeers-energy) | Dezentrale Energie |  |  |
+| [Ampeers Energy](https://ampeersenergy.de/) | [jobs](https://ampeersenergy.de/karriere/) | [4.9/5](https://www.kununu.com/de/ampeers-energy) | Dezentrale Energie |  |  |
 | [EINHUNDERT Energie](https://einhundert-energie.de/) | [jobs](https://einhundert-energie.de/stellenangebote/) | [4.5/5](https://www.kununu.com/de/einhundert-energie) | Mieterstrom |  |  |
 | [Seven2one](https://www.seven2one.de/) | [jobs](https://www.seven2one.de/seven2one/karriere/) | [4.5/5](https://www.kununu.com/de/seven2one-informationssysteme1) | Anbieter individueller Softwarelösungen für die neue, dezentrale und digitalisierte Energiewelt | ✅ |  |
 | [enersis](https://www.enersis.ch/) | [jobs](https://www.enersis.ch/karriere/) | [4.3/5](https://www.kununu.com/de/enersis-europe) | Digitale Plattformen zur Planung und Simulation der Energiewende |  |  |
@@ -221,6 +232,17 @@ re. = has at least one remote job offering
 
 
 
+## Italy
+
+### Misc.
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+
+
+
+
 ## Luxembourg
 
 ### Carbon Analysis, Capture and Offsetting
@@ -254,6 +276,28 @@ re. = has at least one remote job offering
 
 
 
+## Spain
+
+### Misc.
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+
+
+
+
+## Sweden
+
+### Misc.
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+
+
+
+
 ## Switzerland
 
 ### Carbon Analysis, Capture and Offsetting
@@ -261,6 +305,13 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
+
+
+### Misc.
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
 
 ### Renewable Energies
@@ -285,6 +336,7 @@ re. = has at least one remote job offering
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 | [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) |  | Investments into clean energy and green, sustainable companies |  |  |
 
 
