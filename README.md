@@ -20,6 +20,7 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 - [Finland](#finland)
 - [France](#france)
 - [Germany](#germany)
+- [India](#india)
 - [Italy](#italy)
 - [Luxembourg](#luxembourg)
 - [Netherlands](#netherlands)
@@ -142,6 +143,15 @@ re. = has at least one remote job offering
 | [tado°](https://www.tado.com/) | [jobs](https://www.tado.com/de-de/arbeiten-bei-tado) | [4.0/5](https://www.kununu.com/de/tado5) | Lösungen und Services im Bereich Klimasteuerung zuhause | ✅ |  |
 | [Energieheld](https://www.energieheld.de/) | [jobs](https://www.energieheld.de/ueber-uns/karriere/jobs) |  | Portal zu energetischen Gebäudesanierungen | ✅ |  |
 | [Passivhaus Institut](https://passiv.de/) | [jobs](https://passiv.de/de/01_passivhausinstitut/05_stellenangebote/05_stellenangebote.htm) | [2.3/5](https://www.kununu.com/de/passivhaus-institut) | Energieeffizienz in Gebäuden |  |  |
+| [SOPTIM](https://www.soptim.de) | [jobs](https://www.soptim.de/de/karriere/aktuelle-jobs/) | [4.1/5](https://www.kununu.com/de/soptim) | Software für energiewirtschaftliche Prozesse |  |  |
+| [SOPTIM](https://www.soptim.de) | [jobs](https://www.soptim.de/de/karriere/aktuelle-jobs/) | [4.1/5](https://www.kununu.com/de/soptim) | Software für energiewirtschaftliche Prozesse |  |  |
+
+
+#### Misc
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [retraced](https://retraced.co/) | [jobs](https://retraced.co/careers) |  | Sustainable Supply Chain Management |  | ✅ |
 
 
 #### Misc.
@@ -158,6 +168,7 @@ re. = has at least one remote job offering
 | [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | [4.5/5](https://www.kununu.com/de/startnext-crowdfunding) | Crowdfunding | ✅ |  |
 | [Cooler Future](https://coolerfuture.com/de) | [jobs](https://coolerfuture.com/de/page/careers) |  | Investments in sustainable portfolio | ✅ |  |
 | [Carrypicker](https://www.carrypicker.com/) | [jobs](https://www.carrypicker.com/jobs) |  | CO2 Senkung durch Effizenzsteigerung im Transportwesen |  |  |
+| [alcemy](https://www.alcemy.tech/) | [jobs](https://www.notion.so/Working-at-alcemy-7640f0e4aae1456fa70013b8141ba2b2) |  | CO2 Reduktion bei Beton Produktion |  |  |
 
 
 #### Renewable Energies
@@ -203,6 +214,7 @@ re. = has at least one remote job offering
 | [Octopus Energy](https://www.octopusenergy.de/) | [jobs](https://www.octopusenergy.de/karriere) | [4.8/5](https://www.kununu.com/de/octopus-energy-germany) | Ökostromanbieter, der auf Digitalisierung setzt | ✅ |  |
 | [Solarmax](https://solarmax.com/de/) | [jobs](https://solarmax.com/de/jobs/) |  | Hersteller von Wechelrichtern und Batteriesystemen |  |  |
 | [Energy2market](https://www.e2m.energy/) | [jobs](https://www.energy2market.io/) | [3.6/5](https://www.kununu.com/de/energy2market1) | Virtuelle Kraftwerke |  |  |
+| [envelio](https://envelio.de/) | [jobs](https://envelio.jobs.personio.de/) |  | Digitalisierungsplattform für Energienetze | ✅ |  |
 
 
 #### Sharing Economy
@@ -234,6 +246,17 @@ re. = has at least one remote job offering
 | - | - | - | - | - | - |
 | [raumobil](https://www.raumobil.com) | [jobs](https://www.raumobil.com/jobs) | [4.7/5](https://www.kununu.com/de/raumobil) | smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen |  |  |
 | [Jobrad](https://www.jobrad.org) | [jobs](https://www.jobrad.org/ueber-uns/karriere.html) | [4.2/5](https://www.kununu.com/de/jobrad) | Diensträder | ✅ |  |
+
+
+
+
+### India
+
+#### Electric Mobility
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) |  | Charging Solution |  | ✅ |
 
 
 
@@ -320,6 +343,13 @@ re. = has at least one remote job offering
 | [LivingPackets](https://livingpackets.com) | [jobs](https://livingpackets.com/jobs) |  | Wiederverwendbare Versandboxen |  |  |
 
 
+#### Energy Efficiency
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [ECCO2](https://www.ecco2.ch) | [jobs](https://www.ecco2.ch/jobs) |  | Predictive heating controll |  |  |
+
+
 #### Misc.
 
 | company | jobs | rating | description | sp. | re. |
@@ -364,6 +394,14 @@ re. = has at least one remote job offering
 
 
 ### USA
+
+#### Electric Mobility
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) |  | Charging Solution |  | ✅ |
+| [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) |  | Charging Solution |  | ✅ |
+
 
 #### Renewable Energies
 
