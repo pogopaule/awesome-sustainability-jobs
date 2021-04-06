@@ -1264,6 +1264,93 @@ jobs:
         long: 12.325212
     review: https://www.kununu.com/de/energy2market1
     rating: 3.6
+  - name: ChargePoint
+    website: https://www.chargepoint.com/
+    jobs: https://www.chargepoint.com/about/opportunities/
+    description: Charging Solution
+    remote: true
+    speculative: false
+    field: Electric Mobility
+    geo:
+      - country: India
+        lat: 28.4436319
+        long: 76.9799547
+      - country: USA
+        lat: 37.2824436
+        long: -121.9830633
+      - country: USA
+        lat: 51.4523762
+        long: -0.9935331
+    review:
+    rating:
+  - name: ECCO2
+    website: https://www.ecco2.ch
+    jobs: https://www.ecco2.ch/jobs
+    description: Predictive heating controll
+    remote: false
+    speculative: false
+    field: Energy Efficiency
+    geo:
+      - country: Switzerland
+        lat: 46.812475
+        long: 7.1205639
+    review:
+    rating:
+  - name: SOPTIM
+    website: https://www.soptim.de
+    jobs: https://www.soptim.de/de/karriere/aktuelle-jobs/
+    description: Software für energiewirtschaftliche Prozesse
+    remote: false
+    speculative: false
+    field: Energy Efficiency
+    geo:
+      - country: Germany
+        lat: 50.7889745
+        long: 6.0556228
+      - country: Germany
+        lat: 51.4548033
+        long: 7.0195405
+    review: https://www.kununu.com/de/soptim
+    rating: 4.1
+  - name: envelio
+    website: https://envelio.de/
+    jobs: https://envelio.jobs.personio.de/
+    description: Digitalisierungsplattform für Energienetze
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 50.9408953
+        long: 6.8873024
+    review:
+    rating:
+  - name: alcemy
+    website: https://www.alcemy.tech/
+    jobs: https://www.notion.so/Working-at-alcemy-7640f0e4aae1456fa70013b8141ba2b2
+    description: CO2 Reduktion bei Beton Produktion
+    remote: false
+    speculative: false
+    field: Misc.
+    geo:
+      - country: Germany
+        lat: 52.5311885
+        long: 13.4051082
+    review:
+    rating:
+  - name: retraced
+    website: https://retraced.co/
+    jobs: https://retraced.co/careers
+    description: Sustainable Supply Chain Management
+    remote: true
+    speculative: false
+    field: Misc
+    geo:
+      - country: Germany
+        lat: 51.2102466
+        long: 6.8079118
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
