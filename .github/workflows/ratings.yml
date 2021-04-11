@@ -5,6 +5,9 @@ on:
     # every 14 days
     - cron: "* * */14 * *"
 
+  # can be triggered manually
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
