@@ -479,7 +479,7 @@ jobs:
         lat: 48.9989599
         long: 8.4614533
     review: https://www.kununu.com/de/raumobil
-    rating: 4.7
+    rating: 4.8
   - name: Jobrad
     website: https://www.jobrad.org
     jobs: https://www.jobrad.org/ueber-uns/karriere.html
@@ -596,7 +596,7 @@ jobs:
         lat: 50.9098132
         long: 8.0661254
     review: https://www.kununu.com/de/inversgmbh
-    rating: 4.4
+    rating: 4.3
   - name: Cambio Carsharing
     website: https://www.cambio-carsharing.de/
     jobs: https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS
@@ -687,7 +687,7 @@ jobs:
         lat: 48.0333532
         long: 7.8487266
     review: https://www.kununu.com/de/waschbaer-umweltversand-triaz
-    rating: 2.9
+    rating: 3.0
   - name: ifu
     website: https://www.ifu.com/
     jobs: https://www.ifu.com/karriere/
