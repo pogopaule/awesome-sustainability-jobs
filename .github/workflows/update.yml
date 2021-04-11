@@ -5,6 +5,11 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  workflow_run:
+    workflows: ["Update Ratings"]
+    branches: [main]
+    types:
+      - completed
 
 jobs:
   build:

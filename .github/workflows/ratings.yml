@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: create readme
+      - name: update reviews
         run: cd src && pip install -r requirements.txt && python update_reviews.py
 
       - name: Add & Commit
