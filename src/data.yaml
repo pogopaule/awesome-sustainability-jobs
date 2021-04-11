@@ -1351,6 +1351,58 @@ jobs:
         long: 6.8079118
     review:
     rating:
+  - name: unown
+    website: https://unown-fashion.com
+    jobs: https://unown-fashion.com/pages/jobs
+    description: Kleidung leasen
+    remote: true
+    speculative: false
+    field: Misc.
+    geo:
+      - country: Germany
+        lat: 53.5689738
+        long: 9.8990873
+    review:
+    rating:
+  - name: vilisto
+    website: https://www.vilisto.de/
+    jobs: https://www.vilisto.de/jobs/#jobs
+    description: Digitales Wärmemanagment
+    remote: false
+    speculative: true
+    field: Energy Efficiency
+    geo:
+      - country: Germany
+        lat: 53.4642119
+        long: 9.9845409
+    review: https://www.kununu.com/de/vilisto1
+    rating: 4.7
+  - name: etepetete
+    website: https://etepetete-bio.de/
+    jobs: https://etepetete-bio.de/jobs
+    description: krummes Gemüse
+    remote: false
+    speculative: true
+    field: Sustainable Consumption
+    geo:
+      - country: Germany
+        lat: 48.1505083
+        long: 11.5458047
+    review: https://www.kununu.com/de/etepetete
+    rating: 2.4
+  - name: Eigensonne
+    website: https://www.eigensonne.de/
+    jobs: https://www.eigensonne.de/jobs-buero/
+    description: Beraturn, Planung und Ausführung von PV-Anlagen
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 52.5102294
+        long: 13.4045804
+    review: https://www.kununu.com/de/eigensonne
+    rating: 3.8
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
