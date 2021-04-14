@@ -53,14 +53,14 @@
         popup = popup + `<div>Rating: <a target="_blank" href="${l.review}">${l.rating} out of 5</a></div>`
       }
       if(l.remote) {
-        popup = popup + `<div>Has remote jobs</div>`
+        popup = popup + `<div>They have at least one remote job</div>`
       } else {
-        popup = popup + `<div>Doesn't have remote jobs</div>`
+        popup = popup + `<div>They don't mention remote jobs</div>`
       }
       if(l.speculative) {
-        popup = popup + `<div>Accepts speculative job applications</div>`
+        popup = popup + `<div>They accept speculative job applications</div>`
       } else {
-        popup = popup + `<div>Doesn't explicitly mention speculative job applications</div>`
+        popup = popup + `<div>They don't mention speculative job applications</div>`
       }
 
 
