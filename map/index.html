@@ -32,7 +32,9 @@
   <script>
     var bounds = locations.map(loc => [loc.geo.lat, loc.geo.long])
 
-    var map = L.map('map');
+    var map = L.map('map', {
+      tap: false
+    });
 
     map.fitBounds(new L.LatLngBounds(bounds));
 
