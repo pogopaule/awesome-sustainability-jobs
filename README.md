@@ -15,6 +15,7 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 
 ## List
 
+- [Australia](#australia)
 - [Austria](#austria)
 - [Denmark](#denmark)
 - [Finland](#finland)
@@ -24,6 +25,7 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 - [Italy](#italy)
 - [Luxembourg](#luxembourg)
 - [Netherlands](#netherlands)
+- [Philippines](#philippines)
 - [Romania](#romania)
 - [Spain](#spain)
 - [Sweden](#sweden)
@@ -35,6 +37,18 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 
 sp. = speculative applications accepted\
 re. = has at least one remote job offering
+
+### Australia
+
+#### Sharing Economy
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Car Next Door](https://www.carnextdoor.com.au) | [jobs](https://www.carnextdoor.com.au/careers) |  | Car sharing provider |  | ✅ |
+| [Car Next Door](https://www.carnextdoor.com.au) | [jobs](https://www.carnextdoor.com.au/careers) |  | Car sharing provider |  | ✅ |
+
+
+
 
 ### Austria
 
@@ -122,6 +136,7 @@ re. = has at least one remote job offering
 | - | - | - | - | - | - |
 | [Vytal](https://www.vytal.org/) | [jobs](https://www.vytal.org/jobs) |  | Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food | ✅ |  |
 | [Teqcycle](https://www.teqcycle.com) | [jobs](https://www.teqcycle.com/de/jobs/) | [4.0/5](https://www.kununu.com/de/teqcycle-solutions) | Rücknahme gebrauchter, mobiler Endgeräte |  |  |
+| [circular.fashion](https://circular.fashion/) | [jobs](https://circular.fashion/jobs/) |  | Digital platform for circular economy in fashion and textiles |  |  |
 
 
 #### Electric Mobility
@@ -294,6 +309,17 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [Circularise](https://www.circularise.com/) | [jobs](https://www.circularise.com/careers-circularise) |  | Supply Chain Transparency for a Circular Economy |  |  |
+
+
+
+
+### Philippines
+
+#### Sharing Economy
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Car Next Door](https://www.carnextdoor.com.au) | [jobs](https://www.carnextdoor.com.au/careers) |  | Car sharing provider |  | ✅ |
 
 
 
