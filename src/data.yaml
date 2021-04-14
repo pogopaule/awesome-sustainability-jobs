@@ -1403,6 +1403,38 @@ jobs:
         long: 13.4045804
     review: https://www.kununu.com/de/eigensonne
     rating: 3.8
+  - name: circular.fashion
+    website: https://circular.fashion/
+    jobs: https://circular.fashion/jobs/
+    description: Digital platform for circular economy in fashion and textiles
+    remote: false
+    speculative: false
+    field: Circular Economy
+    geo:
+      - country: Germany
+        lat: 52.4997181
+        long: 13.4289538
+    review:
+    rating:
+  - name: Car Next Door
+    website: https://www.carnextdoor.com.au
+    jobs: https://www.carnextdoor.com.au/careers
+    description: Car sharing provider
+    remote: true
+    speculative: false
+    field: Sharing Economy
+    geo:
+      - country: Australia
+        lat: -33.869883
+        long: 151.1924279
+      - country: Australia
+        lat: -37.8238979
+        long: 144.9879958
+      - country: Philippines
+        lat: 14.5989665
+        long: 120.9743294
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
