@@ -41,7 +41,10 @@ with open("data.yaml", "r") as stream:
                 content = response.text
                 index = content.find('<span class="index__value__')
                 try:
-                    rating = float(content[index + 34 : index + 37].replace(",", "."))
+                    offset = 56
+                    rating = float(
+                        content[index + offset : index + offset + 3].replace(",", ".")
+                    )
                 except ValueError as error:
                     print(error)
                 print(rating)
