@@ -1127,7 +1127,7 @@ jobs:
         lat: 48.138339
         long: 11.5649452
     review: https://www.kununu.com/de/octopus-energy-germany
-    rating: 4.8
+    rating: 4.6
   - name: myclimate
     website: https://www.myclimate.org
     jobs: https://www.myclimate.org/information/about-myclimate/jobs/
@@ -1402,7 +1402,7 @@ jobs:
         lat: 52.5102294
         long: 13.4045804
     review: https://www.kununu.com/de/eigensonne
-    rating: 3.8
+    rating: 3.9
   - name: circular.fashion
     website: https://circular.fashion/
     jobs: https://circular.fashion/jobs/
