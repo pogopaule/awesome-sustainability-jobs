@@ -219,7 +219,7 @@ jobs:
         lat: 49.4968646
         long: 8.5035014
     review: https://www.kununu.com/de/power-plus-communications3
-    rating: 3.2
+    rating: 4.0
   - name: Digsilent
     website: https://www.digsilent.de/de/home.html
     jobs: https://www.digsilent.de/de/stellenangebote.html
@@ -258,7 +258,7 @@ jobs:
         lat: 51.3573118
         long: 12.3859104
     review: https://www.kununu.com/de/senec1
-    rating: 4.6
+    rating: 3.4
   - name: KACO new energy
     website: https://kaco-newenergy.com
     jobs: https://kaco-newenergy.com/de/karriere/stellenangebote/
@@ -297,7 +297,7 @@ jobs:
         lat: 52.2771415
         long: 8.0503165
     review: https://www.kununu.com/de/e3dc2
-    rating: 3.1
+    rating: 3.4
   - name: Optimax Energy
     website: https://www.optimax-energy.de
     jobs: https://www.optimax-energy.de/index.php/karriere
@@ -401,7 +401,7 @@ jobs:
         lat: 48.1209608
         long: 11.601337
     review: https://www.kununu.com/de/the-mobility-house1
-    rating: 3.5
+    rating: 4.5
   - name: ubitricity
     website: https://www.ubitricity.com
     jobs: https://www.ubitricity.com/jobs/
