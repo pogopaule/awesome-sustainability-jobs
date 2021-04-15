@@ -63,7 +63,7 @@ jobs:
         lat: 53.1302601
         long: 8.153105
     review: https://www.kununu.com/de/energy-meteo-systems
-    rating: 3.8
+    rating: 3.6
   - name: DrehPunkt
     website: https://drehpunkt.de
     jobs: https://drehpunkt.de/jobs/
@@ -596,7 +596,7 @@ jobs:
         lat: 50.9098132
         long: 8.0661254
     review: https://www.kununu.com/de/inversgmbh
-    rating: 4.3
+    rating: 4.4
   - name: Cambio Carsharing
     website: https://www.cambio-carsharing.de/
     jobs: https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS
@@ -687,7 +687,7 @@ jobs:
         lat: 48.0333532
         long: 7.8487266
     review: https://www.kununu.com/de/waschbaer-umweltversand-triaz
-    rating: 3.0
+    rating: 2.9
   - name: ifu
     website: https://www.ifu.com/
     jobs: https://www.ifu.com/karriere/
