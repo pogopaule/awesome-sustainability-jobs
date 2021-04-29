@@ -37,7 +37,7 @@ jobs:
         lat: 49.91404
         long: 10.2377113
     review: https://www.kununu.com/de/belectric1
-    rating: 3.2
+    rating: 3.3
   - name: Next Kraftwerke
     website: https://www.next-kraftwerke.de/
     jobs: https://www.next-kraftwerke.de/jobs
@@ -115,7 +115,7 @@ jobs:
         lat: 47.7737772
         long: 10.4085214
     review: https://www.kununu.com/de/sonnen-gmbh
-    rating: 3.3
+    rating: 3.4
   - name: FENECON
     website: https://fenecon.de
     jobs: https://www1.fenecon.de/karriere/
@@ -193,7 +193,7 @@ jobs:
         lat: 47.5648648
         long: 7.7819459
     review: https://www.kununu.com/de/energiedienst-gruppe
-    rating: 4.0
+    rating: 4.1
   - name: mobisol
     website: http://www.plugintheworld.com/
     jobs: https://plugintheworld.com/careers/
@@ -349,7 +349,7 @@ jobs:
         lat: 52.5004741
         long: 13.4201193
     review: https://www.kununu.com/de/zolar3
-    rating: 4.3
+    rating: 4.2
   - name: enersol
     website: https://www.enersol.eu/
     jobs: https://www.enersol.eu/jobs/
@@ -479,7 +479,7 @@ jobs:
         lat: 48.9989599
         long: 8.4614533
     review: https://www.kununu.com/de/raumobil
-    rating: 4.8
+    rating: 4.9
   - name: Jobrad
     website: https://www.jobrad.org
     jobs: https://www.jobrad.org/ueber-uns/karriere.html
@@ -557,7 +557,7 @@ jobs:
         lat: 51.3245077
         long: 12.3362985
     review: https://www.kununu.com/de/nextbike1
-    rating: 3.2
+    rating: 3.3
   - name: car2go
     website: https://www.share-now.com/de/de/
     jobs: https://boards.greenhouse.io/joinsharenow
@@ -981,7 +981,7 @@ jobs:
         lat: 52.528263
         long: 13.4040588
     review: https://www.kununu.com/de/planetly1/bewerbung
-    rating: 4.5
+    rating: 4.7
   - name: enersis
     website: https://www.enersis.ch/
     jobs: https://www.enersis.ch/karriere/
