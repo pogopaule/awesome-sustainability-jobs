@@ -193,7 +193,7 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [OXYGEN TECHNOLOGIES](https://www.oxygen-technologies.de/) | [jobs](https://www.oxygen-technologies.de/ueber-uns/jobs/) | [4.9/5](https://www.kununu.com/de/oxygen-technologies1) | OXYGEN TECHNOLOGIES stellt Energieversorgern, Stadtwerken und Messstellenbetreibern IT-Lösungen bereit und treibt damit die Digitalisierung der Energiewirtschaft voran. | ✅ |  |
-| [Greenpeace Energy eG](https://www.greenpeace-energy.de) | [jobs](https://www.greenpeace-energy.de/ueber-uns/karriere.html) | [3.6/5](https://www.kununu.com/de/greenpeace-energy-eg2) | Anbieter für Ökostom und Ökogas |  |  |
+| [Greenpeace Energy eG](https://www.greenpeace-energy.de) | [jobs](https://www.greenpeace-energy.de/ueber-uns/karriere.html) | [4.9/5](https://www.kununu.com/de/greenpeace-energy-eg2) | Anbieter für Ökostom und Ökogas |  |  |
 | [BELECTRIC](https://belectric.com/de/) | [jobs](https://belectric.com/de/karriere/) | [3.3/5](https://www.kununu.com/de/belectric1) | Entwicklung und im Bau von Freiflächen-Solarkraftwerken und Energiespeichersystemen |  |  |
 | [Next Kraftwerke](https://www.next-kraftwerke.de/) | [jobs](https://www.next-kraftwerke.de/jobs) | [4.3/5](https://www.kununu.com/de/next-kraftwerke1) | Next Kraftwerke betreibt eines der größten Virtuellen Kraftwerke Europas | ✅ |  |
 | [energy & meteo systems](https://www.energymeteo.de) | [jobs](https://www.energymeteo.de/ueber_uns/jobs.php) | [3.6/5](https://www.kununu.com/de/energy-meteo-systems) | Leistungsprognosen und Virtuelle Kraftwerke | ✅ |  |
@@ -201,8 +201,8 @@ re. = has at least one remote job offering
 | [meteocontrol](https://www.meteocontrol.com) | [jobs](https://www.meteocontrol.com/karriere/stellenangebote/) | [3.7/5](https://www.kununu.com/de/meteocontrol1) | Überwachungssysteme für Solaranlagen |  |  |
 | [sma](https://www.sma.de/) | [jobs](https://www.sma.jobs/go/Stellenangebote/3798401/) | [3.8/5](https://www.kununu.com/de/sma-solar-technology) | Wechselrichter, Photovoltaik- & Solartechnik |  |  |
 | [sonnen](https://sonnen.de/) | [jobs](https://jobs.sonnen.de/) | [3.4/5](https://www.kununu.com/de/sonnen-gmbh) | Batteriespeicher | ✅ |  |
-| [FENECON](https://fenecon.de) | [jobs](https://www1.fenecon.de/karriere/) | [4.5/5](https://www.kununu.com/de/fenecon) | Stromspeichersysteme |  |  |
-| [IngSoft](https://energiemanagement.ingsoft.de/) | [jobs](https://energiemanagement.ingsoft.de/de/karriere.html) | [4.4/5](https://www.kununu.com/de/ingsoft1) | Software für Energiemanagment | ✅ |  |
+| [FENECON](https://fenecon.de) | [jobs](https://www1.fenecon.de/karriere/) | [3.4/5](https://www.kununu.com/de/fenecon) | Stromspeichersysteme |  |  |
+| [IngSoft](https://energiemanagement.ingsoft.de/) | [jobs](https://energiemanagement.ingsoft.de/de/karriere.html) | [3.4/5](https://www.kununu.com/de/ingsoft1) | Software für Energiemanagment | ✅ |  |
 | [Solarschmiede](https://www.solarschmiede.de) | [jobs](https://www.solarschmiede.de/de/karriere/) | [4.5/5](https://www.kununu.com/de/solarschmiede) | Planungssoftware für PV-Anlagen |  |  |
 | [SOLARWATT](https://www.solarwatt.de/) | [jobs](https://www.solarwatt.de/ueber-uns/karriere#engineering) | [3.6/5](https://www.kununu.com/de/solarwatt) | Hersteller von PV-Eigenheimlösungen | ✅ |  |
 | [Lumenaza](https://www.lumenaza.de/) | [jobs](https://www.lumenaza.de/de/jobs/) | [4.5/5](https://www.kununu.com/de/lumenaza) | Software-as-a-Service-Plattform für grüne Energieunternehmen | ✅ |  |
