@@ -175,7 +175,7 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [ifu](https://www.ifu.com/) | [jobs](https://www.ifu.com/karriere/) | [4.5/5](https://www.kununu.com/de/ifu-hamburg1) | Software & Beratung für Nachhaltigkeit | ✅ |  |
-| [Wikimedia](https://www.wikimedia.de/) | [jobs](https://wikimedia-deutschland.career.softgarden.de/) | [4.5/5](https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v) | Freies Wissen |  |  |
+| [Wikimedia](https://www.wikimedia.de/) | [jobs](https://wikimedia-deutschland.career.softgarden.de/) | [3.5/5](https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v) | Freies Wissen |  |  |
 | [ShareTheMeal](https://sharethemeal.org/de) | [jobs](https://angel.co/company/sharethemeal-1/jobs) |  | ShareTheMeal ist eine Initiative des WFP der Vereinten Nationen - die größte gemeinnützige Organisation im Kampf gegen den Hunger |  |  |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 | [iPoint](https://www.ipoint-systems.com/de/) | [jobs](https://www.ipoint-systems.com/de/careers/) | [3.6/5](https://www.kununu.com/de/ipoint-systems1) | Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit | ✅ |  |
