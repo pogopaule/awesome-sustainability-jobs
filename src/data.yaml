@@ -861,7 +861,7 @@ jobs:
         lat: 51.0543338
         long: 13.813914
     review: https://www.kununu.com/de/startnext-crowdfunding
-    rating: 3.1
+    rating: 4.1
   - name: Octopus Energy
     website: https://octopus.energy
     jobs: https://octopus.energy/careers/
@@ -1402,7 +1402,7 @@ jobs:
         lat: 52.5102294
         long: 13.4045804
     review: https://www.kununu.com/de/eigensonne
-    rating: 2.4
+    rating: 3.9
   - name: circular.fashion
     website: https://circular.fashion/
     jobs: https://circular.fashion/jobs/
