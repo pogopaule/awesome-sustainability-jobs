@@ -181,7 +181,7 @@ re. = has at least one remote job offering
 | [iPoint](https://www.ipoint-systems.com/de/) | [jobs](https://www.ipoint-systems.com/de/careers/) | [3.6/5](https://www.kununu.com/de/ipoint-systems1) | Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit | ✅ |  |
 | [betterplace](https://www.betterplace.org/de) | [jobs](https://www.betterplace.org/c/stellen) | [3.6/5](https://www.kununu.com/de/ipoint-systems1) | Spendenplattform |  |  |
 | [InFarm](https://www.infarm.com) | [jobs](https://www.infarm.com/en/join-us) | [3.1/5](https://www.kununu.com/de/infarm) | Indoor Farming |  |  |
-| [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | [3.1/5](https://www.kununu.com/de/startnext-crowdfunding) | Crowdfunding | ✅ |  |
+| [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | [4.1/5](https://www.kununu.com/de/startnext-crowdfunding) | Crowdfunding | ✅ |  |
 | [Cooler Future](https://coolerfuture.com/de) | [jobs](https://coolerfuture.com/de/page/careers) |  | Investments in sustainable portfolio | ✅ |  |
 | [Carrypicker](https://www.carrypicker.com/) | [jobs](https://www.carrypicker.com/jobs) |  | CO2 Senkung durch Effizenzsteigerung im Transportwesen |  |  |
 | [alcemy](https://www.alcemy.tech/) | [jobs](https://www.notion.so/Working-at-alcemy-7640f0e4aae1456fa70013b8141ba2b2) |  | CO2 Reduktion bei Beton Produktion |  |  |
@@ -232,7 +232,7 @@ re. = has at least one remote job offering
 | [Solarmax](https://solarmax.com/de/) | [jobs](https://solarmax.com/de/jobs/) |  | Hersteller von Wechelrichtern und Batteriesystemen |  |  |
 | [Energy2market](https://www.e2m.energy/) | [jobs](https://www.energy2market.io/) | [3.6/5](https://www.kununu.com/de/energy2market1) | Virtuelle Kraftwerke |  |  |
 | [envelio](https://envelio.de/) | [jobs](https://envelio.jobs.personio.de/) |  | Digitalisierungsplattform für Energienetze | ✅ |  |
-| [Eigensonne](https://www.eigensonne.de/) | [jobs](https://www.eigensonne.de/jobs-buero/) | [2.4/5](https://www.kununu.com/de/eigensonne) | Beraturn, Planung und Ausführung von PV-Anlagen |  |  |
+| [Eigensonne](https://www.eigensonne.de/) | [jobs](https://www.eigensonne.de/jobs-buero/) | [3.9/5](https://www.kununu.com/de/eigensonne) | Beraturn, Planung und Ausführung von PV-Anlagen |  |  |
 
 
 #### Sharing Economy
