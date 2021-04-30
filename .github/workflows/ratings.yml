@@ -3,7 +3,7 @@ name: Update Ratings
 on:
   schedule:
     # every 14 days
-    - cron: "* * */14 * *"
+    - cron: "0 15 3 * *"
 
   # can be triggered manually
   workflow_dispatch:
