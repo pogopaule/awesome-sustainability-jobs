@@ -1442,6 +1442,9 @@ jobportals:
   - name: GoodJobs
     website: https://goodjobs.eu/de
     country: Germany
+  - name: NGOjobs.eu
+    website: https://www.ngojobs.eu/
+    country: Germany
   - name: NachhaltigeJobs.de
     website: https://www.nachhaltigejobs.de/
     country: Germany
