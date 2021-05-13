@@ -448,6 +448,7 @@ re. = has at least one remote job offering
 
 * [eejobs.de](https://www.eejobs.de/)
 * [GoodJobs](https://goodjobs.eu/de)
+* [NGOjobs.eu](https://www.ngojobs.eu/)
 * [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/)
 * [Impactify](https://impactify.de/)
 * [tbd.community](https://www.tbd.community/de/jobs)
