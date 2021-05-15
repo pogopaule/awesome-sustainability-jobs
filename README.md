@@ -120,7 +120,7 @@ re. = has at least one remote job offering
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
-| [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | [4.5/5](https://www.kununu.com/de/tomorrow2) | CO2-neutrales Bankkonto |  |  |
+| [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | [4.5/5](https://www.kununu.com/de/tomorrow2) | CO2-neutrales Bankkonto |  | ✅ |
 | [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | [3.4/5](https://www.kununu.com/de/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ |
 | [Klima](https://klima.com/) | [jobs](https://klima.com/about/#jobs) |  | Carbon Offset App |  |  |
 | [Planetly](https://www.planetly.org/) | [jobs](https://planetly.jobs.personio.de/) | [4.7/5](https://www.kununu.com/de/planetly1/bewerbung) | Carbon Offsetting für Unternehmen | ✅ |  |
