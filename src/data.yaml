@@ -788,7 +788,7 @@ jobs:
     website: https://www.tomorrow.one
     jobs: https://www.tomorrow.one/de-de/jobs
     description: CO2-neutrales Bankkonto
-    remote: false
+    remote: true
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
     geo:
