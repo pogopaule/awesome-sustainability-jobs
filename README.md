@@ -437,6 +437,13 @@ re. = has at least one remote job offering
 
 ### USA
 
+#### Circular Economy
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Kaiyo](https://kaiyo.com) | [jobs](https://kaiyo.com/careers) |  | Used-Furniture marketplace |  |  |
+
+
 #### Electric Mobility
 
 | company | jobs | rating | description | sp. | re. |
