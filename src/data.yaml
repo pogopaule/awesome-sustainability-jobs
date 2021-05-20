@@ -1487,7 +1487,7 @@ jobs:
     geo:
       - country: USA
         lat: 40.7831
-        long: 73.9712
+        long: -73.9712
     review:
     rating:
 jobportals:
