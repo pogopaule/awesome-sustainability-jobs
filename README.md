@@ -17,6 +17,7 @@ Looking for open source projects instead? [Go here](https://github.com/protontyp
 
 - [Australia](#australia)
 - [Austria](#austria)
+- [Brazil](#brazil)
 - [Denmark](#denmark)
 - [Finland](#finland)
 - [France](#france)
@@ -74,6 +75,17 @@ re. = has at least one remote job offering
 
 
 
+### Brazil
+
+#### Sustainable Mobility
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [door2door](https://door2door.io/) | [jobs](https://door2door.io/de/ueber-uns/jobs/) | [3.8/5](https://www.kununu.com/de/door2doorde) | Closing gaps in public transport | ✅ |  |
+
+
+
+
 ### Denmark
 
 #### Carbon Analysis, Capture and Offsetting
@@ -127,6 +139,8 @@ re. = has at least one remote job offering
 | [Klima.Metrix](https://klimametrix.global/) | [jobs](https://klimametrix.join.com/) |  | Automatisierte CO2 Footprint Kalkulation |  |  |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
 | [Spenoki](https://www.spenoki.de/) | [jobs](https://spenoki-career.kenjo.io/) |  | SaaS-Lösung um Nachhaltigkeit zu analysieren, zu optimieren und zu kommunizieren | ✅ |  |
+| [climatiq](https://climatiq.io/) | [jobs](https://climatiq.io/jobs/carbon-emission-analyst-remote) |  | Carbon Footprint Intelligence for Smart Sustainability |  | ✅ |
+| [The Mother Nature](https://themothernature.app/) | [jobs](https://mona.jobs.personio.de/) |  | Persönlichen CO2-Fußabdruck brechnen und kompensieren |  |  |
 
 
 #### Circular Economy
@@ -262,6 +276,7 @@ re. = has at least one remote job offering
 | - | - | - | - | - | - |
 | [raumobil](https://www.raumobil.com) | [jobs](https://www.raumobil.com/jobs) | [4.9/5](https://www.kununu.com/de/raumobil) | smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen |  |  |
 | [Jobrad](https://www.jobrad.org) | [jobs](https://www.jobrad.org/ueber-uns/karriere.html) | [4.3/5](https://www.kununu.com/de/jobrad) | Diensträder | ✅ |  |
+| [door2door](https://door2door.io/) | [jobs](https://door2door.io/de/ueber-uns/jobs/) | [3.8/5](https://www.kununu.com/de/door2doorde) | Closing gaps in public transport | ✅ |  |
 
 
 
