@@ -1477,6 +1477,19 @@ jobs:
         long: 13.4082116
     review:
     rating:
+  - name: Kaiyo
+    website: https://kaiyo.com
+    jobs: https://kaiyo.com/careers
+    description: Used-Furniture marketplace
+    remote: false
+    speculative: false
+    field: Circular Economy
+    geo:
+      - country: USA
+        lat: 40.7831
+        long: 73.9712
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
