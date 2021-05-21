@@ -143,6 +143,7 @@ re. = has at least one remote job offering
 | [The Mother Nature](https://themothernature.app/) | [jobs](https://mona.jobs.personio.de/) |  | Persönlichen CO2-Fußabdruck brechnen und kompensieren |  |  |
 | [GreenDelta](https://www.greendelta.com) | [jobs](https://www.greendelta.com/about-us/open-positions/) | [2.8/5](https://www.kununu.com/de/greendelta) | Sustainability Consulting | ✅ |  |
 | [eevie](https://www.eevie.io/) | [jobs](https://www.eevie.io/jobs) |  | climate guide to a sustainable life | ✅ |  |
+| [Planetly](https://www.planetly.com/) | [jobs](https://planetly.jobs.personio.de/) | [4.7/5](https://www.kununu.com/de/planetly1) | CO2-Management |  | ✅ |
 
 
 #### Circular Economy
@@ -200,6 +201,8 @@ re. = has at least one remote job offering
 | [Carrypicker](https://www.carrypicker.com/) | [jobs](https://www.carrypicker.com/jobs) |  | CO2 Senkung durch Effizenzsteigerung im Transportwesen |  |  |
 | [alcemy](https://www.alcemy.tech/) | [jobs](https://www.notion.so/Working-at-alcemy-7640f0e4aae1456fa70013b8141ba2b2) |  | CO2 Reduktion bei Beton Produktion |  |  |
 | [unown](https://unown-fashion.com) | [jobs](https://unown-fashion.com/pages/jobs) |  | Kleidung leasen |  | ✅ |
+| [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
+| [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
 
 
 #### Renewable Energies
@@ -503,5 +506,6 @@ re. = has at least one remote job offering
 
 * [Green Recruitment](https://www.greenrecruitmentcompany.com/)
 * [Climatebase](https://climate.careers)
+* [GOODJOBS](https://goodjobs.careers/)
 
 
