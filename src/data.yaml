@@ -1490,6 +1490,32 @@ jobs:
         long: -73.9712
     review:
     rating:
+  - name: GreenDelta
+    website: https://www.greendelta.com
+    jobs: https://www.greendelta.com/about-us/open-positions/
+    description: Sustainability Consulting
+    remote: false
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: Germany
+        lat: 52.510709
+        long: 13.2867676
+    review: https://www.kununu.com/de/greendelta
+    rating: 2.8
+  - name: eevie
+    website: https://www.eevie.io/
+    jobs: https://www.eevie.io/jobs
+    description: climate guide to a sustainable life
+    remote: false
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: Germany
+        lat: 51.2522232
+        long: 6.7867137
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
