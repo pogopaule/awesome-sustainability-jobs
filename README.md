@@ -141,6 +141,8 @@ re. = has at least one remote job offering
 | [Spenoki](https://www.spenoki.de/) | [jobs](https://spenoki-career.kenjo.io/) |  | SaaS-Lösung um Nachhaltigkeit zu analysieren, zu optimieren und zu kommunizieren | ✅ |  |
 | [climatiq](https://climatiq.io/) | [jobs](https://climatiq.io/jobs/carbon-emission-analyst-remote) |  | Carbon Footprint Intelligence for Smart Sustainability |  | ✅ |
 | [The Mother Nature](https://themothernature.app/) | [jobs](https://mona.jobs.personio.de/) |  | Persönlichen CO2-Fußabdruck brechnen und kompensieren |  |  |
+| [GreenDelta](https://www.greendelta.com) | [jobs](https://www.greendelta.com/about-us/open-positions/) | [2.8/5](https://www.kununu.com/de/greendelta) | Sustainability Consulting | ✅ |  |
+| [eevie](https://www.eevie.io/) | [jobs](https://www.eevie.io/jobs) |  | climate guide to a sustainable life | ✅ |  |
 
 
 #### Circular Economy
