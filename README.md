@@ -420,6 +420,7 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) |  | quantitative and qualitative data on offset projects |  | ✅ |
+| [Lune](https://lune.co) | [jobs](https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331) |  | API powered carbon offsetting |  | ✅ |
 
 
 #### Misc.
