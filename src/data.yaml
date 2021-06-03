@@ -37,7 +37,7 @@ jobs:
         lat: 49.91404
         long: 10.2377113
     review: https://www.kununu.com/de/belectric1
-    rating: 3.3
+    rating: 3.4
   - name: Next Kraftwerke
     website: https://www.next-kraftwerke.de/
     jobs: https://www.next-kraftwerke.de/jobs
@@ -63,7 +63,7 @@ jobs:
         lat: 53.1302601
         long: 8.153105
     review: https://www.kununu.com/de/energy-meteo-systems
-    rating: 3.6
+    rating: 3.7
   - name: DrehPunkt
     website: https://drehpunkt.de
     jobs: https://drehpunkt.de/jobs/
@@ -141,7 +141,7 @@ jobs:
         lat: 49.4556278
         long: 11.0713109
     review: https://www.kununu.com/de/ingsoft1
-    rating: 4.4
+    rating: 4.5
   - name: Solarschmiede
     website: https://www.solarschmiede.de
     jobs: https://www.solarschmiede.de/de/karriere/
@@ -193,7 +193,7 @@ jobs:
         lat: 47.5648648
         long: 7.7819459
     review: https://www.kununu.com/de/energiedienst-gruppe
-    rating: 4.1
+    rating: 4.2
   - name: mobisol
     website: http://www.plugintheworld.com/
     jobs: https://plugintheworld.com/careers/
@@ -297,7 +297,7 @@ jobs:
         lat: 52.2771415
         long: 8.0503165
     review: https://www.kununu.com/de/e3dc2
-    rating: 3.4
+    rating: 3.3
   - name: Optimax Energy
     website: https://www.optimax-energy.de
     jobs: https://www.optimax-energy.de/index.php/karriere
@@ -414,7 +414,7 @@ jobs:
         lat: 52.4811768
         long: 13.355855
     review: https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh
-    rating: 3.5
+    rating: 3.4
   - name: PlugSurfing
     website: https://www.plugsurfing.com
     jobs: https://www.plugsurfing.com/career
@@ -596,7 +596,7 @@ jobs:
         lat: 50.9098132
         long: 8.0661254
     review: https://www.kununu.com/de/inversgmbh
-    rating: 4.4
+    rating: 4.2
   - name: Cambio Carsharing
     website: https://www.cambio-carsharing.de/
     jobs: https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS
@@ -929,7 +929,7 @@ jobs:
         lat: 50.9488451
         long: 6.9092277
     review: https://www.kununu.com/de/einhundert-energie
-    rating: 4.4
+    rating: 4.5
   - name: Seven2one
     website: https://www.seven2one.de/
     jobs: https://www.seven2one.de/seven2one/karriere/
@@ -981,7 +981,7 @@ jobs:
         lat: 52.528263
         long: 13.4040588
     review: https://www.kununu.com/de/planetly1/bewerbung
-    rating: 4.7
+    rating: 4.5
   - name: enersis
     website: https://www.enersis.ch/
     jobs: https://www.enersis.ch/karriere/
@@ -1389,7 +1389,7 @@ jobs:
         lat: 48.1505083
         long: 11.5458047
     review: https://www.kununu.com/de/etepetete
-    rating: 2.4
+    rating: 2.3
   - name: Eigensonne
     website: https://www.eigensonne.de/
     jobs: https://www.eigensonne.de/jobs-buero/
@@ -1463,7 +1463,7 @@ jobs:
         lat: -30.050392
         long: -51.2297199
     review: https://www.kununu.com/de/door2doorde
-    rating: 3.8
+    rating: 3.9
   - name: The Mother Nature
     website: https://themothernature.app/
     jobs: https://mona.jobs.personio.de/
@@ -1528,7 +1528,7 @@ jobs:
         lat: 52.5282445
         long: 13.4037763
     review: https://www.kununu.com/de/planetly1
-    rating: 4.7
+    rating: 4.5
   - name: ProjectTogether
     website: https://projecttogether.org/
     jobs: https://projecttogether.join.com/
