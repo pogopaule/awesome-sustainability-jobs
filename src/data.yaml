@@ -89,7 +89,7 @@ jobs:
         lat: 48.3670875
         long: 10.8661464
     review: https://www.kununu.com/de/meteocontrol1
-    rating: 3.7
+    rating: 3.8
   - name: sma
     website: https://www.sma.de/
     jobs: https://www.sma.jobs/go/Stellenangebote/3798401/
@@ -180,7 +180,7 @@ jobs:
         lat: 52.4897802
         long: 13.3761333
     review: https://www.kununu.com/de/lumenaza
-    rating: 4.5
+    rating: 4.3
   - name: Energiedienst
     website: https://www.energiedienst.de/
     jobs: https://www.energiedienst.de/karriere/offene-stellen/
@@ -336,7 +336,7 @@ jobs:
         lat: 53.5481784
         long: 9.9653605
     review: https://www.kununu.com/de/lichtblick
-    rating: 3.8
+    rating: 3.9
   - name: ZOLAR
     website: https://www.zolar.de/
     jobs: https://www.zolar.de/karriere/office-jobs
@@ -557,7 +557,7 @@ jobs:
         lat: 51.3245077
         long: 12.3362985
     review: https://www.kununu.com/de/nextbike1
-    rating: 3.3
+    rating: 3.2
   - name: car2go
     website: https://www.share-now.com/de/de/
     jobs: https://boards.greenhouse.io/joinsharenow
@@ -596,7 +596,7 @@ jobs:
         lat: 50.9098132
         long: 8.0661254
     review: https://www.kununu.com/de/inversgmbh
-    rating: 4.2
+    rating: 3.1
   - name: Cambio Carsharing
     website: https://www.cambio-carsharing.de/
     jobs: https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS
@@ -687,7 +687,7 @@ jobs:
         lat: 48.0333532
         long: 7.8487266
     review: https://www.kununu.com/de/waschbaer-umweltversand-triaz
-    rating: 2.9
+    rating: 3.0
   - name: ifu
     website: https://www.ifu.com/
     jobs: https://www.ifu.com/karriere/
@@ -955,7 +955,7 @@ jobs:
         lat: 48.0965142
         long: 11.5310824
     review: https://www.kununu.com/de/teqcycle-solutions
-    rating: 4.0
+    rating: 3.7
   - name: Klima
     website: https://klima.com/
     jobs: https://klima.com/about/#jobs
@@ -981,7 +981,7 @@ jobs:
         lat: 52.528263
         long: 13.4040588
     review: https://www.kununu.com/de/planetly1/bewerbung
-    rating: 4.5
+    rating: 4.6
   - name: enersis
     website: https://www.enersis.ch/
     jobs: https://www.enersis.ch/karriere/
@@ -1075,7 +1075,7 @@ jobs:
         lat: 53.6030082
         long: 10.0258334
     review: https://www.kununu.com/de/enyway1
-    rating: 4.6
+    rating: 4.5
   - name: Circularise
     website: https://www.circularise.com/
     jobs: https://www.circularise.com/careers-circularise
@@ -1528,7 +1528,7 @@ jobs:
         lat: 52.5282445
         long: 13.4037763
     review: https://www.kununu.com/de/planetly1
-    rating: 4.5
+    rating: 4.6
   - name: ProjectTogether
     website: https://projecttogether.org/
     jobs: https://projecttogether.join.com/
