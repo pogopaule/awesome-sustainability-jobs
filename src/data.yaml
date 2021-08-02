@@ -1568,6 +1568,19 @@ jobs:
         long: -0.1278
     review:
     rating:
+  - name: Enit Energy IT Systems GmbH
+    website: https://enit.io
+    jobs: https://enit.io/ueber-uns/enit/jobs
+    description: Voll Energie. Null Emission. - Energiemanagment für mittelständische Unternehmen
+    remote: true
+    speculative: true
+    field: Energy Efficiency
+    geo:
+      - country: Germany
+        lat: 47.97980, 
+        long: 7.83948
+    review: https://www.kununu.com/de/enit-energy-it-systems2
+    rating: 4.8
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
