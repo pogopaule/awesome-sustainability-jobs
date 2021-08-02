@@ -176,6 +176,7 @@ re. = has at least one remote job offering
 | [Passivhaus Institut](https://passiv.de/) | [jobs](https://passiv.de/de/01_passivhausinstitut/05_stellenangebote/05_stellenangebote.htm) | [2.3/5](https://www.kununu.com/de/passivhaus-institut) | Energieeffizienz in Gebäuden |  |  |
 | [SOPTIM](https://www.soptim.de) | [jobs](https://www.soptim.de/de/karriere/aktuelle-jobs/) | [4.1/5](https://www.kununu.com/de/soptim) | Software für energiewirtschaftliche Prozesse |  |  |
 | [vilisto](https://www.vilisto.de/) | [jobs](https://www.vilisto.de/jobs/#jobs) | [4.7/5](https://www.kununu.com/de/vilisto1) | Digitales Wärmemanagment | ✅ |  |
+| [Enit Energy IT Systems GmbH](https://enit.io) | [jobs](https://enit.io/ueber-uns/enit/jobs) | [4.8/5](https://www.kununu.com/de/enit-energy-it-systems2) | Voll Energie. Null Emission. - Energiemanagment für mittelständische Unternehmen | ✅ | ✅ |
 
 
 #### Misc
