@@ -1577,7 +1577,7 @@ jobs:
     field: Energy Efficiency
     geo:
       - country: Germany
-        lat: 47.97980, 
+        lat: 47.97980
         long: 7.83948
     review: https://www.kununu.com/de/enit-energy-it-systems2
     rating: 4.8
