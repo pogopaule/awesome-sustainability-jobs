@@ -63,7 +63,7 @@ re. = has at least one remote job offering
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
 
 #### Sustainable Consumption
@@ -81,7 +81,7 @@ re. = has at least one remote job offering
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
-| [door2door](https://door2door.io/) | [jobs](https://door2door.io/de/ueber-uns/jobs/) | [3.9/5](https://www.kununu.com/de/door2doorde) | Closing gaps in public transport | ✅ |  |
+| [door2door](https://door2door.io/) | [jobs](https://door2door.io/de/ueber-uns/jobs/) | [4.0/5](https://www.kununu.com/de/door2doorde) | Closing gaps in public transport | ✅ |  |
 
 
 
@@ -141,7 +141,7 @@ re. = has at least one remote job offering
 | [Spenoki](https://www.spenoki.de/) | [jobs](https://spenoki-career.kenjo.io/) |  | SaaS-Lösung um Nachhaltigkeit zu analysieren, zu optimieren und zu kommunizieren | ✅ |  |
 | [climatiq](https://climatiq.io/) | [jobs](https://climatiq.io/jobs/carbon-emission-analyst-remote) |  | Carbon Footprint Intelligence for Smart Sustainability |  | ✅ |
 | [The Mother Nature](https://themothernature.app/) | [jobs](https://mona.jobs.personio.de/) |  | Persönlichen CO2-Fußabdruck brechnen und kompensieren |  |  |
-| [GreenDelta](https://www.greendelta.com) | [jobs](https://www.greendelta.com/about-us/open-positions/) | [2.8/5](https://www.kununu.com/de/greendelta) | Sustainability Consulting | ✅ |  |
+| [GreenDelta](https://www.greendelta.com) | [jobs](https://www.greendelta.com/about-us/open-positions/) | [2.7/5](https://www.kununu.com/de/greendelta) | Sustainability Consulting | ✅ |  |
 | [eevie](https://www.eevie.io/) | [jobs](https://www.eevie.io/jobs) |  | climate guide to a sustainable life | ✅ |  |
 | [Planetly](https://www.planetly.com/) | [jobs](https://planetly.jobs.personio.de/) | [4.6/5](https://www.kununu.com/de/planetly1) | CO2-Management |  | ✅ |
 
@@ -151,7 +151,7 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [Vytal](https://www.vytal.org/) | [jobs](https://www.vytal.org/jobs) |  | Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food | ✅ |  |
-| [Teqcycle](https://www.teqcycle.com) | [jobs](https://www.teqcycle.com/de/jobs/) | [3.7/5](https://www.kununu.com/de/teqcycle-solutions) | Rücknahme gebrauchter, mobiler Endgeräte |  |  |
+| [Teqcycle](https://www.teqcycle.com) | [jobs](https://www.teqcycle.com/de/jobs/) | [3.5/5](https://www.kununu.com/de/teqcycle-solutions) | Rücknahme gebrauchter, mobiler Endgeräte |  |  |
 | [circular.fashion](https://circular.fashion/) | [jobs](https://circular.fashion/jobs/) |  | Digital platform for circular economy in fashion and textiles |  |  |
 
 
@@ -174,7 +174,7 @@ re. = has at least one remote job offering
 | [tado°](https://www.tado.com/) | [jobs](https://www.tado.com/de-de/arbeiten-bei-tado) | [4.0/5](https://www.kununu.com/de/tado5) | Lösungen und Services im Bereich Klimasteuerung zuhause | ✅ |  |
 | [Energieheld](https://www.energieheld.de/) | [jobs](https://www.energieheld.de/ueber-uns/karriere/jobs) |  | Portal zu energetischen Gebäudesanierungen | ✅ |  |
 | [Passivhaus Institut](https://passiv.de/) | [jobs](https://passiv.de/de/01_passivhausinstitut/05_stellenangebote/05_stellenangebote.htm) | [2.3/5](https://www.kununu.com/de/passivhaus-institut) | Energieeffizienz in Gebäuden |  |  |
-| [SOPTIM](https://www.soptim.de) | [jobs](https://www.soptim.de/de/karriere/aktuelle-jobs/) | [4.1/5](https://www.kununu.com/de/soptim) | Software für energiewirtschaftliche Prozesse |  |  |
+| [SOPTIM](https://www.soptim.de) | [jobs](https://www.soptim.de/de/karriere/aktuelle-jobs/) | [4.2/5](https://www.kununu.com/de/soptim) | Software für energiewirtschaftliche Prozesse |  |  |
 | [vilisto](https://www.vilisto.de/) | [jobs](https://www.vilisto.de/jobs/#jobs) | [4.7/5](https://www.kununu.com/de/vilisto1) | Digitales Wärmemanagment | ✅ |  |
 | [Enit Energy IT Systems GmbH](https://enit.io) | [jobs](https://enit.io/ueber-uns/enit/jobs) | [4.8/5](https://www.kununu.com/de/enit-energy-it-systems2) | Voll Energie. Null Emission. - Energiemanagment für mittelständische Unternehmen | ✅ | ✅ |
 
@@ -191,13 +191,13 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [ifu](https://www.ifu.com/) | [jobs](https://www.ifu.com/karriere/) | [4.5/5](https://www.kununu.com/de/ifu-hamburg1) | Software & Beratung für Nachhaltigkeit | ✅ |  |
-| [Wikimedia](https://www.wikimedia.de/) | [jobs](https://wikimedia-deutschland.career.softgarden.de/) | [3.5/5](https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v) | Freies Wissen |  |  |
+| [Wikimedia](https://www.wikimedia.de/) | [jobs](https://wikimedia-deutschland.career.softgarden.de/) | [3.4/5](https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v) | Freies Wissen |  |  |
 | [ShareTheMeal](https://sharethemeal.org/de) | [jobs](https://angel.co/company/sharethemeal-1/jobs) |  | ShareTheMeal ist eine Initiative des WFP der Vereinten Nationen - die größte gemeinnützige Organisation im Kampf gegen den Hunger |  |  |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 | [iPoint](https://www.ipoint-systems.com/de/) | [jobs](https://www.ipoint-systems.com/de/careers/) | [3.6/5](https://www.kununu.com/de/ipoint-systems1) | Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit | ✅ |  |
 | [betterplace](https://www.betterplace.org/de) | [jobs](https://www.betterplace.org/c/stellen) | [3.6/5](https://www.kununu.com/de/ipoint-systems1) | Spendenplattform |  |  |
 | [InFarm](https://www.infarm.com) | [jobs](https://www.infarm.com/en/join-us) | [3.1/5](https://www.kununu.com/de/infarm) | Indoor Farming |  |  |
-| [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | [4.1/5](https://www.kununu.com/de/startnext-crowdfunding) | Crowdfunding | ✅ |  |
+| [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | [4.0/5](https://www.kununu.com/de/startnext-crowdfunding) | Crowdfunding | ✅ |  |
 | [Cooler Future](https://coolerfuture.com/de) | [jobs](https://coolerfuture.com/de/page/careers) |  | Investments in sustainable portfolio | ✅ |  |
 | [Carrypicker](https://www.carrypicker.com/) | [jobs](https://www.carrypicker.com/jobs) |  | CO2 Senkung durch Effizenzsteigerung im Transportwesen |  |  |
 | [alcemy](https://www.alcemy.tech/) | [jobs](https://www.notion.so/Working-at-alcemy-7640f0e4aae1456fa70013b8141ba2b2) |  | CO2 Reduktion bei Beton Produktion |  |  |
@@ -211,14 +211,14 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [OXYGEN TECHNOLOGIES](https://www.oxygen-technologies.de/) | [jobs](https://www.oxygen-technologies.de/ueber-uns/jobs/) | [4.9/5](https://www.kununu.com/de/oxygen-technologies1) | OXYGEN TECHNOLOGIES stellt Energieversorgern, Stadtwerken und Messstellenbetreibern IT-Lösungen bereit und treibt damit die Digitalisierung der Energiewirtschaft voran. | ✅ |  |
-| [Greenpeace Energy eG](https://www.greenpeace-energy.de) | [jobs](https://www.greenpeace-energy.de/ueber-uns/karriere.html) | [3.6/5](https://www.kununu.com/de/greenpeace-energy-eg2) | Anbieter für Ökostom und Ökogas |  |  |
+| [Greenpeace Energy eG](https://www.greenpeace-energy.de) | [jobs](https://www.greenpeace-energy.de/ueber-uns/karriere.html) | [3.8/5](https://www.kununu.com/de/greenpeace-energy-eg2) | Anbieter für Ökostom und Ökogas |  |  |
 | [BELECTRIC](https://belectric.com/de/) | [jobs](https://belectric.com/de/karriere/) | [3.4/5](https://www.kununu.com/de/belectric1) | Entwicklung und im Bau von Freiflächen-Solarkraftwerken und Energiespeichersystemen |  |  |
 | [Next Kraftwerke](https://www.next-kraftwerke.de/) | [jobs](https://www.next-kraftwerke.de/jobs) | [4.3/5](https://www.kununu.com/de/next-kraftwerke1) | Next Kraftwerke betreibt eines der größten Virtuellen Kraftwerke Europas | ✅ |  |
-| [energy & meteo systems](https://www.energymeteo.de) | [jobs](https://www.energymeteo.de/ueber_uns/jobs.php) | [3.7/5](https://www.kununu.com/de/energy-meteo-systems) | Leistungsprognosen und Virtuelle Kraftwerke | ✅ |  |
+| [energy & meteo systems](https://www.energymeteo.de) | [jobs](https://www.energymeteo.de/ueber_uns/jobs.php) | [3.8/5](https://www.kununu.com/de/energy-meteo-systems) | Leistungsprognosen und Virtuelle Kraftwerke | ✅ |  |
 | [DrehPunkt](https://drehpunkt.de) | [jobs](https://drehpunkt.de/jobs/) | [4.5/5](https://www.kununu.com/de/drehpunkt2) | Software für erneuerbare Energien |  |  |
-| [meteocontrol](https://www.meteocontrol.com) | [jobs](https://www.meteocontrol.com/karriere/stellenangebote/) | [3.8/5](https://www.kununu.com/de/meteocontrol1) | Überwachungssysteme für Solaranlagen |  |  |
+| [meteocontrol](https://www.meteocontrol.com) | [jobs](https://www.meteocontrol.com/karriere/stellenangebote/) | [3.7/5](https://www.kununu.com/de/meteocontrol1) | Überwachungssysteme für Solaranlagen |  |  |
 | [sma](https://www.sma.de/) | [jobs](https://www.sma.jobs/go/Stellenangebote/3798401/) | [3.8/5](https://www.kununu.com/de/sma-solar-technology) | Wechselrichter, Photovoltaik- & Solartechnik |  |  |
-| [sonnen](https://sonnen.de/) | [jobs](https://jobs.sonnen.de/) | [3.4/5](https://www.kununu.com/de/sonnen-gmbh) | Batteriespeicher | ✅ |  |
+| [sonnen](https://sonnen.de/) | [jobs](https://jobs.sonnen.de/) | [3.5/5](https://www.kununu.com/de/sonnen-gmbh) | Batteriespeicher | ✅ |  |
 | [FENECON](https://fenecon.de) | [jobs](https://www1.fenecon.de/karriere/) | [4.5/5](https://www.kununu.com/de/fenecon) | Stromspeichersysteme |  |  |
 | [IngSoft](https://energiemanagement.ingsoft.de/) | [jobs](https://energiemanagement.ingsoft.de/de/karriere.html) | [4.5/5](https://www.kununu.com/de/ingsoft1) | Software für Energiemanagment | ✅ |  |
 | [Solarschmiede](https://www.solarschmiede.de) | [jobs](https://www.solarschmiede.de/de/karriere/) | [4.5/5](https://www.kununu.com/de/solarschmiede) | Planungssoftware für PV-Anlagen |  |  |
@@ -249,7 +249,7 @@ re. = has at least one remote job offering
 | [Solarmax](https://solarmax.com/de/) | [jobs](https://solarmax.com/de/jobs/) |  | Hersteller von Wechelrichtern und Batteriesystemen |  |  |
 | [Energy2market](https://www.e2m.energy/) | [jobs](https://www.energy2market.io/) | [3.6/5](https://www.kununu.com/de/energy2market1) | Virtuelle Kraftwerke |  |  |
 | [envelio](https://envelio.de/) | [jobs](https://envelio.jobs.personio.de/) |  | Digitalisierungsplattform für Energienetze | ✅ |  |
-| [Eigensonne](https://www.eigensonne.de/) | [jobs](https://www.eigensonne.de/jobs-buero/) | [3.9/5](https://www.kununu.com/de/eigensonne) | Beraturn, Planung und Ausführung von PV-Anlagen |  |  |
+| [Eigensonne](https://www.eigensonne.de/) | [jobs](https://www.eigensonne.de/jobs-buero/) | [4.0/5](https://www.kununu.com/de/eigensonne) | Beraturn, Planung und Ausführung von PV-Anlagen |  |  |
 
 
 #### Sharing Economy
@@ -257,11 +257,11 @@ re. = has at least one remote job offering
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
 | [Wunder Mobility](https://www.wundermobility.com/) | [jobs](https://www.wundermobility.com/careers/jobs) | [3.8/5](https://www.kununu.com/de/wunder-mobility) | Technology to launch and scale shared mobility services | ✅ |  |
-| [nextbike](https://www.nextbike.de) | [jobs](https://www.nextbike.net/jobs/) | [3.2/5](https://www.kununu.com/de/nextbike1) | Bike sharing |  |  |
+| [nextbike](https://www.nextbike.de) | [jobs](https://www.nextbike.net/jobs/) | [3.3/5](https://www.kununu.com/de/nextbike1) | Bike sharing |  |  |
 | [car2go](https://www.share-now.com/de/de/) | [jobs](https://boards.greenhouse.io/joinsharenow) | [3.1/5](https://www.kununu.com/de/car2go) | Carsharing-Anbieter von BMW und Daimler |  |  |
-| [INVERS](https://invers.com) | [jobs](https://invers.com/de/karriere/) | [3.1/5](https://www.kununu.com/de/inversgmbh) | Anbieter für Carsharing Software | ✅ |  |
+| [INVERS](https://invers.com) | [jobs](https://invers.com/de/karriere/) | [4.3/5](https://www.kununu.com/de/inversgmbh) | Anbieter für Carsharing Software | ✅ |  |
 | [Cambio Carsharing](https://www.cambio-carsharing.de/) | [jobs](https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS) | [4.1/5](https://www.kununu.com/de/cambio-stadtteilauto-carsharing1) | Anbieter für Carsharing Software |  |  |
-| [emmy](https://emmy-sharing.de/) | [jobs](https://emmy-sharing.de/stellenangebote/) | [3.8/5](https://www.kununu.com/de/emmy-sharing1) | Elektro-Roller Sharing | ✅ |  |
+| [emmy](https://emmy-sharing.de/) | [jobs](https://emmy-sharing.de/stellenangebote/) | [3.7/5](https://www.kununu.com/de/emmy-sharing1) | Elektro-Roller Sharing | ✅ |  |
 | [MOQO](https://moqo.de/) | [jobs](https://moqo.de/jobs) | [4.4/5](https://www.kununu.com/de/digital-mobility-solutions2) | Software für Shared Mobility Projekte | ✅ |  |
 
 
@@ -272,7 +272,7 @@ re. = has at least one remote job offering
 | [Avocado Store](https://www.avocadostore.de/) | [jobs](https://www.avocadostore.de/jobs) | [3.0/5](https://www.kununu.com/de/avocado-store) | Online Marktplatz für nachhaltige Produkte |  |  |
 | [momox](https://www.momox.de/) | [jobs](https://momox-jobs.dvinci.de/de/jobs) | [3.6/5](https://www.kununu.com/de/momox) | Recommerce-Anbieter für gebrauchte Bücher, CDs, DVDs und Spiele | ✅ |  |
 | [fairmondo](https://www.fairmondo.de) | [jobs](https://www.fairmondo.de/jobs) |  | faire Alternative zu den Marktriesen im Online-Handel |  | ✅ |
-| [Waschbär](https://www.waschbaer.de) | [jobs](https://www.waschbaer.de/shop/ueber-uns/karriere/stellenangebote) | [3.0/5](https://www.kununu.com/de/waschbaer-umweltversand-triaz) | Online Shop für umweltgerechte und sozialverträgliche Produkte | ✅ |  |
+| [Waschbär](https://www.waschbaer.de) | [jobs](https://www.waschbaer.de/shop/ueber-uns/karriere/stellenangebote) | [3.1/5](https://www.kununu.com/de/waschbaer-umweltversand-triaz) | Online Shop für umweltgerechte und sozialverträgliche Produkte | ✅ |  |
 | [etepetete](https://etepetete-bio.de/) | [jobs](https://etepetete-bio.de/jobs) | [2.3/5](https://www.kununu.com/de/etepetete) | krummes Gemüse | ✅ |  |
 
 
@@ -280,9 +280,9 @@ re. = has at least one remote job offering
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
-| [raumobil](https://www.raumobil.com) | [jobs](https://www.raumobil.com/jobs) | [4.9/5](https://www.kununu.com/de/raumobil) | smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen |  |  |
+| [raumobil](https://www.raumobil.com) | [jobs](https://www.raumobil.com/jobs) | [4.8/5](https://www.kununu.com/de/raumobil) | smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen |  |  |
 | [Jobrad](https://www.jobrad.org) | [jobs](https://www.jobrad.org/ueber-uns/karriere.html) | [4.3/5](https://www.kununu.com/de/jobrad) | Diensträder | ✅ |  |
-| [door2door](https://door2door.io/) | [jobs](https://door2door.io/de/ueber-uns/jobs/) | [3.9/5](https://www.kununu.com/de/door2doorde) | Closing gaps in public transport | ✅ |  |
+| [door2door](https://door2door.io/) | [jobs](https://door2door.io/de/ueber-uns/jobs/) | [4.0/5](https://www.kununu.com/de/door2doorde) | Closing gaps in public transport | ✅ |  |
 
 
 
@@ -304,7 +304,7 @@ re. = has at least one remote job offering
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
 
 
@@ -359,7 +359,7 @@ re. = has at least one remote job offering
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
 
 
@@ -370,7 +370,7 @@ re. = has at least one remote job offering
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
 
 
@@ -402,7 +402,7 @@ re. = has at least one remote job offering
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
 
 #### Renewable Energies
@@ -428,7 +428,7 @@ re. = has at least one remote job offering
 
 | company | jobs | rating | description | sp. | re. |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 | [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) |  | Investments into clean energy and green, sustainable companies |  |  |
 
 
