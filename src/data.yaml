@@ -24,7 +24,7 @@ jobs:
         long: 9.9992905
     review: https://www.kununu.com/de/greenpeace-energy-eg2
     website: https://www.greenpeace-energy.de
-    rating: 3.6
+    rating: 3.8
   - name: BELECTRIC
     website: https://belectric.com/de/
     jobs: https://belectric.com/de/karriere/
@@ -63,7 +63,7 @@ jobs:
         lat: 53.1302601
         long: 8.153105
     review: https://www.kununu.com/de/energy-meteo-systems
-    rating: 3.7
+    rating: 3.8
   - name: DrehPunkt
     website: https://drehpunkt.de
     jobs: https://drehpunkt.de/jobs/
@@ -89,7 +89,7 @@ jobs:
         lat: 48.3670875
         long: 10.8661464
     review: https://www.kununu.com/de/meteocontrol1
-    rating: 3.8
+    rating: 3.7
   - name: sma
     website: https://www.sma.de/
     jobs: https://www.sma.jobs/go/Stellenangebote/3798401/
@@ -115,7 +115,7 @@ jobs:
         lat: 47.7737772
         long: 10.4085214
     review: https://www.kununu.com/de/sonnen-gmbh
-    rating: 3.4
+    rating: 3.5
   - name: FENECON
     website: https://fenecon.de
     jobs: https://www1.fenecon.de/karriere/
@@ -479,7 +479,7 @@ jobs:
         lat: 48.9989599
         long: 8.4614533
     review: https://www.kununu.com/de/raumobil
-    rating: 4.9
+    rating: 4.8
   - name: Jobrad
     website: https://www.jobrad.org
     jobs: https://www.jobrad.org/ueber-uns/karriere.html
@@ -557,7 +557,7 @@ jobs:
         lat: 51.3245077
         long: 12.3362985
     review: https://www.kununu.com/de/nextbike1
-    rating: 3.2
+    rating: 3.3
   - name: car2go
     website: https://www.share-now.com/de/de/
     jobs: https://boards.greenhouse.io/joinsharenow
@@ -596,7 +596,7 @@ jobs:
         lat: 50.9098132
         long: 8.0661254
     review: https://www.kununu.com/de/inversgmbh
-    rating: 3.1
+    rating: 4.3
   - name: Cambio Carsharing
     website: https://www.cambio-carsharing.de/
     jobs: https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS
@@ -622,7 +622,7 @@ jobs:
         lat: 52.4678257
         long: 13.3690123
     review: https://www.kununu.com/de/emmy-sharing1
-    rating: 3.8
+    rating: 3.7
   - name: Avocado Store
     website: https://www.avocadostore.de/
     jobs: https://www.avocadostore.de/jobs
@@ -687,7 +687,7 @@ jobs:
         lat: 48.0333532
         long: 7.8487266
     review: https://www.kununu.com/de/waschbaer-umweltversand-triaz
-    rating: 3.0
+    rating: 3.1
   - name: ifu
     website: https://www.ifu.com/
     jobs: https://www.ifu.com/karriere/
@@ -713,7 +713,7 @@ jobs:
         lat: 52.498439
         long: 13.3796507
     review: https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v
-    rating: 3.5
+    rating: 3.4
   - name: ShareTheMeal
     website: https://sharethemeal.org/de
     jobs: https://angel.co/company/sharethemeal-1/jobs
@@ -757,7 +757,7 @@ jobs:
         lat: 45.4643338
         long: 9.099447
     review: https://www.kununu.com/de/climatepartner
-    rating: 4.3
+    rating: 4.4
   - name: iPoint
     website: https://www.ipoint-systems.com/de/
     jobs: https://www.ipoint-systems.com/de/careers/
@@ -861,7 +861,7 @@ jobs:
         lat: 51.0543338
         long: 13.813914
     review: https://www.kununu.com/de/startnext-crowdfunding
-    rating: 4.1
+    rating: 4.0
   - name: Octopus Energy
     website: https://octopus.energy
     jobs: https://octopus.energy/careers/
@@ -955,7 +955,7 @@ jobs:
         lat: 48.0965142
         long: 11.5310824
     review: https://www.kununu.com/de/teqcycle-solutions
-    rating: 3.7
+    rating: 3.5
   - name: Klima
     website: https://klima.com/
     jobs: https://klima.com/about/#jobs
@@ -1311,7 +1311,7 @@ jobs:
         lat: 51.4548033
         long: 7.0195405
     review: https://www.kununu.com/de/soptim
-    rating: 4.1
+    rating: 4.2
   - name: envelio
     website: https://envelio.de/
     jobs: https://envelio.jobs.personio.de/
@@ -1402,7 +1402,7 @@ jobs:
         lat: 52.5102294
         long: 13.4045804
     review: https://www.kununu.com/de/eigensonne
-    rating: 3.9
+    rating: 4.0
   - name: circular.fashion
     website: https://circular.fashion/
     jobs: https://circular.fashion/jobs/
@@ -1463,7 +1463,7 @@ jobs:
         lat: -30.050392
         long: -51.2297199
     review: https://www.kununu.com/de/door2doorde
-    rating: 3.9
+    rating: 4.0
   - name: The Mother Nature
     website: https://themothernature.app/
     jobs: https://mona.jobs.personio.de/
@@ -1502,7 +1502,7 @@ jobs:
         lat: 52.510709
         long: 13.2867676
     review: https://www.kununu.com/de/greendelta
-    rating: 2.8
+    rating: 2.7
   - name: eevie
     website: https://www.eevie.io/
     jobs: https://www.eevie.io/jobs
@@ -1577,7 +1577,7 @@ jobs:
     field: Energy Efficiency
     geo:
       - country: Germany
-        lat: 47.97980
+        lat: 47.9798
         long: 7.83948
     review: https://www.kununu.com/de/enit-energy-it-systems2
     rating: 4.8
