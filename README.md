@@ -165,6 +165,7 @@ re. = has at least one remote job offering
 | [PlugSurfing](https://www.plugsurfing.com) | [jobs](https://www.plugsurfing.com/career) |  | Ladestationen finden und nutzen | ✅ |  |
 | [fleetster](https://www.fleetster.de) | [jobs](https://www.fleetster.de/fleetster-team) | [3.9/5](https://www.kununu.com/de/fleetster-next-generation-mobility-munich) | Software für Flottenmanagement, CarSharing und Vermietung | ✅ |  |
 | [Kumpan electric](https://www.kumpan-electric.com/) | [jobs](https://www.kumpan-electric.com/karriere/) |  | Hersteller von E-Rollern |  |  |
+| [ONOMOTION](https://onomotion.com) | [jobs](https://onomotion.com/karriere/) |  | Elektromobilität für den innerstädtischen Lieferverkehr | ✅ |  |
 
 
 #### Energy Efficiency
