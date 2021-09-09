@@ -173,6 +173,7 @@ re. = has at least one remote job offering
 | [fleetster](https://www.fleetster.de) | [jobs](https://www.fleetster.de/fleetster-team) | [3.9/5](https://www.kununu.com/de/fleetster-next-generation-mobility-munich) | Software für Flottenmanagement, CarSharing und Vermietung | ✅ |  |
 | [Kumpan electric](https://www.kumpan-electric.com/) | [jobs](https://www.kumpan-electric.com/karriere/) |  | Hersteller von E-Rollern |  |  |
 | [ONOMOTION](https://onomotion.com) | [jobs](https://onomotion.com/karriere/) |  | Elektromobilität für den innerstädtischen Lieferverkehr | ✅ |  |
+| [ONOMOTION](https://onomotion.com) | [jobs](https://onomotion.com/karriere/) |  | Elektromobilität für den innerstädtischen Lieferverkehr | ✅ |  |
 
 
 #### Energy Efficiency
@@ -446,11 +447,21 @@ re. = has at least one remote job offering
 | - | - | - | - | - | - |
 | [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) |  | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
 | [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) |  | UK-based green electricity supplier |  |  |
+| [Arenko](https://arenko.group/) | [jobs](https://arenko.group/join-us/) |  | Automation & optimisation for the energy transition | ✅ |  |
 
 
 
 
 ### USA
+
+#### Carbon Analysis, Capture and Offsetting
+
+| company | jobs | rating | description | sp. | re. |
+| - | - | - | - | - | - |
+| [Watershed](https://watershedclimate.com/) | [jobs](https://watershedclimate.com/jobs) |  | Helping companies cut carbon | ✅ | ✅ |
+| [Heirloom](https://www.heirloomcarbon.com/) | [jobs](https://jobs.lever.co/HeirloomTechnologies) |  | Removing 1 billion tons of carbon dioxide by 2035 |  |  |
+| [joro](https://www.joro.tech/) | [jobs](https://www.joro.tech/careers) |  | Joro connects your spending and environmental impact. |  | ✅ |
+
 
 #### Circular Economy
 
