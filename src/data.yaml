@@ -1581,6 +1581,71 @@ jobs:
         long: 13.45139
     review:
     rating:
+  - name: ONOMOTION
+    website: https://onomotion.com
+    jobs: https://onomotion.com/karriere/
+    description: Elektromobilität für den innerstädtischen Lieferverkehr
+    remote: false
+    speculative: true
+    field: Electric Mobility
+    geo:
+      - country: Germany
+        lat: 52.49232
+        long: 13.45139
+    review:
+    rating:
+  - name: Watershed
+    website: https://watershedclimate.com/
+    jobs: https://watershedclimate.com/jobs
+    description: Helping companies cut carbon
+    remote: true
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: USA
+        lat: 37.7677274
+        long: -122.4593556
+    review:
+    rating:
+  - name: Heirloom
+    website: https://www.heirloomcarbon.com/
+    jobs: https://jobs.lever.co/HeirloomTechnologies
+    description: Removing 1 billion tons of carbon dioxide by 2035
+    remote: false
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: USA
+        lat: 37.7677574
+        long: -122.4593546
+    review:
+    rating:
+  - name: joro
+    website: https://www.joro.tech/
+    jobs: https://www.joro.tech/careers
+    description: Joro connects your spending and environmental impact.
+    remote: true
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: USA
+        lat: 37.7677584
+        long: -122.4593546
+    review:
+    rating:
+  - name: Arenko
+    website: https://arenko.group/
+    jobs: https://arenko.group/join-us/
+    description: Automation & optimisation for the energy transition
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    geo:
+      - country: UK
+        lat: 51.521088
+        long: -0.114766
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
