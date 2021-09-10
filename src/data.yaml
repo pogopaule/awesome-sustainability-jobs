@@ -1080,7 +1080,7 @@ jobs:
     website: https://www.aurorasolar.com/
     jobs: https://www.aurorasolar.com/careers/
     description: Software for Solar Design and Sales
-    remote: false
+    remote: true
     speculative: false
     field: Renewable Energies
     geo:
@@ -1093,7 +1093,7 @@ jobs:
     website: https://www.arcadia.com/
     jobs: https://welcome.arcadia.com/careers
     description: Tech platform that makes clean energy accessible in the USA
-    remote: false
+    remote: true
     speculative: false
     field: Renewable Energies
     geo:
