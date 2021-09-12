@@ -44,15 +44,11 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 - [USA](#usa)
 - [Jobportals](#jobportals)
 
-
-sp. = speculative applications accepted\
-re. = has at least one remote job offering
-
 ### Australia
 
 #### Sharing Economy
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Car Next Door](https://www.carnextdoor.com.au) | [jobs](https://www.carnextdoor.com.au/careers) |  | Car sharing provider |  | ✅ |
 
@@ -63,21 +59,21 @@ re. = has at least one remote job offering
 
 #### Electric Mobility
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [has-to-be](https://has-to-be.com) | [jobs](https://has-to-be.com/de/karriere/) |  | Plattform für E-Mobilität | ✅ |  |
 
 
 #### Misc.
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
 
 #### Sustainable Consumption
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Grüne Erde](https://www.grueneerde.com) | [jobs](https://karriere.grueneerde.com/jobs/) | [3.8/5](https://www.kununu.com/at/gruene-erde) | Online Shop von Grüne Erde | ✅ |  |
 
@@ -88,7 +84,7 @@ re. = has at least one remote job offering
 
 #### Sustainable Mobility
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [door2door](https://door2door.io/) | [jobs](https://door2door.io/de/ueber-uns/jobs/) | [4.0/5](https://www.kununu.com/de/door2doorde) | Closing gaps in public transport | ✅ |  |
 
@@ -99,14 +95,14 @@ re. = has at least one remote job offering
 
 #### Carbon Analysis, Capture and Offsetting
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Tomorrow](https://www.tmrow.com/) | [jobs](https://www.tmrow.com/jobs/) |  | Tech to empower people and organisations to understand and reduce their carbon footprint |  |  |
 
 
 #### Misc.
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Too Good To Go](https://toogoodtogo.org/en) | [jobs](https://toogoodtogo.org/en/careers) |  | Anti food waste app |  |  |
 
@@ -117,7 +113,7 @@ re. = has at least one remote job offering
 
 #### Misc.
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Cooler Future](https://coolerfuture.com/de) | [jobs](https://coolerfuture.com/de/page/careers) |  | Investments in sustainable portfolio | ✅ |  |
 
@@ -128,7 +124,7 @@ re. = has at least one remote job offering
 
 #### Sharing Economy
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Free2Move](https://www.free2move.com) | [jobs](https://www.free2move.com/en-GB/job-offers) |  | Carsharing Software |  |  |
 
@@ -139,7 +135,7 @@ re. = has at least one remote job offering
 
 #### Carbon Analysis, Capture and Offsetting
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | [4.6/5](https://www.kununu.com/de/tomorrow2) | CO2-neutrales Bankkonto |  | ✅ |
 | [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | [3.4/5](https://www.kununu.com/de/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ |
@@ -156,7 +152,7 @@ re. = has at least one remote job offering
 
 #### Circular Economy
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Vytal](https://www.vytal.org/) | [jobs](https://www.vytal.org/jobs) |  | Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food | ✅ |  |
 | [Teqcycle](https://www.teqcycle.com) | [jobs](https://www.teqcycle.com/de/jobs/) | [3.5/5](https://www.kununu.com/de/teqcycle-solutions) | Rücknahme gebrauchter, mobiler Endgeräte |  |  |
@@ -165,7 +161,7 @@ re. = has at least one remote job offering
 
 #### Electric Mobility
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [eeMobility](https://www.ee-mobility.com) | [jobs](https://ee-mobility.com/karriere/) | [3.8/5](https://www.kununu.com/de/eemobility) | Ladelösungen für elektrifizierte Dienstwagen | ✅ |  |
 | [The Mobility House](https://www.mobilityhouse.com) | [jobs](https://www.mobilityhouse.com/de_de/karriere) | [4.5/5](https://www.kununu.com/de/the-mobility-house1) | Produkte und Services rund um Ladestationen |  |  |
@@ -179,7 +175,7 @@ re. = has at least one remote job offering
 
 #### Energy Efficiency
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [tado°](https://www.tado.com/) | [jobs](https://www.tado.com/de-de/arbeiten-bei-tado) | [4.0/5](https://www.kununu.com/de/tado5) | Lösungen und Services im Bereich Klimasteuerung zuhause | ✅ |  |
 | [Energieheld](https://www.energieheld.de/) | [jobs](https://www.energieheld.de/ueber-uns/karriere/jobs) |  | Portal zu energetischen Gebäudesanierungen | ✅ |  |
@@ -191,7 +187,7 @@ re. = has at least one remote job offering
 
 #### Misc.
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ifu](https://www.ifu.com/) | [jobs](https://www.ifu.com/karriere/) | [4.5/5](https://www.kununu.com/de/ifu-hamburg1) | Software & Beratung für Nachhaltigkeit | ✅ |  |
 | [Wikimedia](https://www.wikimedia.de/) | [jobs](https://wikimedia-deutschland.career.softgarden.de/) | [3.4/5](https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v) | Freies Wissen |  |  |
@@ -212,7 +208,7 @@ re. = has at least one remote job offering
 
 #### Renewable Energies
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [OXYGEN TECHNOLOGIES](https://www.oxygen-technologies.de/) | [jobs](https://www.oxygen-technologies.de/ueber-uns/jobs/) | [4.9/5](https://www.kununu.com/de/oxygen-technologies1) | OXYGEN TECHNOLOGIES stellt Energieversorgern, Stadtwerken und Messstellenbetreibern IT-Lösungen bereit und treibt damit die Digitalisierung der Energiewirtschaft voran. | ✅ |  |
 | [Greenpeace Energy eG](https://www.greenpeace-energy.de) | [jobs](https://www.greenpeace-energy.de/ueber-uns/karriere.html) | [3.8/5](https://www.kununu.com/de/greenpeace-energy-eg2) | Anbieter für Ökostom und Ökogas |  |  |
@@ -261,7 +257,7 @@ re. = has at least one remote job offering
 
 #### Sharing Economy
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Wunder Mobility](https://www.wundermobility.com/) | [jobs](https://www.wundermobility.com/careers/jobs) | [3.8/5](https://www.kununu.com/de/wunder-mobility) | Technology to launch and scale shared mobility services | ✅ |  |
 | [nextbike](https://www.nextbike.de) | [jobs](https://www.nextbike.net/jobs/) | [3.2/5](https://www.kununu.com/de/nextbike1) | Bike sharing |  |  |
@@ -274,7 +270,7 @@ re. = has at least one remote job offering
 
 #### Sustainable Consumption
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Avocado Store](https://www.avocadostore.de/) | [jobs](https://www.avocadostore.de/jobs) | [3.0/5](https://www.kununu.com/de/avocado-store) | Online Marktplatz für nachhaltige Produkte |  |  |
 | [momox](https://www.momox.de/) | [jobs](https://momox-jobs.dvinci.de/de/jobs) | [3.6/5](https://www.kununu.com/de/momox) | Recommerce-Anbieter für gebrauchte Bücher, CDs, DVDs und Spiele | ✅ |  |
@@ -285,7 +281,7 @@ re. = has at least one remote job offering
 
 #### Sustainable Mobility
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [raumobil](https://www.raumobil.com) | [jobs](https://www.raumobil.com/jobs) | [4.8/5](https://www.kununu.com/de/raumobil) | smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen |  |  |
 | [Jobrad](https://www.jobrad.org) | [jobs](https://www.jobrad.org/ueber-uns/karriere.html) | [4.3/5](https://www.kununu.com/de/jobrad) | Diensträder | ✅ |  |
@@ -298,7 +294,7 @@ re. = has at least one remote job offering
 
 #### Electric Mobility
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) |  | Charging Solution |  | ✅ |
 
@@ -309,7 +305,7 @@ re. = has at least one remote job offering
 
 #### Misc.
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
@@ -320,7 +316,7 @@ re. = has at least one remote job offering
 
 #### Carbon Analysis, Capture and Offsetting
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [WAVES](https://waves.lu) | [jobs](https://waves.lu/de/karriere/) |  | Ermittlung des Carbon Footprints für Transporte, Produkte und Unternehmen |  |  |
 
@@ -331,7 +327,7 @@ re. = has at least one remote job offering
 
 #### Circular Economy
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Circularise](https://www.circularise.com/) | [jobs](https://www.circularise.com/careers-circularise) |  | Supply Chain Transparency for a Circular Economy |  |  |
 
@@ -342,7 +338,7 @@ re. = has at least one remote job offering
 
 #### Sharing Economy
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Car Next Door](https://www.carnextdoor.com.au) | [jobs](https://www.carnextdoor.com.au/careers) |  | Car sharing provider |  | ✅ |
 
@@ -353,7 +349,7 @@ re. = has at least one remote job offering
 
 #### Misc.
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [winnow](https://www.winnowsolutions.com) | [jobs](https://www.winnowsolutions.com/en/careers) |  | Reduction of food waste in commercial kitchens |  |  |
 
@@ -364,7 +360,7 @@ re. = has at least one remote job offering
 
 #### Misc.
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
@@ -375,7 +371,7 @@ re. = has at least one remote job offering
 
 #### Misc.
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
@@ -386,35 +382,35 @@ re. = has at least one remote job offering
 
 #### Carbon Analysis, Capture and Offsetting
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
 
 
 #### Circular Economy
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [LivingPackets](https://livingpackets.com) | [jobs](https://livingpackets.com/jobs) |  | Wiederverwendbare Versandboxen |  |  |
 
 
 #### Energy Efficiency
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ECCO2](https://www.ecco2.ch) | [jobs](https://www.ecco2.ch/jobs) |  | Predictive heating controll |  |  |
 
 
 #### Misc.
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 
 
 #### Renewable Energies
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [enersis](https://www.enersis.ch/) | [jobs](https://www.enersis.ch/karriere/) | [4.5/5](https://www.kununu.com/de/enersis-europe) | Digitale Plattformen zur Planung und Simulation der Energiewende |  |  |
 
@@ -425,7 +421,7 @@ re. = has at least one remote job offering
 
 #### Carbon Analysis, Capture and Offsetting
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) |  | quantitative and qualitative data on offset projects |  | ✅ |
 | [Lune](https://lune.co) | [jobs](https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331) |  | API powered carbon offsetting |  | ✅ |
@@ -433,7 +429,7 @@ re. = has at least one remote job offering
 
 #### Misc.
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 | [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) |  | Investments into clean energy and green, sustainable companies |  |  |
@@ -441,7 +437,7 @@ re. = has at least one remote job offering
 
 #### Renewable Energies
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) |  | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
 | [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) |  | UK-based green electricity supplier |  |  |
@@ -454,7 +450,7 @@ re. = has at least one remote job offering
 
 #### Carbon Analysis, Capture and Offsetting
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Watershed](https://watershedclimate.com/) | [jobs](https://watershedclimate.com/jobs) |  | Helping companies cut carbon | ✅ | ✅ |
 | [Heirloom](https://www.heirloomcarbon.com/) | [jobs](https://jobs.lever.co/HeirloomTechnologies) |  | Removing 1 billion tons of carbon dioxide by 2035 |  |  |
@@ -463,21 +459,21 @@ re. = has at least one remote job offering
 
 #### Circular Economy
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Kaiyo](https://kaiyo.com) | [jobs](https://kaiyo.com/careers) |  | Used-Furniture marketplace |  |  |
 
 
 #### Electric Mobility
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) |  | Charging Solution |  | ✅ |
 
 
 #### Renewable Energies
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Aurora Solar](https://www.aurorasolar.com/) | [jobs](https://www.aurorasolar.com/careers/) |  | Software for Solar Design and Sales |  | ✅ |
 | [Arcadia](https://www.arcadia.com/) | [jobs](https://welcome.arcadia.com/careers) |  | Tech platform that makes clean energy accessible in the USA |  | ✅ |
@@ -487,6 +483,12 @@ re. = has at least one remote job offering
 
 
 
+
+#### Legend
+
+rating = Rating by the employees according to portals like [Kununu](https://www.kununu.com/) or [glassdoor](https://www.glassdoor.com/)
+sp. = speculative applications accepted\
+re. = has at least one remote job offering
 
 ## Jobportals
 
