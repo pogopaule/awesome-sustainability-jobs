@@ -36,6 +36,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 - [Luxembourg](#luxembourg)
 - [Netherlands](#netherlands)
 - [Philippines](#philippines)
+- [Remote](#remote)
 - [Romania](#romania)
 - [Spain](#spain)
 - [Sweden](#sweden)
@@ -332,6 +333,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Circularise](https://www.circularise.com/) | [jobs](https://www.circularise.com/careers-circularise) |  | Supply Chain Transparency for a Circular Economy |  |  |
 
 
+#### Renewable Energies
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Solar Monkey](https://solarmonkey.io/) | [jobs](https://jobs.solarmonkey.nl/) |  | Solar panel software | ✅ | ✅ |
+
+
 
 
 ### Philippines
@@ -341,6 +349,24 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Car Next Door](https://www.carnextdoor.com.au) | [jobs](https://www.carnextdoor.com.au/careers) |  | Car sharing provider |  | ✅ |
+
+
+
+
+### Remote
+
+#### Carbon Analysis, Capture and Offsetting
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Lune](https://lune.co/) | [jobs](https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331) |  | Making products or services climate positive by default |  | ✅ |
+
+
+#### Renewable Energies
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Voltus](https://www.voltus.co/) | [jobs](https://www.voltus.co/join-us/engineering) |  | Connecting distributed energy resources | ✅ | ✅ |
 
 
 
@@ -455,6 +481,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Watershed](https://watershedclimate.com/) | [jobs](https://watershedclimate.com/jobs) |  | Helping companies cut carbon | ✅ | ✅ |
 | [Heirloom](https://www.heirloomcarbon.com/) | [jobs](https://jobs.lever.co/HeirloomTechnologies) |  | Removing 1 billion tons of carbon dioxide by 2035 |  |  |
 | [joro](https://www.joro.tech/) | [jobs](https://www.joro.tech/careers) |  | Joro connects your spending and environmental impact. |  | ✅ |
+| [Patch](https://www.patch.io/) | [jobs](https://www.patch.io/careers) |  | API-first carbon removal |  | ✅ |
 
 
 #### Circular Economy
