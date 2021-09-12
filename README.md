@@ -22,68 +22,26 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 [Show companies on a map](https://awesome-sustainability-jobs.netlify.app/) 🗺️
 
-## Jobportals
-
-### Germany
-
-* [eejobs.de](https://www.eejobs.de/)
-* [GoodJobs](https://goodjobs.eu/de)
-* [NGOjobs.eu](https://www.ngojobs.eu/)
-* [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/)
-* [Impactify](https://impactify.de/)
-* [tbd.community](https://www.tbd.community/de/jobs)
-* [greenjobs](https://www.greenjobs.de/index.html)
-
-
-### Netherlands
-
-* [Greenjobs](https://greenjobs.nl/)
-
-
-### Switzerland
-
-* [Nachhaltige-Jobs.ch](https://nachhaltige-jobs.ch/)
-
-
-### UK
-
-* [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#)
-
-
-### USA
-
-* [Tech Jobs for Good](https://techjobsforgood.com/)
-
-
-### Worldwide
-
-* [Green Recruitment](https://www.greenrecruitmentcompany.com/)
-* [Climatebase](https://climate.careers)
-* [GOODJOBS](https://goodjobs.careers/)
-
-
-
-
 ## All companies in a list
 
-- [Australia](#australia-1)
-- [Austria](#austria-1)
-- [Brazil](#brazil-1)
-- [Denmark](#denmark-1)
-- [Finland](#finland-1)
-- [France](#france-1)
-- [Germany](#germany-1)
-- [India](#india-1)
-- [Italy](#italy-1)
-- [Luxembourg](#luxembourg-1)
-- [Netherlands](#netherlands-1)
-- [Philippines](#philippines-1)
-- [Romania](#romania-1)
-- [Spain](#spain-1)
-- [Sweden](#sweden-1)
-- [Switzerland](#switzerland-1)
-- [UK](#uk-1)
-- [USA](#usa-1)
+- [Australia](#australia)
+- [Austria](#austria)
+- [Brazil](#brazil)
+- [Denmark](#denmark)
+- [Finland](#finland)
+- [France](#france)
+- [Germany](#germany)
+- [India](#india)
+- [Italy](#italy)
+- [Luxembourg](#luxembourg)
+- [Netherlands](#netherlands)
+- [Philippines](#philippines)
+- [Romania](#romania)
+- [Spain](#spain)
+- [Sweden](#sweden)
+- [Switzerland](#switzerland)
+- [UK](#uk)
+- [USA](#usa)
 - [Jobportals](#jobportals)
 
 
@@ -526,5 +484,47 @@ re. = has at least one remote job offering
 | [Clean Power Research](https://www.cleanpower.com/) | [jobs](https://www.cleanpower.com/about-us/careers/) |  | Sofware for renewable energies |  |  |
 
 
+
+
+
+
+## Jobportals
+
+### Germany
+
+* [eejobs.de](https://www.eejobs.de/)
+* [GoodJobs](https://goodjobs.eu/de)
+* [NGOjobs.eu](https://www.ngojobs.eu/)
+* [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/)
+* [Impactify](https://impactify.de/)
+* [tbd.community](https://www.tbd.community/de/jobs)
+* [greenjobs](https://www.greenjobs.de/index.html)
+
+
+### Netherlands
+
+* [Greenjobs](https://greenjobs.nl/)
+
+
+### Switzerland
+
+* [Nachhaltige-Jobs.ch](https://nachhaltige-jobs.ch/)
+
+
+### UK
+
+* [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#)
+
+
+### USA
+
+* [Tech Jobs for Good](https://techjobsforgood.com/)
+
+
+### Worldwide
+
+* [Green Recruitment](https://www.greenrecruitmentcompany.com/)
+* [Climatebase](https://climate.careers)
+* [GOODJOBS](https://goodjobs.careers/)
 
 
