@@ -16,13 +16,24 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 ---
 
-## Map
+## All companies on a map
 
 ![preview image of map](map.jpg)
 
 [Show companies on a map](https://awesome-sustainability-jobs.netlify.app/) 🗺️
 
-## List
+## Jobportals
+
+{% for country, jobportals in jobportals.items() -%}
+### {{country}}
+
+{% for jobportal in jobportals -%}
+* [{{jobportal.name}}]({{jobportal.website}})
+{% endfor %}
+
+{% endfor %}
+
+## All companies in a list
 
 {% for country in jobs.keys() -%}
 - [{{country}}]({{toc_link(country)}})
@@ -45,17 +56,6 @@ re. = has at least one remote job offering
 | [{{job.name}}]({{job.website}}) | [jobs]({{job.jobs}}) | {% if job.review %}[{{job.rating}}/5]({{job.review}}){% endif %} | {{job.description}} | {% if job.speculative %}✅{% endif %} | {% if job.remote %}✅{% endif %} |
 {% endfor %}
 
-{% endfor %}
-
-{% endfor %}
-
-### Jobportals
-
-{% for country, jobportals in jobportals.items() -%}
-#### {{country}}
-
-{% for jobportal in jobportals -%}
-* [{{jobportal.name}}]({{jobportal.website}})
 {% endfor %}
 
 {% endfor %}
