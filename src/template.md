@@ -29,17 +29,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 {% endfor -%}
 - [Jobportals](#jobportals)
 
-
-sp. = speculative applications accepted\
-re. = has at least one remote job offering
-
 {% for country, jobsByCountry in jobs.items() -%}
 ### {{country}}
 
 {% for field, jobs in jobsByCountry.items() -%}
 #### {{field}}
 
-| company | jobs | rating | description | sp. | re. |
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 {% for job in jobs -%}
 | [{{job.name}}]({{job.website}}) | [jobs]({{job.jobs}}) | {% if job.review %}[{{job.rating}}/5]({{job.review}}){% endif %} | {{job.description}} | {% if job.speculative %}✅{% endif %} | {% if job.remote %}✅{% endif %} |
@@ -48,6 +44,12 @@ re. = has at least one remote job offering
 {% endfor %}
 
 {% endfor %}
+
+#### Legend
+
+rating = Rating by the employees according to portals like [Kununu](https://www.kununu.com/) or [glassdoor](https://www.glassdoor.com/)
+sp. = speculative applications accepted\
+re. = has at least one remote job offering
 
 ## Jobportals
 
