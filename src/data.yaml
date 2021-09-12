@@ -1750,6 +1750,32 @@ jobs:
         long: -122.3709339
     review:
     rating:
+  - name: CarbonChain
+    website: https://carbonchain.com/
+    jobs: https://boards.greenhouse.io/carbonchain
+    description: Measure carbon emissions
+    remote: false
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: UK
+        lat: 51.5275255
+        long: -0.0904966
+    review:
+    rating:
+  - name: Apeel
+    website: https://www.apeel.com/
+    jobs: https://www.apeel.com/careers
+    description: Plant-based protection for food
+    remote: true
+    speculative: false
+    field: Misc.
+    geo:
+      - country: USA
+        lat: 34.4341951
+        long: -119.858519
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
