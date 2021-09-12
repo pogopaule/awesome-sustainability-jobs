@@ -66,24 +66,24 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 ## All companies in a list
 
-- [Australia](#australia)
-- [Austria](#austria)
-- [Brazil](#brazil)
-- [Denmark](#denmark)
-- [Finland](#finland)
-- [France](#france)
-- [Germany](#germany)
-- [India](#india)
-- [Italy](#italy)
-- [Luxembourg](#luxembourg)
-- [Netherlands](#netherlands)
-- [Philippines](#philippines)
-- [Romania](#romania)
-- [Spain](#spain)
-- [Sweden](#sweden)
-- [Switzerland](#switzerland)
-- [UK](#uk)
-- [USA](#usa)
+- [Australia](#australia-1)
+- [Austria](#austria-1)
+- [Brazil](#brazil-1)
+- [Denmark](#denmark-1)
+- [Finland](#finland-1)
+- [France](#france-1)
+- [Germany](#germany-1)
+- [India](#india-1)
+- [Italy](#italy-1)
+- [Luxembourg](#luxembourg-1)
+- [Netherlands](#netherlands-1)
+- [Philippines](#philippines-1)
+- [Romania](#romania-1)
+- [Spain](#spain-1)
+- [Sweden](#sweden-1)
+- [Switzerland](#switzerland-1)
+- [UK](#uk-1)
+- [USA](#usa-1)
 - [Jobportals](#jobportals)
 
 
@@ -231,13 +231,6 @@ re. = has at least one remote job offering
 | [Enit Energy IT Systems GmbH](https://enit.io) | [jobs](https://enit.io/ueber-uns/enit/jobs) | [4.8/5](https://www.kununu.com/de/enit-energy-it-systems2) | Voll Energie. Null Emission. - Energiemanagment für mittelständische Unternehmen | ✅ | ✅ |
 
 
-#### Misc
-
-| company | jobs | rating | description | sp. | re. |
-| - | - | - | - | - | - |
-| [retraced](https://retraced.co/) | [jobs](https://retraced.co/careers) |  | Sustainable Supply Chain Management |  | ✅ |
-
-
 #### Misc.
 
 | company | jobs | rating | description | sp. | re. |
@@ -253,6 +246,7 @@ re. = has at least one remote job offering
 | [Cooler Future](https://coolerfuture.com/de) | [jobs](https://coolerfuture.com/de/page/careers) |  | Investments in sustainable portfolio | ✅ |  |
 | [Carrypicker](https://www.carrypicker.com/) | [jobs](https://www.carrypicker.com/jobs) |  | CO2 Senkung durch Effizenzsteigerung im Transportwesen |  |  |
 | [alcemy](https://www.alcemy.tech/) | [jobs](https://www.notion.so/Working-at-alcemy-7640f0e4aae1456fa70013b8141ba2b2) |  | CO2 Reduktion bei Beton Produktion |  |  |
+| [retraced](https://retraced.co/) | [jobs](https://retraced.co/careers) |  | Sustainable Supply Chain Management |  | ✅ |
 | [unown](https://unown-fashion.com) | [jobs](https://unown-fashion.com/pages/jobs) |  | Kleidung leasen |  | ✅ |
 | [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
 | [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
