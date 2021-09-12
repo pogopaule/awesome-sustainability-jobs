@@ -1682,7 +1682,7 @@ jobs:
     geo:
       - country: Germany
         lat: 48.1496281
-        long: 48.1496281,11.5540043
+        long: 11.5540043
     review: https://www.kununu.com/de/memodo-kg
     rating: 3.4
 jobportals:
