@@ -451,6 +451,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) |  | quantitative and qualitative data on offset projects |  | ✅ |
 | [Lune](https://lune.co) | [jobs](https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331) |  | API powered carbon offsetting |  | ✅ |
+| [CarbonChain](https://carbonchain.com/) | [jobs](https://boards.greenhouse.io/carbonchain) |  | Measure carbon emissions |  |  |
 
 
 #### Misc.
@@ -503,6 +504,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [DroneSeed](https://droneseed.com/) | [jobs](https://jobs.lever.co/droneseed) |  | Reforestation via drones |  | ✅ |
+| [Apeel](https://www.apeel.com/) | [jobs](https://www.apeel.com/careers) |  | Plant-based protection for food |  | ✅ |
 
 
 #### Renewable Energies
