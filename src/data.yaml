@@ -1331,7 +1331,7 @@ jobs:
     description: Sustainable Supply Chain Management
     remote: true
     speculative: false
-    field: Misc
+    field: Misc.
     geo:
       - country: Germany
         lat: 51.2102466
@@ -1681,7 +1681,7 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat: 48.1496281,
+        lat: 48.1496281
         long: 48.1496281,11.5540043
     review: https://www.kununu.com/de/memodo-kg
     rating: 3.4

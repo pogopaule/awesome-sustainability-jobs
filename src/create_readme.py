@@ -22,7 +22,7 @@ def nest(seq, keys):
 
 
 def toc_link(link):
-    return "#" + re.sub(r"[^a-zA-Z-]", "", link.lower().replace(" ", "-"))
+    return "#" + re.sub(r"[^a-zA-Z-]", "", link.lower().replace(" ", "-")) + "-1"
 
 def composed(f, g):
     return lambda x: f(g(x))
