@@ -16,13 +16,55 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 ---
 
-## Map
+## All companies on a map
 
 ![preview image of map](map.jpg)
 
 [Show companies on a map](https://awesome-sustainability-jobs.netlify.app/) 🗺️
 
-## List
+## Jobportals
+
+### Germany
+
+* [eejobs.de](https://www.eejobs.de/)
+* [GoodJobs](https://goodjobs.eu/de)
+* [NGOjobs.eu](https://www.ngojobs.eu/)
+* [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/)
+* [Impactify](https://impactify.de/)
+* [tbd.community](https://www.tbd.community/de/jobs)
+* [greenjobs](https://www.greenjobs.de/index.html)
+
+
+### Netherlands
+
+* [Greenjobs](https://greenjobs.nl/)
+
+
+### Switzerland
+
+* [Nachhaltige-Jobs.ch](https://nachhaltige-jobs.ch/)
+
+
+### UK
+
+* [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#)
+
+
+### USA
+
+* [Tech Jobs for Good](https://techjobsforgood.com/)
+
+
+### Worldwide
+
+* [Green Recruitment](https://www.greenrecruitmentcompany.com/)
+* [Climatebase](https://climate.careers)
+* [GOODJOBS](https://goodjobs.careers/)
+
+
+
+
+## All companies in a list
 
 - [Australia](#australia)
 - [Austria](#austria)
@@ -490,47 +532,5 @@ re. = has at least one remote job offering
 | [Clean Power Research](https://www.cleanpower.com/) | [jobs](https://www.cleanpower.com/about-us/careers/) |  | Sofware for renewable energies |  |  |
 
 
-
-
-
-
-### Jobportals
-
-#### Germany
-
-* [eejobs.de](https://www.eejobs.de/)
-* [GoodJobs](https://goodjobs.eu/de)
-* [NGOjobs.eu](https://www.ngojobs.eu/)
-* [NachhaltigeJobs.de](https://www.nachhaltigejobs.de/)
-* [Impactify](https://impactify.de/)
-* [tbd.community](https://www.tbd.community/de/jobs)
-* [greenjobs](https://www.greenjobs.de/index.html)
-
-
-#### Netherlands
-
-* [Greenjobs](https://greenjobs.nl/)
-
-
-#### Switzerland
-
-* [Nachhaltige-Jobs.ch](https://nachhaltige-jobs.ch/)
-
-
-#### UK
-
-* [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#)
-
-
-#### USA
-
-* [Tech Jobs for Good](https://techjobsforgood.com/)
-
-
-#### Worldwide
-
-* [Green Recruitment](https://www.greenrecruitmentcompany.com/)
-* [Climatebase](https://climate.careers)
-* [GOODJOBS](https://goodjobs.careers/)
 
 
