@@ -498,6 +498,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) |  | Charging Solution |  | ✅ |
 
 
+#### Misc.
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [DroneSeed](https://droneseed.com/) | [jobs](https://jobs.lever.co/droneseed) |  | Reforestation via drones |  | ✅ |
+
+
 #### Renewable Energies
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
