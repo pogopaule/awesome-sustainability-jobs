@@ -1685,6 +1685,58 @@ jobs:
         long: 11.5540043
     review: https://www.kununu.com/de/memodo-kg
     rating: 3.4
+  - name: Voltus
+    website: https://www.voltus.co/
+    jobs: https://www.voltus.co/join-us/engineering
+    description: Connecting distributed energy resources
+    remote: true
+    speculative: true
+    field: Renewable Energies
+    geo:
+      - country: Remote
+        lat: 30.3071
+        long: -43.3740
+    review:
+    rating:
+  - name: Lune
+    website: https://lune.co/
+    jobs: https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331
+    description: Making products or services climate positive by default
+    remote: true
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: Remote
+        lat: 30.3081
+        long: -43.3840
+    review:
+    rating:
+  - name: Solar Monkey
+    website: https://solarmonkey.io/
+    jobs: https://jobs.solarmonkey.nl/
+    description: Solar panel software
+    remote: true
+    speculative: true
+    field: Renewable Energies
+    geo:
+      - country: Netherlands
+        lat: 52.0792155
+        long: 4.3406646
+    review:
+    rating:
+  - name: Patch
+    website: https://www.patch.io/
+    jobs: https://www.patch.io/careers
+    description: API-first carbon removal
+    remote: true
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: USA
+        lat: 37.7773906
+        long: -122.4235039
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
