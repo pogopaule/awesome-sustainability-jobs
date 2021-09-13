@@ -35,28 +35,18 @@ with open("data.yaml", "r") as stream:
             url = job["review"]
             job["rating"] = None
 
-            if url:
+            if url and url.startswith("https://www.kununu"):
                 print(url + ": ", end="", flush=True)
                 response = requests.get(url, headers=headers)
                 content = response.text
-                if url.startswith("https://www.kununu"):
-                    index = content.find('<span class="index__value__')
-                    try:
-                        offset = 56
-                        rating = float(
+                index = content.find('<span class="index__value__')
+                try:
+                    offset = 56
+                    rating = float(
                             content[index + offset : index + offset + 3].replace(",", ".")
-                        )
-                    except ValueError as error:
-                        print(error)
-                else:
-                    index = content.find('data-test="statsLink')
-                    try:
-                        offset = 63
-                        rating = float(
-                            content[index + offset : index + offset + 3].replace(",", ".")
-                        )
-                    except ValueError as error:
-                        print(error)
+                            )
+                except ValueError as error:
+                    print(error)
                 print(rating)
                 job["rating"] = rating
                 time.sleep(random.randint(1, 4))
