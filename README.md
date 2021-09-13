@@ -484,6 +484,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [joro](https://www.joro.tech/) | [jobs](https://www.joro.tech/careers) |  | Joro connects your spending and environmental impact. |  | ✅ |
 | [Patch](https://www.patch.io/) | [jobs](https://www.patch.io/careers) |  | API-first carbon removal |  | ✅ |
 | [Climate Robotics](https://www.climaterobotics.com) | [jobs](https://apply.workable.com/climaterobotics/) |  | They build robotics and artificial intelligence to fight climate change | ✅ |  |
+| [Climate Robotics](https://www.climaterobotics.com) | [jobs](https://apply.workable.com/climaterobotics/) |  | They build robotics and artificial intelligence to fight climate change | ✅ |  |
 
 
 #### Circular Economy
@@ -491,6 +492,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Kaiyo](https://kaiyo.com) | [jobs](https://kaiyo.com/careers) |  | Used-Furniture marketplace |  |  |
+| [AMP Robotics](https://www.amprobotics.com/) | [jobs](https://www.amprobotics.com/careers) | [4.3/5](https://www.glassdoor.de/Overview/Working-at-AMP-Robotics-EI_IE1754764.11,23.htm) | Computer vision for recycling |  |  |
 
 
 #### Electric Mobility
