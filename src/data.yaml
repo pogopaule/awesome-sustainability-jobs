@@ -1774,8 +1774,34 @@ jobs:
       - country: USA
         lat: 34.4341951
         long: -119.858519
+    review: https://www.glassdoor.de/Reviews/Apeel-Sciences-Reviews-E1366431.htm
+    rating: 4.8
+  - name: Omnidian
+    website: https://www.omnidian.com/
+    jobs: https://jobs.lever.co/omnidian
+    description: Clean energy investments
+    remote: true
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: USA
+        lat: 47.6054185
+        long: -122.3373539
+    review: https://www.glassdoor.de/Overview/Working-at-Omnidian-EI_IE2191560.11,19.htm
+    rating: 4.9
+  - name: Climate Robotics
+    website: https://www.climaterobotics.com
+    jobs: https://apply.workable.com/climaterobotics/
+    description: They build robotics and artificial intelligence to fight climate change
+    remote: false
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: USA
+        lat: 29.7530414
+        long: -95.3633271
     review:
-    rating:
+    rating:    
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
