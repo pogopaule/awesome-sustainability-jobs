@@ -1801,7 +1801,33 @@ jobs:
         lat: 29.7530414
         long: -95.3633271
     review:
-    rating:    
+    rating:
+  - name: Climate Robotics
+    website: https://www.climaterobotics.com
+    jobs: https://apply.workable.com/climaterobotics/
+    description: They build robotics and artificial intelligence to fight climate change
+    remote: false
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: USA
+        lat: 29.7530414
+        long: -95.3633271
+    review:
+    rating:
+  - name: AMP Robotics
+    website: https://www.amprobotics.com/
+    jobs: https://www.amprobotics.com/careers
+    description: Computer vision for recycling
+    remote: false
+    speculative: false
+    field: Circular Economy
+    geo:
+      - country: USA
+        lat: 39.9659997
+        long: -105.1222476
+    review: https://www.glassdoor.de/Overview/Working-at-AMP-Robotics-EI_IE1754764.11,23.htm
+    rating: 4.3
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
