@@ -483,6 +483,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Heirloom](https://www.heirloomcarbon.com/) | [jobs](https://jobs.lever.co/HeirloomTechnologies) |  | Removing 1 billion tons of carbon dioxide by 2035 |  |  |
 | [joro](https://www.joro.tech/) | [jobs](https://www.joro.tech/careers) |  | Joro connects your spending and environmental impact. |  | ✅ |
 | [Patch](https://www.patch.io/) | [jobs](https://www.patch.io/careers) |  | API-first carbon removal |  | ✅ |
+| [Climate Robotics](https://www.climaterobotics.com) | [jobs](https://apply.workable.com/climaterobotics/) |  | They build robotics and artificial intelligence to fight climate change | ✅ |  |
 
 
 #### Circular Economy
@@ -504,7 +505,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [DroneSeed](https://droneseed.com/) | [jobs](https://jobs.lever.co/droneseed) |  | Reforestation via drones |  | ✅ |
-| [Apeel](https://www.apeel.com/) | [jobs](https://www.apeel.com/careers) |  | Plant-based protection for food |  | ✅ |
+| [Apeel](https://www.apeel.com/) | [jobs](https://www.apeel.com/careers) | [4.8/5](https://www.glassdoor.de/Reviews/Apeel-Sciences-Reviews-E1366431.htm) | Plant-based protection for food |  | ✅ |
 
 
 #### Renewable Energies
@@ -514,6 +515,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Aurora Solar](https://www.aurorasolar.com/) | [jobs](https://www.aurorasolar.com/careers/) |  | Software for Solar Design and Sales |  | ✅ |
 | [Arcadia](https://www.arcadia.com/) | [jobs](https://welcome.arcadia.com/careers) |  | Tech platform that makes clean energy accessible in the USA |  | ✅ |
 | [Clean Power Research](https://www.cleanpower.com/) | [jobs](https://www.cleanpower.com/about-us/careers/) |  | Sofware for renewable energies |  |  |
+| [Omnidian](https://www.omnidian.com/) | [jobs](https://jobs.lever.co/omnidian) | [4.9/5](https://www.glassdoor.de/Overview/Working-at-Omnidian-EI_IE2191560.11,19.htm) | Clean energy investments |  | ✅ |
 
 
 
