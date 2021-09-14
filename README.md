@@ -27,11 +27,15 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 - [Australia](#australia)
 - [Austria](#austria)
 - [Brazil](#brazil)
+- [Canada](#canada)
 - [Denmark](#denmark)
+- [Estonia](#estonia)
 - [Finland](#finland)
 - [France](#france)
 - [Germany](#germany)
+- [Greece](#greece)
 - [India](#india)
+- [Israel](#israel)
 - [Italy](#italy)
 - [Luxembourg](#luxembourg)
 - [Netherlands](#netherlands)
@@ -92,6 +96,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 
 
+### Canada
+
+#### Energy Efficiency
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Sense](https://sense.com/) | [jobs](https://sense.com/about#careers) | [4.8/5](https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm) | Sense’s mission is to reduce global carbon emissions by making homes smart and efficient. |  | ✅ |
+
+
+
+
 ### Denmark
 
 #### Carbon Analysis, Capture and Offsetting
@@ -106,6 +121,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Too Good To Go](https://toogoodtogo.org/en) | [jobs](https://toogoodtogo.org/en/careers) |  | Anti food waste app |  |  |
+
+
+
+
+### Estonia
+
+#### Energy Efficiency
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [5.0/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
 
 
 
@@ -205,6 +231,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [unown](https://unown-fashion.com) | [jobs](https://unown-fashion.com/pages/jobs) |  | Kleidung leasen |  | ✅ |
 | [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
 | [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
+| [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
 
 
 #### Renewable Energies
@@ -291,6 +318,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 
 
+### Greece
+
+#### Energy Efficiency
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [5.0/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
+
+
+
+
 ### India
 
 #### Electric Mobility
@@ -298,6 +336,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) |  | Charging Solution |  | ✅ |
+
+
+
+
+### Israel
+
+#### Energy Efficiency
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [5.0/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
 
 
 
@@ -331,6 +380,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Circularise](https://www.circularise.com/) | [jobs](https://www.circularise.com/careers-circularise) |  | Supply Chain Transparency for a Circular Economy |  |  |
+
+
+#### Energy Efficiency
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [5.0/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
 
 
 #### Renewable Energies
@@ -395,6 +451,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 ### Sweden
 
+#### Energy Efficiency
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [5.0/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
+
+
 #### Misc.
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
@@ -454,6 +517,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [CarbonChain](https://carbonchain.com/) | [jobs](https://boards.greenhouse.io/carbonchain) |  | Measure carbon emissions |  |  |
 
 
+#### Energy Efficiency
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Sense](https://sense.com/) | [jobs](https://sense.com/about#careers) | [4.8/5](https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm) | Sense’s mission is to reduce global carbon emissions by making homes smart and efficient. |  | ✅ |
+
+
 #### Misc.
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
@@ -485,6 +555,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Patch](https://www.patch.io/) | [jobs](https://www.patch.io/careers) |  | API-first carbon removal |  | ✅ |
 | [Climate Robotics](https://www.climaterobotics.com) | [jobs](https://apply.workable.com/climaterobotics/) |  | They build robotics and artificial intelligence to fight climate change | ✅ |  |
 | [Climate Robotics](https://www.climaterobotics.com) | [jobs](https://apply.workable.com/climaterobotics/) |  | They build robotics and artificial intelligence to fight climate change | ✅ |  |
+| [Pachama](https://pachama.com/) | [jobs](https://jobs.lever.co/pachama) | [None/5](https://www.glassdoor.com/Overview/Working-at-Pachama-EI_IE3228050.11,18.htm) | Harnessing AI to drive carbon capture and protect global forests |  | ✅ |
 
 
 #### Circular Economy
@@ -492,7 +563,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Kaiyo](https://kaiyo.com) | [jobs](https://kaiyo.com/careers) |  | Used-Furniture marketplace |  |  |
-| [AMP Robotics](https://www.amprobotics.com/) | [jobs](https://www.amprobotics.com/careers) | [4.3/5](https://www.glassdoor.de/Overview/Working-at-AMP-Robotics-EI_IE1754764.11,23.htm) | Computer vision for recycling |  |  |
+| [AMP Robotics](https://www.amprobotics.com/) | [jobs](https://www.amprobotics.com/careers) | [4.3/5](https://www.glassdoor.com/Overview/Working-at-AMP-Robotics-EI_IE1754764.11,23.htm) | Computer vision for recycling |  |  |
 
 
 #### Electric Mobility
@@ -502,12 +573,20 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) |  | Charging Solution |  | ✅ |
 
 
+#### Energy Efficiency
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Sense](https://sense.com/) | [jobs](https://sense.com/about#careers) | [4.8/5](https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm) | Sense’s mission is to reduce global carbon emissions by making homes smart and efficient. |  | ✅ |
+
+
 #### Misc.
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [DroneSeed](https://droneseed.com/) | [jobs](https://jobs.lever.co/droneseed) |  | Reforestation via drones |  | ✅ |
-| [Apeel](https://www.apeel.com/) | [jobs](https://www.apeel.com/careers) | [4.8/5](https://www.glassdoor.de/Reviews/Apeel-Sciences-Reviews-E1366431.htm) | Plant-based protection for food |  | ✅ |
+| [Apeel](https://www.apeel.com/) | [jobs](https://www.apeel.com/careers) | [4.8/5](https://www.glassdoor.com/Reviews/Apeel-Sciences-Reviews-E1366431.htm) | Plant-based protection for food |  | ✅ |
+| [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
 
 
 #### Renewable Energies
@@ -517,7 +596,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Aurora Solar](https://www.aurorasolar.com/) | [jobs](https://www.aurorasolar.com/careers/) |  | Software for Solar Design and Sales |  | ✅ |
 | [Arcadia](https://www.arcadia.com/) | [jobs](https://welcome.arcadia.com/careers) |  | Tech platform that makes clean energy accessible in the USA |  | ✅ |
 | [Clean Power Research](https://www.cleanpower.com/) | [jobs](https://www.cleanpower.com/about-us/careers/) |  | Sofware for renewable energies |  |  |
-| [Omnidian](https://www.omnidian.com/) | [jobs](https://jobs.lever.co/omnidian) | [4.9/5](https://www.glassdoor.de/Overview/Working-at-Omnidian-EI_IE2191560.11,19.htm) | Clean energy investments |  | ✅ |
+| [Omnidian](https://www.omnidian.com/) | [jobs](https://jobs.lever.co/omnidian) | [4.9/5](https://www.glassdoor.com/Overview/Working-at-Omnidian-EI_IE2191560.11,19.htm) | Clean energy investments |  | ✅ |
 
 
 
