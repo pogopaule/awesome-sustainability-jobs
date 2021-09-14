@@ -1875,7 +1875,7 @@ jobs:
         lat: 59.3117614
         long: 18.0593421
       - country: Israel
-        lat: 32.0630139,
+        lat: 32.0630139
         long: 34.7753824
       - country: Greece
         lat: 38.0350951
