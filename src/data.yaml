@@ -1774,7 +1774,7 @@ jobs:
       - country: USA
         lat: 34.4341951
         long: -119.858519
-    review: https://www.glassdoor.de/Reviews/Apeel-Sciences-Reviews-E1366431.htm
+    review: https://www.glassdoor.com/Reviews/Apeel-Sciences-Reviews-E1366431.htm
     rating: 4.8
   - name: Omnidian
     website: https://www.omnidian.com/
@@ -1787,7 +1787,7 @@ jobs:
       - country: USA
         lat: 47.6054185
         long: -122.3373539
-    review: https://www.glassdoor.de/Overview/Working-at-Omnidian-EI_IE2191560.11,19.htm
+    review: https://www.glassdoor.com/Overview/Working-at-Omnidian-EI_IE2191560.11,19.htm
     rating: 4.9
   - name: Climate Robotics
     website: https://www.climaterobotics.com
@@ -1826,8 +1826,81 @@ jobs:
       - country: USA
         lat: 39.9659997
         long: -105.1222476
-    review: https://www.glassdoor.de/Overview/Working-at-AMP-Robotics-EI_IE1754764.11,23.htm
+    review: https://www.glassdoor.com/Overview/Working-at-AMP-Robotics-EI_IE1754764.11,23.htm
     rating: 4.3
+  - name: Pachama
+    website: https://pachama.com/
+    jobs: https://jobs.lever.co/pachama
+    description: Harnessing AI to drive carbon capture and protect global forests
+    remote: true
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: USA
+        lat: 37.7578223
+        long: -122.4553382
+    review: https://www.glassdoor.com/Overview/Working-at-Pachama-EI_IE3228050.11,18.htm
+    rating:
+  - name: LIFTE H2
+    website: https://www.lifteh2.com/
+    jobs: https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc
+    description: hydrogen supply chains
+    remote: false
+    speculative: false
+    field: Misc.
+    geo:
+      - country: USA
+        lat: 42.3570184
+        long: -71.0578457
+      - country: Germany
+        lat: 52.5089727
+        long: 13.3745685
+    review:
+    rating:
+  - name: Sympower
+    website: https://sympower.net/
+    jobs: https://sympower.net/join-the-team/
+    description: Adding flexibility into to grid
+    remote: true
+    speculative: false
+    field: Energy Efficiency
+    geo:
+      - country: Estonia
+        lat: 58.3753732
+        long: 26.7199036
+      - country: Netherlands
+        lat: 52.3708796
+        long: 4.8820293
+      - country: Sweden
+        lat: 59.3117614
+        long: 18.0593421
+      - country: Israel
+        lat: 32.0630139,
+        long: 34.7753824
+      - country: Greece
+        lat: 38.0350951
+        long: 23.7949702
+    review: https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm
+    rating: 5.0
+  - name: Sense
+    website: https://sense.com/
+    jobs: https://sense.com/about#careers
+    description: Sense’s mission is to reduce global carbon emissions by making homes smart and efficient.
+    remote: true
+    speculative: false
+    field: Energy Efficiency
+    geo:
+      - country: Canada
+        lat: 45.502478
+        long: -73.5666355
+      - country: USA
+        lat: 42.3641292
+        long: -71.1024424
+      - country: UK
+        lat: 51.4378254
+        long: -1.0800971
+    review: https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm
+    rating: 4.8
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
