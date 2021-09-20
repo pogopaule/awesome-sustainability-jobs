@@ -229,7 +229,6 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [retraced](https://retraced.co/) | [jobs](https://retraced.co/careers) |  | Sustainable Supply Chain Management |  | ✅ |
 | [unown](https://unown-fashion.com) | [jobs](https://unown-fashion.com/pages/jobs) |  | Kleidung leasen |  | ✅ |
 | [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
-| [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
 | [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
 
 
