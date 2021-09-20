@@ -1581,19 +1581,6 @@ jobs:
         long: 13.45139
     review:
     rating:
-  - name: ONOMOTION
-    website: https://onomotion.com
-    jobs: https://onomotion.com/karriere/
-    description: Elektromobilität für den innerstädtischen Lieferverkehr
-    remote: false
-    speculative: true
-    field: Electric Mobility
-    geo:
-      - country: Germany
-        lat: 52.49232
-        long: 13.45139
-    review:
-    rating:
   - name: Watershed
     website: https://watershedclimate.com/
     jobs: https://watershedclimate.com/jobs
