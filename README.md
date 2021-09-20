@@ -281,6 +281,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [ENERTRAG](https://enertrag.com) | [jobs](https://karriere.enertrag.com/stellenangebote.html) | [3.4/5](https://www.kununu.com/de/enertrag1) | Erzeuger von Windenergie | ✅ |  |
 | [Q-Energy](https://qed.de) | [jobs](https://qed.de/career/) |  | Akquisition und Entwicklung von EE Projekten |  |  |
 | [Memodo](https://www.memodo.de) | [jobs](https://www.memodo.de/jobs) | [3.4/5](https://www.kununu.com/de/memodo-kg) | Photovoltaik-Großhandel | ✅ |  |
+| [Einhundert Energie](https://einhundert.de/) | [jobs](https://einhundert.de/karriere/) | [4.5/5](https://www.kununu.com/de/einhundert-energie) | Skalierbarer Mieterstrom | ✅ |  |
 
 
 #### Sharing Economy
@@ -571,6 +572,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) |  | Charging Solution |  | ✅ |
+| [Xos](https://xostrucks.com/) | [jobs](https://apply.workable.com/xos-trucks/) | [4.6/5](https://www.glassdoor.com/Reviews/Xos-Trucks-Reviews-E4643521.htm) | Decarbonizing transportation with reliable electric trucksk |  |  |
 
 
 #### Energy Efficiency
@@ -587,6 +589,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [DroneSeed](https://droneseed.com/) | [jobs](https://jobs.lever.co/droneseed) |  | Reforestation via drones |  | ✅ |
 | [Apeel](https://www.apeel.com/) | [jobs](https://www.apeel.com/careers) | [4.8/5](https://www.glassdoor.com/Reviews/Apeel-Sciences-Reviews-E1366431.htm) | Plant-based protection for food |  | ✅ |
 | [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
+| [droneseed](https://droneseed.com/) | [jobs](https://jobs.lever.co/droneseed) | [4.9/5](https://www.glassdoor.com/Reviews/DroneSeed-Reviews-E2860929.htm) | Scalable reforestation via drones |  |  |
 
 
 #### Renewable Energies
@@ -597,6 +600,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Arcadia](https://www.arcadia.com/) | [jobs](https://welcome.arcadia.com/careers) |  | Tech platform that makes clean energy accessible in the USA |  | ✅ |
 | [Clean Power Research](https://www.cleanpower.com/) | [jobs](https://www.cleanpower.com/about-us/careers/) |  | Sofware for renewable energies |  |  |
 | [Omnidian](https://www.omnidian.com/) | [jobs](https://jobs.lever.co/omnidian) | [4.9/5](https://www.glassdoor.com/Overview/Working-at-Omnidian-EI_IE2191560.11,19.htm) | Clean energy investments |  | ✅ |
+| [Palmetto](https://palmetto.com/) | [jobs](https://www.linkedin.com/careersite/palmetto) | [4.1/5](https://www.glassdoor.com/Reviews/Palmetto-Reviews-E1554901.htm) | Helping homeowners with solar |  |  |
 
 
 
