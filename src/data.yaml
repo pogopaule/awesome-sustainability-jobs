@@ -1901,6 +1901,64 @@ jobs:
         long: -1.0800971
     review: https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm
     rating: 4.8
+  - name: Xos
+    website: https://xostrucks.com/
+    jobs: https://apply.workable.com/xos-trucks/
+    description: Decarbonizing transportation with reliable electric trucksk
+    remote: false
+    speculative: false
+    field: Electric Mobility
+    geo:
+      - country: USA
+        lat: 34.1193874
+        long: -118.2532345
+    review: https://www.glassdoor.com/Reviews/Xos-Trucks-Reviews-E4643521.htm
+    rating: 4.6
+  - name: Einhundert Energie
+    website: https://einhundert.de/
+    jobs: https://einhundert.de/karriere/
+    description: Skalierbarer Mieterstrom
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 50.9487949
+        long: 6.9100396
+    review: https://www.kununu.com/de/einhundert-energie
+    rating: 4.5
+  - name: droneseed
+    website: https://droneseed.com/
+    jobs: https://jobs.lever.co/droneseed
+    description: Scalable reforestation via drones
+    remote: false
+    speculative: false
+    field: Misc.
+    geo:
+      - country: USA
+        lat: 47.6641589
+        long: -122.3716434
+    review: https://www.glassdoor.com/Reviews/DroneSeed-Reviews-E2860929.htm
+    rating: 4.9
+  - name: Palmetto
+    website: https://palmetto.com/
+    jobs: https://www.linkedin.com/careersite/palmetto
+    description: Helping homeowners with solar
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: USA
+        lat: 32.8175091
+        long: -79.952665
+      - country: USA
+        lat: 37.7896583
+        long: -122.4021578
+      - country: USA
+        lat: 47.6124005
+        long: -122.3376306
+    review: https://www.glassdoor.com/Reviews/Palmetto-Reviews-E1554901.htm
+    rating: 4.1
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
