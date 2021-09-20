@@ -1529,19 +1529,6 @@ jobs:
         long: 13.3853276
     review:
     rating:
-  - name: ProjectTogether
-    website: https://projecttogether.org/
-    jobs: https://projecttogether.join.com/
-    description: Innovationsplattform
-    remote: true
-    speculative: false
-    field: Misc.
-    geo:
-      - country: Germany
-        lat: 52.5266065
-        long: 13.3853276
-    review:
-    rating:
   - name: Lune
     website: https://lune.co
     jobs: https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331
