@@ -1959,6 +1959,19 @@ jobs:
         long: -0.0896596
     review: https://www.glassdoor.com/Reviews/Emitwise-Reviews-E3915102.htm
     rating: 5.0
+  - name: Vow
+    website: https://www.vowfood.com/
+    jobs: https://www.vowfood.com/careers
+    description: Lab meat
+    remote: true
+    speculative: true
+    field: Misc.
+    geo:
+      - country: Australia
+        lat: -33.915223
+        long: 151.1974428
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
