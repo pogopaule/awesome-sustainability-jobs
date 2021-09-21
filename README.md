@@ -51,6 +51,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 ### Australia
 
+#### Misc.
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Vow](https://www.vowfood.com/) | [jobs](https://www.vowfood.com/careers) |  | Lab meat | ✅ | ✅ |
+
+
 #### Sharing Economy
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
