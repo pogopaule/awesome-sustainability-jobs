@@ -1945,7 +1945,7 @@ jobs:
         lat: 37.7923103
         long: -122.4014556
     review: https://www.glassdoor.com/Reviews/Full-Harvest-Reviews-E1556155.htm
-    rating: -
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
