@@ -1711,19 +1711,6 @@ jobs:
         long: -122.4235039
     review:
     rating:
-  - name: DroneSeed
-    website: https://droneseed.com/
-    jobs: https://jobs.lever.co/droneseed
-    description: Reforestation via drones
-    remote: true
-    speculative: false
-    field: Misc.
-    geo:
-      - country: USA
-        lat: 47.664258
-        long: -122.3709339
-    review:
-    rating:
   - name: CarbonChain
     website: https://carbonchain.com/
     jobs: https://boards.greenhouse.io/carbonchain
