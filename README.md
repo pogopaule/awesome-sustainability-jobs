@@ -514,6 +514,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) |  | quantitative and qualitative data on offset projects |  | ✅ |
 | [Lune](https://lune.co) | [jobs](https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331) |  | API powered carbon offsetting |  | ✅ |
 | [CarbonChain](https://carbonchain.com/) | [jobs](https://boards.greenhouse.io/carbonchain) |  | Measure carbon emissions |  |  |
+| [Emitwise](https://emitwise.com/home) | [jobs](https://jobs.lever.co/emitwise) | [5.0/5](https://www.glassdoor.com/Reviews/Emitwise-Reviews-E3915102.htm) | Our carbon accounting platform enables you to measure, report and reduce the carbon footprint of your operations and supply chain |  |  |
 
 
 #### Energy Efficiency
