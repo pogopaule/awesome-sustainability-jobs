@@ -1946,6 +1946,19 @@ jobs:
         long: -122.4014556
     review: https://www.glassdoor.com/Reviews/Full-Harvest-Reviews-E1556155.htm
     rating:
+  - name: Emitwise
+    website: https://emitwise.com/home
+    jobs: https://jobs.lever.co/emitwise
+    description: Our carbon accounting platform enables you to measure, report and reduce the carbon footprint of your operations and supply chain
+    remote: false
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: UK
+        lat: 51.5045826
+        long: -0.0896596
+    review: https://www.glassdoor.com/Reviews/Emitwise-Reviews-E3915102.htm
+    rating: 5.0
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
