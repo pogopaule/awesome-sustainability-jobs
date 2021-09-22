@@ -112,6 +112,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Sense](https://sense.com/) | [jobs](https://sense.com/about#careers) | [4.8/5](https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm) | Sense’s mission is to reduce global carbon emissions by making homes smart and efficient. |  | ✅ |
 
 
+#### Renewable Energies
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Opus One Solutions](https://www.opusonesolutions.com/) | [jobs](https://www.opusonesolutions.com/careers/) | [3.5/5](https://www.glassdoor.com/Reviews/Opus-One-Solutions-Reviews-E1516067.htm) | Helping utilities optimize energy planning, operations and market management |  |  |
+
+
 
 
 ### Denmark
@@ -287,6 +294,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Q-Energy](https://qed.de) | [jobs](https://qed.de/career/) |  | Akquisition und Entwicklung von EE Projekten |  |  |
 | [Memodo](https://www.memodo.de) | [jobs](https://www.memodo.de/jobs) | [3.4/5](https://www.kununu.com/de/memodo-kg) | Photovoltaik-Großhandel | ✅ |  |
 | [Einhundert Energie](https://einhundert.de/) | [jobs](https://einhundert.de/karriere/) | [4.5/5](https://www.kununu.com/de/einhundert-energie) | Skalierbarer Mieterstrom | ✅ |  |
+| [be4energy](https://www.be4energy.com/) | [jobs](https://www.be4energy.com/index.php?option=com_content&view=category&layout=blog&id=20&Itemid=167) |  | Hard- und Software rund um die Energiewende | ✅ |  |
 
 
 #### Sharing Economy
@@ -608,6 +616,8 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Omnidian](https://www.omnidian.com/) | [jobs](https://jobs.lever.co/omnidian) | [4.9/5](https://www.glassdoor.com/Overview/Working-at-Omnidian-EI_IE2191560.11,19.htm) | Clean energy investments |  | ✅ |
 | [Palmetto](https://palmetto.com/) | [jobs](https://www.linkedin.com/careersite/palmetto) | [4.1/5](https://www.glassdoor.com/Reviews/Palmetto-Reviews-E1554901.htm) | Helping homeowners with solar |  |  |
 | [nexamp](https://www.nexamp.com/) | [jobs](https://www.nexamp.com/careers/) | [4.5/5](https://www.glassdoor.com/Reviews/Nexamp-Reviews-E808217_P3.htm) | Solar for communities and homeowners |  |  |
+| [Everlight Solar](https://www.everlightsolar.com/) | [jobs](https://www.everlightsolar.com/jobs/) | [4.5/5](https://www.glassdoor.com/Reviews/Everlight-Solar-Reviews-E3183804.htm) | Everlight Solar enables households to own their power |  | ✅ |
+| [Voltaiq](https://www.voltaiq.com/) | [jobs](https://www.voltaiq.com/careers/) | [None/5](https://www.glassdoor.com/Reviews/Voltaiq-Reviews-E2476462.htm) | Battery Intelligence Platform |  | ✅ |
 
 
 
