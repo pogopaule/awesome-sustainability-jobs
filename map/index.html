@@ -23,6 +23,14 @@
     .leaflet-popup-content div {
       margin-bottom: 5px;
     }
+    .remote-legend {
+      color: white;
+      background-color: #9C2BCB;
+    }
+    .no-remote-legend {
+      color: white;
+      background-color: #2A81CB;
+    }
   </style>
 </head>
 <body>
@@ -44,6 +52,25 @@
         maxZoom: 18,
       }).addTo(map);
 
+
+    var legend = L.control({position: 'bottomright'});
+    legend.onAdd = function (map) {
+      var div = L.DomUtil.create('div', 'info legend')
+      div.innerHTML += '<div class="remote-legend">Remote Jobs Mentioned</div><div class="no-remote-legend">No Remote Jobs Mentioned</div>'
+      return div;
+    };
+    legend.addTo(map);
+
+    var remoteIcon = new L.Icon({
+      iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png',
+      shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+      iconSize: [25, 41],
+      iconAnchor: [12, 41],
+      popupAnchor: [1, -34],
+      shadowSize: [41, 41]
+    });
+
+
     for (var i = 0; i < locations.length; i++) {
       l = locations[i]
 
@@ -51,13 +78,10 @@
              <div><a target="_blank" href="${l.jobs}">Jobs</a></div>
              <div>Field: ${l.field}</div>
              <div>Description: ${l.description}</div>`
+
+      var icon = undefined
       if(l.rating) {
         popup = popup + `<div>Rating: <a target="_blank" href="${l.review}">${l.rating} out of 5</a></div>`
-      }
-      if(l.remote) {
-        popup = popup + `<div>They have at least one remote job</div>`
-      } else {
-        popup = popup + `<div>They don't mention remote jobs</div>`
       }
       if(l.speculative) {
         popup = popup + `<div>They accept speculative job applications</div>`
@@ -65,10 +89,17 @@
         popup = popup + `<div>They don't mention speculative job applications</div>`
       }
 
-
-      L.marker([l.geo.lat, l.geo.long])
-        .bindPopup(popup)
-        .addTo(map);
+      if(l.remote) {
+        popup = popup + `<div>They have at least one remote job</div>`
+        L.marker([l.geo.lat, l.geo.long], {icon: remoteIcon})
+          .bindPopup(popup)
+          .addTo(map);
+      } else {
+        popup = popup + `<div>They don't mention remote jobs</div>`
+        L.marker([l.geo.lat, l.geo.long])
+          .bindPopup(popup)
+          .addTo(map);
+      }
     }
   </script>
 </body>
