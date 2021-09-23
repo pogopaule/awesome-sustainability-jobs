@@ -191,6 +191,8 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [GreenDelta](https://www.greendelta.com) | [jobs](https://www.greendelta.com/about-us/open-positions/) | [2.7/5](https://www.kununu.com/de/greendelta) | Sustainability Consulting | ✅ |  |
 | [eevie](https://www.eevie.io/) | [jobs](https://www.eevie.io/jobs) |  | climate guide to a sustainable life | ✅ |  |
 | [Planetly](https://www.planetly.com/) | [jobs](https://planetly.jobs.personio.de/) | [4.6/5](https://www.kununu.com/de/planetly1) | CO2-Management |  | ✅ |
+| [nullify](https://www.nullify.app/) | [jobs](https://www.nullify.app/team) |  | CO2-App | ✅ |  |
+| [cozero](https://cozero.io) | [jobs](https://cozero.io/en/jobs) |  | Enable companies to effectively decarbonize and transform their business | ✅ | ✅ |
 
 
 #### Circular Economy
@@ -659,6 +661,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 ### UK
 
 * [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#)
+* [Climate Change Jobs](https://climatechangejobs.co.uk/)
 
 
 ### USA
