@@ -2024,6 +2024,32 @@ jobs:
         long: 13.5629703
     review:
     rating:
+  - name: Afresh
+    website: https://www.afresh.com/
+    jobs: https://boards.greenhouse.io/afresh
+    description: AI-powered food waste reduction
+    remote: true
+    speculative: false
+    field: Misc.
+    geo:
+      - country: USA
+        lat: 37.7482931
+        long: -122.4946988
+    review: https://www.glassdoor.com/Reviews/Afresh-Technologies-Reviews-E2506321.htm
+    rating: 5.0
+  - name: Terraformation
+    website: https://www.terraformation.com/
+    jobs: https://www.terraformation.com/about/careers
+    description: Solving climate change with forest restoration
+    remote: true
+    speculative: false
+    field: Misc.
+    geo:
+      - country: Remote
+        lat: 30.3171
+        long: -43.3740
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
