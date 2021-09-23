@@ -2063,6 +2063,32 @@ jobs:
         long: -43.3740
     review:
     rating:
+  - name: nullify
+    website: https://www.nullify.app/
+    jobs: https://www.nullify.app/team
+    description: CO2-App
+    remote: false
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: Germany
+        lat: 50.1321521
+        long: 8.7334481
+    review:
+    rating:
+  - name: cozero
+    website: https://cozero.io
+    jobs: https://cozero.io/en/jobs
+    description: Enable companies to effectively decarbonize and transform their business
+    remote: true
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: Germany
+        lat: 52.5326094
+        long: 13.4081657
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
@@ -2106,3 +2132,6 @@ jobportals:
   - name: GOODJOBS
     website: https://goodjobs.careers/
     country: Worldwide
+  - name: Climate Change Jobs
+    website: https://climatechangejobs.co.uk/
+    country: UK
