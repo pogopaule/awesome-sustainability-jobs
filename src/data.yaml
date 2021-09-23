@@ -797,6 +797,19 @@ jobs:
         long: 9.9738096
     review: https://www.kununu.com/de/tomorrow2
     rating: 4.6
+  - name: Tanso
+    website: https://www.tanso.io
+    jobs: https://www.tanso.io/en/careers/
+    description: Sustainability Accounting for Industrial Manufacturing
+    remote: true
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: Germany
+        lat: 53.5579188
+        long: 9.9738096
+    review:
+    rating:
   - name: WAVES
     website: https://waves.lu
     jobs: https://waves.lu/de/karriere/
