@@ -733,7 +733,7 @@ jobs:
     description: ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen.
     remote: false
     speculative: true
-    field: Misc.
+    field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: Germany
         lat: 48.1207041
