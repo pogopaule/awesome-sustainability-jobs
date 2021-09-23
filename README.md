@@ -432,6 +432,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Lune](https://lune.co/) | [jobs](https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331) |  | Making products or services climate positive by default |  | ✅ |
 
 
+#### Misc.
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Terraformation](https://www.terraformation.com/) | [jobs](https://www.terraformation.com/about/careers) |  | Solving climate change with forest restoration |  | ✅ |
+
+
 #### Renewable Energies
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
@@ -604,6 +611,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
 | [droneseed](https://droneseed.com/) | [jobs](https://jobs.lever.co/droneseed) | [4.9/5](https://www.glassdoor.com/Reviews/DroneSeed-Reviews-E2860929.htm) | Scalable reforestation via drones |  |  |
 | [Full Harvest](https://www.fullharvest.com/) | [jobs](https://www.fullharvest.com/careers) | [None/5](https://www.glassdoor.com/Reviews/Full-Harvest-Reviews-E1556155.htm) | Source Surplus & Imperfect Produce Online |  |  |
+| [Afresh](https://www.afresh.com/) | [jobs](https://boards.greenhouse.io/afresh) | [5.0/5](https://www.glassdoor.com/Reviews/Afresh-Technologies-Reviews-E2506321.htm) | AI-powered food waste reduction |  | ✅ |
 
 
 #### Renewable Energies
