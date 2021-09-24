@@ -59,8 +59,8 @@ with open("data.yaml", "r") as stream:
                     try:
                         driver.get(url)
                         rating = driver.find_element_by_class_name("v2__EIReviewsRatingsStylesV2__ratingNum").text
-                    except error:
-                        print(error)
+                    except:
+                        print("error getting rating")
 
                 print(rating)
                 job["rating"] = rating
