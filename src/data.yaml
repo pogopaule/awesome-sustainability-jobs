@@ -1776,19 +1776,6 @@ jobs:
         long: -95.3633271
     review:
     rating:
-  - name: Climate Robotics
-    website: https://www.climaterobotics.com
-    jobs: https://apply.workable.com/climaterobotics/
-    description: They build robotics and artificial intelligence to fight climate change
-    remote: false
-    speculative: true
-    field: Carbon Analysis, Capture and Offsetting
-    geo:
-      - country: USA
-        lat: 29.7530414
-        long: -95.3633271
-    review:
-    rating:
   - name: AMP Robotics
     website: https://www.amprobotics.com/
     jobs: https://www.amprobotics.com/careers
