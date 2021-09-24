@@ -2089,6 +2089,74 @@ jobs:
         long: 13.4081657
     review:
     rating:
+  - name: QuantumScape
+    website: https://www.quantumscape.com/
+    jobs: https://jobs.lever.co/quantumscape
+    description:  solid-state lithium-metal batteries
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: USA
+        lat: 37.3663407
+        long: -121.9189347
+    review: https://www.glassdoor.com/Reviews/Quantumscape-Reviews-E1349613.htm
+    rating: 4.0
+  - name: greenventory
+    website: https://greenventory.de/
+    jobs: https://greenventory.de/#joinourteam
+    description: Inventarisierung und Analyse verteilter Energiesysteme
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 48.0306024
+        long: 7.8538307
+    review:
+    rating:
+  - name: Nautilus Labs
+    website: https://nautiluslabs.com/
+    jobs: https://nautiluslabs.com/careers/
+    description: Efficiency of ocean commerce through artificial intelligence
+    remote: false
+    speculative: true
+    field: Misc.
+    geo:
+      - country: USA
+        lat: 40.739905
+        long: -73.9926739
+    review: https://www.glassdoor.com/Reviews/Nautilus-Labs-Reviews-E1937449.htm
+    rating: 4.3
+  - name: Culdesac
+    website: https://culdesac.com/
+    jobs: https://culdesac.com/careers
+    description: Car-Free Neighborhoods
+    remote: true
+    speculative: false
+    field: Misc.
+    geo:
+      - country: USA
+        lat: 33.414584
+        long: -111.8997941
+      - country: USA
+        lat: 37.7655176
+        long: -122.4114733
+    review: https://www.glassdoor.com/Reviews/Culdesac-Reviews-E4410206.htm
+    rating:
+  - name: Valentin Software
+    website: https://valentin-software.com/
+    jobs: https://valentin-software.com/unternehmen/stellenangebote/
+    description: Planungs- und Simulationssoftware für Erneuerbare Energien
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 52.5089333
+        long: 13.4318292
+    review: https://www.kununu.com/de/valentin-software
+    rating: 4.8
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
