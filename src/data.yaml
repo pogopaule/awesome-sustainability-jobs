@@ -860,8 +860,8 @@ jobs:
       - country: UK
         lat: 51.5283914
         long: -0.2416799
-    review:
-    rating:
+    review: https://www.glassdoor.com/Reviews/Sylvera-Reviews-E4885878.htm
+    rating: 5.0
   - name: Startnext
     website: https://www.startnext.com
     jobs: https://www.startnext.com/info/jobs.html
@@ -886,8 +886,8 @@ jobs:
       - country: UK
         lat: 51.5157685
         long: -0.1397249
-    review:
-    rating:
+    review: https://www.glassdoor.com/Reviews/Octopus-Energy-Reviews-E1482748.htm
+    rating: 4.5
   - name: OVO Energy
     website: https://www.ovoenergy.com/
     jobs: https://careers.ovo.com/opportunities
@@ -899,8 +899,8 @@ jobs:
       - country: UK
         lat: 51.4533332
         long: -2.5866618
-    review:
-    rating:
+    review: https://www.glassdoor.com/Reviews/OVO-Reviews-E767881.htm
+    rating: 3.5
   - name: Clim8 Invest
     website: https://clim8invest.com/
     jobs: https://clim8invest.com/work-at-clim8/
@@ -912,8 +912,8 @@ jobs:
       - country: UK
         lat: 51.4934478
         long: -0.2275489
-    review:
-    rating:
+    review: https://www.glassdoor.co.uk/Reviews/Clim8-Invest-Reviews-E3443972.htm
+    rating: 4.3
   - name: Ampeers Energy
     website: https://ampeersenergy.de/
     jobs: https://ampeersenergy.de/karriere/
@@ -1155,8 +1155,8 @@ jobs:
       - country: Romania
         lat: 46.7776259
         long: 23.5579976
-    review:
-    rating:
+    review: https://www.glassdoor.com/Reviews/Winnow-Solutions-Reviews-E1857734.htm
+    rating: 4.2
   - name: MOQO
     website: https://moqo.de/
     jobs: https://moqo.de/jobs
@@ -1181,8 +1181,8 @@ jobs:
       - country: Denmark
         lat: 55.7129716
         long: 12.5675979
-    review:
-    rating:
+    review: https://www.glassdoor.com/Reviews/Too-Good-To-Go-Reviews-E2402025.htm
+    rating: 4.4
   - name: Spenoki
     website: https://www.spenoki.de/
     jobs: https://spenoki-career.kenjo.io/
@@ -1281,8 +1281,8 @@ jobs:
       - country: USA
         lat: 51.4523762
         long: -0.9935331
-    review:
-    rating:
+    review: https://www.glassdoor.com/Reviews/ChargePoint-Reviews-E722356.htm
+    rating: 3.9
   - name: ECCO2
     website: https://www.ecco2.ch
     jobs: https://www.ecco2.ch/jobs
@@ -1488,8 +1488,8 @@ jobs:
       - country: USA
         lat: 40.7831
         long: -73.9712
-    review:
-    rating:
+    review: https://www.glassdoor.com/Reviews/Kaiyo-New-York-City-Reviews-EI_IE3279574.0,5_IL.6,19_IM615.htm
+    rating: 3.7
   - name: GreenDelta
     website: https://www.greendelta.com
     jobs: https://www.greendelta.com/about-us/open-positions/
@@ -1631,7 +1631,7 @@ jobs:
       - country: UK
         lat: 51.521088
         long: -0.114766
-    review:
+    review: https://www.glassdoor.co.uk/Reviews/Arenko-Group-Reviews-E4554199.htm
     rating:
   - name: ENERTRAG
     website: https://enertrag.com
@@ -1683,8 +1683,8 @@ jobs:
       - country: Remote
         lat: 30.3071
         long: -43.3740
-    review:
-    rating:
+    review: https://www.glassdoor.com/Reviews/Voltus-Reviews-E2090197.htm
+    rating: 4.5
   - name: Lune
     website: https://lune.co/
     jobs: https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331
