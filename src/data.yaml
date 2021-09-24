@@ -2144,6 +2144,32 @@ jobs:
         long: 13.4318292
     review: https://www.kununu.com/de/valentin-software
     rating: 4.8
+  - name: bettervest
+    website: https://www.bettervest.com/
+    jobs: https://www.bettervest.com/de/stellenangebote/
+    description: Nachhaltige Geldanlagen
+    remote: false
+    speculative: false
+    field: Misc.
+    geo:
+      - country: Germany
+        lat: 50.1217614
+        long: 8.6498882
+    review: https://www.kununu.com/de/bettervest
+    rating: 3.3
+  - name: gogoro
+    website: https://www.gogoro.com/
+    jobs: https://www.gogoro.com/tw/career/
+    description: e-scooters with swapable batteries
+    remote: false
+    speculative: false
+    field: Electric Mobility
+    geo:
+      - country: Taiwan
+        lat: 25.0466998
+        long: 121.5400699
+    review: https://www.glassdoor.com/Reviews/Gogoro-Reviews-E1384356.htm
+    rating: 3.4
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
