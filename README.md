@@ -134,7 +134,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Too Good To Go](https://toogoodtogo.org/en) | [jobs](https://toogoodtogo.org/en/careers) |  | Anti food waste app |  |  |
+| [Too Good To Go](https://toogoodtogo.org/en) | [jobs](https://toogoodtogo.org/en/careers) | [4.4/5](https://www.glassdoor.com/Reviews/Too-Good-To-Go-Reviews-E2402025.htm) | Anti food waste app |  |  |
 
 
 
@@ -354,7 +354,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) |  | Charging Solution |  | ✅ |
+| [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) | [3.9/5](https://www.glassdoor.com/Reviews/ChargePoint-Reviews-E722356.htm) | Charging Solution |  | ✅ |
 
 
 
@@ -448,7 +448,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Voltus](https://www.voltus.co/) | [jobs](https://www.voltus.co/join-us/engineering) |  | Connecting distributed energy resources | ✅ | ✅ |
+| [Voltus](https://www.voltus.co/) | [jobs](https://www.voltus.co/join-us/engineering) | [4.5/5](https://www.glassdoor.com/Reviews/Voltus-Reviews-E2090197.htm) | Connecting distributed energy resources | ✅ | ✅ |
 
 
 
@@ -459,7 +459,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [winnow](https://www.winnowsolutions.com) | [jobs](https://www.winnowsolutions.com/en/careers) |  | Reduction of food waste in commercial kitchens |  |  |
+| [winnow](https://www.winnowsolutions.com) | [jobs](https://www.winnowsolutions.com/en/careers) | [4.2/5](https://www.glassdoor.com/Reviews/Winnow-Solutions-Reviews-E1857734.htm) | Reduction of food waste in commercial kitchens |  |  |
 
 
 
@@ -533,7 +533,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
-| [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) |  | quantitative and qualitative data on offset projects |  | ✅ |
+| [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) | [5.0/5](https://www.glassdoor.com/Reviews/Sylvera-Reviews-E4885878.htm) | quantitative and qualitative data on offset projects |  | ✅ |
 | [Lune](https://lune.co) | [jobs](https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331) |  | API powered carbon offsetting |  | ✅ |
 | [CarbonChain](https://carbonchain.com/) | [jobs](https://boards.greenhouse.io/carbonchain) |  | Measure carbon emissions |  |  |
 | [Emitwise](https://emitwise.com/home) | [jobs](https://jobs.lever.co/emitwise) | [5.0/5](https://www.glassdoor.com/Reviews/Emitwise-Reviews-E3915102.htm) | Our carbon accounting platform enables you to measure, report and reduce the carbon footprint of your operations and supply chain |  |  |
@@ -550,16 +550,16 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) |  | Investments into clean energy and green, sustainable companies |  |  |
+| [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) | [4.3/5](https://www.glassdoor.co.uk/Reviews/Clim8-Invest-Reviews-E3443972.htm) | Investments into clean energy and green, sustainable companies |  |  |
 
 
 #### Renewable Energies
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) |  | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
-| [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) |  | UK-based green electricity supplier |  |  |
-| [Arenko](https://arenko.group/) | [jobs](https://arenko.group/join-us/) |  | Automation & optimisation for the energy transition | ✅ |  |
+| [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) | [4.5/5](https://www.glassdoor.com/Reviews/Octopus-Energy-Reviews-E1482748.htm) | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
+| [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) | [3.5/5](https://www.glassdoor.com/Reviews/OVO-Reviews-E767881.htm) | UK-based green electricity supplier |  |  |
+| [Arenko](https://arenko.group/) | [jobs](https://arenko.group/join-us/) | [None/5](https://www.glassdoor.co.uk/Reviews/Arenko-Group-Reviews-E4554199.htm) | Automation & optimisation for the energy transition | ✅ |  |
 
 
 
@@ -575,7 +575,6 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [joro](https://www.joro.tech/) | [jobs](https://www.joro.tech/careers) |  | Joro connects your spending and environmental impact. |  | ✅ |
 | [Patch](https://www.patch.io/) | [jobs](https://www.patch.io/careers) |  | API-first carbon removal |  | ✅ |
 | [Climate Robotics](https://www.climaterobotics.com) | [jobs](https://apply.workable.com/climaterobotics/) |  | They build robotics and artificial intelligence to fight climate change | ✅ |  |
-| [Climate Robotics](https://www.climaterobotics.com) | [jobs](https://apply.workable.com/climaterobotics/) |  | They build robotics and artificial intelligence to fight climate change | ✅ |  |
 | [Pachama](https://pachama.com/) | [jobs](https://jobs.lever.co/pachama) | [None/5](https://www.glassdoor.com/Overview/Working-at-Pachama-EI_IE3228050.11,18.htm) | Harnessing AI to drive carbon capture and protect global forests |  | ✅ |
 
 
@@ -583,7 +582,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Kaiyo](https://kaiyo.com) | [jobs](https://kaiyo.com/careers) |  | Used-Furniture marketplace |  |  |
+| [Kaiyo](https://kaiyo.com) | [jobs](https://kaiyo.com/careers) | [3.7/5](https://www.glassdoor.com/Reviews/Kaiyo-New-York-City-Reviews-EI_IE3279574.0,5_IL.6,19_IM615.htm) | Used-Furniture marketplace |  |  |
 | [AMP Robotics](https://www.amprobotics.com/) | [jobs](https://www.amprobotics.com/careers) | [4.3/5](https://www.glassdoor.com/Overview/Working-at-AMP-Robotics-EI_IE1754764.11,23.htm) | Computer vision for recycling |  |  |
 
 
@@ -591,7 +590,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) |  | Charging Solution |  | ✅ |
+| [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) | [3.9/5](https://www.glassdoor.com/Reviews/ChargePoint-Reviews-E722356.htm) | Charging Solution |  | ✅ |
 | [Xos](https://xostrucks.com/) | [jobs](https://apply.workable.com/xos-trucks/) | [4.6/5](https://www.glassdoor.com/Reviews/Xos-Trucks-Reviews-E4643521.htm) | Decarbonizing transportation with reliable electric trucksk |  |  |
 
 
