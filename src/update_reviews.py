@@ -40,33 +40,32 @@ with open("data.yaml", "r") as stream:
         for index, job in enumerate(jobs):
             url = job["review"]
             job["rating"] = None
-            print(url + ": ", end="", flush=True)
+            if url:
+                print(url + ": ", end="", flush=True)
 
-            if url and url.startswith("https://www.kununu"):
-                response = requests.get(url, headers=headers)
-                content = response.text
-                index = content.find('<span class="index__value__')
-                try:
-                    offset = 56
-                    rating = float(
-                            content[index + offset : index + offset + 3].replace(",", ".")
-                            )
-                except ValueError as error:
-                    print(error)
+                if url.startswith("https://www.kununu"):
+                    response = requests.get(url, headers=headers)
+                    content = response.text
+                    index = content.find('<span class="index__value__')
+                    try:
+                        offset = 56
+                        rating = float(
+                                content[index + offset : index + offset + 3].replace(",", ".")
+                                )
+                    except ValueError as error:
+                        print(error)
 
-            if url and url.startswith("https://www.glassdoor"):
-                try:
-                    driver.get(url)
-                    rating = driver.find_element_by_class_name("v2__EIReviewsRatingsStylesV2__ratingNum").text
-                except error:
-                    print(error)
+                if url.startswith("https://www.glassdoor"):
+                    try:
+                        driver.get(url)
+                        rating = driver.find_element_by_class_name("v2__EIReviewsRatingsStylesV2__ratingNum").text
+                    except error:
+                        print(error)
 
-            print(rating)
-            job["rating"] = rating
-            time.sleep(random.randint(1, 4))
-
-
-        dump_data(data)
+                print(rating)
+                job["rating"] = rating
+                time.sleep(random.randint(1, 4))
+                dump_data(data)
 
     except yaml.YAMLError as error:
         print(error)
