@@ -1761,7 +1761,7 @@ jobs:
       - country: USA
         lat: 47.6054185
         long: -122.3373539
-    review: https://www.glassdoor.com/Overview/Working-at-Omnidian-EI_IE2191560.11,19.htm
+    review: https://www.glassdoor.com/Reviews/Omnidian-Reviews-E2191560.htm
     rating: 4.9
   - name: Climate Robotics
     website: https://www.climaterobotics.com
@@ -1787,7 +1787,7 @@ jobs:
       - country: USA
         lat: 39.9659997
         long: -105.1222476
-    review: https://www.glassdoor.com/Overview/Working-at-AMP-Robotics-EI_IE1754764.11,23.htm
+    review: https://www.glassdoor.com/Reviews/AMP-Robotics-Reviews-E1754764.htm
     rating: 4.3
   - name: Pachama
     website: https://pachama.com/
@@ -1800,7 +1800,7 @@ jobs:
       - country: USA
         lat: 37.7578223
         long: -122.4553382
-    review: https://www.glassdoor.com/Overview/Working-at-Pachama-EI_IE3228050.11,18.htm
+    review: https://www.glassdoor.com/Reviews/Pachama-Reviews-E3228050.htm
     rating:
   - name: LIFTE H2
     website: https://www.lifteh2.com/
