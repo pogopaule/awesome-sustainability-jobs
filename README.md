@@ -45,6 +45,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 - [Spain](#spain)
 - [Sweden](#sweden)
 - [Switzerland](#switzerland)
+- [Taiwan](#taiwan)
 - [UK](#uk)
 - [USA](#usa)
 - [Jobportals](#jobportals)
@@ -247,6 +248,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [unown](https://unown-fashion.com) | [jobs](https://unown-fashion.com/pages/jobs) |  | Kleidung leasen |  | ✅ |
 | [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
 | [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
+| [bettervest](https://www.bettervest.com/) | [jobs](https://www.bettervest.com/de/stellenangebote/) | [3.3/5](https://www.kununu.com/de/bettervest) | Nachhaltige Geldanlagen |  |  |
 
 
 #### Renewable Energies
@@ -522,6 +524,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [enersis](https://www.enersis.ch/) | [jobs](https://www.enersis.ch/karriere/) | [4.5/5](https://www.kununu.com/de/enersis-europe) | Digitale Plattformen zur Planung und Simulation der Energiewende |  |  |
+
+
+
+
+### Taiwan
+
+#### Electric Mobility
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [gogoro](https://www.gogoro.com/) | [jobs](https://www.gogoro.com/tw/career/) | [3.4/5](https://www.glassdoor.com/Reviews/Gogoro-Reviews-E1384356.htm) | e-scooters with swapable batteries |  |  |
 
 
 
