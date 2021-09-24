@@ -4,6 +4,9 @@ import random
 
 import oyaml as yaml
 
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+
 # https://github.com/yaml/pyyaml/issues/234#issuecomment-765894586
 class Dumper(yaml.Dumper):
     def increase_indent(self, flow=False, *args, **kwargs):
@@ -19,6 +22,9 @@ def dump_data(data):
     with open("data.yaml", "w") as file:
         yaml.dump(data, file, allow_unicode=True, width=10000, Dumper=Dumper)
 
+chrome_options = Options()
+chrome_options.add_argument("--headless")
+driver = webdriver.Chrome(options=chrome_options)
 
 headers = {
     "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:85.0) Gecko/20100101 Firefox/85.0"
@@ -34,9 +40,9 @@ with open("data.yaml", "r") as stream:
         for index, job in enumerate(jobs):
             url = job["review"]
             job["rating"] = None
+            print(url + ": ", end="", flush=True)
 
             if url and url.startswith("https://www.kununu"):
-                print(url + ": ", end="", flush=True)
                 response = requests.get(url, headers=headers)
                 content = response.text
                 index = content.find('<span class="index__value__')
@@ -47,9 +53,18 @@ with open("data.yaml", "r") as stream:
                             )
                 except ValueError as error:
                     print(error)
-                print(rating)
-                job["rating"] = rating
-                time.sleep(random.randint(1, 4))
+
+            if url and url.startswith("https://www.glassdoor"):
+                try:
+                    driver.get(url)
+                    rating = driver.find_element_by_class_name("v2__EIReviewsRatingsStylesV2__ratingNum").text
+                except error:
+                    print(error)
+
+            print(rating)
+            job["rating"] = rating
+            time.sleep(random.randint(1, 4))
+
 
         dump_data(data)
 
