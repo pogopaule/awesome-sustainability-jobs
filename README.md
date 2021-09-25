@@ -228,6 +228,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [SOPTIM](https://www.soptim.de) | [jobs](https://www.soptim.de/de/karriere/aktuelle-jobs/) | [4.2/5](https://www.kununu.com/de/soptim) | Software für energiewirtschaftliche Prozesse |  |  |
 | [vilisto](https://www.vilisto.de/) | [jobs](https://www.vilisto.de/jobs/#jobs) | [4.6/5](https://www.kununu.com/de/vilisto1) | Digitales Wärmemanagment | ✅ |  |
 | [Enit Energy IT Systems GmbH](https://enit.io) | [jobs](https://enit.io/ueber-uns/enit/jobs) | [4.8/5](https://www.kununu.com/de/enit-energy-it-systems2) | Voll Energie. Null Emission. - Energiemanagment für mittelständische Unternehmen | ✅ | ✅ |
+| [ÖKOTEC](https://www.oekotec.de/de/uebersicht/home/) | [jobs](https://www.oekotec.de/de/karriere/) | [4.1/5](https://www.kununu.com/de/oekotec-energiemanagement) | Reduktion des Energie- und Ressourcenverbrauchs für Industrie und Gewerbe |  |  |
 
 
 #### Misc.
@@ -326,6 +327,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [fairmondo](https://www.fairmondo.de) | [jobs](https://www.fairmondo.de/jobs) |  | faire Alternative zu den Marktriesen im Online-Handel |  | ✅ |
 | [Waschbär](https://www.waschbaer.de) | [jobs](https://www.waschbaer.de/shop/ueber-uns/karriere/stellenangebote) | [3.0/5](https://www.kununu.com/de/waschbaer-umweltversand-triaz) | Online Shop für umweltgerechte und sozialverträgliche Produkte | ✅ |  |
 | [etepetete](https://etepetete-bio.de/) | [jobs](https://etepetete-bio.de/jobs) | [2.9/5](https://www.kununu.com/de/etepetete) | krummes Gemüse | ✅ |  |
+| [Leasing for Good](https://www.leasingforgood.com) | [jobs](https://www.leasingforgood.com/jobs#anchor-jobs) |  | Software for circular fashion practices |  | ✅ |
 
 
 #### Sustainable Mobility
