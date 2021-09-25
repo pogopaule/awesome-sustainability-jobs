@@ -2196,6 +2196,35 @@ jobs:
         long: 9.8985829
     review:
     rating:
+  - name: sighten
+    website: https://www.sighten.io/
+    jobs: https://www.sighten.io/about-us
+    description: Solar Design and Proposal Software
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: USA
+        lat: 37.7933725
+        long: -122.3980452
+      - country: USA
+        lat: 30.2563722
+        long: -97.7980937
+    review: https://www.glassdoor.com/Reviews/Sighten-Reviews-E1123873.htm
+    rating: 4.0
+  - name: Imperfect Foods
+    website: https://www.imperfectfoods.com/
+    jobs: https://jobs.lever.co/imperfectfoods
+    description: Imperfect food delivery
+    remote: true
+    speculative: false
+    field: Sustainable Consumption
+    geo:
+      - country: USA
+        lat: 37.7222807
+        long: -122.398081
+    review: https://www.glassdoor.com/Reviews/Imperfect-Foods-Reviews-E1644405.htm
+    rating: 3.2
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
