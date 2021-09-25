@@ -2170,6 +2170,32 @@ jobs:
         long: 121.5400699
     review: https://www.glassdoor.com/Reviews/Gogoro-Reviews-E1384356.htm
     rating: 3.4
+  - name: ÖKOTEC
+    website: https://www.oekotec.de/de/uebersicht/home/
+    jobs: https://www.oekotec.de/de/karriere/
+    description: Reduktion des Energie- und Ressourcenverbrauchs für Industrie und Gewerbe
+    remote: false
+    speculative: false
+    field: Energy Efficiency
+    geo:
+      - country: Germany
+        lat: 52.4827494
+        long: 13.3553999
+    review: https://www.kununu.com/de/oekotec-energiemanagement
+    rating: 4.1
+  - name: Leasing for Good
+    website: https://www.leasingforgood.com
+    jobs: https://www.leasingforgood.com/jobs#anchor-jobs
+    description: Software for circular fashion practices
+    remote: true
+    speculative: false
+    field: Sustainable Consumption
+    geo:
+      - country: Germany
+        lat: 53.5695916
+        long: 9.8985829
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
