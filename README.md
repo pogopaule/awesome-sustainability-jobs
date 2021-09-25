@@ -642,6 +642,14 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Everlight Solar](https://www.everlightsolar.com/) | [jobs](https://www.everlightsolar.com/jobs/) | [4.5/5](https://www.glassdoor.com/Reviews/Everlight-Solar-Reviews-E3183804.htm) | Everlight Solar enables households to own their power |  | ✅ |
 | [Voltaiq](https://www.voltaiq.com/) | [jobs](https://www.voltaiq.com/careers/) | [0.0/5](https://www.glassdoor.com/Reviews/Voltaiq-Reviews-E2476462.htm) | Battery Intelligence Platform |  | ✅ |
 | [QuantumScape](https://www.quantumscape.com/) | [jobs](https://jobs.lever.co/quantumscape) | [4.0/5](https://www.glassdoor.com/Reviews/Quantumscape-Reviews-E1349613.htm) | solid-state lithium-metal batteries |  |  |
+| [sighten](https://www.sighten.io/) | [jobs](https://www.sighten.io/about-us) | [4.0/5](https://www.glassdoor.com/Reviews/Sighten-Reviews-E1123873.htm) | Solar Design and Proposal Software |  |  |
+
+
+#### Sustainable Consumption
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Imperfect Foods](https://www.imperfectfoods.com/) | [jobs](https://jobs.lever.co/imperfectfoods) | [3.2/5](https://www.glassdoor.com/Reviews/Imperfect-Foods-Reviews-E1644405.htm) | Imperfect food delivery |  | ✅ |
 
 
 
