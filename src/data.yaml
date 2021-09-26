@@ -2225,6 +2225,32 @@ jobs:
         long: -122.398081
     review: https://www.glassdoor.com/Reviews/Imperfect-Foods-Reviews-E1644405.htm
     rating: 3.2
+  - name: The Climate Choice
+    website: https://theclimatechoice.com/de/
+    jobs: https://careers.smartrecruiters.com/THECLIMATECHOICEUGhaftungsbeschrnkt
+    description: "Wir helfen Unternehmen ihre Klimatransformation zu beschleunigen."
+    remote: true
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: Germany
+        lat: 52.4934596
+        long: 13.436166
+    review: https://www.kununu.com/de/the-climate-choice-ug
+    rating: 5.0
+  - name: OhmConnect
+    website: https://www.ohmconnect.com/
+    jobs: https://www.ohmconnect.com/about-us/jobs
+    description: Safe energy and get paid
+    remote: true
+    speculative: true
+    field: Energy Efficiency
+    geo:
+      - country: USA
+        lat: 37.7957676
+        long: -122.2747309
+    review: https://www.glassdoor.com/Reviews/OhmConnect-Reviews-E1899586.htm
+    rating: 4.3
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
