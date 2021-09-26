@@ -194,6 +194,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Planetly](https://www.planetly.com/) | [jobs](https://planetly.jobs.personio.de/) | [4.5/5](https://www.kununu.com/de/planetly1) | CO2-Management |  | ✅ |
 | [nullify](https://www.nullify.app/) | [jobs](https://www.nullify.app/team) |  | CO2-App | ✅ |  |
 | [cozero](https://cozero.io) | [jobs](https://cozero.io/en/jobs) |  | Enable companies to effectively decarbonize and transform their business | ✅ | ✅ |
+| [The Climate Choice](https://theclimatechoice.com/de/) | [jobs](https://careers.smartrecruiters.com/THECLIMATECHOICEUGhaftungsbeschrnkt) | [5.0/5](https://www.kununu.com/de/the-climate-choice-ug) | Wir helfen Unternehmen ihre Klimatransformation zu beschleunigen. |  | ✅ |
 
 
 #### Circular Economy
@@ -614,6 +615,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Sense](https://sense.com/) | [jobs](https://sense.com/about#careers) | [4.8/5](https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm) | Sense’s mission is to reduce global carbon emissions by making homes smart and efficient. |  | ✅ |
+| [OhmConnect](https://www.ohmconnect.com/) | [jobs](https://www.ohmconnect.com/about-us/jobs) | [4.3/5](https://www.glassdoor.com/Reviews/OhmConnect-Reviews-E1899586.htm) | Safe energy and get paid | ✅ | ✅ |
 
 
 #### Misc.
