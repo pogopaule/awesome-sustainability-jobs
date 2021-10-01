@@ -2264,6 +2264,19 @@ jobs:
         long: -122.276191
     review: https://www.glassdoor.com/Reviews/Motiv-Power-Systems-Reviews-E814313.htm
     rating: 4.0
+  - name: WaveGrid
+    website: https://www.weavegrid.com/
+    jobs: https://www.weavegrid.com/careers#open-positions
+    description: Connecting electric vehicles to the grid
+    remote: true
+    speculative: false
+    field: Electric Mobility
+    geo:
+      - country: USA
+        lat: 37.7773673
+        long: -122.4102192
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
