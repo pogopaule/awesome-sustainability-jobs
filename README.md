@@ -42,6 +42,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 - [Philippines](#philippines)
 - [Remote](#remote)
 - [Romania](#romania)
+- [Rwanda](#rwanda)
 - [Spain](#spain)
 - [Sweden](#sweden)
 - [Switzerland](#switzerland)
@@ -118,6 +119,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Opus One Solutions](https://www.opusonesolutions.com/) | [jobs](https://www.opusonesolutions.com/careers/) | [3.5/5](https://www.glassdoor.com/Reviews/Opus-One-Solutions-Reviews-E1516067.htm) | Helping utilities optimize energy planning, operations and market management |  |  |
+| [Power Factors](https://pfdrive.com/) | [jobs](https://pfdrive.com/careers/) | [4.4/5](https://www.glassdoor.com/Reviews/Power-Factors-Reviews-E1927187.htm) | Asset management for renewables |  | ✅ |
 
 
 
@@ -469,6 +471,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 
 
+### Rwanda
+
+#### Electric Mobility
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Ampersand](https://www.ampersand.solar/) | [jobs](https://ampersandelectricmobility.teamtailor.com/#section-jobs) |  | Electric vehicles and charging systems for motorcycle taxi drivers in East Africa |  | ✅ |
+
+
+
+
 ### Spain
 
 #### Carbon Analysis, Capture and Offsetting
@@ -487,6 +500,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [CarbonCloud](https://carboncloud.com/) | [jobs](https://careers.carboncloud.com/jobs) |  | Climate footprint for food brands | ✅ |  |
 
 
 #### Energy Efficiency
