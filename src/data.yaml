@@ -167,7 +167,7 @@ jobs:
         lat: 51.1269062
         long: 13.7840532
     review: https://www.kununu.com/de/solarwatt
-    rating: 3.6
+    rating: 3.7
   - name: Lumenaza
     website: https://www.lumenaza.de/
     jobs: https://www.lumenaza.de/de/jobs/
@@ -258,7 +258,7 @@ jobs:
         lat: 51.3573118
         long: 12.3859104
     review: https://www.kununu.com/de/senec1
-    rating: 3.4
+    rating: 3.5
   - name: KACO new energy
     website: https://kaco-newenergy.com
     jobs: https://kaco-newenergy.com/de/karriere/stellenangebote/
@@ -271,7 +271,7 @@ jobs:
         lat: 49.1760533
         long: 9.2298474
     review: https://www.kununu.com/de/kaco-new-energy4
-    rating: 3.0
+    rating: 3.1
   - name: greenergetic
     website: https://www.greenergetic.de
     jobs: https://www.greenergetic.de/unternehmen/werde-ein-teil-von-greenergetic
@@ -284,7 +284,7 @@ jobs:
         lat: 52.0138821
         long: 8.5689538
     review: https://www.kununu.com/de/kaco-new-energy4
-    rating: 3.0
+    rating: 3.1
   - name: E3/DC
     website: https://www.e3dc.com/
     jobs: https://www.e3dc.com/unternehmen/karriere/
@@ -609,7 +609,7 @@ jobs:
         lat: 53.0741371
         long: 8.8309317
     review: https://www.kununu.com/de/cambio-stadtteilauto-carsharing1
-    rating: 4.1
+    rating: 4.2
   - name: emmy
     website: https://emmy-sharing.de/
     jobs: https://emmy-sharing.de/stellenangebote/
@@ -913,7 +913,7 @@ jobs:
         lat: 51.4934478
         long: -0.2275489
     review: https://www.glassdoor.co.uk/Reviews/Clim8-Invest-Reviews-E3443972.htm
-    rating: '4.3'
+    rating: '4.2'
   - name: Ampeers Energy
     website: https://ampeersenergy.de/
     jobs: https://ampeersenergy.de/karriere/
@@ -1282,7 +1282,7 @@ jobs:
         lat: 51.4523762
         long: -0.9935331
     review: https://www.glassdoor.com/Reviews/ChargePoint-Reviews-E722356.htm
-    rating: '3.9'
+    rating: '4.0'
   - name: ECCO2
     website: https://www.ecco2.ch
     jobs: https://www.ecco2.ch/jobs
@@ -1389,7 +1389,7 @@ jobs:
         lat: 48.1505083
         long: 11.5458047
     review: https://www.kununu.com/de/etepetete
-    rating: 2.9
+    rating: 3.2
   - name: Eigensonne
     website: https://www.eigensonne.de/
     jobs: https://www.eigensonne.de/jobs-buero/
@@ -1671,7 +1671,7 @@ jobs:
         lat: 48.1496281
         long: 11.5540043
     review: https://www.kununu.com/de/memodo-kg
-    rating: 3.4
+    rating: 3.5
   - name: Voltus
     website: https://www.voltus.co/
     jobs: https://www.voltus.co/join-us/engineering
@@ -1919,7 +1919,7 @@ jobs:
         lat: 47.6124005
         long: -122.3376306
     review: https://www.glassdoor.com/Reviews/Palmetto-Reviews-E1554901.htm
-    rating: '4.1'
+    rating: '3.9'
   - name: nexamp
     website: https://www.nexamp.com/
     jobs: https://www.nexamp.com/careers/
@@ -2169,7 +2169,7 @@ jobs:
         lat: 25.0466998
         long: 121.5400699
     review: https://www.glassdoor.com/Reviews/Gogoro-Reviews-E1384356.htm
-    rating: 3.4
+    rating: '3.4'
   - name: ÖKOTEC
     website: https://www.oekotec.de/de/uebersicht/home/
     jobs: https://www.oekotec.de/de/karriere/
@@ -2211,7 +2211,7 @@ jobs:
         lat: 30.2563722
         long: -97.7980937
     review: https://www.glassdoor.com/Reviews/Sighten-Reviews-E1123873.htm
-    rating: 4.0
+    rating: '4.0'
   - name: Imperfect Foods
     website: https://www.imperfectfoods.com/
     jobs: https://jobs.lever.co/imperfectfoods
@@ -2224,11 +2224,11 @@ jobs:
         lat: 37.7222807
         long: -122.398081
     review: https://www.glassdoor.com/Reviews/Imperfect-Foods-Reviews-E1644405.htm
-    rating: 3.2
+    rating: '3.1'
   - name: The Climate Choice
     website: https://theclimatechoice.com/de/
     jobs: https://careers.smartrecruiters.com/THECLIMATECHOICEUGhaftungsbeschrnkt
-    description: "Wir helfen Unternehmen ihre Klimatransformation zu beschleunigen."
+    description: Wir helfen Unternehmen ihre Klimatransformation zu beschleunigen.
     remote: true
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
@@ -2250,7 +2250,7 @@ jobs:
         lat: 37.7957676
         long: -122.2747309
     review: https://www.glassdoor.com/Reviews/OhmConnect-Reviews-E1899586.htm
-    rating: 4.3
+    rating: '4.3'
   - name: Motiv
     website: https://www.motivps.com/
     jobs: https://www.motivps.com/careers/
@@ -2263,7 +2263,7 @@ jobs:
         lat: 37.5669774
         long: -122.276191
     review: https://www.glassdoor.com/Reviews/Motiv-Power-Systems-Reviews-E814313.htm
-    rating: 4.0
+    rating: '4.0'
   - name: WaveGrid
     website: https://www.weavegrid.com/
     jobs: https://www.weavegrid.com/careers#open-positions
@@ -2289,7 +2289,7 @@ jobs:
         lat: 45.4665666
         long: -73.4660893
     review: https://www.glassdoor.com/Reviews/Power-Factors-Reviews-E1927187.htm
-    rating: 4.4
+    rating: '4.4'
   - name: Ampersand
     website: https://www.ampersand.solar/
     jobs: https://ampersandelectricmobility.teamtailor.com/#section-jobs
