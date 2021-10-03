@@ -2277,6 +2277,45 @@ jobs:
         long: -122.4102192
     review:
     rating:
+  - name: Power Factors
+    website: https://pfdrive.com/
+    jobs: https://pfdrive.com/careers/
+    description: Asset management for renewables
+    remote: true
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Canada
+        lat: 45.4665666
+        long: -73.4660893
+    review: https://www.glassdoor.com/Reviews/Power-Factors-Reviews-E1927187.htm
+    rating: 4.4
+  - name: Ampersand
+    website: https://www.ampersand.solar/
+    jobs: https://ampersandelectricmobility.teamtailor.com/#section-jobs
+    description: Electric vehicles and charging systems for motorcycle taxi drivers in East Africa
+    remote: true
+    speculative: false
+    field: Electric Mobility
+    geo:
+      - country: Rwanda
+        lat: -1.9683264
+        long: 30.0838504
+    review:
+    rating:
+  - name: CarbonCloud
+    website: https://carboncloud.com/
+    jobs: https://careers.carboncloud.com/jobs
+    description: Climate footprint for food brands
+    remote: false
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: Sweden
+        lat: 57.6997688
+        long: 11.9686378
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
