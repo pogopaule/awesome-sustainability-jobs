@@ -2316,6 +2316,45 @@ jobs:
         long: 11.9686378
     review:
     rating:
+  - name: EnergySage
+    website: https://www.energysage.com/
+    jobs: https://www.energysage.com/about-us/careers/
+    description: solar quotes online
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: USA
+        lat: 42.3569903
+        long: -71.0579925
+    review: https://www.glassdoor.com/Reviews/EnergySage-Reviews-E1018842.htm
+    rating: 4.9
+  - name: 3S Solar Plus
+    website: https://3s-solarplus.ch/
+    jobs: https://3s-solarplus.ch/offene_stellen/
+    description: Solar roofs
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Switzerland
+        lat: 46.7333002
+        long: 7.6195529
+    review:
+    rating:
+  - name: Designwerk
+    website: https://www.designwerk.com/
+    jobs: https://www.designwerk.com/unternehmen/#jobs
+    description: Entwicklung rund um die Elektromobilität
+    remote: false
+    speculative: false
+    field: Electric Mobility
+    geo:
+      - country: Switzerland
+        lat: 47.5082325
+        long: 8.7035866
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
