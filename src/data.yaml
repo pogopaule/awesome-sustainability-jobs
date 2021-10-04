@@ -1,4 +1,17 @@
 jobs:
+  - name: Orsted
+    website: https://orsted.com/
+    jobs: https://orsted.com/en/careers
+    description: We are a renewable energy company that takes tangible action to create a world that runs entirely on green energy.
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Denmark
+        lat: 55.757430
+        long: 12.516600
+    review: https://www.glassdoor.com/Reviews/%C3%98rsted-Reviews-E1858272.htm
+    rating: 4.4
   - name: OXYGEN TECHNOLOGIES
     website: https://www.oxygen-technologies.de/
     jobs: https://www.oxygen-technologies.de/ueber-uns/jobs/
