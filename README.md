@@ -529,6 +529,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [LivingPackets](https://livingpackets.com) | [jobs](https://livingpackets.com/jobs) |  | Wiederverwendbare Versandboxen |  |  |
 
 
+#### Electric Mobility
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Designwerk](https://www.designwerk.com/) | [jobs](https://www.designwerk.com/unternehmen/#jobs) |  | Entwicklung rund um die Elektromobilität |  |  |
+
+
 #### Energy Efficiency
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
@@ -541,6 +548,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [enersis](https://www.enersis.ch/) | [jobs](https://www.enersis.ch/karriere/) | [4.5/5](https://www.kununu.com/de/enersis-europe) | Digitale Plattformen zur Planung und Simulation der Energiewende |  |  |
+| [3S Solar Plus](https://3s-solarplus.ch/) | [jobs](https://3s-solarplus.ch/offene_stellen/) |  | Solar roofs |  |  |
 
 
 
@@ -661,6 +669,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Voltaiq](https://www.voltaiq.com/) | [jobs](https://www.voltaiq.com/careers/) | [0.0/5](https://www.glassdoor.com/Reviews/Voltaiq-Reviews-E2476462.htm) | Battery Intelligence Platform |  | ✅ |
 | [QuantumScape](https://www.quantumscape.com/) | [jobs](https://jobs.lever.co/quantumscape) | [4.0/5](https://www.glassdoor.com/Reviews/Quantumscape-Reviews-E1349613.htm) | solid-state lithium-metal batteries |  |  |
 | [sighten](https://www.sighten.io/) | [jobs](https://www.sighten.io/about-us) | [4.0/5](https://www.glassdoor.com/Reviews/Sighten-Reviews-E1123873.htm) | Solar Design and Proposal Software |  |  |
+| [EnergySage](https://www.energysage.com/) | [jobs](https://www.energysage.com/about-us/careers/) | [4.9/5](https://www.glassdoor.com/Reviews/EnergySage-Reviews-E1018842.htm) | solar quotes online |  |  |
 
 
 #### Sustainable Consumption
