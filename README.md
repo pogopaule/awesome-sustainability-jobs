@@ -140,6 +140,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Too Good To Go](https://toogoodtogo.org/en) | [jobs](https://toogoodtogo.org/en/careers) | [4.4/5](https://www.glassdoor.com/Reviews/Too-Good-To-Go-Reviews-E2402025.htm) | Anti food waste app |  |  |
 
 
+#### Renewable Energies
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Orsted](https://orsted.com/) | [jobs](https://orsted.com/en/careers) | [4.4/5](https://www.glassdoor.com/Reviews/%C3%98rsted-Reviews-E1858272.htm) | We are a renewable energy company that takes tangible action to create a world that runs entirely on green energy. |  |  |
+
+
 
 
 ### Estonia
