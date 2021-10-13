@@ -2368,6 +2368,61 @@ jobs:
         long: 8.7035866
     review:
     rating:
+  - name: Bulb Energy
+    website: https://bulb.co.uk/
+    jobs: https://bulb.co.uk/careers/#open-roles
+    description: Green energy supplier
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    geo:
+      - country: UK
+        lat: 51.5189665
+        long: -0.0806865
+    review: https://www.glassdoor.com/Reviews/Bulb-Reviews-E1498482.htm
+    rating: 3.5
+  - name: Fenntec
+    website: https://www.fenntec.de/
+    jobs: https://www.fenntec.de/karriere/
+    description: Robots for weeds
+    remote: false
+    speculative: true
+    field: Misc.
+    geo:
+      - country: Germany
+        lat: 52.397933
+        long: 9.8011421
+    review:
+    rating:
+  - name: HappyCow
+    website: https://www.happycow.net/
+    jobs: https://veganjobs.com/company/happycow/
+    description: Find vegan and vegetarian restaurants
+    remote: true
+    speculative: false
+    field: Misc.
+    geo:
+      - country: Remote
+        lat: 30.3081
+        long: -43.474
+    review:
+    rating:
+  - name: Vestas
+    website: https://www.vestas.com/
+    jobs: https://careers.vestas.com/search/?q=Software&locationsearch=
+    description: Wind turbines
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Portugal
+        lat: 41.2145788
+        long: -8.6253018
+      - country: Denmark
+        lat: 56.1965641
+        long: 10.1794959
+    review: https://www.glassdoor.com/Reviews/Vestas-Wind-Systems-Reviews-E26454.htm
+    rating: 3.7
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
