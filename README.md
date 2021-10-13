@@ -40,6 +40,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 - [Luxembourg](#luxembourg)
 - [Netherlands](#netherlands)
 - [Philippines](#philippines)
+- [Portugal](#portugal)
 - [Remote](#remote)
 - [Romania](#romania)
 - [Rwanda](#rwanda)
@@ -145,6 +146,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Orsted](https://orsted.com/) | [jobs](https://orsted.com/en/careers) | [4.4/5](https://www.glassdoor.com/Reviews/%C3%98rsted-Reviews-E1858272.htm) | We are a renewable energy company that takes tangible action to create a world that runs entirely on green energy. |  |  |
+| [Vestas](https://www.vestas.com/) | [jobs](https://careers.vestas.com/search/?q=Software&locationsearch=) | [3.7/5](https://www.glassdoor.com/Reviews/Vestas-Wind-Systems-Reviews-E26454.htm) | Wind turbines |  |  |
 
 
 
@@ -260,6 +262,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
 | [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
 | [bettervest](https://www.bettervest.com/) | [jobs](https://www.bettervest.com/de/stellenangebote/) | [3.3/5](https://www.kununu.com/de/bettervest) | Nachhaltige Geldanlagen |  |  |
+| [Fenntec](https://www.fenntec.de/) | [jobs](https://www.fenntec.de/karriere/) |  | Robots for weeds | ✅ |  |
 
 
 #### Renewable Energies
@@ -442,6 +445,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 
 
+### Portugal
+
+#### Renewable Energies
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Vestas](https://www.vestas.com/) | [jobs](https://careers.vestas.com/search/?q=Software&locationsearch=) | [3.7/5](https://www.glassdoor.com/Reviews/Vestas-Wind-Systems-Reviews-E26454.htm) | Wind turbines |  |  |
+
+
+
+
 ### Remote
 
 #### Carbon Analysis, Capture and Offsetting
@@ -456,6 +470,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Terraformation](https://www.terraformation.com/) | [jobs](https://www.terraformation.com/about/careers) |  | Solving climate change with forest restoration |  | ✅ |
+| [HappyCow](https://www.happycow.net/) | [jobs](https://veganjobs.com/company/happycow/) |  | Find vegan and vegetarian restaurants |  | ✅ |
 
 
 #### Renewable Energies
@@ -605,6 +620,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) | [4.5/5](https://www.glassdoor.com/Reviews/Octopus-Energy-Reviews-E1482748.htm) | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
 | [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) | [3.5/5](https://www.glassdoor.com/Reviews/OVO-Reviews-E767881.htm) | UK-based green electricity supplier |  |  |
 | [Arenko](https://arenko.group/) | [jobs](https://arenko.group/join-us/) | [4.4/5](https://www.glassdoor.co.uk/Reviews/Arenko-Group-Reviews-E4554199.htm) | Automation & optimisation for the energy transition | ✅ |  |
+| [Bulb Energy](https://bulb.co.uk/) | [jobs](https://bulb.co.uk/careers/#open-roles) | [3.5/5](https://www.glassdoor.com/Reviews/Bulb-Reviews-E1498482.htm) | Green energy supplier | ✅ |  |
 
 
 
