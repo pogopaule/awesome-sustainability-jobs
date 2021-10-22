@@ -2423,6 +2423,19 @@ jobs:
         long: 10.1794959
     review: https://www.glassdoor.com/Reviews/Vestas-Wind-Systems-Reviews-E26454.htm
     rating: 3.7
+  - name: myst ai
+    website: https://www.myst.ai/
+    jobs: https://jobs.lever.co/myst.ai
+    description: Forecasting for renewable energies
+    remote: true
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: USA
+        lat: 37.7948284
+        long: -122.3994776
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
