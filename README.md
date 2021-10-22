@@ -693,6 +693,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [QuantumScape](https://www.quantumscape.com/) | [jobs](https://jobs.lever.co/quantumscape) | [4.0/5](https://www.glassdoor.com/Reviews/Quantumscape-Reviews-E1349613.htm) | solid-state lithium-metal batteries |  |  |
 | [sighten](https://www.sighten.io/) | [jobs](https://www.sighten.io/about-us) | [4.0/5](https://www.glassdoor.com/Reviews/Sighten-Reviews-E1123873.htm) | Solar Design and Proposal Software |  |  |
 | [EnergySage](https://www.energysage.com/) | [jobs](https://www.energysage.com/about-us/careers/) | [4.9/5](https://www.glassdoor.com/Reviews/EnergySage-Reviews-E1018842.htm) | solar quotes online |  |  |
+| [myst ai](https://www.myst.ai/) | [jobs](https://jobs.lever.co/myst.ai) |  | Forecasting for renewable energies |  | ✅ |
 
 
 #### Sustainable Consumption
