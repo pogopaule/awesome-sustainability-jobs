@@ -1,4 +1,33 @@
 jobs:
+  - name: Karma
+    website: https://www.karma.life/
+    jobs: https://careers.karma.life/
+    description: Food Saving
+    remote: true
+    speculative: false
+    field: Misc.
+    geo:
+      - country: Sweden
+        lat: 59.3320526
+        long: 18.0627557
+      - country: UK
+        lat: 51.5071763
+        long: -0.1284781
+    review:
+    rating:
+  - name: Momentum Dynamics
+    website: https://momentumdynamics.com/
+    jobs: https://momentumdynamics.bamboohr.com/jobs/
+    description: Wireless charging
+    remote: false
+    speculative: false
+    field: Electric Mobility
+    geo:
+      - country: USA
+        lat: 40.0374172
+        long: -75.5187589
+    review: https://www.glassdoor.com/Reviews/Momentum-Dynamics-Reviews-E2449206.htm
+    rating: 0.0
   - name: Orsted
     website: https://orsted.com/
     jobs: https://orsted.com/en/careers
