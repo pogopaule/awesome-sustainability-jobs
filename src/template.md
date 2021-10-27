@@ -1,16 +1,16 @@
 # Awesome Sustainability Jobs
 
-A curated list of companies in the sustainability sector that have jobs for devs.
+A curated list of companies in the sustainability sector with jobs for devs.
 
 > The best minds of our generation are thinking about ~~how to make people click on ads~~ climate change\
 > [Tomorrow](https://www.tmrow.com/jobs/)
 
 **This project needs your help** and [contributions](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/CONTRIBUTING.md):
-- Add a link to [the backlog list](https://pad.disroot.org/p/awesome-sustainability-jobs)
-- Review links in the [backlog](https://pad.disroot.org/p/awesome-sustainability-jobs) and [contribute](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/CONTRIBUTING.md) them to [data.yml](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/src/data.yaml)
-- Suggest structural improvements by opening a pull request with changes to [template.md](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/src/template.md)
+- Share this project with others
+- Add a link to [the backlog](https://pad.disroot.org/p/awesome-sustainability-jobs)
 - Fix broken links
-- Show this project to others
+- Review links in the [backlog](https://pad.disroot.org/p/awesome-sustainability-jobs) and [add them](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/src/data.yaml) to this project
+- Suggest structural improvements by opening a pull request with changes to [template.md](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/src/template.md)
 
 Not able to work on sustainability in a full time job? Check out this list of [open source projects](https://github.com/protontypes/open-sustainable-technology).
 
