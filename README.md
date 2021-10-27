@@ -1,16 +1,16 @@
 # Awesome Sustainability Jobs
 
-A curated list of companies in the sustainability sector that have jobs for devs.
+A curated list of companies in the sustainability sector with jobs for devs.
 
 > The best minds of our generation are thinking about ~~how to make people click on ads~~ climate change\
 > [Tomorrow](https://www.tmrow.com/jobs/)
 
 **This project needs your help** and [contributions](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/CONTRIBUTING.md):
-- Add a link to [the backlog list](https://pad.disroot.org/p/awesome-sustainability-jobs)
-- Review links in the [backlog](https://pad.disroot.org/p/awesome-sustainability-jobs) and [contribute](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/CONTRIBUTING.md) them to [data.yml](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/src/data.yaml)
-- Suggest structural improvements by opening a pull request with changes to [template.md](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/src/template.md)
+- Share this project with others
+- Add a link to [the backlog](https://pad.disroot.org/p/awesome-sustainability-jobs)
 - Fix broken links
-- Show this project to others
+- Review links in the [backlog](https://pad.disroot.org/p/awesome-sustainability-jobs) and [add them](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/src/data.yaml) to this project
+- Suggest structural improvements by opening a pull request with changes to [template.md](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/src/template.md)
 
 Not able to work on sustainability in a full time job? Check out this list of [open source projects](https://github.com/protontypes/open-sustainable-technology).
 
@@ -532,6 +532,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [5.0/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
 
 
+#### Misc.
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Karma](https://www.karma.life/) | [jobs](https://careers.karma.life/) |  | Food Saving |  | ✅ |
+
+
 
 
 ### Switzerland
@@ -610,6 +617,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [Karma](https://www.karma.life/) | [jobs](https://careers.karma.life/) |  | Food Saving |  | ✅ |
 | [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) | [4.2/5](https://www.glassdoor.co.uk/Reviews/Clim8-Invest-Reviews-E3443972.htm) | Investments into clean energy and green, sustainable companies |  |  |
 
 
@@ -651,6 +659,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [Momentum Dynamics](https://momentumdynamics.com/) | [jobs](https://momentumdynamics.bamboohr.com/jobs/) | [0.0/5](https://www.glassdoor.com/Reviews/Momentum-Dynamics-Reviews-E2449206.htm) | Wireless charging |  |  |
 | [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) | [4.0/5](https://www.glassdoor.com/Reviews/ChargePoint-Reviews-E722356.htm) | Charging Solution |  | ✅ |
 | [Xos](https://xostrucks.com/) | [jobs](https://apply.workable.com/xos-trucks/) | [4.6/5](https://www.glassdoor.com/Reviews/Xos-Trucks-Reviews-E4643521.htm) | Decarbonizing transportation with reliable electric trucksk |  |  |
 | [Motiv](https://www.motivps.com/) | [jobs](https://www.motivps.com/careers/) | [4.0/5](https://www.glassdoor.com/Reviews/Motiv-Power-Systems-Reviews-E814313.htm) | Freeing fleets from fossil fuels |  |  |
