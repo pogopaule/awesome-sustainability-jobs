@@ -35,7 +35,7 @@ jobs:
     website: https://www.right-basedonscience.de/
     jobs: https://www.right-basedonscience.de/ueber-uns/#jobs
     description: Climatemetrics for the economy
-    remote: false
+    remote: true
     speculative: true
     field: Carbon Analysis, Capture and Offsetting
     geo:
