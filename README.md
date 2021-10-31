@@ -190,7 +190,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [right. based on science](https://www.right-basedonscience.de/) | [jobs](https://www.right-basedonscience.de/ueber-uns/#jobs) |  | Climatemetrics for the economy | ✅ |  |
+| [right. based on science](https://www.right-basedonscience.de/) | [jobs](https://www.right-basedonscience.de/ueber-uns/#jobs) |  | Climatemetrics for the economy | ✅ | ✅ |
 | [klima.metrix](https://klimametrix.global/) | [jobs](https://klimametrix.join.com/) |  | Automated CO2 footprint calculation |  | ✅ |
 | [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.4/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
 | [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | [4.6/5](https://www.kununu.com/de/tomorrow2) | CO2-neutrales Bankkonto |  | ✅ |
