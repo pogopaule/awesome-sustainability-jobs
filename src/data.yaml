@@ -85,7 +85,7 @@ jobs:
         lat: 40.0374172
         long: -75.5187589
     review: https://www.glassdoor.com/Reviews/Momentum-Dynamics-Reviews-E2449206.htm
-    rating: 0.0
+    rating: '0.0'
   - name: Orsted
     website: https://orsted.com/
     jobs: https://orsted.com/en/careers
@@ -95,10 +95,10 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Denmark
-        lat: 55.757430
-        long: 12.516600
+        lat: 55.75743
+        long: 12.5166
     review: https://www.glassdoor.com/Reviews/%C3%98rsted-Reviews-E1858272.htm
-    rating: 4.4
+    rating: '4.5'
   - name: OXYGEN TECHNOLOGIES
     website: https://www.oxygen-technologies.de/
     jobs: https://www.oxygen-technologies.de/ueber-uns/jobs/
@@ -358,7 +358,7 @@ jobs:
         lat: 51.3573118
         long: 12.3859104
     review: https://www.kununu.com/de/senec1
-    rating: 3.5
+    rating: 3.4
   - name: KACO new energy
     website: https://kaco-newenergy.com
     jobs: https://kaco-newenergy.com/de/karriere/stellenangebote/
@@ -371,7 +371,7 @@ jobs:
         lat: 49.1760533
         long: 9.2298474
     review: https://www.kununu.com/de/kaco-new-energy4
-    rating: 3.1
+    rating: 3.0
   - name: greenergetic
     website: https://www.greenergetic.de
     jobs: https://www.greenergetic.de/unternehmen/werde-ein-teil-von-greenergetic
@@ -384,7 +384,7 @@ jobs:
         lat: 52.0138821
         long: 8.5689538
     review: https://www.kununu.com/de/kaco-new-energy4
-    rating: 3.1
+    rating: 3.0
   - name: E3/DC
     website: https://www.e3dc.com/
     jobs: https://www.e3dc.com/unternehmen/karriere/
@@ -514,7 +514,7 @@ jobs:
         lat: 52.4811768
         long: 13.355855
     review: https://www.kununu.com/de/ubitricity-gesellschaft-fuer-verteilte-energiesysteme-mbh
-    rating: 3.5
+    rating: 3.4
   - name: PlugSurfing
     website: https://www.plugsurfing.com
     jobs: https://www.plugsurfing.com/career
@@ -657,7 +657,7 @@ jobs:
         lat: 51.3245077
         long: 12.3362985
     review: https://www.kununu.com/de/nextbike1
-    rating: 3.2
+    rating: 3.3
   - name: car2go
     website: https://www.share-now.com/de/de/
     jobs: https://boards.greenhouse.io/joinsharenow
@@ -709,7 +709,7 @@ jobs:
         lat: 53.0741371
         long: 8.8309317
     review: https://www.kununu.com/de/cambio-stadtteilauto-carsharing1
-    rating: 4.2
+    rating: 4.1
   - name: emmy
     website: https://emmy-sharing.de/
     jobs: https://emmy-sharing.de/stellenangebote/
@@ -813,7 +813,7 @@ jobs:
         lat: 52.498439
         long: 13.3796507
     review: https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v
-    rating: 3.4
+    rating: 4.2
   - name: ShareTheMeal
     website: https://sharethemeal.org/de
     jobs: https://angel.co/company/sharethemeal-1/jobs
@@ -1149,7 +1149,7 @@ jobs:
         lat: 52.5078933
         long: 13.4656977
     review: https://www.kununu.com/de/enpal
-    rating: 3.5
+    rating: 3.6
   - name: node.energy
     website: https://www.node.energy/
     jobs: https://www.node.energy/karriere
@@ -1282,7 +1282,7 @@ jobs:
         lat: 55.7129716
         long: 12.5675979
     review: https://www.glassdoor.com/Reviews/Too-Good-To-Go-Reviews-E2402025.htm
-    rating: '4.4'
+    rating: '4.3'
   - name: Spenoki
     website: https://www.spenoki.de/
     jobs: https://spenoki-career.kenjo.io/
@@ -1382,7 +1382,7 @@ jobs:
         lat: 51.4523762
         long: -0.9935331
     review: https://www.glassdoor.com/Reviews/ChargePoint-Reviews-E722356.htm
-    rating: '4.0'
+    rating: '3.9'
   - name: ECCO2
     website: https://www.ecco2.ch
     jobs: https://www.ecco2.ch/jobs
@@ -1502,7 +1502,7 @@ jobs:
         lat: 52.5102294
         long: 13.4045804
     review: https://www.kununu.com/de/eigensonne
-    rating: 3.9
+    rating: 4.0
   - name: circular.fashion
     website: https://circular.fashion/
     jobs: https://circular.fashion/jobs/
@@ -1942,7 +1942,7 @@ jobs:
         lat: 38.0350951
         long: 23.7949702
     review: https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm
-    rating: '5.0'
+    rating: '3.2'
   - name: Sense
     website: https://sense.com/
     jobs: https://sense.com/about#careers
@@ -1961,7 +1961,7 @@ jobs:
         lat: 51.4378254
         long: -1.0800971
     review: https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm
-    rating: '4.8'
+    rating: '4.9'
   - name: Xos
     website: https://xostrucks.com/
     jobs: https://apply.workable.com/xos-trucks/
@@ -2019,7 +2019,7 @@ jobs:
         lat: 47.6124005
         long: -122.3376306
     review: https://www.glassdoor.com/Reviews/Palmetto-Reviews-E1554901.htm
-    rating: '3.9'
+    rating: '3.8'
   - name: nexamp
     website: https://www.nexamp.com/
     jobs: https://www.nexamp.com/careers/
@@ -2084,7 +2084,7 @@ jobs:
         lat: 40.7545709
         long: -111.8826126
     review: https://www.glassdoor.com/Reviews/Everlight-Solar-Reviews-E3183804.htm
-    rating: '4.5'
+    rating: '4.6'
   - name: Voltaiq
     website: https://www.voltaiq.com/
     jobs: https://www.voltaiq.com/careers/
@@ -2188,7 +2188,7 @@ jobs:
         lat: 37.3663407
         long: -121.9189347
     review: https://www.glassdoor.com/Reviews/Quantumscape-Reviews-E1349613.htm
-    rating: '4.0'
+    rating: '3.6'
   - name: greenventory
     website: https://greenventory.de/
     jobs: https://greenventory.de/#joinourteam
@@ -2428,7 +2428,7 @@ jobs:
         lat: 42.3569903
         long: -71.0579925
     review: https://www.glassdoor.com/Reviews/EnergySage-Reviews-E1018842.htm
-    rating: 4.9
+    rating: '4.9'
   - name: 3S Solar Plus
     website: https://3s-solarplus.ch/
     jobs: https://3s-solarplus.ch/offene_stellen/
@@ -2467,7 +2467,7 @@ jobs:
         lat: 51.5189665
         long: -0.0806865
     review: https://www.glassdoor.com/Reviews/Bulb-Reviews-E1498482.htm
-    rating: 3.5
+    rating: '3.4'
   - name: Fenntec
     website: https://www.fenntec.de/
     jobs: https://www.fenntec.de/karriere/
@@ -2509,7 +2509,7 @@ jobs:
         lat: 56.1965641
         long: 10.1794959
     review: https://www.glassdoor.com/Reviews/Vestas-Wind-Systems-Reviews-E26454.htm
-    rating: 3.7
+    rating: '3.7'
   - name: myst ai
     website: https://www.myst.ai/
     jobs: https://jobs.lever.co/myst.ai
