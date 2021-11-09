@@ -60,3 +60,11 @@ class TestUtils:
              'speculative': True,
              'website': 'https://www.elli.eco/de/startseite'},
         ]
+
+
+class TestCreateReadme:
+    pass
+
+
+class TestCreateMapData:
+    pass
