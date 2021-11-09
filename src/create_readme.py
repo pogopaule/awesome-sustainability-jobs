@@ -3,7 +3,7 @@ from itertools import groupby
 import yaml
 from jinja2 import Template
 from functools import reduce
-from utils import flat_map, denormalize
+from utils import map_reduce, denormalize
 
 
 def nest(seq, keys):
@@ -38,7 +38,7 @@ with open("data.yaml", "r") as stream:
     try:
         DATA = yaml.safe_load(stream)
 
-        DENORMALIZED_JOBS = flat_map(composed(denormalize, remove_duplicate_country_entry), DATA["jobs"])
+        DENORMALIZED_JOBS = map_reduce(composed(denormalize, remove_duplicate_country_entry), DATA["jobs"])
 
         NESTED_JOBS = nest(DENORMALIZED_JOBS, ["country", "field"])
         FIELDS = NESTED_JOBS.keys()
