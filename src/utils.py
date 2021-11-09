@@ -1,6 +1,16 @@
 from functools import reduce
 
-map_reduce = lambda f, xs: reduce(lambda a, b: a + b, map(f, xs))
+
+def map_reduce(map_function, lst):
+    """
+    Implementation of map-reduce where the reduce is /a b -> a+b
+    :param map_function: the function that is applied on every element of list before reduction
+    :param lst: the non-empty list to be map-reduced
+    :return: map-reduced list
+    """
+    if not lst:
+        raise Exception("lst can not be empty")
+    return reduce(lambda a, b: a + b, map(map_function, lst))
 
 
 def denormalize(job):
