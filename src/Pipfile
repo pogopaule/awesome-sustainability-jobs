@@ -31,6 +31,7 @@ CacheControl = "==0.12.6"
 Jinja2 = "==2.11.3"
 MarkupSafe = "==1.1.1"
 PyYAML = "==5.4.1"
+pytest = "*"
 
 [dev-packages]
 
