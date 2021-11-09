@@ -1,8 +1,9 @@
 import re
 from itertools import groupby
+
 import yaml
 from jinja2 import Template
-from functools import reduce
+
 from utils import map_reduce, denormalize
 
 

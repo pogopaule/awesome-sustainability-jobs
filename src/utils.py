@@ -14,6 +14,12 @@ def map_reduce(map_function, lst):
 
 
 def denormalize(job):
+    """
+    Denormalize a job entry by geo field.
+    So if a job has three geo entries, this function returns a list of three job entries with one geo entry each.
+    :param job: a job as found in data.yaml
+    :return: job in a denormalized form
+    """
     result = []
     for location in job["geo"]:
         job_copy = job.copy()
