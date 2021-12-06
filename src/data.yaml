@@ -2493,7 +2493,7 @@ jobs:
           lat: 52.466230
           long: 13.366840
       review: https://www.kununu.com/de/acker-e-v
-      rating: '4.2/5'
+      rating: '4.2'
   - name: HappyCow
     website: https://www.happycow.net/
     jobs: https://veganjobs.com/company/happycow/
