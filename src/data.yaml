@@ -2481,6 +2481,19 @@ jobs:
         long: 9.8011421
     review:
     rating:
+  - name: Acker e.V.
+      website: https://www.acker.co/
+      jobs: https://www.acker.co/Jobs
+      description: Innovative und praxisorientierte Konzepte für mehr Wertschätzung für Natur und Lebensmittel
+      remote: true
+      speculative: true
+      field: Misc.
+      geo:
+        - country: Germany
+          lat: 52.466230
+          long: 13.366840
+      review: https://www.kununu.com/de/acker-e-v
+      rating: '4.2'
   - name: HappyCow
     website: https://www.happycow.net/
     jobs: https://veganjobs.com/company/happycow/
