@@ -1018,7 +1018,7 @@ jobs:
     website: https://ampeersenergy.de/
     jobs: https://ampeersenergy.de/karriere/
     description: Dezentrale Energie
-    remote: false
+    remote: true
     speculative: false
     field: Renewable Energies
     geo:
@@ -1043,19 +1043,6 @@ jobs:
         long: 6.9092277
     review: https://www.kununu.com/de/einhundert-energie
     rating: 4.5
-  - name: Seven2one
-    website: https://www.seven2one.de/
-    jobs: https://www.seven2one.de/seven2one/karriere/
-    description: Anbieter individueller Softwarelösungen für die neue, dezentrale und digitalisierte Energiewelt
-    remote: false
-    speculative: true
-    field: Renewable Energies
-    geo:
-      - country: Germany
-        lat: 48.9958371
-        long: 8.464905
-    review: https://www.kununu.com/de/seven2one-informationssysteme1
-    rating: 4.6
   - name: Teqcycle
     website: https://www.teqcycle.com
     jobs: https://www.teqcycle.com/de/jobs/
@@ -1122,19 +1109,6 @@ jobs:
       - country: Switzerland
         lat: 46.5097286
         long: 6.6426944
-    review:
-    rating:
-  - name: Klima.Metrix
-    website: https://klimametrix.global/
-    jobs: https://klimametrix.join.com/
-    description: Automatisierte CO2 Footprint Kalkulation
-    remote: false
-    speculative: false
-    field: Carbon Analysis, Capture and Offsetting
-    geo:
-      - country: Germany
-        lat: 52.5008815
-        long: 13.4119332
     review:
     rating:
   - name: Enpal
