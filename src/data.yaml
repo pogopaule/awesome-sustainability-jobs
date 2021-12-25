@@ -1,4 +1,17 @@
 jobs:
+  - name: allplants
+    website: https://allplants.com/
+    jobs: https://jobs.lever.co/allplants
+    description: Vegan meals delivered
+    remote: true
+    speculative: false
+    field: Misc.
+    geo:
+      - country: UK
+        lat: 51.5922021
+        long: -0.0432463
+    review: https://www.glassdoor.co.uk/Reviews/Allplants-Reviews-E2958180.htm
+    rating: 4.9
   - name: BayWa r.e.
     website: https://www.baywa-re.com/
     jobs: https://jobs.baywa-re.com/job-offers.html
