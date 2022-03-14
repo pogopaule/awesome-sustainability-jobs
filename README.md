@@ -35,6 +35,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 - [Germany](#germany)
 - [Greece](#greece)
 - [India](#india)
+- [Ireland](#ireland)
 - [Israel](#israel)
 - [Italy](#italy)
 - [Luxembourg](#luxembourg)
@@ -375,6 +376,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) | [4.1/5](https://www.glassdoor.com/Reviews/ChargePoint-Reviews-E722356.htm) | Charging Solution |  | ✅ |
+
+
+
+
+### Ireland
+
+#### Renewable Energies
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [VIOTAS](https://viotas.com/) | [jobs](https://viotas.bamboohr.com/jobs/) |  | VIOTAS is a market-leading Smart Grid and Demand Response technology provider. |  | ✅ |
 
 
 
