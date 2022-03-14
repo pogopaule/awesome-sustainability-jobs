@@ -2523,6 +2523,20 @@ jobs:
         long: -122.3994776
     review:
     rating:
+  - name: VIOTAS
+    website: https://viotas.com/
+    jobs: https://viotas.bamboohr.com/jobs/
+    description: VIOTAS is a market-leading Smart Grid and Demand Response technology provider.
+    remote: true
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Ireland
+        lat: 52.6715514
+        lng: -8.5509728
+    review:
+    rating:
+        
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
