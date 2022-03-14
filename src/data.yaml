@@ -2533,7 +2533,7 @@ jobs:
     geo:
       - country: Ireland
         lat: 52.6715514
-        lng: -8.5509728
+        long: -8.5509728
     review:
     rating:
         
