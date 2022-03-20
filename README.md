@@ -761,11 +761,6 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 * [Greenjobs](https://greenjobs.nl/)
 
 
-### Switzerland
-
-* [Nachhaltige-Jobs.ch](https://nachhaltige-jobs.ch/)
-
-
 ### UK
 
 * [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#)
