@@ -77,7 +77,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 
 
 #### Electric Mobility
@@ -193,7 +193,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [right. based on science](https://www.right-basedonscience.de/) | [jobs](https://www.right-basedonscience.de/ueber-uns/#jobs) |  | Climatemetrics for the economy | ✅ | ✅ |
 | [klima.metrix](https://klimametrix.global/) | [jobs](https://klimametrix.join.com/) |  | Automated CO2 footprint calculation |  | ✅ |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | [4.6/5](https://www.kununu.com/de/tomorrow2) | CO2-neutrales Bankkonto |  | ✅ |
 | [Tanso](https://www.tanso.io) | [jobs](https://www.tanso.io/en/careers/) |  | Sustainability Accounting for Industrial Manufacturing |  | ✅ |
 | [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | [3.6/5](https://www.kununu.com/de/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ |
@@ -408,7 +408,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 
 
 
@@ -525,7 +525,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 
 
 
@@ -536,7 +536,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [CarbonCloud](https://carboncloud.com/) | [jobs](https://careers.carboncloud.com/jobs) |  | Climate footprint for food brands | ✅ |  |
 
 
@@ -562,7 +562,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
 
 
@@ -614,7 +614,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com/de) | [jobs](https://www.climatepartner.com/de/karriere) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) | [5.0/5](https://www.glassdoor.com/Reviews/Sylvera-Reviews-E4885878.htm) | quantitative and qualitative data on offset projects |  | ✅ |
 | [Lune](https://lune.co) | [jobs](https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331) |  | API powered carbon offsetting |  | ✅ |
 | [CarbonChain](https://carbonchain.com/) | [jobs](https://boards.greenhouse.io/carbonchain) |  | Measure carbon emissions |  |  |
