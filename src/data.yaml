@@ -841,9 +841,9 @@ jobs:
     review:
     rating:
   - name: ClimatePartner
-    website: https://www.climatepartner.com/de
-    jobs: https://www.climatepartner.com/de/karriere
-    description: ClimatePartner ermöglicht Unternehmen und ihren Kunden, das Klima zu schützen.
+    website: https://www.climatepartner.com
+    jobs: https://www.climatepartner.com/en/careers
+    description: ClimatePartner enables companies and their customers to take climate action.
     remote: false
     speculative: true
     field: Carbon Analysis, Capture and Offsetting
