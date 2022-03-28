@@ -2536,6 +2536,32 @@ jobs:
         long: -8.5509728
     review:
     rating:
+  - name: Nano Energies
+    website: https://nanoenergies.group/
+    jobs: https://www.cocuma.cz/company/nano-energies/jobs/
+    description: Trading software for renewable energies
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Czech Republic
+        lat: 50.0815688
+        long: 14.4156845
+    review:
+    rating:
+  - name: Vanmoof
+    website: https://www.vanmoof.com
+    jobs: https://www.vanmoof.com/careers
+    description: E-Bike manufacturer
+    remote: false
+    speculative: false
+    field: Sustainable Mobility
+    geo:
+      - country: Netherlands
+        lat: 52.3615949
+        long: 4.916882
+    review: https://www.glassdoor.com/Reviews/VANMOOF-Reviews-E1032387.htm
+    rating: 3.6
 
 jobportals:
   - name: eejobs.de
