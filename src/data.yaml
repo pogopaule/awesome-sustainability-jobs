@@ -322,7 +322,7 @@ jobs:
     rating: 3.2
   - name: Power Plus Communications
     website: https://www.ppc-ag.de
-    jobs: https://www.ppc-ag.de/karriere/
+    jobs: https://www.ppc-ag.de/de/unternehmen/offene-stellen/
     description: Smart Metering Lösungen
     remote: false
     speculative: true
@@ -426,7 +426,7 @@ jobs:
     rating: 4.6
   - name: DZ-4
     website: https://www.dz-4.de/
-    jobs: https://dz4-jobs.personio.de/
+    jobs: https://dz4.jobs.personio.de/
     description: Anbieter für Solaranlagen zur Miete
     remote: false
     speculative: false
@@ -452,7 +452,7 @@ jobs:
     rating: 3.9
   - name: ZOLAR
     website: https://www.zolar.de/
-    jobs: https://www.zolar.de/karriere/office-jobs
+    jobs: https://www.zolar.de/karriere/stellenangebote
     description: Online Planung von PV-Anlagen
     remote: false
     speculative: false
@@ -647,7 +647,7 @@ jobs:
     rating: 2.3
   - name: Wunder Mobility
     website: https://www.wundermobility.com/
-    jobs: https://www.wundermobility.com/careers/jobs
+    jobs: https://www.wundermobility.com/careers/#jobs
     description: Technology to launch and scale shared mobility services
     remote: false
     speculative: true
@@ -699,7 +699,7 @@ jobs:
     rating:
   - name: INVERS
     website: https://invers.com
-    jobs: https://invers.com/de/karriere/
+    jobs: https://invers.com/en/company/careers/#jobs
     description: Anbieter für Carsharing Software
     remote: false
     speculative: true
@@ -912,7 +912,7 @@ jobs:
     rating: 4.6
   - name: Tanso
     website: https://www.tanso.io
-    jobs: https://www.tanso.io/en/careers/
+    jobs: https://www.tanso.io/careers/
     description: Sustainability Accounting for Industrial Manufacturing
     remote: true
     speculative: false
@@ -1045,7 +1045,7 @@ jobs:
     rating: 4.9
   - name: EINHUNDERT Energie
     website: https://einhundert-energie.de/
-    jobs: https://einhundert-energie.de/stellenangebote/
+    jobs: https://einhundert.de/karriere/
     description: Mieterstrom
     remote: false
     speculative: false
@@ -1285,7 +1285,7 @@ jobs:
     rating:
   - name: Cooler Future
     website: https://coolerfuture.com/de
-    jobs: https://coolerfuture.com/de/page/careers
+    jobs: https://www.coolerfuture.com/en/page/careers
     description: Investments in sustainable portfolio
     remote: false
     speculative: true
@@ -1301,7 +1301,7 @@ jobs:
     rating:
   - name: Solarmax
     website: https://solarmax.com/de/
-    jobs: https://solarmax.com/de/jobs/
+    jobs: https://www.solarmax.com/karriere
     description: Hersteller von Wechelrichtern und Batteriesystemen
     remote: false
     speculative: false
@@ -1372,7 +1372,7 @@ jobs:
     rating: '4.1'
   - name: ECCO2
     website: https://www.ecco2.ch
-    jobs: https://www.ecco2.ch/jobs
+    jobs: https://ecco2.ch/career/
     description: Predictive heating controll
     remote: false
     speculative: false
@@ -1427,7 +1427,7 @@ jobs:
     rating:
   - name: retraced
     website: https://retraced.co/
-    jobs: https://retraced.co/careers
+    jobs: https://retraced.notion.site/Ready-to-shoot-for-the-stars-Careers-retraced-f9c61236d40449ccbf3e0f818c3ff9e6
     description: Sustainable Supply Chain Management
     remote: true
     speculative: false
@@ -1492,7 +1492,7 @@ jobs:
     rating: 4.0
   - name: circular.fashion
     website: https://circular.fashion/
-    jobs: https://circular.fashion/jobs/
+    jobs: https://circular.fashion/en/about/jobs.html
     description: Digital platform for circular economy in fashion and textiles
     remote: false
     speculative: false
@@ -1631,7 +1631,7 @@ jobs:
     rating:
   - name: Lune
     website: https://lune.co
-    jobs: https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331
+    jobs: https://lune.crew.work/jobs
     description: API powered carbon offsetting
     remote: true
     speculative: false
@@ -1774,7 +1774,7 @@ jobs:
     rating: '4.6'
   - name: Lune
     website: https://lune.co/
-    jobs: https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331
+    jobs: https://lune.crew.work/jobs
     description: Making products or services climate positive by default
     remote: true
     speculative: false
@@ -2152,7 +2152,7 @@ jobs:
     rating:
   - name: cozero
     website: https://cozero.io
-    jobs: https://cozero.io/en/jobs
+    jobs: https://cozero.io/careers#join-widget
     description: Enable companies to effectively decarbonize and transform their business
     remote: true
     speculative: true
@@ -2233,7 +2233,7 @@ jobs:
     rating: 4.8
   - name: bettervest
     website: https://www.bettervest.com/
-    jobs: https://www.bettervest.com/de/stellenangebote/
+    jobs: https://www.bettervest.com/de/jobs/
     description: Nachhaltige Geldanlagen
     remote: false
     speculative: false
@@ -2259,7 +2259,7 @@ jobs:
     rating: '3.5'
   - name: ÖKOTEC
     website: https://www.oekotec.de/de/uebersicht/home/
-    jobs: https://www.oekotec.de/de/karriere/
+    jobs: https://www.oekotec.de/karriere/stellenangebote/
     description: Reduktion des Energie- und Ressourcenverbrauchs für Industrie und Gewerbe
     remote: false
     speculative: false
@@ -2536,7 +2536,7 @@ jobs:
         long: -8.5509728
     review:
     rating:
-        
+
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
