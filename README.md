@@ -28,6 +28,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 - [Austria](#austria)
 - [Brazil](#brazil)
 - [Canada](#canada)
+- [Czech Republic](#czech-republic)
 - [Denmark](#denmark)
 - [Estonia](#estonia)
 - [Finland](#finland)
@@ -122,6 +123,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [Opus One Solutions](https://www.opusonesolutions.com/) | [jobs](https://www.opusonesolutions.com/careers/) | [3.6/5](https://www.glassdoor.com/Reviews/Opus-One-Solutions-Reviews-E1516067.htm) | Helping utilities optimize energy planning, operations and market management |  |  |
 | [Power Factors](https://pfdrive.com/) | [jobs](https://pfdrive.com/careers/) | [4.2/5](https://www.glassdoor.com/Reviews/Power-Factors-Reviews-E1927187.htm) | Asset management for renewables |  | ✅ |
+
+
+
+
+### Czech Republic
+
+#### Renewable Energies
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Nano Energies](https://nanoenergies.group/) | [jobs](https://www.cocuma.cz/company/nano-energies/jobs/) |  | Trading software for renewable energies |  |  |
 
 
 
@@ -445,6 +457,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Solar Monkey](https://solarmonkey.io/) | [jobs](https://jobs.solarmonkey.nl/) |  | Solar panel software | ✅ | ✅ |
+
+
+#### Sustainable Mobility
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Vanmoof](https://www.vanmoof.com) | [jobs](https://www.vanmoof.com/careers) | [3.6/5](https://www.glassdoor.com/Reviews/VANMOOF-Reviews-E1032387.htm) | E-Bike manufacturer |  |  |
 
 
 
