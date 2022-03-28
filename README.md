@@ -169,7 +169,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Cooler Future](https://coolerfuture.com/de) | [jobs](https://coolerfuture.com/de/page/careers) |  | Investments in sustainable portfolio | ✅ |  |
+| [Cooler Future](https://coolerfuture.com/de) | [jobs](https://www.coolerfuture.com/en/page/careers) |  | Investments in sustainable portfolio | ✅ |  |
 
 
 
@@ -195,7 +195,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [klima.metrix](https://klimametrix.global/) | [jobs](https://klimametrix.join.com/) |  | Automated CO2 footprint calculation |  | ✅ |
 | [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | [4.6/5](https://www.kununu.com/de/tomorrow2) | CO2-neutrales Bankkonto |  | ✅ |
-| [Tanso](https://www.tanso.io) | [jobs](https://www.tanso.io/en/careers/) |  | Sustainability Accounting for Industrial Manufacturing |  | ✅ |
+| [Tanso](https://www.tanso.io) | [jobs](https://www.tanso.io/careers/) |  | Sustainability Accounting for Industrial Manufacturing |  | ✅ |
 | [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | [3.6/5](https://www.kununu.com/de/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ |
 | [Klima](https://klima.com/) | [jobs](https://klima.com/about/#jobs) |  | Carbon Offset App |  |  |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
@@ -206,7 +206,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [eevie](https://www.eevie.io/) | [jobs](https://www.eevie.io/jobs) |  | climate guide to a sustainable life | ✅ |  |
 | [Planetly](https://www.planetly.com/) | [jobs](https://planetly.jobs.personio.de/) | [4.6/5](https://www.kununu.com/de/planetly1) | CO2-Management |  | ✅ |
 | [nullify](https://www.nullify.app/) | [jobs](https://www.nullify.app/team) |  | CO2-App | ✅ |  |
-| [cozero](https://cozero.io) | [jobs](https://cozero.io/en/jobs) |  | Enable companies to effectively decarbonize and transform their business | ✅ | ✅ |
+| [cozero](https://cozero.io) | [jobs](https://cozero.io/careers#join-widget) |  | Enable companies to effectively decarbonize and transform their business | ✅ | ✅ |
 | [The Climate Choice](https://theclimatechoice.com/de/) | [jobs](https://careers.smartrecruiters.com/THECLIMATECHOICEUGhaftungsbeschrnkt) | [4.9/5](https://www.kununu.com/de/the-climate-choice-ug) | Wir helfen Unternehmen ihre Klimatransformation zu beschleunigen. |  | ✅ |
 
 
@@ -216,7 +216,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [Vytal](https://www.vytal.org/) | [jobs](https://www.vytal.org/jobs) |  | Digitales Mehrwegsystem für Take-Away, Delivery und Convenience Food | ✅ |  |
 | [Teqcycle](https://www.teqcycle.com) | [jobs](https://www.teqcycle.com/de/jobs/) | [3.5/5](https://www.kununu.com/de/teqcycle-solutions) | Rücknahme gebrauchter, mobiler Endgeräte |  |  |
-| [circular.fashion](https://circular.fashion/) | [jobs](https://circular.fashion/jobs/) |  | Digital platform for circular economy in fashion and textiles |  |  |
+| [circular.fashion](https://circular.fashion/) | [jobs](https://circular.fashion/en/about/jobs.html) |  | Digital platform for circular economy in fashion and textiles |  |  |
 
 
 #### Electric Mobility
@@ -243,7 +243,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [SOPTIM](https://www.soptim.de) | [jobs](https://www.soptim.de/de/karriere/aktuelle-jobs/) | [4.1/5](https://www.kununu.com/de/soptim) | Software für energiewirtschaftliche Prozesse |  |  |
 | [vilisto](https://www.vilisto.de/) | [jobs](https://www.vilisto.de/jobs/#jobs) | [4.5/5](https://www.kununu.com/de/vilisto1) | Digitales Wärmemanagment | ✅ |  |
 | [Enit Energy IT Systems GmbH](https://enit.io) | [jobs](https://enit.io/ueber-uns/enit/jobs) | [4.8/5](https://www.kununu.com/de/enit-energy-it-systems2) | Voll Energie. Null Emission. - Energiemanagment für mittelständische Unternehmen | ✅ | ✅ |
-| [ÖKOTEC](https://www.oekotec.de/de/uebersicht/home/) | [jobs](https://www.oekotec.de/de/karriere/) | [4.1/5](https://www.kununu.com/de/oekotec-energiemanagement) | Reduktion des Energie- und Ressourcenverbrauchs für Industrie und Gewerbe |  |  |
+| [ÖKOTEC](https://www.oekotec.de/de/uebersicht/home/) | [jobs](https://www.oekotec.de/karriere/stellenangebote/) | [4.1/5](https://www.kununu.com/de/oekotec-energiemanagement) | Reduktion des Energie- und Ressourcenverbrauchs für Industrie und Gewerbe |  |  |
 
 
 #### Misc.
@@ -257,14 +257,14 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [betterplace](https://www.betterplace.org/de) | [jobs](https://www.betterplace.org/c/stellen) | [3.5/5](https://www.kununu.com/de/ipoint-systems1) | Spendenplattform |  |  |
 | [InFarm](https://www.infarm.com) | [jobs](https://www.infarm.com/en/join-us) | [3.2/5](https://www.kununu.com/de/infarm) | Indoor Farming |  |  |
 | [Startnext](https://www.startnext.com) | [jobs](https://www.startnext.com/info/jobs.html) | [3.4/5](https://www.kununu.com/de/startnext-crowdfunding) | Crowdfunding | ✅ |  |
-| [Cooler Future](https://coolerfuture.com/de) | [jobs](https://coolerfuture.com/de/page/careers) |  | Investments in sustainable portfolio | ✅ |  |
+| [Cooler Future](https://coolerfuture.com/de) | [jobs](https://www.coolerfuture.com/en/page/careers) |  | Investments in sustainable portfolio | ✅ |  |
 | [Carrypicker](https://www.carrypicker.com/) | [jobs](https://www.carrypicker.com/jobs) |  | CO2 Senkung durch Effizenzsteigerung im Transportwesen |  |  |
 | [alcemy](https://www.alcemy.tech/) | [jobs](https://www.notion.so/Working-at-alcemy-7640f0e4aae1456fa70013b8141ba2b2) |  | CO2 Reduktion bei Beton Produktion |  |  |
-| [retraced](https://retraced.co/) | [jobs](https://retraced.co/careers) |  | Sustainable Supply Chain Management |  | ✅ |
+| [retraced](https://retraced.co/) | [jobs](https://retraced.notion.site/Ready-to-shoot-for-the-stars-Careers-retraced-f9c61236d40449ccbf3e0f818c3ff9e6) |  | Sustainable Supply Chain Management |  | ✅ |
 | [unown](https://unown-fashion.com) | [jobs](https://unown-fashion.com/pages/jobs) |  | Kleidung leasen |  | ✅ |
 | [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
 | [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
-| [bettervest](https://www.bettervest.com/) | [jobs](https://www.bettervest.com/de/stellenangebote/) | [3.3/5](https://www.kununu.com/de/bettervest) | Nachhaltige Geldanlagen |  |  |
+| [bettervest](https://www.bettervest.com/) | [jobs](https://www.bettervest.com/de/jobs/) | [3.3/5](https://www.kununu.com/de/bettervest) | Nachhaltige Geldanlagen |  |  |
 | [Fenntec](https://www.fenntec.de/) | [jobs](https://www.fenntec.de/karriere/) |  | Robots for weeds | ✅ |  |
 | [Acker e.V.](https://www.acker.co/) | [jobs](https://www.acker.co/Jobs) | [4.2/5](https://www.kununu.com/de/acker-e-v) | Innovative und praxisorientierte Konzepte für mehr Wertschätzung für Natur und Lebensmittel | ✅ | ✅ |
 
@@ -290,7 +290,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Lumenaza](https://www.lumenaza.de/) | [jobs](https://www.lumenaza.de/de/jobs/) | [4.3/5](https://www.kununu.com/de/lumenaza) | Software-as-a-Service-Plattform für grüne Energieunternehmen | ✅ |  |
 | [Energiedienst](https://www.energiedienst.de/) | [jobs](https://www.energiedienst.de/karriere/offene-stellen/) | [4.2/5](https://www.kununu.com/de/energiedienst-gruppe) | Anbieter von Ökostrom aus Wasserkraft |  |  |
 | [mobisol](http://www.plugintheworld.com/) | [jobs](https://plugintheworld.com/careers/) | [3.2/5](https://www.kununu.com/de/mobisol) | Smart Solar Home Systems |  |  |
-| [Power Plus Communications](https://www.ppc-ag.de) | [jobs](https://www.ppc-ag.de/karriere/) | [4.0/5](https://www.kununu.com/de/power-plus-communications3) | Smart Metering Lösungen | ✅ |  |
+| [Power Plus Communications](https://www.ppc-ag.de) | [jobs](https://www.ppc-ag.de/de/unternehmen/offene-stellen/) | [4.0/5](https://www.kununu.com/de/power-plus-communications3) | Smart Metering Lösungen | ✅ |  |
 | [Digsilent](https://www.digsilent.de/de/home.html) | [jobs](https://www.digsilent.de/de/stellenangebote.html) | [4.6/5](https://www.kununu.com/de/digsilent) | Simulation und Netzintegration von erneuerbaren Energien | ✅ |  |
 | [smartblue AG](http://www.smartblue.de) | [jobs](https://www.smartblue.de/jobs/) |  | Monitoring von PV-Anlagen |  |  |
 | [SENEC](https://www.senec.com) | [jobs](https://senec-jobs.personio.de/) | [3.5/5](https://www.kununu.com/de/senec1) | Stromspeichersysteme und Energielösungen |  |  |
@@ -298,18 +298,18 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [greenergetic](https://www.greenergetic.de) | [jobs](https://www.greenergetic.de/unternehmen/werde-ein-teil-von-greenergetic) | [3.0/5](https://www.kununu.com/de/kaco-new-energy4) | Abwicklung, Betreuung und Verkaufsförderung von Solaranlagen |  |  |
 | [E3/DC](https://www.e3dc.com/) | [jobs](https://www.e3dc.com/unternehmen/karriere/) | [3.3/5](https://www.kununu.com/de/e3dc2) | Hersteller von Wallboxen | ✅ |  |
 | [Optimax Energy](https://www.optimax-energy.de) | [jobs](https://www.optimax-energy.de/index.php/karriere) | [4.6/5](https://www.kununu.com/de/optimax-energy1) | Dienste rund um den Handel erneuerbarer Energien | ✅ |  |
-| [DZ-4](https://www.dz-4.de/) | [jobs](https://dz4-jobs.personio.de/) | [4.4/5](https://www.kununu.com/de/dz-41) | Anbieter für Solaranlagen zur Miete |  |  |
+| [DZ-4](https://www.dz-4.de/) | [jobs](https://dz4.jobs.personio.de/) | [4.4/5](https://www.kununu.com/de/dz-41) | Anbieter für Solaranlagen zur Miete |  |  |
 | [LichtBlick](https://www.lichtblick.de) | [jobs](https://www.lichtblick.de/karriere/jobs/) | [3.9/5](https://www.kununu.com/de/lichtblick) | Ökostromanbieter |  |  |
-| [ZOLAR](https://www.zolar.de/) | [jobs](https://www.zolar.de/karriere/office-jobs) | [4.2/5](https://www.kununu.com/de/zolar3) | Online Planung von PV-Anlagen |  |  |
+| [ZOLAR](https://www.zolar.de/) | [jobs](https://www.zolar.de/karriere/stellenangebote) | [4.2/5](https://www.kununu.com/de/zolar3) | Online Planung von PV-Anlagen |  |  |
 | [enersol](https://www.enersol.eu/) | [jobs](https://www.enersol.eu/jobs/) |  | plant, vertreibt und installiert schlüsselfertige PV/Batterie Anlagen |  |  |
 | [Ampeers Energy](https://ampeersenergy.de/) | [jobs](https://ampeersenergy.de/karriere/) | [4.9/5](https://www.kununu.com/de/ampeers-energy) | Dezentrale Energie |  | ✅ |
-| [EINHUNDERT Energie](https://einhundert-energie.de/) | [jobs](https://einhundert-energie.de/stellenangebote/) | [4.6/5](https://www.kununu.com/de/einhundert-energie) | Mieterstrom |  |  |
+| [EINHUNDERT Energie](https://einhundert-energie.de/) | [jobs](https://einhundert.de/karriere/) | [4.6/5](https://www.kununu.com/de/einhundert-energie) | Mieterstrom |  |  |
 | [enersis](https://www.enersis.ch/) | [jobs](https://www.enersis.ch/karriere/) | [4.5/5](https://www.kununu.com/de/enersis-europe) | Digitale Plattformen zur Planung und Simulation der Energiewende |  |  |
 | [Enpal](https://www.enpal.de/) | [jobs](https://www.enpal.de/jobs) | [3.8/5](https://www.kununu.com/de/enpal) | Solaranlagen mieten | ✅ |  |
 | [node.energy](https://www.node.energy/) | [jobs](https://www.node.energy/karriere) |  | Automatisierung von Management und Planung von klimafreundlichen Energielösungen | ✅ |  |
 | [enyway](https://www.enyway.com/de) | [jobs](https://enyway.softgarden.io/de/vacancies) | [4.6/5](https://www.kununu.com/de/enyway1) | Regionaler Ökostrom und CO2-Kompensation mit Rendite | ✅ |  |
 | [Octopus Energy](https://www.octopusenergy.de/) | [jobs](https://www.octopusenergy.de/karriere) | [4.8/5](https://www.kununu.com/de/octopus-energy-germany) | Ökostromanbieter, der auf Digitalisierung setzt | ✅ |  |
-| [Solarmax](https://solarmax.com/de/) | [jobs](https://solarmax.com/de/jobs/) |  | Hersteller von Wechelrichtern und Batteriesystemen |  |  |
+| [Solarmax](https://solarmax.com/de/) | [jobs](https://www.solarmax.com/karriere) |  | Hersteller von Wechelrichtern und Batteriesystemen |  |  |
 | [Energy2market](https://www.e2m.energy/) | [jobs](https://www.energy2market.io/) | [3.5/5](https://www.kununu.com/de/energy2market1) | Virtuelle Kraftwerke |  |  |
 | [envelio](https://envelio.de/) | [jobs](https://envelio.jobs.personio.de/) |  | Digitalisierungsplattform für Energienetze | ✅ |  |
 | [Eigensonne](https://www.eigensonne.de/) | [jobs](https://www.eigensonne.de/jobs-buero/) | [4.0/5](https://www.kununu.com/de/eigensonne) | Beraturn, Planung und Ausführung von PV-Anlagen |  |  |
@@ -326,10 +326,10 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Wunder Mobility](https://www.wundermobility.com/) | [jobs](https://www.wundermobility.com/careers/jobs) | [3.8/5](https://www.kununu.com/de/wunder-mobility) | Technology to launch and scale shared mobility services | ✅ |  |
+| [Wunder Mobility](https://www.wundermobility.com/) | [jobs](https://www.wundermobility.com/careers/#jobs) | [3.8/5](https://www.kununu.com/de/wunder-mobility) | Technology to launch and scale shared mobility services | ✅ |  |
 | [nextbike](https://www.nextbike.de) | [jobs](https://www.nextbike.net/jobs/) | [3.3/5](https://www.kununu.com/de/nextbike1) | Bike sharing |  |  |
 | [car2go](https://www.share-now.com/de/de/) | [jobs](https://boards.greenhouse.io/joinsharenow) | [3.1/5](https://www.kununu.com/de/car2go) | Carsharing-Anbieter von BMW und Daimler |  |  |
-| [INVERS](https://invers.com) | [jobs](https://invers.com/de/karriere/) | [4.2/5](https://www.kununu.com/de/inversgmbh) | Anbieter für Carsharing Software | ✅ |  |
+| [INVERS](https://invers.com) | [jobs](https://invers.com/en/company/careers/#jobs) | [4.2/5](https://www.kununu.com/de/inversgmbh) | Anbieter für Carsharing Software | ✅ |  |
 | [Cambio Carsharing](https://www.cambio-carsharing.de/) | [jobs](https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS) | [4.1/5](https://www.kununu.com/de/cambio-stadtteilauto-carsharing1) | Anbieter für Carsharing Software |  |  |
 | [emmy](https://emmy-sharing.de/) | [jobs](https://emmy-sharing.de/stellenangebote/) | [3.6/5](https://www.kununu.com/de/emmy-sharing1) | Elektro-Roller Sharing | ✅ |  |
 | [MOQO](https://moqo.de/) | [jobs](https://moqo.de/jobs) | [4.4/5](https://www.kununu.com/de/digital-mobility-solutions2) | Software für Shared Mobility Projekte | ✅ |  |
@@ -477,7 +477,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Lune](https://lune.co/) | [jobs](https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331) |  | Making products or services climate positive by default |  | ✅ |
+| [Lune](https://lune.co/) | [jobs](https://lune.crew.work/jobs) |  | Making products or services climate positive by default |  | ✅ |
 
 
 #### Misc.
@@ -584,7 +584,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ECCO2](https://www.ecco2.ch) | [jobs](https://www.ecco2.ch/jobs) |  | Predictive heating controll |  |  |
+| [ECCO2](https://www.ecco2.ch) | [jobs](https://ecco2.ch/career/) |  | Predictive heating controll |  |  |
 
 
 #### Renewable Energies
@@ -616,7 +616,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) | [5.0/5](https://www.glassdoor.com/Reviews/Sylvera-Reviews-E4885878.htm) | quantitative and qualitative data on offset projects |  | ✅ |
-| [Lune](https://lune.co) | [jobs](https://www.notion.so/Open-positions-at-Lune-19ec75e528784306b1a3f72ee772d331) |  | API powered carbon offsetting |  | ✅ |
+| [Lune](https://lune.co) | [jobs](https://lune.crew.work/jobs) |  | API powered carbon offsetting |  | ✅ |
 | [CarbonChain](https://carbonchain.com/) | [jobs](https://boards.greenhouse.io/carbonchain) |  | Measure carbon emissions |  |  |
 | [Emitwise](https://emitwise.com/home) | [jobs](https://jobs.lever.co/emitwise) | [5.0/5](https://www.glassdoor.com/Reviews/Emitwise-Reviews-E3915102.htm) | Our carbon accounting platform enables you to measure, report and reduce the carbon footprint of your operations and supply chain |  |  |
 
