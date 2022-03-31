@@ -697,6 +697,19 @@ jobs:
         long: 2.1731489
     review:
     rating:
+  - name: Sweep
+    website: https://www.sweep.net
+    jobs: https://jobs.sweep.net
+    description: Software to help companies reduce their carbon emissions 
+    remote: true
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: France
+        lat: 43.610800
+        long: 3.876700
+    review:
+    rating:
   - name: INVERS
     website: https://invers.com
     jobs: https://invers.com/en/company/careers/#jobs
