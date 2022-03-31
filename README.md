@@ -188,6 +188,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 ### France
 
+#### Carbon Analysis, Capture and Offsetting
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Sweep](https://www.sweep.net) | [jobs](https://jobs.sweep.net) |  | Software to help companies reduce their carbon emissions | ✅ | ✅ |
+
+
 #### Sharing Economy
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
