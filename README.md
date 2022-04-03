@@ -78,7 +78,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.2/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 
 
 #### Electric Mobility
@@ -122,7 +122,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Opus One Solutions](https://www.opusonesolutions.com/) | [jobs](https://www.opusonesolutions.com/careers/) | [3.6/5](https://www.glassdoor.com/Reviews/Opus-One-Solutions-Reviews-E1516067.htm) | Helping utilities optimize energy planning, operations and market management |  |  |
-| [Power Factors](https://pfdrive.com/) | [jobs](https://pfdrive.com/careers/) | [4.2/5](https://www.glassdoor.com/Reviews/Power-Factors-Reviews-E1927187.htm) | Asset management for renewables |  | ✅ |
+| [Power Factors](https://pfdrive.com/) | [jobs](https://pfdrive.com/careers/) | [4.3/5](https://www.glassdoor.com/Reviews/Power-Factors-Reviews-E1927187.htm) | Asset management for renewables |  | ✅ |
 
 
 
@@ -151,7 +151,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Too Good To Go](https://toogoodtogo.org/en) | [jobs](https://toogoodtogo.org/en/careers) | [4.0/5](https://www.glassdoor.com/Reviews/Too-Good-To-Go-Reviews-E2402025.htm) | Anti food waste app |  |  |
+| [Too Good To Go](https://toogoodtogo.org/en) | [jobs](https://toogoodtogo.org/en/careers) | [4.1/5](https://www.glassdoor.com/Reviews/Too-Good-To-Go-Reviews-E2402025.htm) | Anti food waste app |  |  |
 
 
 #### Renewable Energies
@@ -170,7 +170,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.1/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
+| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.2/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
 
 
 
@@ -212,7 +212,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [right. based on science](https://www.right-basedonscience.de/) | [jobs](https://www.right-basedonscience.de/ueber-uns/#jobs) |  | Climatemetrics for the economy | ✅ | ✅ |
 | [klima.metrix](https://klimametrix.global/) | [jobs](https://klimametrix.join.com/) |  | Automated CO2 footprint calculation |  | ✅ |
-| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.2/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | [4.6/5](https://www.kununu.com/de/tomorrow2) | CO2-neutrales Bankkonto |  | ✅ |
 | [Tanso](https://www.tanso.io) | [jobs](https://www.tanso.io/careers/) |  | Sustainability Accounting for Industrial Manufacturing |  | ✅ |
 | [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | [3.6/5](https://www.kununu.com/de/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ |
@@ -285,21 +285,21 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
 | [bettervest](https://www.bettervest.com/) | [jobs](https://www.bettervest.com/de/jobs/) | [3.3/5](https://www.kununu.com/de/bettervest) | Nachhaltige Geldanlagen |  |  |
 | [Fenntec](https://www.fenntec.de/) | [jobs](https://www.fenntec.de/karriere/) |  | Robots for weeds | ✅ |  |
-| [Acker e.V.](https://www.acker.co/) | [jobs](https://www.acker.co/Jobs) | [4.2/5](https://www.kununu.com/de/acker-e-v) | Innovative und praxisorientierte Konzepte für mehr Wertschätzung für Natur und Lebensmittel | ✅ | ✅ |
+| [Acker e.V.](https://www.acker.co/) | [jobs](https://www.acker.co/Jobs) | [4.3/5](https://www.kununu.com/de/acker-e-v) | Innovative und praxisorientierte Konzepte für mehr Wertschätzung für Natur und Lebensmittel | ✅ | ✅ |
 
 
 #### Renewable Energies
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [BayWa r.e.](https://www.baywa-re.com/) | [jobs](https://jobs.baywa-re.com/job-offers.html) | [3.6/5](https://www.kununu.com/de/baywareag) | Global provider for renewable energy solutions |  |  |
+| [BayWa r.e.](https://www.baywa-re.com/) | [jobs](https://jobs.baywa-re.com/job-offers.html) | [3.5/5](https://www.kununu.com/de/baywareag) | Global provider for renewable energy solutions |  |  |
 | [OXYGEN TECHNOLOGIES](https://www.oxygen-technologies.de/) | [jobs](https://www.oxygen-technologies.de/ueber-uns/jobs/) | [4.9/5](https://www.kununu.com/de/oxygen-technologies1) | OXYGEN TECHNOLOGIES stellt Energieversorgern, Stadtwerken und Messstellenbetreibern IT-Lösungen bereit und treibt damit die Digitalisierung der Energiewirtschaft voran. | ✅ |  |
 | [Greenpeace Energy eG](https://www.greenpeace-energy.de) | [jobs](https://www.greenpeace-energy.de/ueber-uns/karriere.html) | [3.8/5](https://www.kununu.com/de/greenpeace-energy-eg2) | Anbieter für Ökostom und Ökogas |  |  |
-| [BELECTRIC](https://belectric.com/de/) | [jobs](https://belectric.com/de/karriere/) | [3.4/5](https://www.kununu.com/de/belectric1) | Entwicklung und im Bau von Freiflächen-Solarkraftwerken und Energiespeichersystemen |  |  |
+| [BELECTRIC](https://belectric.com/de/) | [jobs](https://belectric.com/de/karriere/) | [3.5/5](https://www.kununu.com/de/belectric1) | Entwicklung und im Bau von Freiflächen-Solarkraftwerken und Energiespeichersystemen |  |  |
 | [Next Kraftwerke](https://www.next-kraftwerke.de/) | [jobs](https://www.next-kraftwerke.de/jobs) | [4.3/5](https://www.kununu.com/de/next-kraftwerke1) | Next Kraftwerke betreibt eines der größten Virtuellen Kraftwerke Europas | ✅ |  |
 | [energy & meteo systems](https://www.energymeteo.de) | [jobs](https://www.energymeteo.de/ueber_uns/jobs.php) | [3.8/5](https://www.kununu.com/de/energy-meteo-systems) | Leistungsprognosen und Virtuelle Kraftwerke | ✅ |  |
 | [DrehPunkt](https://drehpunkt.de) | [jobs](https://drehpunkt.de/jobs/) | [4.5/5](https://www.kununu.com/de/drehpunkt2) | Software für erneuerbare Energien |  |  |
-| [meteocontrol](https://www.meteocontrol.com) | [jobs](https://www.meteocontrol.com/karriere/stellenangebote/) | [3.8/5](https://www.kununu.com/de/meteocontrol1) | Überwachungssysteme für Solaranlagen |  |  |
+| [meteocontrol](https://www.meteocontrol.com) | [jobs](https://www.meteocontrol.com/karriere/stellenangebote/) | [3.9/5](https://www.kununu.com/de/meteocontrol1) | Überwachungssysteme für Solaranlagen |  |  |
 | [sma](https://www.sma.de/) | [jobs](https://www.sma.jobs/go/Stellenangebote/3798401/) | [3.8/5](https://www.kununu.com/de/sma-solar-technology) | Wechselrichter, Photovoltaik- & Solartechnik |  |  |
 | [sonnen](https://sonnen.de/) | [jobs](https://jobs.sonnen.de/) | [3.5/5](https://www.kununu.com/de/sonnen-gmbh) | Batteriespeicher | ✅ |  |
 | [FENECON](https://fenecon.de) | [jobs](https://www1.fenecon.de/karriere/) | [4.5/5](https://www.kununu.com/de/fenecon) | Stromspeichersysteme |  |  |
@@ -315,7 +315,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [SENEC](https://www.senec.com) | [jobs](https://senec-jobs.personio.de/) | [3.5/5](https://www.kununu.com/de/senec1) | Stromspeichersysteme und Energielösungen |  |  |
 | [KACO new energy](https://kaco-newenergy.com) | [jobs](https://kaco-newenergy.com/de/karriere/stellenangebote/) | [3.0/5](https://www.kununu.com/de/kaco-new-energy4) | Wechselrichter für Photovoltaik und Batteriespeicher |  |  |
 | [greenergetic](https://www.greenergetic.de) | [jobs](https://www.greenergetic.de/unternehmen/werde-ein-teil-von-greenergetic) | [3.0/5](https://www.kununu.com/de/kaco-new-energy4) | Abwicklung, Betreuung und Verkaufsförderung von Solaranlagen |  |  |
-| [E3/DC](https://www.e3dc.com/) | [jobs](https://www.e3dc.com/unternehmen/karriere/) | [3.3/5](https://www.kununu.com/de/e3dc2) | Hersteller von Wallboxen | ✅ |  |
+| [E3/DC](https://www.e3dc.com/) | [jobs](https://www.e3dc.com/unternehmen/karriere/) | [3.2/5](https://www.kununu.com/de/e3dc2) | Hersteller von Wallboxen | ✅ |  |
 | [Optimax Energy](https://www.optimax-energy.de) | [jobs](https://www.optimax-energy.de/index.php/karriere) | [4.6/5](https://www.kununu.com/de/optimax-energy1) | Dienste rund um den Handel erneuerbarer Energien | ✅ |  |
 | [DZ-4](https://www.dz-4.de/) | [jobs](https://dz4.jobs.personio.de/) | [4.4/5](https://www.kununu.com/de/dz-41) | Anbieter für Solaranlagen zur Miete |  |  |
 | [LichtBlick](https://www.lichtblick.de) | [jobs](https://www.lichtblick.de/karriere/jobs/) | [3.9/5](https://www.kununu.com/de/lichtblick) | Ökostromanbieter |  |  |
@@ -324,14 +324,14 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Ampeers Energy](https://ampeersenergy.de/) | [jobs](https://ampeersenergy.de/karriere/) | [4.9/5](https://www.kununu.com/de/ampeers-energy) | Dezentrale Energie |  | ✅ |
 | [EINHUNDERT Energie](https://einhundert-energie.de/) | [jobs](https://einhundert.de/karriere/) | [4.6/5](https://www.kununu.com/de/einhundert-energie) | Mieterstrom |  |  |
 | [enersis](https://www.enersis.ch/) | [jobs](https://www.enersis.ch/karriere/) | [4.5/5](https://www.kununu.com/de/enersis-europe) | Digitale Plattformen zur Planung und Simulation der Energiewende |  |  |
-| [Enpal](https://www.enpal.de/) | [jobs](https://www.enpal.de/jobs) | [3.8/5](https://www.kununu.com/de/enpal) | Solaranlagen mieten | ✅ |  |
+| [Enpal](https://www.enpal.de/) | [jobs](https://www.enpal.de/jobs) | [3.9/5](https://www.kununu.com/de/enpal) | Solaranlagen mieten | ✅ |  |
 | [node.energy](https://www.node.energy/) | [jobs](https://www.node.energy/karriere) |  | Automatisierung von Management und Planung von klimafreundlichen Energielösungen | ✅ |  |
 | [enyway](https://www.enyway.com/de) | [jobs](https://enyway.softgarden.io/de/vacancies) | [4.6/5](https://www.kununu.com/de/enyway1) | Regionaler Ökostrom und CO2-Kompensation mit Rendite | ✅ |  |
 | [Octopus Energy](https://www.octopusenergy.de/) | [jobs](https://www.octopusenergy.de/karriere) | [4.8/5](https://www.kununu.com/de/octopus-energy-germany) | Ökostromanbieter, der auf Digitalisierung setzt | ✅ |  |
 | [Solarmax](https://solarmax.com/de/) | [jobs](https://www.solarmax.com/karriere) |  | Hersteller von Wechelrichtern und Batteriesystemen |  |  |
 | [Energy2market](https://www.e2m.energy/) | [jobs](https://www.energy2market.io/) | [3.5/5](https://www.kununu.com/de/energy2market1) | Virtuelle Kraftwerke |  |  |
 | [envelio](https://envelio.de/) | [jobs](https://envelio.jobs.personio.de/) |  | Digitalisierungsplattform für Energienetze | ✅ |  |
-| [Eigensonne](https://www.eigensonne.de/) | [jobs](https://www.eigensonne.de/jobs-buero/) | [4.0/5](https://www.kununu.com/de/eigensonne) | Beraturn, Planung und Ausführung von PV-Anlagen |  |  |
+| [Eigensonne](https://www.eigensonne.de/) | [jobs](https://www.eigensonne.de/jobs-buero/) | [3.9/5](https://www.kununu.com/de/eigensonne) | Beraturn, Planung und Ausführung von PV-Anlagen |  |  |
 | [ENERTRAG](https://enertrag.com) | [jobs](https://karriere.enertrag.com/stellenangebote.html) | [3.4/5](https://www.kununu.com/de/enertrag1) | Erzeuger von Windenergie | ✅ |  |
 | [Q-Energy](https://qed.de) | [jobs](https://qed.de/career/) |  | Akquisition und Entwicklung von EE Projekten |  |  |
 | [Memodo](https://www.memodo.de) | [jobs](https://www.memodo.de/jobs) | [3.5/5](https://www.kununu.com/de/memodo-kg) | Photovoltaik-Großhandel | ✅ |  |
@@ -383,7 +383,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.1/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
+| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.2/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
 
 
 
@@ -416,7 +416,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.1/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
+| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.2/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
 
 
 
@@ -427,7 +427,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.2/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 
 
 
@@ -456,7 +456,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.1/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
+| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.2/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
 
 
 #### Renewable Energies
@@ -470,7 +470,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Vanmoof](https://www.vanmoof.com) | [jobs](https://www.vanmoof.com/careers) | [3.6/5](https://www.glassdoor.com/Reviews/VANMOOF-Reviews-E1032387.htm) | E-Bike manufacturer |  |  |
+| [Vanmoof](https://www.vanmoof.com) | [jobs](https://www.vanmoof.com/careers) | [4.1/5](https://www.glassdoor.com/Reviews/VANMOOF-Reviews-E1032387.htm) | E-Bike manufacturer |  |  |
 
 
 
@@ -551,7 +551,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.2/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 
 
 
@@ -562,7 +562,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.2/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [CarbonCloud](https://carboncloud.com/) | [jobs](https://careers.carboncloud.com/jobs) |  | Climate footprint for food brands | ✅ |  |
 
 
@@ -570,7 +570,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.1/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
+| [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.2/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
 
 
 #### Misc.
@@ -588,7 +588,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.2/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
 
 
@@ -640,7 +640,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.3/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
+| [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.2/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [Sylvera](https://www.sylvera.io) | [jobs](https://apply.workable.com/sylvera/) | [5.0/5](https://www.glassdoor.com/Reviews/Sylvera-Reviews-E4885878.htm) | quantitative and qualitative data on offset projects |  | ✅ |
 | [Lune](https://lune.co) | [jobs](https://lune.crew.work/jobs) |  | API powered carbon offsetting |  | ✅ |
 | [CarbonChain](https://carbonchain.com/) | [jobs](https://boards.greenhouse.io/carbonchain) |  | Measure carbon emissions |  |  |
@@ -667,7 +667,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) | [4.7/5](https://www.glassdoor.com/Reviews/Octopus-Energy-Reviews-E1482748.htm) | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
+| [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) | [4.6/5](https://www.glassdoor.com/Reviews/Octopus-Energy-Reviews-E1482748.htm) | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
 | [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) | [3.5/5](https://www.glassdoor.com/Reviews/OVO-Reviews-E767881.htm) | UK-based green electricity supplier |  |  |
 | [Arenko](https://arenko.group/) | [jobs](https://arenko.group/join-us/) | [4.4/5](https://www.glassdoor.co.uk/Reviews/Arenko-Group-Reviews-E4554199.htm) | Automation & optimisation for the energy transition | ✅ |  |
 | [Bulb Energy](https://bulb.co.uk/) | [jobs](https://bulb.co.uk/careers/#open-roles) | [3.5/5](https://www.glassdoor.com/Reviews/Bulb-Reviews-E1498482.htm) | Green energy supplier | ✅ |  |
@@ -694,7 +694,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Kaiyo](https://kaiyo.com) | [jobs](https://kaiyo.com/careers) | [4.1/5](https://www.glassdoor.com/Reviews/Kaiyo-New-York-City-Reviews-EI_IE3279574.0,5_IL.6,19_IM615.htm) | Used-Furniture marketplace |  |  |
-| [AMP Robotics](https://www.amprobotics.com/) | [jobs](https://www.amprobotics.com/careers) | [3.9/5](https://www.glassdoor.com/Reviews/AMP-Robotics-Reviews-E1754764.htm) | Computer vision for recycling |  |  |
+| [AMP Robotics](https://www.amprobotics.com/) | [jobs](https://www.amprobotics.com/careers) | [4.1/5](https://www.glassdoor.com/Reviews/AMP-Robotics-Reviews-E1754764.htm) | Computer vision for recycling |  |  |
 
 
 #### Electric Mobility
@@ -704,7 +704,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Momentum Dynamics](https://momentumdynamics.com/) | [jobs](https://momentumdynamics.bamboohr.com/jobs/) | [5.0/5](https://www.glassdoor.com/Reviews/Momentum-Dynamics-Reviews-E2449206.htm) | Wireless charging |  |  |
 | [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) | [4.1/5](https://www.glassdoor.com/Reviews/ChargePoint-Reviews-E722356.htm) | Charging Solution |  | ✅ |
 | [Xos](https://xostrucks.com/) | [jobs](https://apply.workable.com/xos-trucks/) | [4.3/5](https://www.glassdoor.com/Reviews/Xos-Trucks-Reviews-E4643521.htm) | Decarbonizing transportation with reliable electric trucksk |  |  |
-| [Motiv](https://www.motivps.com/) | [jobs](https://www.motivps.com/careers/) | [3.8/5](https://www.glassdoor.com/Reviews/Motiv-Power-Systems-Reviews-E814313.htm) | Freeing fleets from fossil fuels |  |  |
+| [Motiv](https://www.motivps.com/) | [jobs](https://www.motivps.com/careers/) | [3.9/5](https://www.glassdoor.com/Reviews/Motiv-Power-Systems-Reviews-E814313.htm) | Freeing fleets from fossil fuels |  |  |
 | [WaveGrid](https://www.weavegrid.com/) | [jobs](https://www.weavegrid.com/careers#open-positions) |  | Connecting electric vehicles to the grid |  | ✅ |
 
 
@@ -722,7 +722,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [Apeel](https://www.apeel.com/) | [jobs](https://www.apeel.com/careers) | [4.6/5](https://www.glassdoor.com/Reviews/Apeel-Sciences-Reviews-E1366431.htm) | Plant-based protection for food |  | ✅ |
 | [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
-| [droneseed](https://droneseed.com/) | [jobs](https://jobs.lever.co/droneseed) | [4.7/5](https://www.glassdoor.com/Reviews/DroneSeed-Reviews-E2860929.htm) | Scalable reforestation via drones |  |  |
+| [droneseed](https://droneseed.com/) | [jobs](https://jobs.lever.co/droneseed) | [4.4/5](https://www.glassdoor.com/Reviews/DroneSeed-Reviews-E2860929.htm) | Scalable reforestation via drones |  |  |
 | [Full Harvest](https://www.fullharvest.com/) | [jobs](https://www.fullharvest.com/careers) | [3.0/5](https://www.glassdoor.com/Reviews/Full-Harvest-Reviews-E1556155.htm) | Source Surplus & Imperfect Produce Online |  |  |
 | [Afresh](https://www.afresh.com/) | [jobs](https://boards.greenhouse.io/afresh) | [5.0/5](https://www.glassdoor.com/Reviews/Afresh-Technologies-Reviews-E2506321.htm) | AI-powered food waste reduction |  | ✅ |
 | [Nautilus Labs](https://nautiluslabs.com/) | [jobs](https://nautiluslabs.com/careers/) | [4.6/5](https://www.glassdoor.com/Reviews/Nautilus-Labs-Reviews-E1937449.htm) | Efficiency of ocean commerce through artificial intelligence | ✅ |  |
@@ -738,11 +738,11 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Clean Power Research](https://www.cleanpower.com/) | [jobs](https://www.cleanpower.com/about-us/careers/) |  | Sofware for renewable energies |  |  |
 | [Omnidian](https://www.omnidian.com/) | [jobs](https://jobs.lever.co/omnidian) | [4.9/5](https://www.glassdoor.com/Reviews/Omnidian-Reviews-E2191560.htm) | Clean energy investments |  | ✅ |
 | [Palmetto](https://palmetto.com/) | [jobs](https://www.linkedin.com/careersite/palmetto) | [3.8/5](https://www.glassdoor.com/Reviews/Palmetto-Reviews-E1554901.htm) | Helping homeowners with solar |  |  |
-| [nexamp](https://www.nexamp.com/) | [jobs](https://www.nexamp.com/careers/) | [4.3/5](https://www.glassdoor.com/Reviews/Nexamp-Reviews-E808217_P3.htm) | Solar for communities and homeowners |  |  |
+| [nexamp](https://www.nexamp.com/) | [jobs](https://www.nexamp.com/careers/) | [4.2/5](https://www.glassdoor.com/Reviews/Nexamp-Reviews-E808217_P3.htm) | Solar for communities and homeowners |  |  |
 | [Everlight Solar](https://www.everlightsolar.com/) | [jobs](https://www.everlightsolar.com/jobs/) | [4.2/5](https://www.glassdoor.com/Reviews/Everlight-Solar-Reviews-E3183804.htm) | Everlight Solar enables households to own their power |  | ✅ |
 | [Voltaiq](https://www.voltaiq.com/) | [jobs](https://www.voltaiq.com/careers/) | [0.0/5](https://www.glassdoor.com/Reviews/Voltaiq-Reviews-E2476462.htm) | Battery Intelligence Platform |  | ✅ |
 | [QuantumScape](https://www.quantumscape.com/) | [jobs](https://jobs.lever.co/quantumscape) | [4.0/5](https://www.glassdoor.com/Reviews/Quantumscape-Reviews-E1349613.htm) | solid-state lithium-metal batteries |  |  |
-| [sighten](https://www.sighten.io/) | [jobs](https://www.sighten.io/about-us) | [3.5/5](https://www.glassdoor.com/Reviews/Sighten-Reviews-E1123873.htm) | Solar Design and Proposal Software |  |  |
+| [sighten](https://www.sighten.io/) | [jobs](https://www.sighten.io/about-us) | [3.7/5](https://www.glassdoor.com/Reviews/Sighten-Reviews-E1123873.htm) | Solar Design and Proposal Software |  |  |
 | [EnergySage](https://www.energysage.com/) | [jobs](https://www.energysage.com/about-us/careers/) | [4.7/5](https://www.glassdoor.com/Reviews/EnergySage-Reviews-E1018842.htm) | solar quotes online |  |  |
 | [myst ai](https://www.myst.ai/) | [jobs](https://jobs.lever.co/myst.ai) |  | Forecasting for renewable energies |  | ✅ |
 
