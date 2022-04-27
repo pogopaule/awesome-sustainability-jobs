@@ -213,7 +213,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [right. based on science](https://www.right-basedonscience.de/) | [jobs](https://www.right-basedonscience.de/ueber-uns/#jobs) |  | Climatemetrics for the economy | ✅ | ✅ |
 | [klima.metrix](https://klimametrix.global/) | [jobs](https://klimametrix.join.com/) |  | Automated CO2 footprint calculation |  | ✅ |
 | [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.2/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
-| [Tomorrow](https://www.tomorrow.one) | [jobs](https://www.tomorrow.one/de-de/jobs) | [4.6/5](https://www.kununu.com/de/tomorrow2) | CO2-neutrales Bankkonto |  | ✅ |
+| [Tomorrow](https://www.tomorrow.one/) | [jobs](https://www.tomorrow.one/en-EU/jobs/overview/) | [4.6/5](https://www.kununu.com/de/tomorrow2) | Sustainable bank account with CO2 offsetting | ✅ | ✅ |
 | [Tanso](https://www.tanso.io) | [jobs](https://www.tanso.io/careers/) |  | Sustainability Accounting for Industrial Manufacturing |  | ✅ |
 | [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | [3.6/5](https://www.kununu.com/de/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ |
 | [Klima](https://klima.com/) | [jobs](https://klima.com/about/#jobs) |  | Carbon Offset App |  |  |
