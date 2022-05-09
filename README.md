@@ -227,6 +227,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [nullify](https://www.nullify.app/) | [jobs](https://www.nullify.app/team) |  | CO2-App | ✅ |  |
 | [cozero](https://cozero.io) | [jobs](https://cozero.io/careers#join-widget) |  | Enable companies to effectively decarbonize and transform their business | ✅ | ✅ |
 | [The Climate Choice](https://theclimatechoice.com/de/) | [jobs](https://careers.smartrecruiters.com/THECLIMATECHOICEUGhaftungsbeschrnkt) | [4.9/5](https://www.kununu.com/de/the-climate-choice-ug) | Wir helfen Unternehmen ihre Klimatransformation zu beschleunigen. |  | ✅ |
+| [Carbonfuture](https://www.carbonfuture.earth/) | [jobs](https://www.carbonfuture.earth/jobs) |  | Carbon Removal Platform | ✅ | ✅ |
 
 
 #### Circular Economy
