@@ -2575,6 +2575,19 @@ jobs:
         long: 4.916882
     review: https://www.glassdoor.com/Reviews/VANMOOF-Reviews-E1032387.htm
     rating: '4.1'
+  - name: Carbonfuture
+    website: https://www.carbonfuture.earth/
+    jobs: https://www.carbonfuture.earth/jobs
+    description: Carbon Removal Platform
+    remote: true
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: Germany
+        lat: 48.0145161
+        long: 7.8449299
+    review:
+    rating:     
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
