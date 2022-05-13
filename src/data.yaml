@@ -2587,7 +2587,20 @@ jobs:
         lat: 48.0145161
         long: 7.8449299
     review:
-    rating:     
+    rating:
+  - name: ClimateView
+    website: https://www.climateview.global/
+    jobs: https://career.climateview.global/
+    description: Plan, simulate and execute your climate transition.
+    remote: true
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: Sweden
+        lat: 63.823627
+        long: 20.2702224
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
