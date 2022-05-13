@@ -565,6 +565,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.2/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [CarbonCloud](https://carboncloud.com/) | [jobs](https://careers.carboncloud.com/jobs) |  | Climate footprint for food brands | ✅ |  |
+| [ClimateView](https://www.climateview.global/) | [jobs](https://career.climateview.global/) |  | Plan, simulate and execute your climate transition. |  | ✅ |
 
 
 #### Energy Efficiency
