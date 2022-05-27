@@ -2601,6 +2601,25 @@ jobs:
         long: 20.2702224
     review:
     rating:
+  - name: Crusoe
+    website: https://www.crusoeenergy.com
+    jobs: https://www.crusoeenergy.com/careers
+    description: Reduce the routine flaring of natural gas
+    remote: false
+    speculative: false
+    field: Misc.
+    geo:
+      - country: USA
+        lat: 41.8341
+        long: -87.7321
+      - country: USA
+        lat: 39.7644
+        long: -104.8548
+      - country: USA
+        lat: 37.7493
+        long: -122.4767
+    review: https://www.glassdoor.com/Reviews/Crusoe-Energy-Systems-Reviews-E5310664.htm
+    rating: 5.0
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
