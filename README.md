@@ -729,6 +729,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Afresh](https://www.afresh.com/) | [jobs](https://boards.greenhouse.io/afresh) | [5.0/5](https://www.glassdoor.com/Reviews/Afresh-Technologies-Reviews-E2506321.htm) | AI-powered food waste reduction |  | ✅ |
 | [Nautilus Labs](https://nautiluslabs.com/) | [jobs](https://nautiluslabs.com/careers/) | [4.6/5](https://www.glassdoor.com/Reviews/Nautilus-Labs-Reviews-E1937449.htm) | Efficiency of ocean commerce through artificial intelligence | ✅ |  |
 | [Culdesac](https://culdesac.com/) | [jobs](https://culdesac.com/careers) | [5.0/5](https://www.glassdoor.com/Reviews/Culdesac-Reviews-E4410206.htm) | Car-Free Neighborhoods |  | ✅ |
+| [Crusoe](https://www.crusoeenergy.com) | [jobs](https://www.crusoeenergy.com/careers) | [5.0/5](https://www.glassdoor.com/Reviews/Crusoe-Energy-Systems-Reviews-E5310664.htm) | Reduce the routine flaring of natural gas |  |  |
 
 
 #### Renewable Energies
