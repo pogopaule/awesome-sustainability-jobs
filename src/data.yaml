@@ -2633,6 +2633,19 @@ jobs:
         long: 11.5671628
     review:
     rating:
+  - name: Sunvigo
+    website: https://www.sunvigo.de/
+    jobs: https://sunvigo.jobs.personio.de/
+    description: Operates PV on your roof
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 50.872733
+        long: 6.9989388
+    review: https://www.kununu.com/de/sunvigo2
+    rating: 4.7
   - name: Sono Motors
     website: https://sonomotors.com/
     jobs: https://sonomotors.jobs.personio.de
