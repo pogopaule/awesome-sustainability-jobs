@@ -2633,6 +2633,19 @@ jobs:
         long: 11.5671628
     review:
     rating:
+  - name: Sono Motors
+    website: https://sonomotors.com/
+    jobs: https://sonomotors.jobs.personio.de
+    description: Self-Charging Cars
+    remote: true
+    speculative: false
+    field: Electric Mobility
+    geo:
+      - country: Germany
+        lat: 48.2015339
+        long: 11.5457388
+    review: https://www.kununu.com/de/sono-motors1
+    rating: 4.4
 
 jobportals:
   - name: eejobs.de
