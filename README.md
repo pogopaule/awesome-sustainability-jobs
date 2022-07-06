@@ -251,6 +251,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [fleetster](https://www.fleetster.de) | [jobs](https://www.fleetster.de/fleetster-team) | [4.2/5](https://www.kununu.com/de/fleetster-next-generation-mobility-munich) | Software für Flottenmanagement, CarSharing und Vermietung | ✅ |  |
 | [Kumpan electric](https://www.kumpan-electric.com/) | [jobs](https://www.kumpan-electric.com/karriere/) |  | Hersteller von E-Rollern |  |  |
 | [ONOMOTION](https://onomotion.com) | [jobs](https://onomotion.com/karriere/) |  | Elektromobilität für den innerstädtischen Lieferverkehr | ✅ |  |
+| [Sono Motors](https://sonomotors.com/) | [jobs](https://sonomotors.jobs.personio.de) | [4.4/5](https://www.kununu.com/de/sono-motors1) | Self-Charging Cars |  | ✅ |
 
 
 #### Energy Efficiency
