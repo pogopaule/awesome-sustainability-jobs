@@ -2620,6 +2620,20 @@ jobs:
         long: -122.4767
     review: https://www.glassdoor.com/Reviews/Crusoe-Energy-Systems-Reviews-E5310664.htm
     rating: '5.0'
+  - name: Opernikus
+    website: https://opernikus.de/
+    jobs: https://opernikus.de/jobs/
+    description: IT-Projektpartner für die Digitalisierung der Energieversorgung
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 48.1290762
+        long: 11.5671628
+    review:
+    rating:
+
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
