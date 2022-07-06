@@ -340,6 +340,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [be4energy](https://www.be4energy.com/) | [jobs](https://www.be4energy.com/index.php?option=com_content&view=category&layout=blog&id=20&Itemid=167) |  | Hard- und Software rund um die Energiewende | ✅ |  |
 | [greenventory](https://greenventory.de/) | [jobs](https://greenventory.de/#joinourteam) |  | Inventarisierung und Analyse verteilter Energiesysteme | ✅ |  |
 | [Valentin Software](https://valentin-software.com/) | [jobs](https://valentin-software.com/unternehmen/stellenangebote/) | [4.8/5](https://www.kununu.com/de/valentin-software) | Planungs- und Simulationssoftware für Erneuerbare Energien |  |  |
+| [Opernikus](https://opernikus.de/) | [jobs](https://opernikus.de/jobs/) |  | IT-Projektpartner für die Digitalisierung der Energieversorgung |  |  |
 
 
 #### Sharing Economy
