@@ -2698,6 +2698,19 @@ jobs:
         long: -43.474
     review:
     rating:
+  - name: Form Energy
+    website: https://formenergy.com/
+    jobs: https://jobs.lever.co/formenergy
+    description: multi-day energy storage systems
+    remote: false
+    speculative: true
+    field: Renewable Energy
+    geo:
+      - country: USA
+        lat: 42.3810954
+        long: -71.105156
+    review: https://www.glassdoor.com/Reviews/Form-Energy-Reviews-E3201025.htm
+    rating: 4.9
 
 jobportals:
   - name: eejobs.de
