@@ -523,6 +523,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [Terraformation](https://www.terraformation.com/) | [jobs](https://www.terraformation.com/about/careers) |  | Solving climate change with forest restoration |  | ✅ |
 | [HappyCow](https://www.happycow.net/) | [jobs](https://veganjobs.com/company/happycow/) |  | Find vegan and vegetarian restaurants |  | ✅ |
+| [Propagate](https://propagateag.com/) | [jobs](https://jobs.ashbyhq.com/propagate) |  | Regenerative Agriculture |  | ✅ |
 
 
 #### Renewable Energies
