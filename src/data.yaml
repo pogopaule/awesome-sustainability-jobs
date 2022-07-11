@@ -2685,6 +2685,19 @@ jobs:
         long: -122.1622186
     review: https://www.glassdoor.com/Reviews/Nel-Hydrogen-Reviews-E3033082.htm
     rating: 4.0
+  - name: Propagate
+    website: https://propagateag.com/
+    jobs: https://jobs.ashbyhq.com/propagate
+    description: Regenerative Agriculture
+    remote: true
+    speculative: false
+    field: Misc.
+    geo:
+      - country: Remote
+        lat: 30.3071
+        long: -43.474
+    review:
+    rating:
 
 jobportals:
   - name: eejobs.de
