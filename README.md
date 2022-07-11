@@ -758,6 +758,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [sighten](https://www.sighten.io/) | [jobs](https://www.sighten.io/about-us) | [3.7/5](https://www.glassdoor.com/Reviews/Sighten-Reviews-E1123873.htm) | Solar Design and Proposal Software |  |  |
 | [EnergySage](https://www.energysage.com/) | [jobs](https://www.energysage.com/about-us/careers/) | [4.7/5](https://www.glassdoor.com/Reviews/EnergySage-Reviews-E1018842.htm) | solar quotes online |  |  |
 | [myst ai](https://www.myst.ai/) | [jobs](https://jobs.lever.co/myst.ai) |  | Forecasting for renewable energies |  | ✅ |
+| [Nel](https://nelhydrogen.com/) | [jobs](https://nelhydrogen.com/careers/) | [4.0/5](https://www.glassdoor.com/Reviews/Nel-Hydrogen-Reviews-E3033082.htm) | Hydrogen Electrolysers and Fueling Stations |  |  |
 
 
 #### Sustainable Consumption
