@@ -463,6 +463,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.6/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
 
 
+#### Misc.
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Triodos Bank](https://www.triodos.com/) | [jobs](https://www.triodos.com/careers) | [4.1/5](https://www.glassdoor.com/Reviews/Triodos-Bank-Reviews-E27126.htm) | Sustainable Banking | ✅ |  |
+
+
 #### Renewable Energies
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
