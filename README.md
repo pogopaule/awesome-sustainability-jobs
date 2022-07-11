@@ -762,6 +762,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Nel](https://nelhydrogen.com/) | [jobs](https://nelhydrogen.com/careers/) | [4.0/5](https://www.glassdoor.com/Reviews/Nel-Hydrogen-Reviews-E3033082.htm) | Hydrogen Electrolysers and Fueling Stations |  |  |
 
 
+#### Renewable Energy
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Form Energy](https://formenergy.com/) | [jobs](https://jobs.lever.co/formenergy) | [4.9/5](https://www.glassdoor.com/Reviews/Form-Energy-Reviews-E3201025.htm) | multi-day energy storage systems | ✅ |  |
+
+
 #### Sustainable Consumption
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
