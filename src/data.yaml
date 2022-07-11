@@ -2667,9 +2667,9 @@ jobs:
     speculative: true
     field: Misc.
     geo:
-      country: Netherlands
-      lat: 52.0633204
-      long: 5.2577462
+      - country: Netherlands
+        lat: 52.0633204
+        long: 5.2577462
     review: https://www.glassdoor.com/Reviews/Triodos-Bank-Reviews-E27126.htm
     rating: 4.1
 
