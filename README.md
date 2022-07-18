@@ -708,6 +708,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [Kaiyo](https://kaiyo.com) | [jobs](https://kaiyo.com/careers) | [4.1/5](https://www.glassdoor.com/Reviews/Kaiyo-New-York-City-Reviews-EI_IE3279574.0,5_IL.6,19_IM615.htm) | Used-Furniture marketplace |  |  |
 | [AMP Robotics](https://www.amprobotics.com/) | [jobs](https://www.amprobotics.com/careers) | [4.2/5](https://www.glassdoor.com/Reviews/AMP-Robotics-Reviews-E1754764.htm) | Computer vision for recycling |  |  |
+| [Glacier](https://endwaste.io/) | [jobs](https://angel.co/company/glacier-2/jobs) |  | Robots for recycling |  |  |
 
 
 #### Electric Mobility
