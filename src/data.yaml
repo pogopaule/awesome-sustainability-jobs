@@ -2711,6 +2711,19 @@ jobs:
         long: -71.105156
     review: https://www.glassdoor.com/Reviews/Form-Energy-Reviews-E3201025.htm
     rating: 4.9
+  - name: Glacier
+    website: https://endwaste.io/
+    jobs: https://angel.co/company/glacier-2/jobs
+    description: Robots for recycling
+    remote: false
+    speculative: false
+    field: Circular Economy
+    geo:
+      - country: USA
+        lat: 37.7760013
+        long: -122.4143884
+    review:
+    rating:
 
 jobportals:
   - name: eejobs.de
