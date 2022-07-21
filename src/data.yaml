@@ -1,4 +1,17 @@
 jobs:
+  - name: Wiferion
+    website: https://wiferion.com/
+    jobs: https://jobs.wiferion.com/de
+    description: Inductive chargers
+    remote: false
+    speculative: true
+    field: Electric Mobility
+    geo:
+      - country: Germany
+        lat: 47.9886799
+        long: 7.7931801
+    review: https://www.kununu.com/de/wiferion
+    rating: 4.6
   - name: allplants
     website: https://allplants.com/
     jobs: https://jobs.lever.co/allplants
