@@ -1,4 +1,17 @@
 jobs:
+  - name: Orbital
+    website: https://orbital-systems.com/
+    jobs: https://careers.orbital-systems.com/
+    description: water and energy saving showers
+    remote: false
+    speculative: true
+    field: Misc.
+    geo:
+      - country: Sweden
+        lat: 55.6072982
+        long: 13.0009769
+    review:
+    rating:
   - name: Wiferion
     website: https://wiferion.com/
     jobs: https://jobs.wiferion.com/de
