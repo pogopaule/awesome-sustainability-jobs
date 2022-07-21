@@ -591,6 +591,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [Orbital](https://orbital-systems.com/) | [jobs](https://careers.orbital-systems.com/) |  | water and energy saving showers | ✅ |  |
 | [Karma](https://www.karma.life/) | [jobs](https://careers.karma.life/) |  | Food Saving |  | ✅ |
 
 
