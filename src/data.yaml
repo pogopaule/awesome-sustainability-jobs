@@ -1,4 +1,17 @@
 jobs:
+  - name: Raptor Maps
+    website: https://raptormaps.com/
+    jobs: https://jobs.lever.co/RaptorMaps
+    description: Analytics, Insights & Productivity Software for the Entire Solar Lifecycle
+    remote: true
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: USA
+        lat: 42.3815787
+        long: -71.1040279
+    review: https://www.glassdoor.com/Reviews/Raptor-Maps-Reviews-E2276080.htm
+    rating: 4.2
   - name: Orbital
     website: https://orbital-systems.com/
     jobs: https://careers.orbital-systems.com/
