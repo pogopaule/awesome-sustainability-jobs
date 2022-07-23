@@ -2743,7 +2743,7 @@ jobs:
     description: multi-day energy storage systems
     remote: false
     speculative: true
-    field: Renewable Energy
+    field: Renewable Energies
     geo:
       - country: USA
         lat: 42.3810954
