@@ -52,6 +52,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 - [Taiwan](#taiwan)
 - [UK](#uk)
 - [USA](#usa)
+- [Uganda](#uganda)
 - [Jobportals](#jobportals)
 
 ### Australia
@@ -295,6 +296,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [ENGIE Energy Access](https://engie-energyaccess.com/) | [jobs](https://engie-energyaccess.com/careers#openings) |  | Solar energy access for sub-saharan Africa |  |  |
 | [BayWa r.e.](https://www.baywa-re.com/) | [jobs](https://jobs.baywa-re.com/job-offers.html) | [3.7/5](https://www.kununu.com/de/baywareag) | Global provider for renewable energy solutions |  |  |
 | [OXYGEN TECHNOLOGIES](https://www.oxygen-technologies.de/) | [jobs](https://www.oxygen-technologies.de/ueber-uns/jobs/) | [4.9/5](https://www.kununu.com/de/oxygen-technologies1) | OXYGEN TECHNOLOGIES stellt Energieversorgern, Stadtwerken und Messstellenbetreibern IT-Lösungen bereit und treibt damit die Digitalisierung der Energiewirtschaft voran. | ✅ |  |
 | [Greenpeace Energy eG](https://www.greenpeace-energy.de) | [jobs](https://www.greenpeace-energy.de/ueber-uns/karriere.html) | [3.8/5](https://www.kununu.com/de/greenpeace-energy-eg2) | Anbieter für Ökostom und Ökogas |  |  |
@@ -772,6 +774,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Imperfect Foods](https://www.imperfectfoods.com/) | [jobs](https://jobs.lever.co/imperfectfoods) | [3.1/5](https://www.glassdoor.com/Reviews/Imperfect-Foods-Reviews-E1644405.htm) | Imperfect food delivery |  | ✅ |
+
+
+
+
+### Uganda
+
+#### Renewable Energies
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [ENGIE Energy Access](https://engie-energyaccess.com/) | [jobs](https://engie-energyaccess.com/careers#openings) |  | Solar energy access for sub-saharan Africa |  |  |
 
 
 
