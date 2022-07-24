@@ -1,4 +1,17 @@
 jobs:
+  - name: wren
+    website: https://www.wren.co/
+    jobs: https://www.wren.co/careers
+    description: Personal carbon offsetting
+    remote: false
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: USA
+        lat: 37.3301531
+        long: -122.0773876
+    review:
+    rating:
   - name: ENGIE Energy Access
     website: https://engie-energyaccess.com/
     jobs: https://engie-energyaccess.com/careers#openings
