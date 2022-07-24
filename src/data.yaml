@@ -1,4 +1,20 @@
 jobs:
+  - name: ENGIE Energy Access
+    website: https://engie-energyaccess.com/
+    jobs: https://engie-energyaccess.com/careers#openings
+    description: Solar energy access for sub-saharan Africa
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 52.4767332
+        long: 13.3596147
+      - country: Uganda
+        lat: 0.3131151
+        long: 32.5641061
+    review:
+    rating:
   - name: Raptor Maps
     website: https://raptormaps.com/
     jobs: https://jobs.lever.co/RaptorMaps
