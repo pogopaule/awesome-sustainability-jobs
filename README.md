@@ -698,6 +698,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [wren](https://www.wren.co/) | [jobs](https://www.wren.co/careers) |  | Personal carbon offsetting |  |  |
 | [Watershed](https://watershedclimate.com/) | [jobs](https://watershedclimate.com/jobs) |  | Helping companies cut carbon | ✅ | ✅ |
 | [Heirloom](https://www.heirloomcarbon.com/) | [jobs](https://jobs.lever.co/HeirloomTechnologies) |  | Removing 1 billion tons of carbon dioxide by 2035 |  |  |
 | [joro](https://www.joro.tech/) | [jobs](https://www.joro.tech/careers) |  | Joro connects your spending and environmental impact. |  | ✅ |
