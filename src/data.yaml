@@ -952,6 +952,19 @@ jobs:
         long: 9.099447
     review: https://www.kununu.com/de/climatepartner
     rating: 4.4
+    - name: ClearVUE.Business
+    website: https://clearvue.business/
+    jobs: https://clearvue.business/careers/
+    description: Energy and carbon management software for monitoring, reporting, and compliance
+    remote: false
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: UK
+        lat: 54.9690824
+        long: 1.5945893
+    review: 
+    rating: 
   - name: iPoint
     website: https://www.ipoint-systems.com/de/
     jobs: https://www.ipoint-systems.com/de/careers/
