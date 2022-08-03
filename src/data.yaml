@@ -960,9 +960,9 @@ jobs:
     speculative: false
     field: Carbon Analysis, Capture and Offsetting
     geo:
-      - country: UK
-        lat: 54.9690824
-        long: 1.5945893
+      - country: Malta
+        lat: 35.90075
+        long: 14.49290
     review: 
     rating: 
   - name: iPoint
