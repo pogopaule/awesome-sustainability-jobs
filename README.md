@@ -40,6 +40,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 - [Israel](#israel)
 - [Italy](#italy)
 - [Luxembourg](#luxembourg)
+- [Malta](#malta)
 - [Netherlands](#netherlands)
 - [Philippines](#philippines)
 - [Portugal](#portugal)
@@ -450,6 +451,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 
 
+### Malta
+
+#### Carbon Analysis, Capture and Offsetting
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [ClearVUE.Business](https://clearvue.business/) | [jobs](https://clearvue.business/careers/) |  | Energy and carbon management software for monitoring, reporting, and compliance |  |  |
+
+
+
+
 ### Netherlands
 
 #### Circular Economy
@@ -753,6 +765,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [BlocPower](https://www.blocpower.io) | [jobs](https://jobs.lever.co/BlocPower) | [4.2/5](https://www.glassdoor.com/Reviews/BlocPower-Reviews-E1453559.htm) | Heat pump systems | ✅ | ✅ |
 | [Raptor Maps](https://raptormaps.com/) | [jobs](https://jobs.lever.co/RaptorMaps) | [4.2/5](https://www.glassdoor.com/Reviews/Raptor-Maps-Reviews-E2276080.htm) | Analytics, Insights & Productivity Software for the Entire Solar Lifecycle |  | ✅ |
 | [Aurora Solar](https://www.aurorasolar.com/) | [jobs](https://www.aurorasolar.com/careers/) |  | Software for Solar Design and Sales |  | ✅ |
 | [Arcadia](https://www.arcadia.com/) | [jobs](https://welcome.arcadia.com/careers) |  | Tech platform that makes clean energy accessible in the USA |  | ✅ |
