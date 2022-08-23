@@ -1,4 +1,17 @@
 jobs:
+  - name: BlocPower
+    website: https://www.blocpower.io
+    jobs: https://jobs.lever.co/BlocPower
+    description: Heat pump systems
+    remote: true
+    speculative: true
+    field: Renewable Energies
+    geo:
+      - country: USA
+        lat: 40.6311127
+        long: -73.9464322
+    review: https://www.glassdoor.com/Reviews/BlocPower-Reviews-E1453559.htm
+    rating: 4.2
   - name: wren
     website: https://www.wren.co/
     jobs: https://www.wren.co/careers
