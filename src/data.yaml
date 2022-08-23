@@ -4,7 +4,7 @@ jobs:
     jobs: https://jobs.lever.co/BlocPower
     description: Heat pump systems
     remote: true
-    speculative: true
+    speculative: false
     field: Renewable Energies
     geo:
       - country: USA
