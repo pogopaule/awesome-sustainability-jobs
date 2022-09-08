@@ -10,7 +10,7 @@ jobs:
       - country: Netherlands
         lat: 52.399131
         long: 4.909506
-    review: https://www.glassdoor.com/Overview/Working-at-Metabolic-EI_IE1257662.11,20.htm
+    review: https://www.glassdoor.com/Reviews/Metabolic-Reviews-E1257662.htm
     rating: 4.4
   - name: BlocPower
     website: https://www.blocpower.io
