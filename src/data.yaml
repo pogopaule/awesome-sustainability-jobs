@@ -1,4 +1,17 @@
 jobs:
+  - name: Metabolic
+    website: https://www.metabolic.nl
+    jobs: https://www.metabolic.nl
+    description: Sustainability consulting
+    remote: true
+    speculative: false
+    field: Misc.
+    geo:
+      - country: Netherlands
+        lat: 52.399131
+        long: 4.909506
+    review: https://www.glassdoor.com/Reviews/Metabolic-Reviews-E1257662.htm
+    rating: 4.4
   - name: BlocPower
     website: https://www.blocpower.io
     jobs: https://jobs.lever.co/BlocPower
