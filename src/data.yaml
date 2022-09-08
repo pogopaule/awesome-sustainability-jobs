@@ -1,5 +1,5 @@
 jobs:
-- name: Metabolic
+  - name: Metabolic
     website: https://www.metabolic.nl
     jobs: https://www.metabolic.nl
     description: Sustainability consulting
@@ -11,20 +11,7 @@ jobs:
         lat: 52.399131
         long: 4.909506
     review: https://www.glassdoor.com/Overview/Working-at-Metabolic-EI_IE1257662.11,20.htm
-    rating: '4.4'
-- name: BlocPower
-    website: https://www.blocpower.io
-    jobs: https://jobs.lever.co/BlocPower
-    description: Heat pump systems
-    remote: true
-    speculative: false
-    field: Renewable Energies
-    geo:
-      - country: USA
-        lat: 40.6311127
-        long: -73.9464322
-    review: https://www.glassdoor.com/Reviews/BlocPower-Reviews-E1453559.htm
-    rating: '4.2'
+    rating: 4.4
   - name: BlocPower
     website: https://www.blocpower.io
     jobs: https://jobs.lever.co/BlocPower
