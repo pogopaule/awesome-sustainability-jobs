@@ -482,6 +482,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [Metabolic](https://www.metabolic.nl) | [jobs](https://www.metabolic.nl) | [4.4/5](https://www.glassdoor.com/Reviews/Metabolic-Reviews-E1257662.htm) | Sustainability consulting |  | ✅ |
 | [Triodos Bank](https://www.triodos.com/) | [jobs](https://www.triodos.com/careers) | [4.1/5](https://www.glassdoor.com/Reviews/Triodos-Bank-Reviews-E27126.htm) | Sustainable Banking | ✅ |  |
 
 
