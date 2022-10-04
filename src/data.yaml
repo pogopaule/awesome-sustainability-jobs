@@ -5,7 +5,7 @@ jobs:
     description: Carbon tracking and reduction for households / consumers.
     remote: true
     speculative: false
-    field: Carbon Analysis
+    field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: USA
         lat: 37.555073 
