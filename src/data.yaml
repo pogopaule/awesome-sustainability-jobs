@@ -8,12 +8,12 @@ jobs:
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: USA
-        lat: 37.555073 
+        lat: 37.555073
         long: -122.304402
       - country: Estonia
         lat: 59.438773
         long: 24.729189
-      - counry: Switzerland
+      - country: Switzerland
         lat: 47.364082
         long: 8.531865
     review:
