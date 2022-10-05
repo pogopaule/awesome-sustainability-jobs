@@ -6,6 +6,7 @@ import oyaml as yaml
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
 
 # https://github.com/yaml/pyyaml/issues/234#issuecomment-765894586
 
@@ -62,10 +63,10 @@ with open("data.yaml", "r") as stream:
                 if url.startswith("https://www.glassdoor"):
                     try:
                         driver.get(url)
-                        rating = driver.find_element_by_class_name(
-                            "v2__EIReviewsRatingsStylesV2__ratingNum").text
-                    except:
-                        print("error getting rating")
+                        rating = driver.find_element(
+                            By.CLASS_NAME, "v2__EIReviewsRatingsStylesV2__ratingNum").text
+                    except Exception as e:
+                        print("error getting rating", e)
 
                 print(rating)
                 job["rating"] = rating
