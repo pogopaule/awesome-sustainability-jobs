@@ -1,6 +1,5 @@
 import yaml
 import json
-from jinja2 import Template
 from utils import map_reduce, denormalize
 
 with open("data.yaml", "r") as stream:

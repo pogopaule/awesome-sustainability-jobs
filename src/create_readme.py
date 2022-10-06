@@ -13,7 +13,7 @@ def nest(seq, keys):
 
     first_key, *rest_keys = keys
 
-    keyfunc = lambda x: x[first_key]
+    def keyfunc(x): return x[first_key]
     grouped = groupby(sorted(seq, key=keyfunc), key=keyfunc)
     result = {}
     for key, value in grouped:
@@ -43,7 +43,8 @@ with open("data.yaml", "r") as stream:
     try:
         DATA = yaml.safe_load(stream)
 
-        DENORMALIZED_JOBS = map_reduce(composed(denormalize, remove_duplicate_country_entry), DATA["jobs"])
+        DENORMALIZED_JOBS = map_reduce(
+            composed(denormalize, remove_duplicate_country_entry), DATA["jobs"])
 
         NESTED_JOBS = nest(DENORMALIZED_JOBS, ["country", "field"])
         FIELDS = NESTED_JOBS.keys()
