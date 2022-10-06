@@ -19,8 +19,7 @@ jobs:
       - uses: actions/checkout@v2.4.0
       - uses: cachix/install-nix-action@v15
 
-      - run: cd src && nix develop
-      - run: cd src && pwd && python create_readme.py
+      - run: cd src && python create_readme.py
       - run: cd src && python create_map_data.py
 
       - name: Add & Commit
