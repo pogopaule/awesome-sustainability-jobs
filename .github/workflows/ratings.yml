@@ -14,7 +14,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2.4.0
-      - uses: cachix/install-nix-action@v15
 
       - run: cd src && nix develop
       - run: python update_reviews.py
