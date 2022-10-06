@@ -168,6 +168,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 ### Estonia
 
+#### Carbon Analysis, Capture and Offsetting
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Zerofy](https://www.zerofy.net) | [jobs](https://zerofy.recruitee.com) |  | Carbon tracking and reduction for households / consumers. |  | ✅ |
+
+
 #### Energy Efficiency
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
@@ -618,6 +625,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [Zerofy](https://www.zerofy.net) | [jobs](https://zerofy.recruitee.com) |  | Carbon tracking and reduction for households / consumers. |  | ✅ |
 | [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.2/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
 
@@ -711,6 +719,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [Zerofy](https://www.zerofy.net) | [jobs](https://zerofy.recruitee.com) |  | Carbon tracking and reduction for households / consumers. |  | ✅ |
 | [wren](https://www.wren.co/) | [jobs](https://www.wren.co/careers) |  | Personal carbon offsetting |  |  |
 | [Watershed](https://watershedclimate.com/) | [jobs](https://watershedclimate.com/jobs) |  | Helping companies cut carbon | ✅ | ✅ |
 | [Heirloom](https://www.heirloomcarbon.com/) | [jobs](https://jobs.lever.co/HeirloomTechnologies) |  | Removing 1 billion tons of carbon dioxide by 2035 |  |  |
