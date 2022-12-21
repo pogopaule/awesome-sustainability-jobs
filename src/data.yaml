@@ -1,4 +1,23 @@
 jobs:
+  - name: tiko
+    website: https://tiko.energy/
+    jobs: https://tiko.careers/
+    description: Energy analytics for homes
+    remote: false
+    speculative: false
+    field: Energy Efficiency
+    geo:
+      - country: Switzerland
+        lat: 47.3754231
+        long: 8.5172037
+      - country: Italy
+        lat: 45.4936751
+        long: 9.2062068
+      - country: France
+        lat: 48.8586935
+        long: 2.3030142
+    review: https://www.glassdoor.com/Reviews/tiko-Energy-Solutions-Reviews-E4844732.htm
+    rating: 3.9
   - name: Zerofy
     website: https://www.zerofy.net
     jobs: https://zerofy.recruitee.com
