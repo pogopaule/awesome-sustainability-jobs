@@ -204,6 +204,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Sweep](https://www.sweep.net) | [jobs](https://jobs.sweep.net) |  | Software to help companies reduce their carbon emissions | ✅ | ✅ |
 
 
+#### Energy Efficiency
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [tiko](https://tiko.energy/) | [jobs](https://tiko.careers/) | [3.9/5](https://www.glassdoor.com/Reviews/tiko-Energy-Solutions-Reviews-E4844732.htm) | Energy analytics for homes |  |  |
+
+
 #### Sharing Economy
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
@@ -445,6 +452,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.1/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 
 
+#### Energy Efficiency
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [tiko](https://tiko.energy/) | [jobs](https://tiko.careers/) | [3.9/5](https://www.glassdoor.com/Reviews/tiko-Energy-Solutions-Reviews-E4844732.htm) | Energy analytics for homes |  |  |
+
+
 
 
 ### Luxembourg
@@ -648,6 +662,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [tiko](https://tiko.energy/) | [jobs](https://tiko.careers/) | [3.9/5](https://www.glassdoor.com/Reviews/tiko-Energy-Solutions-Reviews-E4844732.htm) | Energy analytics for homes |  |  |
 | [ECCO2](https://www.ecco2.ch) | [jobs](https://ecco2.ch/career/) |  | Predictive heating controll |  |  |
 
 
