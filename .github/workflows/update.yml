@@ -25,6 +25,9 @@ jobs:
           extra_nix_config: |
             access-tokens = github.com=${{ secrets.GITHUB_TOKEN }}
 
+      - name: Run tests
+        run: cd src && nix develop .#test -c pytest
+
       - name: Run create_readme.py
         run: cd src && nix develop .#readmeAndMap -c python create_readme.py
 

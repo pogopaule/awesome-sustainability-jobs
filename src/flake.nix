@@ -7,6 +7,8 @@
     let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
+      pythonTest = pkgs.python3.withPackages (ps: with ps;
+        [ pytest ]);
       pythonReadmeAndMap = pkgs.python3.withPackages (ps: with ps;
         [
           pyyaml
@@ -21,10 +23,11 @@
     in
     {
       devShells.${system} = {
+        test = pkgs.mkShell {
+          buildInputs = [ pythonTest ];
+        };
         readmeAndMap = pkgs.mkShell {
-          buildInputs = [
-            pythonReadmeAndMap
-          ];
+          buildInputs = [ pythonReadmeAndMap ];
         };
         reviews = pkgs.mkShell {
           buildInputs = [
