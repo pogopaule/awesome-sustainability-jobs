@@ -25,6 +25,9 @@ jobs:
       - name: Remove Chrome
         run: sudo apt remove google-chrome-stable
 
+      - name: Remove Chromium
+        run: sudo apt remove chromium-browser
+
       - name: Run update_reviews.py
         run: cd src && nix develop -c python update_reviews.py
 
