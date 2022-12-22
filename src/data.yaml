@@ -17,7 +17,7 @@ jobs:
         lat: 48.8586935
         long: 2.3030142
     review: https://www.glassdoor.com/Reviews/tiko-Energy-Solutions-Reviews-E4844732.htm
-    rating: 3.9
+    rating: '3.9'
   - name: Zerofy
     website: https://www.zerofy.net
     jobs: https://zerofy.recruitee.com
@@ -175,7 +175,7 @@ jobs:
         lat: 48.1347179
         long: 11.5305658
     review: https://www.kununu.com/de/elli
-    rating: 3.3
+    rating: 3.2
   - name: right. based on science
     website: https://www.right-basedonscience.de/
     jobs: https://www.right-basedonscience.de/ueber-uns/#jobs
