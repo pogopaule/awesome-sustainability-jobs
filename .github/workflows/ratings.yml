@@ -26,7 +26,7 @@ jobs:
         run: sudo apt remove google-chrome-stable
 
       - name: Remove Chromium
-        run: sudo apt list --installed | grep chrome
+        run: sudo dpkg -l | grep -i chrome
 
       - name: Run update_reviews.py
         run: cd src && nix develop -c python update_reviews.py
