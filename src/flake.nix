@@ -7,11 +7,13 @@
     let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
-      python = pkgs.python3.withPackages (ps: with ps;
+      pythonReadmeAndMap = pkgs.python3.withPackages (ps: with ps;
         [
-          pytest
           pyyaml
           jinja2
+        ]);
+      pythonReviews = pkgs.python3.withPackages (ps: with ps;
+        [
           requests
           oyaml
           selenium
@@ -21,12 +23,12 @@
       devShells.${system} = {
         readmeAndMap = pkgs.mkShell {
           buildInputs = [
-            python
+            pythonReadmeAndMap
           ];
         };
         reviews = pkgs.mkShell {
           buildInputs = [
-            python
+            pythonReviews
             pkgs.chromedriver
             pkgs.chromium
           ];
