@@ -23,9 +23,6 @@ jobs:
             access-tokens = github.com=${{ secrets.GITHUB_TOKEN }}
 
       - name: Remove Chrome
-        run: sudo apt remove chrome
-
-      - name: Remove Chrome2
         run: sudo apt remove google-chrome
 
       - name: Run update_reviews.py
