@@ -22,12 +22,6 @@ jobs:
           extra_nix_config: |
             access-tokens = github.com=${{ secrets.GITHUB_TOKEN }}
 
-      - name: Remove Chrome
-        run: sudo apt remove google-chrome-stable
-
-      - name: Remove Chromium
-        run: sudo dpkg -l | grep -i chrom
-
       - name: Run update_reviews.py
         run: cd src && nix develop -c python update_reviews.py
 

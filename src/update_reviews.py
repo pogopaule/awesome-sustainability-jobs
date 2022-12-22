@@ -28,6 +28,8 @@ def dump_data(data):
 
 chrome_options = Options()
 chrome_options.add_argument("--headless")
+binary_location = "/nix/store/5hmqjx40frw4cf3gm2zz66s6hzrr0pjc-chromium-106.0.5249.61/bin/chromium"
+chrome_options.add_argument(f'--binary={binary_location}')
 driver = webdriver.Chrome(options=chrome_options)
 
 headers = {
