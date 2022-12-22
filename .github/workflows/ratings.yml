@@ -22,9 +22,6 @@ jobs:
           extra_nix_config: |
             access-tokens = github.com=${{ secrets.GITHUB_TOKEN }}
 
-      - name: Debug (deleteme)
-        run: which chrome
-
       - name: Remove Chrome
         run: sudo apt remove chrome
 
