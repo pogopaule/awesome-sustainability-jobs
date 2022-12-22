@@ -20,6 +20,7 @@ class TestUtils:
             "jobs": "https://elli.jobs.personio.de/",
             "geo": [
                 {
+                    "lat": 52.526286,
                     "country": "Germany",
                     "long": 13.4153968
                 },
