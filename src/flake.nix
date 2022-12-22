@@ -18,12 +18,20 @@
         ]);
     in
     {
-      devShells.${system}.default = pkgs.mkShell {
-        buildInputs = [
-          python
-          pkgs.chromedriver
-          pkgs.chromium
-        ];
+      devShells.${system} = {
+        readmeAndMap = pkgs.mkShell {
+          buildInputs = [
+            python
+          ];
+        };
+        reviews = pkgs.mkShell {
+          buildInputs = [
+            python
+            pkgs.chromedriver
+            pkgs.chromium
+          ];
+        };
+
       };
     };
 }
