@@ -1,4 +1,17 @@
 jobs:
+  - name: Ducky
+    website: https://www.ducky.eco/
+    jobs: https://careers.ducky.eco/jobs
+    description: Carbon emissions reduction platform
+    remote: false
+    speculative: false
+    field: Misc.
+    geo:
+      - country: Norway
+        lat: 63.431965
+        long: 10.402229
+    review:
+    rating:
   - name: tiko
     website: https://tiko.energy/
     jobs: https://tiko.careers/
