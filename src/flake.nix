@@ -36,6 +36,14 @@
             pkgs.chromium
           ];
         };
+        develop = pkgs.mkShell {
+          buildInputs = [
+            pythonTest
+            pythonReviews
+            pythonReadmeAndMap
+
+          ];
+        };
 
       };
     };
