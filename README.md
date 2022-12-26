@@ -42,6 +42,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 - [Luxembourg](#luxembourg)
 - [Malta](#malta)
 - [Netherlands](#netherlands)
+- [Norway](#norway)
 - [Philippines](#philippines)
 - [Portugal](#portugal)
 - [Remote](#remote)
@@ -519,6 +520,17 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Vanmoof](https://www.vanmoof.com) | [jobs](https://www.vanmoof.com/careers) | [3.8/5](https://www.glassdoor.com/Reviews/VANMOOF-Reviews-E1032387.htm) | E-Bike manufacturer |  |  |
+
+
+
+
+### Norway
+
+#### Misc.
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Ducky](https://www.ducky.eco/) | [jobs](https://careers.ducky.eco/jobs) |  | Carbon emissions reduction platform |  |  |
 
 
 
