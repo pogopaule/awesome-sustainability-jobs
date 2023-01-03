@@ -156,7 +156,7 @@ jobs:
         lat: 51.5922021
         long: -0.0432463
     review: https://www.glassdoor.co.uk/Reviews/Allplants-Reviews-E2958180.htm
-    rating: '4.6'
+    rating: '4.5'
   - name: BayWa r.e.
     website: https://www.baywa-re.com/
     jobs: https://jobs.baywa-re.com/job-offers.html
@@ -188,7 +188,7 @@ jobs:
         lat: 48.1347179
         long: 11.5305658
     review: https://www.kununu.com/de/elli
-    rating: 3.2
+    rating: 3.3
   - name: right. based on science
     website: https://www.right-basedonscience.de/
     jobs: https://www.right-basedonscience.de/ueber-uns/#jobs
@@ -516,7 +516,7 @@ jobs:
         lat: 51.3573118
         long: 12.3859104
     review: https://www.kununu.com/de/senec1
-    rating: 3.6
+    rating: 3.5
   - name: KACO new energy
     website: https://kaco-newenergy.com
     jobs: https://kaco-newenergy.com/de/karriere/stellenangebote/
@@ -815,7 +815,7 @@ jobs:
         lat: 51.3245077
         long: 12.3362985
     review: https://www.kununu.com/de/nextbike1
-    rating: 3.3
+    rating: 3.2
   - name: car2go
     website: https://www.share-now.com/de/de/
     jobs: https://boards.greenhouse.io/joinsharenow
@@ -1171,7 +1171,7 @@ jobs:
         lat: 51.5157685
         long: -0.1397249
     review: https://www.glassdoor.com/Reviews/Octopus-Energy-Reviews-E1482748.htm
-    rating: '4.4'
+    rating: '4.3'
   - name: OVO Energy
     website: https://www.ovoenergy.com/
     jobs: https://careers.ovo.com/opportunities
@@ -1385,7 +1385,7 @@ jobs:
         lat: 48.138339
         long: 11.5649452
     review: https://www.kununu.com/de/octopus-energy-germany
-    rating: 4.8
+    rating: 4.7
   - name: myclimate
     website: https://www.myclimate.org
     jobs: https://www.myclimate.org/information/about-myclimate/jobs/
@@ -1440,7 +1440,7 @@ jobs:
         lat: 55.7129716
         long: 12.5675979
     review: https://www.glassdoor.com/Reviews/Too-Good-To-Go-Reviews-E2402025.htm
-    rating: '3.9'
+    rating: '3.8'
   - name: Spenoki
     website: https://www.spenoki.de/
     jobs: https://spenoki-career.kenjo.io/
@@ -1540,7 +1540,7 @@ jobs:
         lat: 51.4523762
         long: -0.9935331
     review: https://www.glassdoor.com/Reviews/ChargePoint-Reviews-E722356.htm
-    rating: '3.9'
+    rating: '3.8'
   - name: ECCO2
     website: https://www.ecco2.ch
     jobs: https://ecco2.ch/career/
@@ -1929,7 +1929,7 @@ jobs:
         lat: 48.1496281
         long: 11.5540043
     review: https://www.kununu.com/de/memodo-kg
-    rating: 3.5
+    rating: 3.4
   - name: Voltus
     website: https://www.voltus.co/
     jobs: https://www.voltus.co/join-us/engineering
@@ -2100,7 +2100,7 @@ jobs:
         lat: 38.0350951
         long: 23.7949702
     review: https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm
-    rating: '2.8'
+    rating: '2.9'
   - name: Sense
     website: https://sense.com/
     jobs: https://sense.com/about#careers
@@ -2440,7 +2440,7 @@ jobs:
         lat: 52.4827494
         long: 13.3553999
     review: https://www.kununu.com/de/oekotec-energiemanagement
-    rating: 4.1
+    rating: 4.2
   - name: Leasing for Good
     website: https://www.leasingforgood.com
     jobs: https://www.leasingforgood.com/jobs#anchor-jobs
