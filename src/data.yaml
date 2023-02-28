@@ -2882,6 +2882,32 @@ jobs:
         long: -122.4143884
     review:
     rating:
+  - name: Green Coding Berlin
+    website: https://www.green-coding.berlin
+    jobs: https://www.green-coding.berlin/jobs/
+    description: Research the energy consumption of software and its infrastructure, create open source measurement tools
+    remote: false
+    speculative: true
+    field: Misc.
+    geo:
+      - country: Germany
+        lat: 52.520008
+        long: 13.404954
+    review:
+    rating:
+  - name: envite consulting
+    website: https://envite.de/
+    jobs: https://envite.de/karriere
+    description: Entwicklung von Software mit Fokus auf Energie- und Ressourceneffizienz
+    remote: false
+    speculative: true
+    field: Misc.
+    geo:
+      - country: Germany
+        lat: 48.708295
+        long: 9.170565
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
