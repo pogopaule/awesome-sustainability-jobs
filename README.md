@@ -306,6 +306,8 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [bettervest](https://www.bettervest.com/) | [jobs](https://www.bettervest.com/de/jobs/) | [3.3/5](https://www.kununu.com/de/bettervest) | Nachhaltige Geldanlagen |  |  |
 | [Fenntec](https://www.fenntec.de/) | [jobs](https://www.fenntec.de/karriere/) |  | Robots for weeds | ✅ |  |
 | [Acker e.V.](https://www.acker.co/) | [jobs](https://www.acker.co/Jobs) | [4.4/5](https://www.kununu.com/de/acker-e-v) | Innovative und praxisorientierte Konzepte für mehr Wertschätzung für Natur und Lebensmittel | ✅ | ✅ |
+| [Green Coding Berlin](https://www.green-coding.berlin) | [jobs](https://www.green-coding.berlin/jobs/) |  | Research the energy consumption of software and its infrastructure, create open source measurement tools | ✅ |  |
+| [envite consulting](https://envite.de/) | [jobs](https://envite.de/karriere) |  | Entwicklung von Software mit Fokus auf Energie- und Ressourceneffizienz | ✅ |  |
 
 
 #### Renewable Energies
