@@ -2882,6 +2882,19 @@ jobs:
         long: -122.4143884
     review:
     rating:
+  - name: Solytic
+    website: https://www.solytic.com/
+    jobs: https://solytic.jobs.personio.de/
+    description: Develops a hardware-independent monitoring solution for photovoltaic power plants
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 52.4896223
+        long: 13.423728
+    review: https://www.kununu.com/de/solytic1
+    rating: 4.2
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
