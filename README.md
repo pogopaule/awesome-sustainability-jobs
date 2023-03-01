@@ -362,6 +362,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Valentin Software](https://valentin-software.com/) | [jobs](https://valentin-software.com/unternehmen/stellenangebote/) | [4.8/5](https://www.kununu.com/de/valentin-software) | Planungs- und Simulationssoftware für Erneuerbare Energien |  |  |
 | [Opernikus](https://opernikus.de/) | [jobs](https://opernikus.de/jobs/) |  | IT-Projektpartner für die Digitalisierung der Energieversorgung |  |  |
 | [Sunvigo](https://www.sunvigo.de/) | [jobs](https://sunvigo.jobs.personio.de/) | [3.7/5](https://www.kununu.com/de/sunvigo2) | Operates PV on your roof | ✅ |  |
+| [Solytic](https://www.solytic.com/) | [jobs](https://solytic.jobs.personio.de/) | [4.2/5](https://www.kununu.com/de/solytic1) | Develops a hardware-independent monitoring solution for photovoltaic power plants |  |  |
 
 
 #### Sharing Economy
