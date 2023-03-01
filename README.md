@@ -865,6 +865,8 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 * [Impactify](https://impactify.de/)
 * [tbd.community](https://www.tbd.community/de/jobs)
 * [greenjobs](https://www.greenjobs.de/index.html)
+* [Jobverde.de](https://www.jobverde.de/)
+* [Stellenmarkt-Umweltschutz.de](https://stellenmarkt-umweltschutz.de/)
 
 
 ### Netherlands
@@ -888,5 +890,6 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 * [Green Recruitment](https://www.greenrecruitmentcompany.com/)
 * [Climatebase](https://climate.careers)
 * [GOODJOBS](https://goodjobs.careers/)
+* [naturetech.io](https://naturetech.io/)
 
 
