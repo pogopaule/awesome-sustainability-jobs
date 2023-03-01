@@ -362,6 +362,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Valentin Software](https://valentin-software.com/) | [jobs](https://valentin-software.com/unternehmen/stellenangebote/) | [4.8/5](https://www.kununu.com/de/valentin-software) | Planungs- und Simulationssoftware für Erneuerbare Energien |  |  |
 | [Opernikus](https://opernikus.de/) | [jobs](https://opernikus.de/jobs/) |  | IT-Projektpartner für die Digitalisierung der Energieversorgung |  |  |
 | [Sunvigo](https://www.sunvigo.de/) | [jobs](https://sunvigo.jobs.personio.de/) | [3.7/5](https://www.kununu.com/de/sunvigo2) | Operates PV on your roof | ✅ |  |
+| [Solytic](https://www.solytic.com/) | [jobs](https://solytic.jobs.personio.de/) | [4.2/5](https://www.kununu.com/de/solytic1) | Develops a hardware-independent monitoring solution for photovoltaic power plants |  |  |
 
 
 #### Sharing Economy
@@ -864,6 +865,8 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 * [Impactify](https://impactify.de/)
 * [tbd.community](https://www.tbd.community/de/jobs)
 * [greenjobs](https://www.greenjobs.de/index.html)
+* [Jobverde.de](https://www.jobverde.de/)
+* [Stellenmarkt-Umweltschutz.de](https://stellenmarkt-umweltschutz.de/)
 
 
 ### Netherlands
@@ -887,5 +890,6 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 * [Green Recruitment](https://www.greenrecruitmentcompany.com/)
 * [Climatebase](https://climate.careers)
 * [GOODJOBS](https://goodjobs.careers/)
+* [naturetech.io](https://naturetech.io/)
 
 

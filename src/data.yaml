@@ -2908,6 +2908,19 @@ jobs:
         long: 9.170565
     review:
     rating:
+  - name: Solytic
+    website: https://www.solytic.com/
+    jobs: https://solytic.jobs.personio.de/
+    description: Develops a hardware-independent monitoring solution for photovoltaic power plants
+    remote: false
+    speculative: false
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 52.4896223
+        long: 13.423728
+    review: https://www.kununu.com/de/solytic1
+    rating: 4.2
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
@@ -2954,3 +2967,12 @@ jobportals:
   - name: DrumRole
     website: https://www.drumrole.co/
     country: Europe
+  - name: Jobverde.de
+    website: https://www.jobverde.de/
+    country: Germany
+  - name: naturetech.io
+    website: https://naturetech.io/
+    country: Worldwide
+  - name: Stellenmarkt-Umweltschutz.de
+    website: https://stellenmarkt-umweltschutz.de/
+    country: Germany
