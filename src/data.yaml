@@ -2941,3 +2941,12 @@ jobportals:
   - name: DrumRole
     website: https://www.drumrole.co/
     country: Europe
+  - name: Jobverde.de
+    website: https://www.jobverde.de/
+    country: Germany
+  - name: naturetech.io
+    website: https://naturetech.io/
+    country: Worldwide
+  - name: Stellenmarkt-Umweltschutz.de
+    website: https://stellenmarkt-umweltschutz.de/
+    country: Germany
