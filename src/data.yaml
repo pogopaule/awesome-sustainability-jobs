@@ -321,7 +321,7 @@ jobs:
         lat: 53.1302601
         long: 8.153105
     review: https://www.kununu.com/de/energy-meteo-systems
-    rating: 3.8
+    rating: 3.5
   - name: DrehPunkt
     website: https://drehpunkt.de
     jobs: https://drehpunkt.de/jobs/
@@ -373,7 +373,7 @@ jobs:
         lat: 47.7737772
         long: 10.4085214
     review: https://www.kununu.com/de/sonnen-gmbh
-    rating: 3.4
+    rating: 3.5
   - name: FENECON
     website: https://fenecon.de
     jobs: https://www1.fenecon.de/karriere/
@@ -516,7 +516,7 @@ jobs:
         lat: 51.3573118
         long: 12.3859104
     review: https://www.kununu.com/de/senec1
-    rating: 3.6
+    rating: 3.5
   - name: KACO new energy
     website: https://kaco-newenergy.com
     jobs: https://kaco-newenergy.com/de/karriere/stellenangebote/
@@ -555,7 +555,7 @@ jobs:
         lat: 52.2771415
         long: 8.0503165
     review: https://www.kununu.com/de/e3dc2
-    rating: 3.5
+    rating: 3.3
   - name: Optimax Energy
     website: https://www.optimax-energy.de
     jobs: https://www.optimax-energy.de/index.php/karriere
@@ -581,7 +581,7 @@ jobs:
         lat: 53.562875
         long: 9.9300721
     review: https://www.kununu.com/de/dz-41
-    rating: 4.4
+    rating: 4.3
   - name: LichtBlick
     website: https://www.lichtblick.de
     jobs: https://www.lichtblick.de/karriere/jobs/
@@ -958,7 +958,7 @@ jobs:
         lat: 48.0333532
         long: 7.8487266
     review: https://www.kununu.com/de/waschbaer-umweltversand-triaz
-    rating: 3.1
+    rating: 3.0
   - name: ifu
     website: https://www.ifu.com/
     jobs: https://www.ifu.com/karriere/
@@ -1145,7 +1145,7 @@ jobs:
         lat: 51.5283914
         long: -0.2416799
     review: https://www.glassdoor.com/Reviews/Sylvera-Reviews-E4885878.htm
-    rating: '4.7'
+    rating: '4.6'
   - name: Startnext
     website: https://www.startnext.com
     jobs: https://www.startnext.com/info/jobs.html
@@ -1158,7 +1158,7 @@ jobs:
         lat: 51.0543338
         long: 13.813914
     review: https://www.kununu.com/de/startnext-crowdfunding
-    rating: 3.5
+    rating: 3.6
   - name: Octopus Energy
     website: https://octopus.energy
     jobs: https://octopus.energy/careers/
@@ -1184,7 +1184,7 @@ jobs:
         lat: 51.4533332
         long: -2.5866618
     review: https://www.glassdoor.com/Reviews/OVO-Reviews-E767881.htm
-    rating: '3.5'
+    rating: '3.4'
   - name: Clim8 Invest
     website: https://clim8invest.com/
     jobs: https://clim8invest.com/work-at-clim8/
@@ -1385,7 +1385,7 @@ jobs:
         lat: 48.138339
         long: 11.5649452
     review: https://www.kununu.com/de/octopus-energy-germany
-    rating: 4.6
+    rating: 4.5
   - name: myclimate
     website: https://www.myclimate.org
     jobs: https://www.myclimate.org/information/about-myclimate/jobs/
@@ -1440,7 +1440,7 @@ jobs:
         lat: 55.7129716
         long: 12.5675979
     review: https://www.glassdoor.com/Reviews/Too-Good-To-Go-Reviews-E2402025.htm
-    rating: '3.7'
+    rating: '3.8'
   - name: Spenoki
     website: https://www.spenoki.de/
     jobs: https://spenoki-career.kenjo.io/
@@ -1521,7 +1521,7 @@ jobs:
         lat: 51.3286985
         long: 12.325212
     review: https://www.kununu.com/de/energy2market1
-    rating: 3.9
+    rating: 4.0
   - name: ChargePoint
     website: https://www.chargepoint.com/
     jobs: https://www.chargepoint.com/about/opportunities/
@@ -1747,7 +1747,7 @@ jobs:
         lat: 40.7831
         long: -73.9712
     review: https://www.glassdoor.com/Reviews/Kaiyo-New-York-City-Reviews-EI_IE3279574.0,5_IL.6,19_IM615.htm
-    rating: '4.2'
+    rating: '4.4'
   - name: GreenDelta
     website: https://www.greendelta.com
     jobs: https://www.greendelta.com/about-us/open-positions/
@@ -1890,7 +1890,7 @@ jobs:
         lat: 51.521088
         long: -0.114766
     review: https://www.glassdoor.co.uk/Reviews/Arenko-Group-Reviews-E4554199.htm
-    rating: '4.2'
+    rating: '3.7'
   - name: ENERTRAG
     website: https://enertrag.com
     jobs: https://karriere.enertrag.com/stellenangebote.html
@@ -1929,7 +1929,7 @@ jobs:
         lat: 48.1496281
         long: 11.5540043
     review: https://www.kununu.com/de/memodo-kg
-    rating: 3.3
+    rating: 3.9
   - name: Voltus
     website: https://www.voltus.co/
     jobs: https://www.voltus.co/join-us/engineering
@@ -1942,7 +1942,7 @@ jobs:
         lat: 30.3071
         long: -43.374
     review: https://www.glassdoor.com/Reviews/Voltus-Reviews-E2090197.htm
-    rating: '4.0'
+    rating: '4.1'
   - name: Lune
     website: https://lune.co/
     jobs: https://lune.crew.work/jobs
@@ -2007,7 +2007,7 @@ jobs:
         lat: 34.4341951
         long: -119.858519
     review: https://www.glassdoor.com/Reviews/Apeel-Sciences-Reviews-E1366431.htm
-    rating: '4.3'
+    rating: '4.1'
   - name: Omnidian
     website: https://www.omnidian.com/
     jobs: https://jobs.lever.co/omnidian
@@ -2020,7 +2020,7 @@ jobs:
         lat: 47.6054185
         long: -122.3373539
     review: https://www.glassdoor.com/Reviews/Omnidian-Reviews-E2191560.htm
-    rating: '4.5'
+    rating: '4.6'
   - name: Climate Robotics
     website: https://www.climaterobotics.com
     jobs: https://apply.workable.com/climaterobotics/
@@ -2100,7 +2100,7 @@ jobs:
         lat: 38.0350951
         long: 23.7949702
     review: https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm
-    rating: '2.9'
+    rating: '2.8'
   - name: Sense
     website: https://sense.com/
     jobs: https://sense.com/about#careers
@@ -2177,7 +2177,7 @@ jobs:
         lat: 47.6124005
         long: -122.3376306
     review: https://www.glassdoor.com/Reviews/Palmetto-Reviews-E1554901.htm
-    rating: '3.3'
+    rating: '3.1'
   - name: nexamp
     website: https://www.nexamp.com/
     jobs: https://www.nexamp.com/careers/
@@ -2190,7 +2190,7 @@ jobs:
         lat: 42.3536122
         long: -71.0588075
     review: https://www.glassdoor.com/Reviews/Nexamp-Reviews-E808217_P3.htm
-    rating: '3.9'
+    rating: '4.0'
   - name: Full Harvest
     website: https://www.fullharvest.com/
     jobs: https://www.fullharvest.com/careers
@@ -2346,7 +2346,7 @@ jobs:
         lat: 37.3663407
         long: -121.9189347
     review: https://www.glassdoor.com/Reviews/Quantumscape-Reviews-E1349613.htm
-    rating: '3.6'
+    rating: '4.0'
   - name: greenventory
     website: https://greenventory.de/
     jobs: https://greenventory.de/#joinourteam
@@ -2547,7 +2547,7 @@ jobs:
         lat: 45.4665666
         long: -73.4660893
     review: https://www.glassdoor.com/Reviews/Power-Factors-Reviews-E1927187.htm
-    rating: '4.2'
+    rating: '4.3'
   - name: Ampersand
     website: https://www.ampersand.solar/
     jobs: https://ampersandelectricmobility.teamtailor.com/#section-jobs
@@ -2777,7 +2777,7 @@ jobs:
         lat: 37.7493
         long: -122.4767
     review: https://www.glassdoor.com/Reviews/Crusoe-Energy-Systems-Reviews-E5310664.htm
-    rating: '3.1'
+    rating: '3.8'
   - name: Opernikus
     website: https://opernikus.de/
     jobs: https://opernikus.de/jobs/
@@ -2803,7 +2803,7 @@ jobs:
         lat: 50.872733
         long: 6.9989388
     review: https://www.kununu.com/de/sunvigo2
-    rating: 3.7
+    rating: 4.4
   - name: Sono Motors
     website: https://sonomotors.com/
     jobs: https://sonomotors.jobs.personio.de
@@ -2842,7 +2842,7 @@ jobs:
         lat: 37.7152477
         long: -122.1622186
     review: https://www.glassdoor.com/Reviews/Nel-Hydrogen-Reviews-E3033082.htm
-    rating: '3.9'
+    rating: '4.0'
   - name: Propagate
     website: https://propagateag.com/
     jobs: https://jobs.ashbyhq.com/propagate
