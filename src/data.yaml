@@ -1840,18 +1840,18 @@ jobs:
     review:
     rating:
   - name: Watershed
-    website: https://watershedclimate.com/
-    jobs: https://watershedclimate.com/jobs
+    website: https://watershed.com/
+    jobs: https://watershed.com/jobs
     description: Helping companies cut carbon
     remote: true
-    speculative: true
+    speculative: false
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: USA
         lat: 37.7677274
         long: -122.4593556
-    review:
-    rating:
+    review: https://www.glassdoor.com/Reviews/Watershed-Reviews-E4668328.htm
+    rating: '4.8'
   - name: Heirloom
     website: https://www.heirloomcarbon.com/
     jobs: https://jobs.lever.co/HeirloomTechnologies
@@ -1865,17 +1865,17 @@ jobs:
         long: -122.4593546
     review:
     rating:
-  - name: joro
-    website: https://www.joro.tech/
-    jobs: https://www.joro.tech/careers
-    description: Joro connects your spending and environmental impact.
+  - name: Commons
+    website: https://www.thecommons.earth/
+    jobs: https://www.thecommons.earth/careers
+    description: Commons harnesses the collective power of people to tackle the climate crisis, starting with the emissions from their own spending.
     remote: true
-    speculative: false
+    speculative: true
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: USA
-        lat: 37.7677584
-        long: -122.4593546
+        lat: 37.80481547701627
+        long: -122.26746649653144
     review:
     rating:
   - name: Arenko
