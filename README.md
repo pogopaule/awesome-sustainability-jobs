@@ -751,9 +751,9 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [Zerofy](https://www.zerofy.net) | [jobs](https://zerofy.recruitee.com) |  | Carbon tracking and reduction for households / consumers. |  | ✅ |
 | [wren](https://www.wren.co/) | [jobs](https://www.wren.co/careers) |  | Personal carbon offsetting |  |  |
-| [Watershed](https://watershedclimate.com/) | [jobs](https://watershedclimate.com/jobs) |  | Helping companies cut carbon | ✅ | ✅ |
+| [Watershed](https://watershed.com/) | [jobs](https://watershed.com/jobs) | [4.8/5](https://www.glassdoor.com/Reviews/Watershed-Reviews-E4668328.htm) | Helping companies cut carbon |  | ✅ |
 | [Heirloom](https://www.heirloomcarbon.com/) | [jobs](https://jobs.lever.co/HeirloomTechnologies) |  | Removing 1 billion tons of carbon dioxide by 2035 |  |  |
-| [joro](https://www.joro.tech/) | [jobs](https://www.joro.tech/careers) |  | Joro connects your spending and environmental impact. |  | ✅ |
+| [Commons](https://www.thecommons.earth/) | [jobs](https://www.thecommons.earth/careers) |  | Commons harnesses the collective power of people to tackle the climate crisis, starting with the emissions from their own spending. | ✅ | ✅ |
 | [Patch](https://www.patch.io/) | [jobs](https://www.patch.io/careers) |  | API-first carbon removal |  | ✅ |
 | [Climate Robotics](https://www.climaterobotics.com) | [jobs](https://apply.workable.com/climaterobotics/) |  | They build robotics and artificial intelligence to fight climate change | ✅ |  |
 | [Pachama](https://pachama.com/) | [jobs](https://jobs.lever.co/pachama) | [5.0/5](https://www.glassdoor.com/Reviews/Pachama-Reviews-E3228050.htm) | Harnessing AI to drive carbon capture and protect global forests |  | ✅ |
