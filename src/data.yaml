@@ -231,19 +231,19 @@ jobs:
         long: -0.1284781
     review:
     rating:
-  - name: Momentum Dynamics
-    website: https://momentumdynamics.com/
-    jobs: https://momentumdynamics.bamboohr.com/jobs/
+  - name: InductEV
+    website: https://www.inductev.com/
+    jobs: https://www.inductev.com/careers
     description: Wireless charging
     remote: false
     speculative: false
     field: Electric Mobility
     geo:
       - country: USA
-        lat: 40.0374172
-        long: -75.5187589
-    review: https://www.glassdoor.com/Reviews/Momentum-Dynamics-Reviews-E2449206.htm
-    rating: '4.5'
+        lat: 40.10178353529586
+        long: -75.39697440134566
+    review: https://www.glassdoor.com/Reviews/InductEV-Reviews-E8199834.htm
+    rating: '1.0'
   - name: Orsted
     website: https://orsted.com/
     jobs: https://orsted.com/en/careers
@@ -1737,7 +1737,7 @@ jobs:
     rating:
   - name: Kaiyo
     website: https://kaiyo.com
-    jobs: https://kaiyo.com/careers
+    jobs: https://kaiyo.applytojob.com/apply
     description: Used-Furniture marketplace
     remote: false
     speculative: false
@@ -2062,8 +2062,8 @@ jobs:
     rating: '5.0'
   - name: LIFTE H2
     website: https://www.lifteh2.com/
-    jobs: https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc
-    description: hydrogen supply chains
+    jobs: https://www.lifteh2.com/careers
+    description: Hydrogen supply chains
     remote: false
     speculative: false
     field: Misc.
@@ -2103,10 +2103,10 @@ jobs:
     rating: '2.8'
   - name: Sense
     website: https://sense.com/
-    jobs: https://sense.com/about#careers
+    jobs: https://sense.com/careers
     description: Sense’s mission is to reduce global carbon emissions by making homes smart and efficient.
     remote: true
-    speculative: false
+    speculative: true
     field: Energy Efficiency
     geo:
       - country: Canada
@@ -2122,9 +2122,9 @@ jobs:
     rating: '4.4'
   - name: Xos
     website: https://xostrucks.com/
-    jobs: https://apply.workable.com/xos-trucks/
-    description: Decarbonizing transportation with reliable electric trucksk
-    remote: false
+    jobs: https://www.xostrucks.com/careers
+    description: Decarbonizing transportation with reliable electric trucks
+    remote: true
     speculative: false
     field: Electric Mobility
     geo:
@@ -2146,11 +2146,11 @@ jobs:
         long: 6.9100396
     review: https://www.kununu.com/de/einhundert-energie
     rating: 4.2
-  - name: droneseed
-    website: https://droneseed.com/
+  - name: Mast Reforestation
+    website: https://mastreforest.com/
     jobs: https://jobs.lever.co/droneseed
     description: Scalable reforestation via drones
-    remote: false
+    remote: true
     speculative: false
     field: Misc.
     geo:
@@ -2364,7 +2364,7 @@ jobs:
     website: https://nautiluslabs.com/
     jobs: https://nautiluslabs.com/careers/
     description: Efficiency of ocean commerce through artificial intelligence
-    remote: false
+    remote: true
     speculative: true
     field: Misc.
     geo:
@@ -2499,7 +2499,7 @@ jobs:
   - name: OhmConnect
     website: https://www.ohmconnect.com/
     jobs: https://www.ohmconnect.com/about-us/jobs
-    description: Safe energy and get paid
+    description: Save energy and get paid
     remote: true
     speculative: true
     field: Energy Efficiency
@@ -2522,9 +2522,9 @@ jobs:
         long: -122.276191
     review: https://www.glassdoor.com/Reviews/Motiv-Power-Systems-Reviews-E814313.htm
     rating: '3.5'
-  - name: WaveGrid
+  - name: WeaveGrid
     website: https://www.weavegrid.com/
-    jobs: https://www.weavegrid.com/careers#open-positions
+    jobs: https://www.weavegrid.com/careers
     description: Connecting electric vehicles to the grid
     remote: true
     speculative: false
@@ -2871,7 +2871,7 @@ jobs:
     rating: '4.9'
   - name: Glacier
     website: https://endwaste.io/
-    jobs: https://angel.co/company/glacier-2/jobs
+    jobs: hhttps://wellfound.com/company/glacier-2/jobs
     description: Robots for recycling
     remote: false
     speculative: false
