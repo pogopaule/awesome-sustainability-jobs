@@ -107,10 +107,10 @@ jobs:
     rating:
   - name: Raptor Maps
     website: https://raptormaps.com/
-    jobs: https://jobs.lever.co/RaptorMaps
+    jobs: https://raptormaps.com/careers/
     description: Analytics, Insights & Productivity Software for the Entire Solar Lifecycle
     remote: true
-    speculative: false
+    speculative: true
     field: Renewable Energies
     geo:
       - country: USA
@@ -1362,7 +1362,7 @@ jobs:
     rating:
   - name: Arcadia
     website: https://www.arcadia.com/
-    jobs: https://welcome.arcadia.com/careers
+    jobs: https://www.arcadia.com/careers
     description: Tech platform that makes clean energy accessible in the USA
     remote: true
     speculative: false
@@ -1485,7 +1485,7 @@ jobs:
     rating:
   - name: Clean Power Research
     website: https://www.cleanpower.com/
-    jobs: https://www.cleanpower.com/about-us/careers/
+    jobs: https://www.cleanpower.com/about/careers/
     description: Sofware for renewable energies
     remote: false
     speculative: false
@@ -1494,8 +1494,8 @@ jobs:
       - country: USA
         lat: 38.2949488
         long: -122.2897451
-    review:
-    rating:
+    review: https://www.glassdoor.com/Reviews/Clean-Power-Research-Reviews-E835005.htm
+    rating: '4.7'
   - name: Carrypicker
     website: https://www.carrypicker.com/
     jobs: https://www.carrypicker.com/jobs
@@ -2163,7 +2163,7 @@ jobs:
     website: https://palmetto.com/
     jobs: https://www.linkedin.com/careersite/palmetto
     description: Helping homeowners with solar
-    remote: false
+    remote: true
     speculative: false
     field: Renewable Energies
     geo:
@@ -2178,7 +2178,7 @@ jobs:
         long: -122.3376306
     review: https://www.glassdoor.com/Reviews/Palmetto-Reviews-E1554901.htm
     rating: '3.1'
-  - name: nexamp
+  - name: Nexamp
     website: https://www.nexamp.com/
     jobs: https://www.nexamp.com/careers/
     description: Solar for communities and homeowners
@@ -2454,12 +2454,12 @@ jobs:
         long: 9.8985829
     review:
     rating:
-  - name: sighten
-    website: https://www.sighten.io/
-    jobs: https://www.sighten.io/about-us
+  - name: EverBright
+    website: https://www.goeverbright.com/
+    jobs: https://www.goeverbright.com/careers
     description: Solar Design and Proposal Software
-    remote: false
-    speculative: false
+    remote: true
+    speculative: true
     field: Renewable Energies
     geo:
       - country: USA
@@ -2468,8 +2468,8 @@ jobs:
       - country: USA
         lat: 30.2563722
         long: -97.7980937
-    review: https://www.glassdoor.com/Reviews/Sighten-Reviews-E1123873.htm
-    rating: '3.9'
+    review:
+    rating:
   - name: Imperfect Foods
     website: https://www.imperfectfoods.com/
     jobs: https://jobs.lever.co/imperfectfoods
@@ -2681,7 +2681,7 @@ jobs:
         long: 10.1794959
     review: https://www.glassdoor.com/Reviews/Vestas-Wind-Systems-Reviews-E26454.htm
     rating: '3.8'
-  - name: myst ai
+  - name: Myst AI
     website: https://www.myst.ai/
     jobs: https://jobs.lever.co/myst.ai
     description: Forecasting for renewable energies
@@ -2832,7 +2832,7 @@ jobs:
     rating: '4.0'
   - name: Nel
     website: https://nelhydrogen.com/
-    jobs: https://nelhydrogen.com/careers/
+    jobs: https://careers.nelhydrogen.com/jobs
     description: Hydrogen Electrolysers and Fueling Stations
     remote: false
     speculative: false
