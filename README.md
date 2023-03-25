@@ -117,7 +117,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Sense](https://sense.com/) | [jobs](https://sense.com/about#careers) | [4.4/5](https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm) | Sense’s mission is to reduce global carbon emissions by making homes smart and efficient. |  | ✅ |
+| [Sense](https://sense.com/) | [jobs](https://sense.com/careers) | [4.4/5](https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm) | Sense’s mission is to reduce global carbon emissions by making homes smart and efficient. | ✅ | ✅ |
 
 
 #### Renewable Energies
@@ -302,7 +302,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [retraced](https://retraced.co/) | [jobs](https://retraced.notion.site/Ready-to-shoot-for-the-stars-Careers-retraced-f9c61236d40449ccbf3e0f818c3ff9e6) |  | Sustainable Supply Chain Management |  | ✅ |
 | [unown](https://unown-fashion.com) | [jobs](https://unown-fashion.com/pages/jobs) |  | Kleidung leasen |  | ✅ |
 | [ProjectTogether](https://projecttogether.org/) | [jobs](https://projecttogether.join.com/) |  | Innovationsplattform |  | ✅ |
-| [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
+| [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://www.lifteh2.com/careers) |  | Hydrogen supply chains |  |  |
 | [bettervest](https://www.bettervest.com/) | [jobs](https://www.bettervest.com/de/jobs/) | [3.3/5](https://www.kununu.com/de/bettervest) | Nachhaltige Geldanlagen |  |  |
 | [Fenntec](https://www.fenntec.de/) | [jobs](https://www.fenntec.de/karriere/) |  | Robots for weeds | ✅ |  |
 | [Acker e.V.](https://www.acker.co/) | [jobs](https://www.acker.co/Jobs) | [4.4/5](https://www.kununu.com/de/acker-e-v) | Innovative und praxisorientierte Konzepte für mehr Wertschätzung für Natur und Lebensmittel | ✅ | ✅ |
@@ -719,7 +719,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Sense](https://sense.com/) | [jobs](https://sense.com/about#careers) | [4.4/5](https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm) | Sense’s mission is to reduce global carbon emissions by making homes smart and efficient. |  | ✅ |
+| [Sense](https://sense.com/) | [jobs](https://sense.com/careers) | [4.4/5](https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm) | Sense’s mission is to reduce global carbon emissions by making homes smart and efficient. | ✅ | ✅ |
 
 
 #### Misc.
@@ -763,28 +763,28 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Kaiyo](https://kaiyo.com) | [jobs](https://kaiyo.com/careers) | [4.4/5](https://www.glassdoor.com/Reviews/Kaiyo-New-York-City-Reviews-EI_IE3279574.0,5_IL.6,19_IM615.htm) | Used-Furniture marketplace |  |  |
+| [Kaiyo](https://kaiyo.com) | [jobs](https://kaiyo.applytojob.com/apply) | [4.4/5](https://www.glassdoor.com/Reviews/Kaiyo-New-York-City-Reviews-EI_IE3279574.0,5_IL.6,19_IM615.htm) | Used-Furniture marketplace |  |  |
 | [AMP Robotics](https://www.amprobotics.com/) | [jobs](https://www.amprobotics.com/careers) | [4.2/5](https://www.glassdoor.com/Reviews/AMP-Robotics-Reviews-E1754764.htm) | Computer vision for recycling |  |  |
-| [Glacier](https://endwaste.io/) | [jobs](https://angel.co/company/glacier-2/jobs) |  | Robots for recycling |  |  |
+| [Glacier](https://endwaste.io/) | [jobs](hhttps://wellfound.com/company/glacier-2/jobs) |  | Robots for recycling |  |  |
 
 
 #### Electric Mobility
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Momentum Dynamics](https://momentumdynamics.com/) | [jobs](https://momentumdynamics.bamboohr.com/jobs/) | [4.5/5](https://www.glassdoor.com/Reviews/Momentum-Dynamics-Reviews-E2449206.htm) | Wireless charging |  |  |
+| [InductEV](https://www.inductev.com/) | [jobs](https://www.inductev.com/careers) | [1.0/5](https://www.glassdoor.com/Reviews/InductEV-Reviews-E8199834.htm) | Wireless charging |  |  |
 | [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) | [3.8/5](https://www.glassdoor.com/Reviews/ChargePoint-Reviews-E722356.htm) | Charging Solution |  | ✅ |
-| [Xos](https://xostrucks.com/) | [jobs](https://apply.workable.com/xos-trucks/) | [3.0/5](https://www.glassdoor.com/Reviews/Xos-Trucks-Reviews-E4643521.htm) | Decarbonizing transportation with reliable electric trucksk |  |  |
+| [Xos](https://xostrucks.com/) | [jobs](https://www.xostrucks.com/careers) | [3.0/5](https://www.glassdoor.com/Reviews/Xos-Trucks-Reviews-E4643521.htm) | Decarbonizing transportation with reliable electric trucks |  | ✅ |
 | [Motiv](https://www.motivps.com/) | [jobs](https://www.motivps.com/careers/) | [3.5/5](https://www.glassdoor.com/Reviews/Motiv-Power-Systems-Reviews-E814313.htm) | Freeing fleets from fossil fuels |  |  |
-| [WaveGrid](https://www.weavegrid.com/) | [jobs](https://www.weavegrid.com/careers#open-positions) |  | Connecting electric vehicles to the grid |  | ✅ |
+| [WeaveGrid](https://www.weavegrid.com/) | [jobs](https://www.weavegrid.com/careers) |  | Connecting electric vehicles to the grid |  | ✅ |
 
 
 #### Energy Efficiency
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [Sense](https://sense.com/) | [jobs](https://sense.com/about#careers) | [4.4/5](https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm) | Sense’s mission is to reduce global carbon emissions by making homes smart and efficient. |  | ✅ |
-| [OhmConnect](https://www.ohmconnect.com/) | [jobs](https://www.ohmconnect.com/about-us/jobs) | [4.4/5](https://www.glassdoor.com/Reviews/OhmConnect-Reviews-E1899586.htm) | Safe energy and get paid | ✅ | ✅ |
+| [Sense](https://sense.com/) | [jobs](https://sense.com/careers) | [4.4/5](https://www.glassdoor.com/Reviews/Sense-Reviews-E1367372.htm) | Sense’s mission is to reduce global carbon emissions by making homes smart and efficient. | ✅ | ✅ |
+| [OhmConnect](https://www.ohmconnect.com/) | [jobs](https://www.ohmconnect.com/about-us/jobs) | [4.4/5](https://www.glassdoor.com/Reviews/OhmConnect-Reviews-E1899586.htm) | Save energy and get paid | ✅ | ✅ |
 
 
 #### Misc.
@@ -792,11 +792,11 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [Apeel](https://www.apeel.com/) | [jobs](https://www.apeel.com/careers) | [4.1/5](https://www.glassdoor.com/Reviews/Apeel-Sciences-Reviews-E1366431.htm) | Plant-based protection for food |  | ✅ |
-| [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://recruiting.paylocity.com/recruiting/jobs/All/17a950e9-768a-4047-80d4-4d6e30c9466c/136047-Lifte-H2-Inc) |  | hydrogen supply chains |  |  |
-| [droneseed](https://droneseed.com/) | [jobs](https://jobs.lever.co/droneseed) | [4.5/5](https://www.glassdoor.com/Reviews/DroneSeed-Reviews-E2860929.htm) | Scalable reforestation via drones |  |  |
+| [LIFTE H2](https://www.lifteh2.com/) | [jobs](https://www.lifteh2.com/careers) |  | Hydrogen supply chains |  |  |
+| [Mast Reforestation](https://mastreforest.com/) | [jobs](https://jobs.lever.co/droneseed) | [4.5/5](https://www.glassdoor.com/Reviews/DroneSeed-Reviews-E2860929.htm) | Scalable reforestation via drones |  | ✅ |
 | [Full Harvest](https://www.fullharvest.com/) | [jobs](https://www.fullharvest.com/careers) | [4.6/5](https://www.glassdoor.com/Reviews/Full-Harvest-Reviews-E1556155.htm) | Source Surplus & Imperfect Produce Online |  |  |
 | [Afresh](https://www.afresh.com/) | [jobs](https://boards.greenhouse.io/afresh) | [4.7/5](https://www.glassdoor.com/Reviews/Afresh-Technologies-Reviews-E2506321.htm) | AI-powered food waste reduction |  | ✅ |
-| [Nautilus Labs](https://nautiluslabs.com/) | [jobs](https://nautiluslabs.com/careers/) | [4.6/5](https://www.glassdoor.com/Reviews/Nautilus-Labs-Reviews-E1937449.htm) | Efficiency of ocean commerce through artificial intelligence | ✅ |  |
+| [Nautilus Labs](https://nautiluslabs.com/) | [jobs](https://nautiluslabs.com/careers/) | [4.6/5](https://www.glassdoor.com/Reviews/Nautilus-Labs-Reviews-E1937449.htm) | Efficiency of ocean commerce through artificial intelligence | ✅ | ✅ |
 | [Culdesac](https://culdesac.com/) | [jobs](https://culdesac.com/careers) | [5.0/5](https://www.glassdoor.com/Reviews/Culdesac-Reviews-E4410206.htm) | Car-Free Neighborhoods |  | ✅ |
 | [Crusoe](https://www.crusoeenergy.com) | [jobs](https://www.crusoeenergy.com/careers) | [3.8/5](https://www.glassdoor.com/Reviews/Crusoe-Energy-Systems-Reviews-E5310664.htm) | Reduce the routine flaring of natural gas |  |  |
 
@@ -806,20 +806,20 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [BlocPower](https://www.blocpower.io) | [jobs](https://jobs.lever.co/BlocPower) | [4.0/5](https://www.glassdoor.com/Reviews/BlocPower-Reviews-E1453559.htm) | Heat pump systems |  | ✅ |
-| [Raptor Maps](https://raptormaps.com/) | [jobs](https://jobs.lever.co/RaptorMaps) | [4.2/5](https://www.glassdoor.com/Reviews/Raptor-Maps-Reviews-E2276080.htm) | Analytics, Insights & Productivity Software for the Entire Solar Lifecycle |  | ✅ |
+| [Raptor Maps](https://raptormaps.com/) | [jobs](https://raptormaps.com/careers/) | [4.2/5](https://www.glassdoor.com/Reviews/Raptor-Maps-Reviews-E2276080.htm) | Analytics, Insights & Productivity Software for the Entire Solar Lifecycle | ✅ | ✅ |
 | [Aurora Solar](https://www.aurorasolar.com/) | [jobs](https://www.aurorasolar.com/careers/) |  | Software for Solar Design and Sales |  | ✅ |
-| [Arcadia](https://www.arcadia.com/) | [jobs](https://welcome.arcadia.com/careers) |  | Tech platform that makes clean energy accessible in the USA |  | ✅ |
-| [Clean Power Research](https://www.cleanpower.com/) | [jobs](https://www.cleanpower.com/about-us/careers/) |  | Sofware for renewable energies |  |  |
+| [Arcadia](https://www.arcadia.com/) | [jobs](https://www.arcadia.com/careers) |  | Tech platform that makes clean energy accessible in the USA |  | ✅ |
+| [Clean Power Research](https://www.cleanpower.com/) | [jobs](https://www.cleanpower.com/about/careers/) | [4.7/5](https://www.glassdoor.com/Reviews/Clean-Power-Research-Reviews-E835005.htm) | Sofware for renewable energies |  |  |
 | [Omnidian](https://www.omnidian.com/) | [jobs](https://jobs.lever.co/omnidian) | [4.6/5](https://www.glassdoor.com/Reviews/Omnidian-Reviews-E2191560.htm) | Clean energy investments |  | ✅ |
-| [Palmetto](https://palmetto.com/) | [jobs](https://www.linkedin.com/careersite/palmetto) | [3.1/5](https://www.glassdoor.com/Reviews/Palmetto-Reviews-E1554901.htm) | Helping homeowners with solar |  |  |
-| [nexamp](https://www.nexamp.com/) | [jobs](https://www.nexamp.com/careers/) | [4.0/5](https://www.glassdoor.com/Reviews/Nexamp-Reviews-E808217_P3.htm) | Solar for communities and homeowners |  |  |
+| [Palmetto](https://palmetto.com/) | [jobs](https://www.linkedin.com/careersite/palmetto) | [3.1/5](https://www.glassdoor.com/Reviews/Palmetto-Reviews-E1554901.htm) | Helping homeowners with solar |  | ✅ |
+| [Nexamp](https://www.nexamp.com/) | [jobs](https://www.nexamp.com/careers/) | [4.0/5](https://www.glassdoor.com/Reviews/Nexamp-Reviews-E808217_P3.htm) | Solar for communities and homeowners |  |  |
 | [Everlight Solar](https://www.everlightsolar.com/) | [jobs](https://www.everlightsolar.com/jobs/) | [4.6/5](https://www.glassdoor.com/Reviews/Everlight-Solar-Reviews-E3183804.htm) | Everlight Solar enables households to own their power |  | ✅ |
 | [Voltaiq](https://www.voltaiq.com/) | [jobs](https://www.voltaiq.com/careers/) | [3.0/5](https://www.glassdoor.com/Reviews/Voltaiq-Reviews-E2476462.htm) | Battery Intelligence Platform |  | ✅ |
 | [QuantumScape](https://www.quantumscape.com/) | [jobs](https://jobs.lever.co/quantumscape) | [4.0/5](https://www.glassdoor.com/Reviews/Quantumscape-Reviews-E1349613.htm) | solid-state lithium-metal batteries |  |  |
-| [sighten](https://www.sighten.io/) | [jobs](https://www.sighten.io/about-us) | [3.9/5](https://www.glassdoor.com/Reviews/Sighten-Reviews-E1123873.htm) | Solar Design and Proposal Software |  |  |
+| [EverBright](https://www.goeverbright.com/) | [jobs](https://www.goeverbright.com/careers) |  | Solar Design and Proposal Software | ✅ | ✅ |
 | [EnergySage](https://www.energysage.com/) | [jobs](https://www.energysage.com/about-us/careers/) | [4.9/5](https://www.glassdoor.com/Reviews/EnergySage-Reviews-E1018842.htm) | solar quotes online |  |  |
-| [myst ai](https://www.myst.ai/) | [jobs](https://jobs.lever.co/myst.ai) |  | Forecasting for renewable energies |  | ✅ |
-| [Nel](https://nelhydrogen.com/) | [jobs](https://nelhydrogen.com/careers/) | [4.0/5](https://www.glassdoor.com/Reviews/Nel-Hydrogen-Reviews-E3033082.htm) | Hydrogen Electrolysers and Fueling Stations |  |  |
+| [Myst AI](https://www.myst.ai/) | [jobs](https://jobs.lever.co/myst.ai) |  | Forecasting for renewable energies |  | ✅ |
+| [Nel](https://nelhydrogen.com/) | [jobs](https://careers.nelhydrogen.com/jobs) | [4.0/5](https://www.glassdoor.com/Reviews/Nel-Hydrogen-Reviews-E3033082.htm) | Hydrogen Electrolysers and Fueling Stations |  |  |
 | [Form Energy](https://formenergy.com/) | [jobs](https://jobs.lever.co/formenergy) | [4.9/5](https://www.glassdoor.com/Reviews/Form-Energy-Reviews-E3201025.htm) | multi-day energy storage systems | ✅ |  |
 
 
