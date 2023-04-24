@@ -2946,6 +2946,10 @@ jobportals:
   - name: greenjobs
     website: https://www.greenjobs.de/index.html
     country: Germany
+  - name: ClimateTechList: climate tech jobs for software engineers
+    website: http://climatetechlist.com/
+    country: Worldwide
+
   - name: Green Recruitment
     website: https://www.greenrecruitmentcompany.com/
     country: Worldwide
