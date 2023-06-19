@@ -2613,19 +2613,6 @@ jobs:
         long: 8.7035866
     review:
     rating:
-  - name: Bulb Energy
-    website: https://bulb.co.uk/
-    jobs: https://bulb.co.uk/careers/#open-roles
-    description: Green energy supplier
-    remote: false
-    speculative: true
-    field: Renewable Energies
-    geo:
-      - country: UK
-        lat: 51.5189665
-        long: -0.0806865
-    review: https://www.glassdoor.com/Reviews/Bulb-Reviews-E1498482.htm
-    rating: '3.4'
   - name: Fenntec
     website: https://www.fenntec.de/
     jobs: https://www.fenntec.de/karriere/
