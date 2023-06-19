@@ -2929,9 +2929,6 @@ jobportals:
   - name: Greenjobs
     website: https://greenjobs.nl/
     country: Netherlands
-  - name: Tech Jobs for Good
-    website: https://techjobsforgood.com/
-    country: USA
   - name: GOODJOBS
     website: https://goodjobs.careers/
     country: Worldwide
