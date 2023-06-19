@@ -1185,19 +1185,6 @@ jobs:
         long: -2.5866618
     review: https://www.glassdoor.com/Reviews/OVO-Reviews-E767881.htm
     rating: '3.4'
-  - name: Clim8 Invest
-    website: https://clim8invest.com/
-    jobs: https://clim8invest.com/work-at-clim8/
-    description: Investments into clean energy and green, sustainable companies
-    remote: false
-    speculative: false
-    field: Misc.
-    geo:
-      - country: UK
-        lat: 51.4934478
-        long: -0.2275489
-    review: https://www.glassdoor.co.uk/Reviews/Clim8-Invest-Reviews-E3443972.htm
-    rating: '4.0'
   - name: Ampeers Energy
     website: https://ampeersenergy.de/
     jobs: https://ampeersenergy.de/karriere/
