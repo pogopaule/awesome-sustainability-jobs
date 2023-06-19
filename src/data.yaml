@@ -2976,3 +2976,33 @@ jobportals:
   - name: Stellenmarkt-Umweltschutz.de
     website: https://stellenmarkt-umweltschutz.de/
     country: Germany
+  - name: LinkedIn Green Jobs
+    website: https://www.linkedin.com/jobs/collections/green-jobs/
+    country: Worldwide
+  - name: Hyperion Search
+    website: https://hyperionsearch.co.uk/latest-jobs/
+    country: Worldwide
+  - name: SR2 - Socially Responsible Recruitment - B Corp
+    website: https://sr2rec.com/jobs/
+    country: UK
+  - name: SR2 - Socially Responsible Recruitment - B Corp
+    website: https://sr2rec.com/us/
+    country: USA
+  - name: B-Work - jobs at B Corps
+    website: https://www.bwork.com/candidate/job_search/quick/results?
+    country: Worldwide
+  - name: 80000 hours jobs board - Jobs with Impact
+    website: https://jobs.80000hours.org/
+    country: Worldwide
+  - name: Escape The City - Jobs with Impact
+    website: https://jobs.80000hours.org/
+    country: Worldwide
+  - name: Taylor Hopkinson - Renewable Energy Jobs
+    website: https://www.taylorhopkinson.com/
+    country: Worldwide
+  - name: Terra.do - Climate Company Jobs
+    website: https://terra.do/climate-jobs/job-board/
+    country: Worldwide
+  - name: Maritime and Renewable Energy Jobs
+    website: https://www.executive-integrity.com/
+    country: Worldwide
