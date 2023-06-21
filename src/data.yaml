@@ -2934,6 +2934,19 @@ jobs:
         long: 
     review: 
     rating: 
+  - name: Advanced Infrastructure
+    website: https://www.advanced-infrastructure.co.uk/
+    jobs: https://www.advanced-infrastructure.co.uk/career
+    description: Our mission is to "accelerate an informed, fair and affordable transition to a net zero energy system"
+    remote: false
+    speculative: false
+    field: Misc.
+    geo:
+      - country: UK
+        lat: 
+        long: 
+    review: 
+    rating: 
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
