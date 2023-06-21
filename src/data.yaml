@@ -2908,6 +2908,19 @@ jobs:
         long: 
     review: 
     rating: 
+  - name: CarbonRe
+    website: https://carbonthirteen.com/our-portfolio
+    jobs: https://carbonthirteen.com/careers/
+    description: The Venture Builder for the Climate Emergency
+    remote: false
+    speculative: false
+    field: Misc.
+    geo:
+      - country: UK
+        lat: 
+        long: 
+    review: 
+    rating: 
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
