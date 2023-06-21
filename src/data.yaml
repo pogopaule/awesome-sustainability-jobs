@@ -2921,6 +2921,19 @@ jobs:
         long: 
     review: 
     rating: 
+  - name: ITO World
+    website: https://www.itoworld.com/
+    jobs: https://itoworld.bamboohr.com/careers
+    description: Enhance passenger experience and operational efficiency by analysing, adjusting and distributing highly accurate real-time public transit data.
+    remote: false
+    speculative: false
+    field: Misc.
+    geo:
+      - country: UK
+        lat: 
+        long: 
+    review: 
+    rating: 
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
