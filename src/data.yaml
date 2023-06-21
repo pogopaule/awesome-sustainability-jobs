@@ -2895,6 +2895,19 @@ jobs:
         long: 13.423728
     review: https://www.kununu.com/de/solytic1
     rating: 4.2
+  - name: CarbonRe
+    website: https://carbonre.com/
+    jobs: https://carbonre.com/careers/
+    description: Building breakthrough artificial intelligence to master the production of materials for a zero carbon future.
+    remote: false
+    speculative: false
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: UK
+        lat: 
+        long: 
+    review: 
+    rating: 
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
