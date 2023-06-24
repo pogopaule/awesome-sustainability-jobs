@@ -2908,19 +2908,6 @@ jobs:
         long: -0.099639
     review: https://www.glassdoor.co.uk/Reviews/Carbon-Re-Reviews-E8088483.htm
     rating: 5.0
-  - name: Carbon13
-    website: https://carbonthirteen.com/our-portfolio
-    jobs: https://carbonthirteen.com/careers/
-    description: The Venture Builder for the Climate Emergency
-    remote: false
-    speculative: false
-    field: Misc.
-    geo:
-      - country: UK
-        lat: 
-        long: 
-    review: 
-    rating: 
   - name: ITO World
     website: https://www.itoworld.com/
     jobs: https://itoworld.bamboohr.com/careers
@@ -3038,3 +3025,6 @@ jobportals:
   - name: Maritime and Renewable Energy Jobs
     website: https://www.executive-integrity.com/
     country: Worldwide
+  - name: Carbon13 - The Venture Builder for the Climate Emergency
+    website: https://carbonthirteen.com/careers/
+    country: UK
