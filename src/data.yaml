@@ -2945,6 +2945,12 @@ jobs:
       - country: UK
         lat: 52.2024091
         long: 0.1223972
+      - country: Greece
+        lat: 
+        long: 
+      - country: India
+        lat: 
+        long: 
     review: 
     rating: 
 jobportals:
