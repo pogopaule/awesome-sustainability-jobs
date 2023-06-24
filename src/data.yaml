@@ -2938,13 +2938,13 @@ jobs:
     website: https://www.advanced-infrastructure.co.uk/
     jobs: https://www.advanced-infrastructure.co.uk/career
     description: Our mission is to "accelerate an informed, fair and affordable transition to a net zero energy system"
-    remote: false
-    speculative: false
+    remote: true
+    speculative: true
     field: Misc.
     geo:
       - country: UK
-        lat: 
-        long: 
+        lat: 52.2024091
+        long: 0.1223972
     review: 
     rating: 
 jobportals:
