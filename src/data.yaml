@@ -2947,34 +2947,6 @@ jobs:
         long: 
     review: 
     rating: 
-  - name: B Lab Global
-    website: http://www.bcorporation.net/
-    jobs: https://boards.greenhouse.io/blab?gh_jid=5505108002
-    description: Make Business a Force For Good
-    remote: false
-    speculative: false
-    field: Misc.
-    geo:
-      - country: UK
-        lat: 
-        long:
-      - country: USA
-        lat: 
-        long: 
-      - country: Australia
-        lat: 
-        long: 
-      - country: Netherlands
-        lat: 
-        long: 
-      - country: Chile
-        lat: 
-        long: 
-      - country: Brazil
-        lat: 
-        long: 
-    review: 
-    rating: 
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
