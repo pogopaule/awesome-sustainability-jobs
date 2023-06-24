@@ -2925,15 +2925,18 @@ jobs:
     website: https://www.itoworld.com/
     jobs: https://itoworld.bamboohr.com/careers
     description: Enhance passenger experience and operational efficiency by analysing, adjusting and distributing highly accurate real-time public transit data.
-    remote: false
+    remote: true
     speculative: false
-    field: Misc.
+    field: Sustainable Mobility
     geo:
       - country: UK
-        lat: 
-        long: 
-    review: 
-    rating: 
+        lat: 52.2336658
+        long: 0.1437208
+      - country: UK
+        lat: 51.5562266
+        long: -0.1798483
+    review: https://www.glassdoor.com/Reviews/Ito-World-Reviews-E3350756.htm
+    rating: 4.5
   - name: Advanced Infrastructure
     website: https://www.advanced-infrastructure.co.uk/
     jobs: https://www.advanced-infrastructure.co.uk/career
