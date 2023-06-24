@@ -2900,14 +2900,14 @@ jobs:
     jobs: https://carbonre.com/careers/
     description: Building breakthrough artificial intelligence to master the production of materials for a zero carbon future.
     remote: false
-    speculative: false
+    speculative: true
     field: Carbon Analysis, Capture and Offsetting
     geo:
       - country: UK
-        lat: 
-        long: 
-    review: 
-    rating: 
+        lat: 51.5045783
+        long: -0.099639
+    review: https://www.glassdoor.co.uk/Reviews/Carbon-Re-Reviews-E8088483.htm
+    rating: 5.0
   - name: Carbon13
     website: https://carbonthirteen.com/our-portfolio
     jobs: https://carbonthirteen.com/careers/
