@@ -2930,8 +2930,8 @@ jobs:
     field: Electric Mobility
     geo:
       - country: Germany
-        lat: 48.12958616042683
-        long: 11.532228380086728
+        lat: 48.129586
+        long: 11.532228
     review: https://www.kununu.com/de/munich-electrification
     rating: 4.6
 jobportals:
