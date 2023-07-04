@@ -1185,19 +1185,6 @@ jobs:
         long: -2.5866618
     review: https://www.glassdoor.com/Reviews/OVO-Reviews-E767881.htm
     rating: '3.4'
-  - name: Clim8 Invest
-    website: https://clim8invest.com/
-    jobs: https://clim8invest.com/work-at-clim8/
-    description: Investments into clean energy and green, sustainable companies
-    remote: false
-    speculative: false
-    field: Misc.
-    geo:
-      - country: UK
-        lat: 51.4934478
-        long: -0.2275489
-    review: https://www.glassdoor.co.uk/Reviews/Clim8-Invest-Reviews-E3443972.htm
-    rating: '4.0'
   - name: Ampeers Energy
     website: https://ampeersenergy.de/
     jobs: https://ampeersenergy.de/karriere/
@@ -2613,19 +2600,6 @@ jobs:
         long: 8.7035866
     review:
     rating:
-  - name: Bulb Energy
-    website: https://bulb.co.uk/
-    jobs: https://bulb.co.uk/careers/#open-roles
-    description: Green energy supplier
-    remote: false
-    speculative: true
-    field: Renewable Energies
-    geo:
-      - country: UK
-        lat: 51.5189665
-        long: -0.0806865
-    review: https://www.glassdoor.com/Reviews/Bulb-Reviews-E1498482.htm
-    rating: '3.4'
   - name: Fenntec
     website: https://www.fenntec.de/
     jobs: https://www.fenntec.de/karriere/
@@ -2934,6 +2908,54 @@ jobs:
         long: 11.532228
     review: https://www.kununu.com/de/munich-electrification
     rating: 4.6
+  - name: CarbonRe
+    website: https://carbonre.com/
+    jobs: https://carbonre.com/careers/
+    description: Building breakthrough artificial intelligence to master the production of materials for a zero carbon future.
+    remote: false
+    speculative: true
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: UK
+        lat: 51.5045783
+        long: -0.099639
+    review: https://www.glassdoor.co.uk/Reviews/Carbon-Re-Reviews-E8088483.htm
+    rating: 5.0
+  - name: ITO World
+    website: https://www.itoworld.com/
+    jobs: https://itoworld.bamboohr.com/careers
+    description: Enhance passenger experience and operational efficiency by analysing, adjusting and distributing highly accurate real-time public transit data.
+    remote: true
+    speculative: false
+    field: Sustainable Mobility
+    geo:
+      - country: UK
+        lat: 52.2336658
+        long: 0.1437208
+      - country: UK
+        lat: 51.5562266
+        long: -0.1798483
+    review: https://www.glassdoor.com/Reviews/Ito-World-Reviews-E3350756.htm
+    rating: 4.5
+  - name: Advanced Infrastructure
+    website: https://www.advanced-infrastructure.co.uk/
+    jobs: https://www.advanced-infrastructure.co.uk/career
+    description: Our mission is to "accelerate an informed, fair and affordable transition to a net zero energy system"
+    remote: true
+    speculative: true
+    field: Misc.
+    geo:
+      - country: UK
+        lat: 52.2024091
+        long: 0.1223972
+      - country: Greece
+        lat: 
+        long: 
+      - country: India
+        lat: 
+        long: 
+    review: 
+    rating: 
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
@@ -2971,9 +2993,6 @@ jobportals:
   - name: Tech Jobs for Good
     website: https://techjobsforgood.com/
     country: USA
-  - name: GOODJOBS
-    website: https://goodjobs.careers/
-    country: Worldwide
   - name: Climate Change Jobs
     website: https://climatechangejobs.co.uk/
     country: UK
@@ -2989,3 +3008,36 @@ jobportals:
   - name: Stellenmarkt-Umweltschutz.de
     website: https://stellenmarkt-umweltschutz.de/
     country: Germany
+  - name: LinkedIn Green Jobs
+    website: https://www.linkedin.com/jobs/collections/green-jobs/
+    country: Worldwide
+  - name: Hyperion Search
+    website: https://hyperionsearch.co.uk/latest-jobs/
+    country: Worldwide
+  - name: SR2 - Socially Responsible Recruitment - B Corp
+    website: https://sr2rec.com/jobs/
+    country: UK
+  - name: SR2 - Socially Responsible Recruitment - B Corp
+    website: https://sr2rec.com/us/
+    country: USA
+  - name: B-Work - jobs at B Corps
+    website: https://www.bwork.com/candidate/job_search/quick/results?
+    country: Worldwide
+  - name: 80000 hours jobs board - Jobs with Impact
+    website: https://jobs.80000hours.org/
+    country: Worldwide
+  - name: Escape The City - Jobs with Impact
+    website: https://www.escapethecity.org/search/jobs
+    country: Worldwide
+  - name: Taylor Hopkinson - Renewable Energy Jobs
+    website: https://www.taylorhopkinson.com/
+    country: Worldwide
+  - name: Terra.do - Climate Company Jobs
+    website: https://terra.do/climate-jobs/job-board/
+    country: Worldwide
+  - name: Maritime and Renewable Energy Jobs
+    website: https://www.executive-integrity.com/
+    country: Worldwide
+  - name: Carbon13 - The Venture Builder for the Climate Emergency
+    website: https://carbonthirteen.com/careers/
+    country: UK
