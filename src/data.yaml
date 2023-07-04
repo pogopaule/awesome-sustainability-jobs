@@ -2895,6 +2895,19 @@ jobs:
         long: 13.423728
     review: https://www.kununu.com/de/solytic1
     rating: 4.2
+  - name: Munich Electrification
+    website: https://www.munichelectrification.com
+    jobs: https://www.munichelectrification.com/career
+    description: Develops hard- and software for electrified automotive solutions and beyond
+    remote: true
+    speculative: true
+    field: Electric Mobility
+    geo:
+      - country: Germany
+        lat: 48.129586
+        long: 11.532228
+    review: https://www.kununu.com/de/munich-electrification
+    rating: 4.6
   - name: CarbonRe
     website: https://carbonre.com/
     jobs: https://carbonre.com/careers/
