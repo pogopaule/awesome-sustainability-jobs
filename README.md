@@ -270,6 +270,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Kumpan electric](https://www.kumpan-electric.com/) | [jobs](https://www.kumpan-electric.com/karriere/) |  | Hersteller von E-Rollern |  |  |
 | [ONOMOTION](https://onomotion.com) | [jobs](https://onomotion.com/karriere/) |  | Elektromobilität für den innerstädtischen Lieferverkehr | ✅ |  |
 | [Sono Motors](https://sonomotors.com/) | [jobs](https://sonomotors.jobs.personio.de) | [4.3/5](https://www.kununu.com/de/sono-motors1) | Self-Charging Cars |  | ✅ |
+| [Munich Electrification](https://www.munichelectrification.com) | [jobs](https://www.munichelectrification.com/career) | [4.6/5](https://www.kununu.com/de/munich-electrification) | Develops hard- and software for electrified automotive solutions and beyond | ✅ | ✅ |
 
 
 #### Energy Efficiency
