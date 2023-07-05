@@ -270,6 +270,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Kumpan electric](https://www.kumpan-electric.com/) | [jobs](https://www.kumpan-electric.com/karriere/) |  | Hersteller von E-Rollern |  |  |
 | [ONOMOTION](https://onomotion.com) | [jobs](https://onomotion.com/karriere/) |  | Elektromobilität für den innerstädtischen Lieferverkehr | ✅ |  |
 | [Sono Motors](https://sonomotors.com/) | [jobs](https://sonomotors.jobs.personio.de) | [4.3/5](https://www.kununu.com/de/sono-motors1) | Self-Charging Cars |  | ✅ |
+| [Munich Electrification](https://www.munichelectrification.com) | [jobs](https://www.munichelectrification.com/career) | [4.6/5](https://www.kununu.com/de/munich-electrification) | Develops hard- and software for electrified automotive solutions and beyond | ✅ | ✅ |
 
 
 #### Energy Efficiency
@@ -412,6 +413,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Sympower](https://sympower.net/) | [jobs](https://sympower.net/join-the-team/) | [2.8/5](https://www.glassdoor.com/Reviews/Sympower-Reviews-E1986968.htm) | Adding flexibility into to grid |  | ✅ |
 
 
+#### Misc.
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Advanced Infrastructure](https://www.advanced-infrastructure.co.uk/) | [jobs](https://www.advanced-infrastructure.co.uk/career) |  | Our mission is to "accelerate an informed, fair and affordable transition to a net zero energy system" | ✅ | ✅ |
+
+
 
 
 ### India
@@ -421,6 +429,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
 | [ChargePoint](https://www.chargepoint.com/) | [jobs](https://www.chargepoint.com/about/opportunities/) | [3.8/5](https://www.glassdoor.com/Reviews/ChargePoint-Reviews-E722356.htm) | Charging Solution |  | ✅ |
+
+
+#### Misc.
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [Advanced Infrastructure](https://www.advanced-infrastructure.co.uk/) | [jobs](https://www.advanced-infrastructure.co.uk/career) |  | Our mission is to "accelerate an informed, fair and affordable transition to a net zero energy system" | ✅ | ✅ |
 
 
 
@@ -713,6 +728,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Lune](https://lune.co) | [jobs](https://lune.crew.work/jobs) |  | API powered carbon offsetting |  | ✅ |
 | [CarbonChain](https://carbonchain.com/) | [jobs](https://boards.greenhouse.io/carbonchain) |  | Measure carbon emissions |  |  |
 | [Emitwise](https://emitwise.com/home) | [jobs](https://jobs.lever.co/emitwise) | [4.6/5](https://www.glassdoor.com/Reviews/Emitwise-Reviews-E3915102.htm) | Our carbon accounting platform enables you to measure, report and reduce the carbon footprint of your operations and supply chain |  |  |
+| [CarbonRe](https://carbonre.com/) | [jobs](https://carbonre.com/careers/) | [5.0/5](https://www.glassdoor.co.uk/Reviews/Carbon-Re-Reviews-E8088483.htm) | Building breakthrough artificial intelligence to master the production of materials for a zero carbon future. | ✅ |  |
 
 
 #### Energy Efficiency
@@ -728,7 +744,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [allplants](https://allplants.com/) | [jobs](https://jobs.lever.co/allplants) | [4.6/5](https://www.glassdoor.co.uk/Reviews/Allplants-Reviews-E2958180.htm) | Vegan meals delivered |  | ✅ |
 | [Karma](https://www.karma.life/) | [jobs](https://careers.karma.life/) |  | Food Saving |  | ✅ |
-| [Clim8 Invest](https://clim8invest.com/) | [jobs](https://clim8invest.com/work-at-clim8/) | [4.0/5](https://www.glassdoor.co.uk/Reviews/Clim8-Invest-Reviews-E3443972.htm) | Investments into clean energy and green, sustainable companies |  |  |
+| [Advanced Infrastructure](https://www.advanced-infrastructure.co.uk/) | [jobs](https://www.advanced-infrastructure.co.uk/career) |  | Our mission is to "accelerate an informed, fair and affordable transition to a net zero energy system" | ✅ | ✅ |
 
 
 #### Renewable Energies
@@ -738,7 +754,13 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Octopus Energy](https://octopus.energy) | [jobs](https://octopus.energy/careers/) | [4.3/5](https://www.glassdoor.com/Reviews/Octopus-Energy-Reviews-E1482748.htm) | UK-based retail electricity and gas supplier specialising in sustainable energy |  |  |
 | [OVO Energy](https://www.ovoenergy.com/) | [jobs](https://careers.ovo.com/opportunities) | [3.4/5](https://www.glassdoor.com/Reviews/OVO-Reviews-E767881.htm) | UK-based green electricity supplier |  |  |
 | [Arenko](https://arenko.group/) | [jobs](https://arenko.group/join-us/) | [3.7/5](https://www.glassdoor.co.uk/Reviews/Arenko-Group-Reviews-E4554199.htm) | Automation & optimisation for the energy transition | ✅ |  |
-| [Bulb Energy](https://bulb.co.uk/) | [jobs](https://bulb.co.uk/careers/#open-roles) | [3.4/5](https://www.glassdoor.com/Reviews/Bulb-Reviews-E1498482.htm) | Green energy supplier | ✅ |  |
+
+
+#### Sustainable Mobility
+
+| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
+| - | - | - | - | - | - |
+| [ITO World](https://www.itoworld.com/) | [jobs](https://itoworld.bamboohr.com/careers) | [4.5/5](https://www.glassdoor.com/Reviews/Ito-World-Reviews-E3350756.htm) | Enhance passenger experience and operational efficiency by analysing, adjusting and distributing highly accurate real-time public transit data. |  | ✅ |
 
 
 
@@ -880,18 +902,28 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 * [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#)
 * [Climate Change Jobs](https://climatechangejobs.co.uk/)
+* [SR2 - Socially Responsible Recruitment - B Corp](https://sr2rec.com/jobs/)
+* [Carbon13 - The Venture Builder for the Climate Emergency](https://carbonthirteen.com/careers/)
 
 
 ### USA
 
 * [Tech Jobs for Good](https://techjobsforgood.com/)
+* [SR2 - Socially Responsible Recruitment - B Corp](https://sr2rec.com/us/)
 
 
 ### Worldwide
 
 * [Green Recruitment](https://www.greenrecruitmentcompany.com/)
 * [Climatebase](https://climate.careers)
-* [GOODJOBS](https://goodjobs.careers/)
 * [naturetech.io](https://naturetech.io/)
+* [LinkedIn Green Jobs](https://www.linkedin.com/jobs/collections/green-jobs/)
+* [Hyperion Search](https://hyperionsearch.co.uk/latest-jobs/)
+* [B-Work - jobs at B Corps](https://www.bwork.com/candidate/job_search/quick/results?)
+* [80000 hours jobs board - Jobs with Impact](https://jobs.80000hours.org/)
+* [Escape The City - Jobs with Impact](https://www.escapethecity.org/search/jobs)
+* [Taylor Hopkinson - Renewable Energy Jobs](https://www.taylorhopkinson.com/)
+* [Terra.do - Climate Company Jobs](https://terra.do/climate-jobs/job-board/)
+* [Maritime and Renewable Energy Jobs](https://www.executive-integrity.com/)
 
 
