@@ -914,6 +914,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 ### Worldwide
 
+* [ClimateTechList - live job tracker of 16,000+ jobs updated daily, in-depth profiles on software-heavy climate tech companies](http://climatetechlist.com/)
 * [Green Recruitment](https://www.greenrecruitmentcompany.com/)
 * [Climatebase](https://climate.careers)
 * [naturetech.io](https://naturetech.io/)
