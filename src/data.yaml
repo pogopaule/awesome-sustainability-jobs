@@ -2981,6 +2981,10 @@ jobportals:
   - name: greenjobs
     website: https://www.greenjobs.de/index.html
     country: Germany
+  - name: ClimateTechList - live job tracker of 16,000+ jobs updated daily, in-depth profiles on software-heavy climate tech companies
+    website: http://climatetechlist.com/
+    country: Worldwide
+
   - name: Green Recruitment
     website: https://www.greenrecruitmentcompany.com/
     country: Worldwide
