@@ -3044,7 +3044,7 @@ jobportals:
     website: https://www.bwork.com/candidate/job_search/quick/results?
     country: Worldwide
   - name: 80000 hours jobs board - Jobs with Impact
-    website: https://jobs.80000hours.org/
+    website: https://jobs.80000hours.org/?refinementList%5Btags_area%5D%5B0%5D=Climate%20change&jobPk=5283
     country: Worldwide
   - name: Escape The City - Jobs with Impact
     website: https://www.escapethecity.org/search/jobs
@@ -3064,6 +3064,3 @@ jobportals:
   - name: Cambridge CleanTech Jobs List
     website: https://cambridgecleantech.org.uk/news-landing/jobs/
     country: UK
-  - name: 80000 Hours Jobs Board - Climate CHnage
-    website: https://jobs.80000hours.org/?refinementList%5Btags_area%5D%5B0%5D=Climate%20change&jobPk=5283
-    country: Worldwide
