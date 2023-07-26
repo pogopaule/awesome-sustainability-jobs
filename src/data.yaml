@@ -2956,6 +2956,22 @@ jobs:
         long: 
     review: 
     rating: 
+  - name: BeZero
+    website: https://bezerocarbon.com/
+    jobs: https://bezerocarbon.teamtailor.com/#jobs
+    description: Global carbon ratings and risk analytics
+    remote: true
+    speculative: yes
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: UK
+        lat: 51.5301547
+        long: -0.0780549
+      - country: Japan
+        lat:
+        long:
+    review: https://www.glassdoor.co.uk/Reviews/BeZero-Reviews-E4914833.htm
+    rating: 4.4
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
