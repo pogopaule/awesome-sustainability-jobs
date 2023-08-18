@@ -1389,6 +1389,19 @@ jobs:
         long: 13.4877535
     review:
     rating:
+  - name: eaternity
+    website: https://eaternity.org
+    jobs: https://eaternity.org/about/#job-offer
+    description: CO2 calculation for food.
+    remote: false
+    speculative: false
+    field: Carbon Analysis of Foods
+    geo:
+      - country: Switzerland
+        lat: 47.4124505
+        long: 8.5566479
+    review:
+    rating:
   - name: winnow
     website: https://www.winnowsolutions.com
     jobs: https://www.winnowsolutions.com/en/careers
