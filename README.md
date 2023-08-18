@@ -672,7 +672,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Zerofy](https://www.zerofy.net) | [jobs](https://zerofy.recruitee.com) |  | Carbon tracking and reduction for households / consumers. |  | ✅ |
 | [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.1/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
-
+| [Eaternity](https://eaternity.org) | [jobs](https://eaternity.org/about/#job-offer) |  | CO2 calculations for food. |  |  |
 
 #### Circular Economy
 
