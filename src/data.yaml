@@ -3011,6 +3011,22 @@ jobs:
         long: -0.2990295
     review: 
     rating: 
+  - name: EV.energy - B.Corp
+    website: https://www.ev.energy/
+    jobs: https://www.ev.energy/careers#vacancies
+    description: Create and scale your EV focused business with our award-winning smart energy solutions.
+    remote: true
+    speculative: yes
+    field: Sustainable Mobility
+    geo:
+      - country: UK
+        lat: 51.5256223
+        long: -0.0884908
+        country: USA
+        lat: 37.4510685
+        long: -122.1254479
+    review: https://www.glassdoor.co.uk/Overview/Working-at-ev-energy-EI_IE3429785.11,20.htm
+    rating: 4.8
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
