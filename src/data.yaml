@@ -2998,6 +2998,19 @@ jobs:
         long: -2.8592096
     review: https://www.glassdoor.co.uk/Reviews/Picnic-Reviews-E1040717.htm
     rating: 3.3
+  - name: Supercritical
+    website: https://apply.workable.com/supercritical/
+    jobs: https://apply.workable.com/supercritical/
+    description: Reach net zero
+    remote: true
+    speculative: yes
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: UK
+        lat: 51.5305908
+        long: -0.2990295
+    review: 
+    rating: 
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
