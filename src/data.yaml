@@ -2985,6 +2985,19 @@ jobs:
         long: -0.1191264
     review: https://www.glassdoor.co.uk/Reviews/Wholegrain-Digital-Reviews-E1643247.htm
     rating: 5.0
+  - name: Picnic
+    website: https://picnic.app/
+    jobs: https://picnic.app/careers/all-jobs
+    description: Help us change the world of Groceries
+    remote: true
+    speculative: yes
+    field: Sustainable Consumption
+    geo:
+      - country: Netherlands
+        lat: 51.3488502
+        long: -2.8592096
+    review: https://www.glassdoor.co.uk/Reviews/Picnic-Reviews-E1040717.htm
+    rating: 3.3
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
