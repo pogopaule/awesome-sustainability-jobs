@@ -2972,6 +2972,19 @@ jobs:
         long:
     review: https://www.glassdoor.co.uk/Reviews/BeZero-Reviews-E4914833.htm
     rating: 4.4
+  - name: Wholegrain Digital
+    website: https://www.wholegraindigital.com/
+    jobs: https://wholegraindigital.bamboohr.com/careers
+    description: London’s original sustainable WordPress agency
+    remote: true
+    speculative: yes
+    field: Sustainable IT Services
+    geo:
+      - country: UK
+        lat: 51.5107357
+        long: -0.1191264
+    review: https://www.glassdoor.co.uk/Reviews/Wholegrain-Digital-Reviews-E1643247.htm
+    rating: 5.0
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
