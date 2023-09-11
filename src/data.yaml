@@ -3022,7 +3022,7 @@ jobs:
       - country: UK
         lat: 51.5256223
         long: -0.0884908
-        country: USA
+      - country: USA
         lat: 37.4510685
         long: -122.1254479
     review: https://www.glassdoor.co.uk/Overview/Working-at-ev-energy-EI_IE3429785.11,20.htm
