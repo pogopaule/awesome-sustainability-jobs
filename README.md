@@ -399,6 +399,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [raumobil](https://www.raumobil.com) | [jobs](https://www.raumobil.com/jobs) | [4.5/5](https://www.kununu.com/de/raumobil) | smarte, digitale, grüne Mobilitätslösungen für Städte, Gemeinden, Quartiere, Veranstaltungsorte und Unternehmen |  |  |
 | [Jobrad](https://www.jobrad.org) | [jobs](https://www.jobrad.org/ueber-uns/karriere.html) | [4.2/5](https://www.kununu.com/de/jobrad) | Diensträder | ✅ |  |
+| [Company Bike Solutions](https://www.company-bike.com) | [jobs](https://karriere.company-bike.com) | [3.9/5](https://www.kununu.com/de/company-bike-solutions2) | Diensträder | ✅ | ✅ |
 | [door2door](https://door2door.io/) | [jobs](https://door2door.io/de/ueber-uns/jobs/) | [4.0/5](https://www.kununu.com/de/door2doorde) | Closing gaps in public transport | ✅ |  |
 
 
