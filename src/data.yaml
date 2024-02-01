@@ -2969,6 +2969,77 @@ jobs:
         long: 
     review: 
     rating: 
+  - name: BeZero
+    website: https://bezerocarbon.com/
+    jobs: https://bezerocarbon.teamtailor.com/#jobs
+    description: Global carbon ratings and risk analytics
+    remote: true
+    speculative: yes
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: UK
+        lat: 51.5301547
+        long: -0.0780549
+      - country: Japan
+        lat:
+        long:
+    review: https://www.glassdoor.co.uk/Reviews/BeZero-Reviews-E4914833.htm
+    rating: 4.4
+  - name: Wholegrain Digital
+    website: https://www.wholegraindigital.com/
+    jobs: https://wholegraindigital.bamboohr.com/careers
+    description: London’s original sustainable WordPress agency
+    remote: true
+    speculative: yes
+    field: Sustainable IT Services
+    geo:
+      - country: UK
+        lat: 51.5107357
+        long: -0.1191264
+    review: https://www.glassdoor.co.uk/Reviews/Wholegrain-Digital-Reviews-E1643247.htm
+    rating: 5.0
+  - name: Picnic
+    website: https://picnic.app/
+    jobs: https://picnic.app/careers/all-jobs
+    description: Help us change the world of Groceries
+    remote: true
+    speculative: yes
+    field: Sustainable Consumption
+    geo:
+      - country: Netherlands
+        lat: 51.3488502
+        long: -2.8592096
+    review: https://www.glassdoor.co.uk/Reviews/Picnic-Reviews-E1040717.htm
+    rating: 3.3
+  - name: Supercritical
+    website: https://apply.workable.com/supercritical/
+    jobs: https://apply.workable.com/supercritical/
+    description: Reach net zero
+    remote: true
+    speculative: yes
+    field: Carbon Analysis, Capture and Offsetting
+    geo:
+      - country: UK
+        lat: 51.5305908
+        long: -0.2990295
+    review: 
+    rating: 
+  - name: EV.energy - B.Corp
+    website: https://www.ev.energy/
+    jobs: https://www.ev.energy/careers#vacancies
+    description: Create and scale your EV focused business with our award-winning smart energy solutions.
+    remote: true
+    speculative: yes
+    field: Sustainable Mobility
+    geo:
+      - country: UK
+        lat: 51.5256223
+        long: -0.0884908
+      - country: USA
+        lat: 37.4510685
+        long: -122.1254479
+    review: https://www.glassdoor.co.uk/Overview/Working-at-ev-energy-EI_IE3429785.11,20.htm
+    rating: 4.8
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
@@ -3041,7 +3112,7 @@ jobportals:
     website: https://www.bwork.com/candidate/job_search/quick/results?
     country: Worldwide
   - name: 80000 hours jobs board - Jobs with Impact
-    website: https://jobs.80000hours.org/
+    website: https://jobs.80000hours.org/?refinementList%5Btags_area%5D%5B0%5D=Climate%20change&jobPk=5283
     country: Worldwide
   - name: Escape The City - Jobs with Impact
     website: https://www.escapethecity.org/search/jobs
@@ -3057,4 +3128,7 @@ jobportals:
     country: Worldwide
   - name: Carbon13 - The Venture Builder for the Climate Emergency
     website: https://carbonthirteen.com/careers/
+    country: UK
+  - name: Cambridge CleanTech Jobs List
+    website: https://cambridgecleantech.org.uk/news-landing/jobs/
     country: UK
