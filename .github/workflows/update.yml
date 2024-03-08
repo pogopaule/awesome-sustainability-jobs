@@ -15,26 +15,36 @@ jobs:
   update_readme_and_map:
     runs-on: ubuntu-latest
 
+
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.4.0
+        uses: actions/checkout@v4.1.1
 
       - name: Install Nix
-        uses: cachix/install-nix-action@v18
+        uses: cachix/install-nix-action@v26
+
+      - name: Use Cachix
+        uses: cachix/cachix-action@v12
         with:
-          extra_nix_config: |
-            access-tokens = github.com=${{ secrets.GITHUB_TOKEN }}
+          name: devenv
+
+      - name: Install devenv.sh
+        run: nix profile install --accept-flake-config tarball+https://install.devenv.sh/latest
+
+      - name: Build the devenv shell and run any pre-commit hooks
+        run: devenv ci
 
       - name: Run tests
-        run: cd src && nix develop .#test -c pytest
+        run: devenv shell run_tests
 
-      - name: Run create_readme.py
-        run: cd src && nix develop .#readmeAndMap -c python create_readme.py
+      - name: Run create_readme
+        run: devenv shell create_readme
 
-      - name: Run create_map_data.py
-        run: cd src && nix develop .#readmeAndMap -c python create_map_data.py
+      - name: Run create_map_data
+        run: devenv shell create_map_data
 
       - name: Add & Commit
-        uses: EndBug/add-and-commit@v7.1.0
+        uses: EndBug/add-and-commit@v9.1.4
         with:
           message: update readme.md via create_readme.py
