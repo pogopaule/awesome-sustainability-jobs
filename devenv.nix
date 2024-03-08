@@ -3,7 +3,7 @@
 {
   packages = [
     pkgs.chromedriver
-    # pkgs.chromium
+    pkgs.chromium
   ];
 
   languages.python = {
