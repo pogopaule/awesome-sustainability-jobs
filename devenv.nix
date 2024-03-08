@@ -37,6 +37,6 @@
       python update_reviews.py
       popd > /dev/null
     '';
-    test.exec = "pytest src/test_all.py";
+    run_tests.exec = "pytest src/test_all.py";
   };
 }
