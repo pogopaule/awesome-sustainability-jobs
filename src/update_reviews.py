@@ -27,8 +27,10 @@ def dump_data(data):
 
 
 chrome_options = Options()
-chrome_options.add_argument("--headless")
-binary_location = "/nix/store/5hmqjx40frw4cf3gm2zz66s6hzrr0pjc-chromium-106.0.5249.61/bin/chromium"
+# chrome_options.add_argument("--headless")
+binary_location = (
+    "/nix/store/5hmqjx40frw4cf3gm2zz66s6hzrr0pjc-chromium-106.0.5249.61/bin/chromium"
+)
 chrome_options.binary_location = binary_location
 driver = webdriver.Chrome(options=chrome_options)
 
@@ -45,7 +47,6 @@ with open("data.yaml", "r") as stream:
 
         for index, job in enumerate(jobs):
             url = job["review"]
-            job["rating"] = None
             if url:
                 print(url + ": ", end="", flush=True)
 
@@ -56,9 +57,12 @@ with open("data.yaml", "r") as stream:
                     try:
                         offset = 56
                         rating = float(
-                            content[index + offset: index +
-                                    offset + 3].replace(",", ".")
+                            content[index + offset : index + offset + 3].replace(
+                                ",", "."
+                            )
                         )
+                        print(rating)
+                        job["rating"] = rating
                     except ValueError as error:
                         print(error)
 
@@ -66,13 +70,15 @@ with open("data.yaml", "r") as stream:
                     try:
                         driver.get(url)
                         rating = driver.find_element(
-                            By.CLASS_NAME, "v2__EIReviewsRatingsStylesV2__ratingNum").text
+                            By.CLASS_NAME,
+                            "rating-headline-average__rating-headline-average-module__rating",
+                        ).text
+                        print(rating)
+                        job["rating"] = rating
                     except Exception as e:
                         print("error getting rating", e)
 
-                print(rating)
-                job["rating"] = rating
-                time.sleep(random.randint(1, 4))
+                time.sleep(random.randint(10, 20))
                 dump_data(data)
 
     except yaml.YAMLError as error:
