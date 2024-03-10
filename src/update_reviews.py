@@ -78,7 +78,7 @@ with open("data.yaml", "r") as stream:
                     except Exception as e:
                         print("error getting rating", e)
 
-                time.sleep(random.randint(10, 20))
+                time.sleep(random.randint(15, 20))
                 dump_data(data)
 
     except yaml.YAMLError as error:
