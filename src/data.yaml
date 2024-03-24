@@ -1,4 +1,18 @@
 jobs:
+  # This is a template for new company
+  # - name: Name of the company
+  #   website: https://example.com/
+  #   jobs: https://example.com/jobs
+  #   description: What does the company do? Short and concise.
+  #   remote: (true|false) Does the company offer any remote jobs?
+  #   speculative: (true|false) Are speculative applications possible?
+  #   field:
+  #   geo:
+  #     - country: Country Name (see list below for spelling)
+  #       lat: Latitude (see list below for format)
+  #       long: Longitude
+  #   review: either https://www.glassdoor.com/Reviews/company-E123456789.htm or https://www.kununu.com/de/company
+  #   rating: 5.0 (check the rating on glassdoor or kununu)
   - name: Ducky
     website: https://www.ducky.eco/
     jobs: https://careers.ducky.eco/jobs

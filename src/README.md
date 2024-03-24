@@ -1,3 +1,1 @@
-To develop locally you need nix.
-
-`nix develop .` will get you into a nix shell with all required dependencies.
+To develop locally you need [devenv](https://devenv.sh/) .
