@@ -901,7 +901,6 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 ### UK
 
-* [For Purpose Jobs](https://forpurposejobs.com/job-industry/developer-jobs/#)
 * [Climate Change Jobs](https://climatechangejobs.co.uk/)
 * [SR2 - Socially Responsible Recruitment - B Corp](https://sr2rec.com/jobs/)
 * [Carbon13 - The Venture Builder for the Climate Emergency](https://carbonthirteen.com/careers/)
