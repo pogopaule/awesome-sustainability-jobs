@@ -317,7 +317,6 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [ENGIE Energy Access](https://engie-energyaccess.com/) | [jobs](https://engie-energyaccess.com/careers#openings) |  | Solar energy access for sub-saharan Africa |  |  |
 | [BayWa r.e.](https://www.baywa-re.com/) | [jobs](https://jobs.baywa-re.com/job-offers.html) | [4.1/5](https://www.kununu.com/de/baywareag) | Global provider for renewable energy solutions |  |  |
-| [OXYGEN TECHNOLOGIES](https://www.oxygen-technologies.de/) | [jobs](https://www.oxygen-technologies.de/ueber-uns/jobs/) | [4.9/5](https://www.kununu.com/de/oxygen-technologies1) | OXYGEN TECHNOLOGIES stellt Energieversorgern, Stadtwerken und Messstellenbetreibern IT-Lösungen bereit und treibt damit die Digitalisierung der Energiewirtschaft voran. | ✅ |  |
 | [Greenpeace Energy eG](https://www.greenpeace-energy.de) | [jobs](https://www.greenpeace-energy.de/ueber-uns/karriere.html) | [4.0/5](https://www.kununu.com/de/greenpeace-energy-eg2) | Anbieter für Ökostom und Ökogas |  |  |
 | [BELECTRIC](https://belectric.com/de/) | [jobs](https://belectric.com/de/karriere/) | [3.6/5](https://www.kununu.com/de/belectric1) | Entwicklung und im Bau von Freiflächen-Solarkraftwerken und Energiespeichersystemen |  |  |
 | [Next Kraftwerke](https://www.next-kraftwerke.de/) | [jobs](https://www.next-kraftwerke.de/jobs) | [4.5/5](https://www.kununu.com/de/next-kraftwerke1) | Next Kraftwerke betreibt eines der größten Virtuellen Kraftwerke Europas | ✅ |  |
@@ -786,6 +785,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [AMP Sortation](https://ampsortation.com/) | [jobs](https://ampsortation.com/careers) | [3.7/5](https://www.glassdoor.com/Reviews/AMP-Reviews-E1754764.htm) | AMP is applying AI-powered sortation at scale to modernize the world's recycling infrastructure and maximize the value in waste. | ✅ | ✅ |
 | [Kaiyo](https://kaiyo.com) | [jobs](https://kaiyo.applytojob.com/apply) | [3.9/5](https://www.glassdoor.com/Reviews/Kaiyo-New-York-City-Reviews-EI_IE3279574.0,5_IL.6,19_IM615.htm) | Used-Furniture marketplace |  |  |
 | [AMP Robotics](https://www.amprobotics.com/) | [jobs](https://www.amprobotics.com/careers) | [4.2/5](https://www.glassdoor.com/Reviews/AMP-Robotics-Reviews-E1754764.htm) | Computer vision for recycling |  |  |
 | [Glacier](https://endwaste.io/) | [jobs](hhttps://wellfound.com/company/glacier-2/jobs) |  | Robots for recycling |  |  |
