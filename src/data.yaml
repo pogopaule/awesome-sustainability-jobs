@@ -13,6 +13,19 @@ jobs:
   #       long: Longitude
   #   review: either https://www.glassdoor.com/Reviews/company-E123456789.htm or https://www.kununu.com/de/company
   #   rating: 5.0 (check the rating on glassdoor or kununu)
+  - name: AMP Sortation
+    website: https://ampsortation.com/
+    jobs: https://ampsortation.com/careers
+    description: AMP is applying AI-powered sortation at scale to modernize the world's recycling infrastructure and maximize the value in waste.
+    remote: true
+    speculative: true
+    field: Circular Economy
+    geo:
+      - country: USA
+        lat: 39.9724404
+        long: -105.1150443
+    review: https://www.glassdoor.com/Reviews/AMP-Reviews-E1754764.htm
+    rating: 3.7
   - name: Ducky
     website: https://www.ducky.eco/
     jobs: https://careers.ducky.eco/jobs
@@ -271,19 +284,6 @@ jobs:
         long: 12.5166
     review: https://www.glassdoor.com/Reviews/%C3%98rsted-Reviews-E1858272.htm
     rating: '4.3'
-  - name: OXYGEN TECHNOLOGIES
-    website: https://www.oxygen-technologies.de/
-    jobs: https://www.oxygen-technologies.de/ueber-uns/jobs/
-    description: OXYGEN TECHNOLOGIES stellt Energieversorgern, Stadtwerken und Messstellenbetreibern IT-Lösungen bereit und treibt damit die Digitalisierung der Energiewirtschaft voran.
-    remote: false
-    speculative: true
-    field: Renewable Energies
-    geo:
-      - country: Germany
-        lat: 48.0133279
-        long: 7.840884
-    review: https://www.kununu.com/de/oxygen-technologies1
-    rating: 4.9
   - name: Greenpeace Energy eG
     jobs: https://www.greenpeace-energy.de/ueber-uns/karriere.html
     description: Anbieter für Ökostom und Ökogas
