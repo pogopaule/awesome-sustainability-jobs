@@ -3,7 +3,7 @@
 A curated list of companies in the sustainability sector with jobs for devs.
 
 > The best minds of our generation are thinking about ~~how to make people click on ads~~ climate change\
-> [Tomorrow](https://www.tmrow.com/jobs/)
+> [Electricity Maps](https://www.electricitymaps.com/jobs)
 
 **This project needs your help** and [contributions](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/CONTRIBUTING.md):
 - Share this project with others
