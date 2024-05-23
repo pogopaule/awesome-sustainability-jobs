@@ -1283,13 +1283,13 @@ jobs:
         long: 7.4410768
     review: https://www.kununu.com/de/enersis-europe
     rating: 4.5
-  - name: Tomorrow
-    website: https://www.tmrow.com/
-    jobs: https://www.tmrow.com/jobs/
-    description: Tech to empower people and organisations to understand and reduce their carbon footprint
+  - name: Electricity Maps
+    website: https://www.electricitymaps.com
+    jobs: https://www.electricitymaps.com/jobs
+    description: Electricity Maps' mission is to enable a data-driven decarbonisation of electricity
     remote: false
     speculative: false
-    field: Carbon Analysis, Capture and Offsetting
+    field: Electricity Data
     geo:
       - country: Denmark
         lat: 55.6614065
