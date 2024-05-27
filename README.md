@@ -3,7 +3,7 @@
 A curated list of companies in the sustainability sector with jobs for devs.
 
 > The best minds of our generation are thinking about ~~how to make people click on ads~~ climate change\
-> [Tomorrow](https://www.tmrow.com/jobs/)
+> [Electricity Maps](https://www.electricitymaps.com/jobs)
 
 **This project needs your help** and [contributions](https://github.com/pogopaule/awesome-sustainability-jobs/blob/main/CONTRIBUTING.md):
 - Share this project with others
@@ -143,17 +143,11 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 ### Denmark
 
-#### Carbon Analysis, Capture and Offsetting
-
-| company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
-| - | - | - | - | - | - |
-| [Tomorrow](https://www.tmrow.com/) | [jobs](https://www.tmrow.com/jobs/) |  | Tech to empower people and organisations to understand and reduce their carbon footprint |  |  |
-
-
 #### Misc.
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
+| [Electricity Maps](https://www.electricitymaps.com) | [jobs](https://www.electricitymaps.com/jobs) |  | Electricity Maps' mission is to enable a data-driven decarbonisation of electricity |  |  |
 | [Too Good To Go](https://toogoodtogo.org/en) | [jobs](https://toogoodtogo.org/en/careers) | [3.7/5](https://www.glassdoor.com/Reviews/Too-Good-To-Go-Reviews-E2402025.htm) | Anti food waste app |  |  |
 
 
