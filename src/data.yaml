@@ -1289,7 +1289,7 @@ jobs:
     description: Electricity Maps' mission is to enable a data-driven decarbonisation of electricity
     remote: false
     speculative: false
-    field: Electricity Data
+    field: Misc.
     geo:
       - country: Denmark
         lat: 55.6614065
