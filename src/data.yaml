@@ -1322,6 +1322,19 @@ jobs:
         long: 13.4656977
     review: https://www.kununu.com/de/enpal
     rating: 3.9
+  - name: GFK Solar
+    website: https://gfk-solar.de/
+    jobs: https://gfk-solar.de/jobangebote/
+    description: Regionaler Anbieter für Photovoltaik-Lösungen
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    geo:
+      - country: Germany
+        lat: 52.5478220
+        long: 13.6357970
+    review:
+    rating:
   - name: node.energy
     website: https://www.node.energy/
     jobs: https://www.node.energy/karriere
