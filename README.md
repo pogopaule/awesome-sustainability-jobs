@@ -342,6 +342,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [EINHUNDERT Energie](https://einhundert-energie.de/) | [jobs](https://einhundert.de/karriere/) | [4.2/5](https://www.kununu.com/de/einhundert-energie) | Mieterstrom |  |  |
 | [enersis](https://www.enersis.ch/) | [jobs](https://www.enersis.ch/karriere/) | [4.5/5](https://www.kununu.com/de/enersis-europe) | Digitale Plattformen zur Planung und Simulation der Energiewende |  |  |
 | [Enpal](https://www.enpal.de/) | [jobs](https://www.enpal.de/jobs) | [3.9/5](https://www.kununu.com/de/enpal) | Solaranlagen mieten | ✅ |  |
+| [GFK Solar](https://gfk-solar.de/) | [jobs](https://gfk-solar.de/jobangebote/) |  | Regionaler Anbieter für Photovoltaik-Lösungen | ✅ |  |
 | [node.energy](https://www.node.energy/) | [jobs](https://www.node.energy/karriere) |  | Automatisierung von Management und Planung von klimafreundlichen Energielösungen | ✅ |  |
 | [enyway](https://www.enyway.com/de) | [jobs](https://enyway.softgarden.io/de/vacancies) | [4.5/5](https://www.kununu.com/de/enyway1) | Regionaler Ökostrom und CO2-Kompensation mit Rendite | ✅ |  |
 | [Octopus Energy](https://www.octopusenergy.de/) | [jobs](https://www.octopusenergy.de/karriere) | [4.4/5](https://www.kununu.com/de/octopus-energy-germany) | Ökostromanbieter, der auf Digitalisierung setzt | ✅ |  |
