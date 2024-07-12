@@ -1136,7 +1136,7 @@ jobs:
     rating:
   - name: ecosia
     website: https://www.ecosia.org/
-    jobs: https://jobs.lever.co/ecosia
+    jobs: https://jobs.ashbyhq.com/ecosia.org
     description: Eine Suchmaschine, die Bäume pflanzt
     remote: true
     speculative: false
