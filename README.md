@@ -226,7 +226,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [ClimatePartner](https://www.climatepartner.com) | [jobs](https://www.climatepartner.com/en/careers) | [4.0/5](https://www.kununu.com/de/climatepartner) | ClimatePartner enables companies and their customers to take climate action. | ✅ |  |
 | [Tomorrow](https://www.tomorrow.one/) | [jobs](https://www.tomorrow.one/en-EU/jobs/overview/) | [4.6/5](https://www.kununu.com/de/tomorrow2) | Sustainable bank account with CO2 offsetting | ✅ | ✅ |
 | [Tanso](https://www.tanso.io) | [jobs](https://www.tanso.io/careers/) |  | Sustainability Accounting for Industrial Manufacturing |  | ✅ |
-| [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.lever.co/ecosia) | [3.7/5](https://www.kununu.com/de/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ |
+| [ecosia](https://www.ecosia.org/) | [jobs](https://jobs.ashbyhq.com/ecosia.org) | [3.7/5](https://www.kununu.com/de/ecosia) | Eine Suchmaschine, die Bäume pflanzt |  | ✅ |
 | [Klima](https://klima.com/) | [jobs](https://klima.com/about/#jobs) |  | Carbon Offset App |  |  |
 | [myclimate](https://www.myclimate.org) | [jobs](https://www.myclimate.org/information/about-myclimate/jobs/) |  | Beratung, Bildung und Projekte rund um das Thema Klimaschutz |  |  |
 | [Spenoki](https://www.spenoki.de/) | [jobs](https://spenoki-career.kenjo.io/) |  | SaaS-Lösung um Nachhaltigkeit zu analysieren, zu optimieren und zu kommunizieren | ✅ |  |
