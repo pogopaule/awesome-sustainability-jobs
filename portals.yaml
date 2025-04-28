@@ -1,0 +1,84 @@
+- name: eejobs.de
+  website: https://www.eejobs.de/
+  country: Germany
+- name: GoodJobs
+  website: https://goodjobs.eu/de
+  country: Germany
+- name: NGOjobs.eu
+  website: https://www.ngojobs.eu/
+  country: Germany
+- name: NachhaltigeJobs.de
+  website: https://www.nachhaltigejobs.de/
+  country: Germany
+- name: Impactify
+  website: https://impactify.de/
+  country: Germany
+- name: tbd.community
+  website: https://www.tbd.community/de/jobs
+  country: Germany
+- name: greenjobs
+  website: https://www.greenjobs.de/index.html
+  country: Germany
+- name: ClimateTechList - live job tracker of 16,000+ jobs updated daily, in-depth profiles on software-heavy climate tech companies
+  website: http://climatetechlist.com/
+  country: Worldwide
+- name: Green Recruitment
+  website: https://www.greenrecruitmentcompany.com/
+  country: Worldwide
+- name: Climatebase
+  website: https://climate.careers
+  country: Worldwide
+- name: Greenjobs
+  website: https://greenjobs.nl/
+  country: Netherlands
+- name: Tech Jobs for Good
+  website: https://techjobsforgood.com/
+  country: USA
+- name: Climate Change Jobs
+  website: https://climatechangejobs.co.uk/
+  country: UK
+- name: DrumRole
+  website: https://www.drumrole.co/
+  country: Europe
+- name: Jobverde.de
+  website: https://www.jobverde.de/
+  country: Germany
+- name: naturetech.io
+  website: https://naturetech.io/
+  country: Worldwide
+- name: Stellenmarkt-Umweltschutz.de
+  website: https://stellenmarkt-umweltschutz.de/
+  country: Germany
+- name: LinkedIn Green Jobs
+  website: https://www.linkedin.com/jobs/collections/green-jobs/
+  country: Worldwide
+- name: Hyperion Search
+  website: https://hyperionsearch.co.uk/latest-jobs/
+  country: Worldwide
+- name: SR2 - Socially Responsible Recruitment - B Corp
+  website: https://sr2rec.com/jobs/
+  country: UK
+- name: SR2 - Socially Responsible Recruitment - B Corp
+  website: https://sr2rec.com/us/
+  country: USA
+- name: B-Work - jobs at B Corps
+  website: https://www.bwork.com/candidate/job_search/quick/results?
+  country: Worldwide
+- name: 80000 hours jobs board - Jobs with Impact
+  website: https://jobs.80000hours.org/
+  country: Worldwide
+- name: Escape The City - Jobs with Impact
+  website: https://www.escapethecity.org/search/jobs
+  country: Worldwide
+- name: Taylor Hopkinson - Renewable Energy Jobs
+  website: https://www.taylorhopkinson.com/
+  country: Worldwide
+- name: Terra.do - Climate Company Jobs
+  website: https://terra.do/climate-jobs/job-board/
+  country: Worldwide
+- name: Maritime and Renewable Energy Jobs
+  website: https://www.executive-integrity.com/
+  country: Worldwide
+- name: Carbon13 - The Venture Builder for the Climate Emergency
+  website: https://carbonthirteen.com/careers/
+  country: UK
