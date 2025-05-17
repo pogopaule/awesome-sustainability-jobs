@@ -36,23 +36,21 @@ jobs = read_jobs_yaml()
 portals = read_portals_yaml()
 
 
-only_remote = st.selectbox(
-    "",
-    [True, False],
-    index=None,
-    placeholder="Filter remote column",
-    format_func=lambda o: "Only remote" if o else "Only non-remote",
-)
-only_speculative = st.selectbox(
-    "",
-    [True, False],
-    index=None,
-    placeholder="Filter speculative column",
-    format_func=lambda o: "Only speculative" if o else "Only non-speculative",
+selected_countries = st.sidebar.multiselect(
+    "Filter countries", options=jobs["country"].unique().sort().to_list()
 )
 
-selected_countries = st.multiselect(
-    "Select countries", options=jobs["country"].unique().sort().to_list()
+only_remote = st.sidebar.selectbox(
+    "Filter remote column",
+    [True, False],
+    index=None,
+    format_func=lambda o: "Only remote" if o else "Only non-remote",
+)
+only_speculative = st.sidebar.selectbox(
+    "Filter speculative column",
+    [True, False],
+    index=None,
+    format_func=lambda o: "Only speculative" if o else "Only non-speculative",
 )
 
 jobs = jobs.filter(
@@ -81,16 +79,22 @@ st.dataframe(
     jobs_for_table,
     use_container_width=True,
     column_config={
+        "name": st.column_config.LinkColumn(label="Company Name"),
+        "country": st.column_config.LinkColumn(label="Country"),
         "website": st.column_config.LinkColumn(label="Website", display_text="Link"),
+        "remote": st.column_config.CheckboxColumn(label="Remote possible?"),
+        "speculative": st.column_config.CheckboxColumn(
+            label="Speculative applications?"
+        ),
         "jobs": st.column_config.LinkColumn(label="Job Site", display_text="Link"),
         "review": st.column_config.LinkColumn(label="Review Site", display_text="Link"),
+        "rating": st.column_config.NumberColumn(
+            label="Rating",
+        ),
     },
 )
-# st.map(
-#     jobs_for_map,
-#     latitude="lat",
-#     longitude="long",
-# )
+
+# TODO: focus row on map, don't reset zoom, focus pin in table, more info in popup?
 
 jobs_for_map = jobs.filter(pl.col("lat").is_not_null() & pl.col("long").is_not_null())
 
