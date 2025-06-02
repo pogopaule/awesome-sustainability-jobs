@@ -285,7 +285,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 
 | company | jobs | rating[*](#Legend) | description | sp[*](#Legend)| re[*](#Legend) |
 | - | - | - | - | - | - |
-| [ifu](https://www.ifu.com/) | [jobs](https://www.ifu.com/karriere/) | [4.5/5](https://www.kununu.com/de/ifu-hamburg1) | Software & Beratung für Nachhaltigkeit | ✅ |  |
+| [iPoint-systems](https://www.ipoint-systems.com/) | [jobs](https://www.ipoint-systems.com/careers/) | [3.4/5](https://www.kununu.com/de/ipoint-systems1) | Software & Beratung für Nachhaltigkeit | ✅ |  |
 | [Wikimedia](https://www.wikimedia.de/) | [jobs](https://wikimedia-deutschland.career.softgarden.de/) | [4.4/5](https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v) | Freies Wissen |  |  |
 | [ShareTheMeal](https://sharethemeal.org/de) | [jobs](https://angel.co/company/sharethemeal-1/jobs) |  | ShareTheMeal ist eine Initiative des WFP der Vereinten Nationen - die größte gemeinnützige Organisation im Kampf gegen den Hunger |  |  |
 | [iPoint](https://www.ipoint-systems.com/de/) | [jobs](https://www.ipoint-systems.com/de/careers/) | [3.4/5](https://www.kununu.com/de/ipoint-systems1) | Software- und Beratungspartner für umweltbezogene und soziale Produktkonformität und Nachhaltigkeit | ✅ |  |
